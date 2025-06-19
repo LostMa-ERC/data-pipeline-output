@@ -1,0 +1,55 @@
+{
+    "type": "witness",
+    "id": 55189,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78942"
+    ],
+    "manuscripts": [
+        {
+            "id": 45414,
+            "shelfmark": "A.M. 78, 8vo",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://handrit.is/manuscript/view/da/AM08-0078-I-III"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51815,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Tristan)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46319,
+                "name": "Den Arnamagnæanske Samling",
+                "alternative_names": [],
+                "viaf": "123148995933759750144.000000",
+                "settlement": {
+                    "id": 43659,
+                    "name": "Copenhagen",
+                    "country": "Denmark",
+                    "location_mappable": "POINT(12.56553 55.67594)",
+                    "geonames_id": 2618425
+                }
+            }
+        }
+    ]
+}

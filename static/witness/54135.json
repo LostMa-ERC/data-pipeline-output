@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 54135,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/75449",
+        "https://arlima.net/no/8007"
+    ],
+    "manuscripts": [
+        {
+            "id": 45451,
+            "shelfmark": "IV. 57",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52326,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Girbert de Metz)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43892,
+                "name": "Niedersächsische Landesbibliothek",
+                "alternative_names": [
+                    "Niedersächsische Landesbibliothek Hannover, Deutschland",
+                    "Niedersächsische Landesbibliothek (Hanower).",
+                    "Niedersächsische Landesbibliothek (Hannover)"
+                ],
+                "viaf": "149611494.000000",
+                "isni": "0000000121825157",
+                "settlement": {
+                    "id": 42802,
+                    "name": "Hannover",
+                    "region": "Lower Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.73711 52.37362)",
+                    "geonames_id": 6559065
+                }
+            }
+        }
+    ]
+}

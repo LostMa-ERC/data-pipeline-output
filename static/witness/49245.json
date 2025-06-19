@@ -1,0 +1,70 @@
+{
+    "type": "witness",
+    "id": 49245,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "2635",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1466-01-01",
+    "creation_date_max": "1510-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'Late 15th century'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/30"
+    ],
+    "scripta": {
+        "id": 48797,
+        "name": "East Midlands",
+        "description": "Dialect spoken in the middle Eastern part of England (East Midlands).",
+        "urls": [
+            "https://nl.wikipedia.org/wiki/East_Midlands"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 49001,
+            "shelfmark": "MS 8009",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.middleenglishromance.org.uk/mer/11"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49246,
+                    "part_order": 1,
+                    "number_of_verses": 8890,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 8890,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "191r-335v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49793,
+                "name": "Chetham's Library",
+                "alternative_names": [],
+                "viaf": "155994771.000000",
+                "settlement": {
+                    "id": 43401,
+                    "name": "Manchester",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-2.23743 53.48095)",
+                    "geonames_id": 2643123
+                }
+            }
+        }
+    ]
+}

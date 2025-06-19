@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 53820,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Châtillon",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1381-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/81602",
+        "https://arlima.net/no/8815"
+    ],
+    "manuscripts": [
+        {
+            "id": 49947,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/81602",
+                "https://www.rialfri.eu/en/manoscritti/chatillon-biblioteca-del-castello-di-chatillon-valle-daosta-archivi-dei-conti-di-challant"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52237,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Entrée d’Espagne)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43969,
+                "name": "Biblioteca del Castello di Châtillon",
+                "alternative_names": [],
+                "settlement": {
+                    "id": 43610,
+                    "name": "Châtillon",
+                    "region": "Aosta Valley",
+                    "country": "Italy",
+                    "location_mappable": "POINT(7.61668 45.74991)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 3178905
+                }
+            }
+        }
+    ]
+}

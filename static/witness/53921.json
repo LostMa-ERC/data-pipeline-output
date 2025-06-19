@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 53921,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/83540"
+    ],
+    "manuscripts": [
+        {
+            "id": 50200,
+            "shelfmark": "nr. 56 k",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://mmfc.be/ms/mmfc-10463",
+                "http://jonas.irht.cnrs.fr/manuscrit/83540"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52119,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Alexandre, 1re et 2e rédactions en prose)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 50198,
+                "name": "Stadsarchief Oudenaarde",
+                "alternative_names": [],
+                "viaf": "7623159248558104772608.000000",
+                "settlement": {
+                    "id": 50199,
+                    "name": "Oudenaarde",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(3.60891 50.85168)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2789529
+                }
+            }
+        }
+    ]
+}

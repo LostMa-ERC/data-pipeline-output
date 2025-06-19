@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 53849,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Bsg",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1181-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/48954",
+        "https://arlima.net/no/11781"
+    ],
+    "manuscripts": [
+        {
+            "id": 49443,
+            "shelfmark": "Ms. 1269",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/48954",
+                "https://arlima.net/no/11781",
+                "https://data.biblissima.fr/w/Item:Q276259"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51047,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "garde fin"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43849,
+                "name": "Bibliothèque Sainte-Geneviève",
+                "alternative_names": [
+                    "Bibliothèque Sainte-Geneviève Paris (F-Psg)",
+                    "Bibliothèque Sainte-Geneviève (París)",
+                    "Bibliothèque Sainte-Geneviève (Paris, France)"
+                ],
+                "viaf": "134676439.000000",
+                "isni": "0000000122894162",
+                "settlement": {
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 53607,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "S",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1241-01-01",
+    "creation_date_max": "1260-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/73174"
+    ],
+    "manuscripts": [
+        {
+            "id": 45580,
+            "shelfmark": "Cod. 627",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51783,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Chevalier au Cygne)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43744,
+                "name": "Bürgerbibliothek Bern",
+                "alternative_names": [
+                    "Burgerbibliothek (Berno).",
+                    "Bibliothèque de la Bourgeoisie Berne",
+                    "Bibliothèque de la Bourgeoisie de Berne",
+                    "Burgerbibliothek Bern (CH-BEb)"
+                ],
+                "viaf": "157880358.000000",
+                "isni": "0000000120977853",
+                "settlement": {
+                    "id": 43664,
+                    "name": "Bern",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(7.44744 46.94809)",
+                    "geonames_id": 2661552
+                }
+            }
+        }
+    ]
+}

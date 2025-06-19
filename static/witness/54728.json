@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 54728,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/81112"
+    ],
+    "manuscripts": [
+        {
+            "id": 45265,
+            "shelfmark": "Appleton O.S. Folder 2",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 53002,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Perceval ou le Conte du Graal)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43810,
+                "name": "Massachusetts Historical Society",
+                "alternative_names": [
+                    "Massachusetts Historical Society (Estados Unidos)",
+                    "Massachusetts Historical Society Library Boston, MA (US-Bhs)"
+                ],
+                "viaf": "125214072.000000",
+                "isni": "0000000121515650",
+                "settlement": {
+                    "id": 43453,
+                    "name": "Boston",
+                    "region": "Massachusetts",
+                    "country": "United States",
+                    "location_mappable": "POINT(-71.05977 42.35843)",
+                    "geonames_id": 4930956
+                }
+            }
+        }
+    ]
+}

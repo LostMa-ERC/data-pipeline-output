@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 55071,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1346-01-01",
+    "creation_date_max": "1355-12-31",
+    "urls": [
+        "https://arlima.net/no/2363",
+        "http://jonas.irht.cnrs.fr/manuscrit/49948"
+    ],
+    "manuscripts": [
+        {
+            "id": 45464,
+            "shelfmark": "Ms. Codex 931",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51978,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-34r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43896,
+                "name": "University of Pennsylvania. Library",
+                "alternative_names": [
+                    "Van Pelt Library",
+                    "Van Pelt library Philadelphie, Pa.",
+                    "University of Pennsylvania Libraries, Van Pelt-Dietrich Library Center - Kislak Center Philadelphia, PA (US-PHukc)"
+                ],
+                "viaf": "136552639.000000",
+                "isni": "0000000109428327",
+                "settlement": {
+                    "id": 42603,
+                    "name": "Philadelphia",
+                    "region": "Pennsylvania",
+                    "country": "United States",
+                    "location_mappable": "POINT(-75.16362 39.95238)",
+                    "geonames_id": 4560349
+                }
+            }
+        }
+    ]
+}

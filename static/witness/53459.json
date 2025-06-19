@@ -1,0 +1,53 @@
+{
+    "type": "witness",
+    "id": 53459,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/78286"
+    ],
+    "manuscripts": [
+        {
+            "id": 45543,
+            "shelfmark": "cartella I XII C6",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52815,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Alexandre)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43917,
+                "name": "Biblioteca pública provincial",
+                "alternative_names": [
+                    "Biblioteca pública provincial Lugo, Espagne"
+                ],
+                "viaf": "124448580.000000",
+                "settlement": {
+                    "id": 43642,
+                    "name": "Lugo",
+                    "region": "Galicia",
+                    "country": "Spain",
+                    "location_mappable": "POINT(-7.55602 43.00992)",
+                    "geonames_id": 3117814
+                }
+            }
+        }
+    ]
+}

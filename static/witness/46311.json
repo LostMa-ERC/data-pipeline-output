@@ -1,0 +1,64 @@
+{
+    "type": "witness",
+    "id": 46311,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H23",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1341-01-01",
+    "creation_date_max": "1360-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "urls": [
+        "https://www.dbnl.org/tekst/klei021geta01_01/klei021geta01_01_0001.php"
+    ],
+    "scripta": {
+        "id": 46312,
+        "name": "Brabants",
+        "description": "Dialect of Brabant.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 46306,
+            "shelfmark": "18.423",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 46313,
+                    "part_order": 1,
+                    "number_of_verses": 639,
+                    "number_of_lines": 639,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-1v",
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46307,
+                "name": "Bibliothek des Germanischen Nationalmuseums",
+                "alternative_names": [],
+                "viaf": "131883509.000000",
+                "settlement": {
+                    "id": 42881,
+                    "name": "Nürnberg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.0768 49.4541)",
+                    "geonames_id": 6556832
+                }
+            }
+        }
+    ]
+}

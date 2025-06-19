@@ -1,0 +1,70 @@
+{
+    "type": "witness",
+    "id": 49122,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1913",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1441-01-01",
+    "creation_date_max": "1470-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'1450-60'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/22"
+    ],
+    "manuscripts": [
+        {
+            "id": 49121,
+            "shelfmark": "MS. Hatton donat. 1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.middleenglishromance.org.uk/mer/22"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49123,
+                    "part_order": 1,
+                    "number_of_verses": 898,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 898,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "65r-75v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43847,
+                "name": "Bodleian Library",
+                "alternative_names": [
+                    "ספריית בודליאנה",
+                    "Бодлеянская библиотека",
+                    "Biblioteka Bodlejańska",
+                    "Bodleian Library (Oxford)",
+                    "University of Oxford., Bodleian Library",
+                    "Bodleian library Oxford, GB",
+                    "Llyfrgell Bodley"
+                ],
+                "viaf": "129788129.000000",
+                "isni": "0000000123029752",
+                "settlement": {
+                    "id": 43407,
+                    "name": "Oxford",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-1.25596 51.75222)",
+                    "geonames_id": 2640729
+                }
+            }
+        }
+    ]
+}

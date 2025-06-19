@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 53514,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/75039"
+    ],
+    "manuscripts": [
+        {
+            "id": 45246,
+            "shelfmark": "GB 247 MS Hunter 466 (V.6.16)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51372,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Bueve)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43800,
+                "name": "University of Glasgow. Library",
+                "alternative_names": [
+                    "University of Glasgow, University Library",
+                    "University Library Glasgow (GB-Gu)",
+                    "Glasgow University Library"
+                ],
+                "viaf": "139315116.000000",
+                "isni": "0000000112505848",
+                "settlement": {
+                    "id": 43695,
+                    "name": "Glasgow",
+                    "region": "Scotland",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-4.25763 55.86515)",
+                    "geonames_id": 2648579
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "type": "witness",
+    "id": 48874,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1162",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1366-01-01",
+    "creation_date_max": "1510-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'Late 14th and 15th centuries'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/8"
+    ],
+    "scripta": {
+        "id": 48780,
+        "name": "West Midlands",
+        "description": "Dialect spaken in the western part of central England (midlands), surrounding present day Birmingham.",
+        "urls": [
+            "https://en.wikipedia.org/wiki/West_Midlands_(region)"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 48873,
+            "shelfmark": "MS 150",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.middleenglishromance.org.uk/mer/8"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48875,
+                    "part_order": 1,
+                    "number_of_verses": 1902,
+                    "part_of_text": "1-1902 from version MS Advocates 19.2.1",
+                    "number_of_lines": 1902,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "13r-27v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49788,
+                "name": "Lincoln's Inn Library London",
+                "alternative_names": [],
+                "viaf": "122917112.000000",
+                "settlement": {
+                    "id": 43399,
+                    "name": "London",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.12574 51.50853)",
+                    "geonames_id": 2643743
+                }
+            }
+        }
+    ]
+}

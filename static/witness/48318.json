@@ -1,0 +1,70 @@
+{
+    "type": "witness",
+    "id": 48318,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H124",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1191-01-01",
+    "creation_date_max": "1250-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIII1'",
+    "urls": [],
+    "scripta": {
+        "id": 47240,
+        "name": "Limburgs",
+        "description": "Dialect from the Middle Dutch region Limburg.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48317,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48319,
+                    "part_order": 1,
+                    "number_of_verses": 29,
+                    "part_of_text": "End of text",
+                    "number_of_lines": 29,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43846,
+                "name": "Uniwersytet Jagielloński",
+                "alternative_names": [
+                    "Uniwersytet Jagielloński (Kraków)",
+                    "Uniwersytet Jagielloński Cracovie, Pologne",
+                    "Uniwersytet Jagielloński w Krakowie",
+                    "Ягелонскі ўніверсітэт",
+                    "Uniwersytet Jagielloński (Kraków, Polska)"
+                ],
+                "viaf": "135493691.000000",
+                "isni": "0000000123374740",
+                "settlement": {
+                    "id": 43136,
+                    "name": "Krakow",
+                    "region": "Lesser Poland",
+                    "country": "Poland",
+                    "location_mappable": "POINT(19.93658 50.06143)",
+                    "geonames_id": 3094802
+                }
+            }
+        }
+    ]
+}

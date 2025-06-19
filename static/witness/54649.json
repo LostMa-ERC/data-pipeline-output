@@ -1,0 +1,37 @@
+{
+    "type": "witness",
+    "id": 54649,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "DÉAF",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 49938,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52089,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Narbonnais / Siege de Narbonne)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

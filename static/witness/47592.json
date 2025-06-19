@@ -1,0 +1,75 @@
+{
+    "type": "witness",
+    "id": 47592,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H67",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1385-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIVm'",
+    "urls": [
+        "https://www.handschriftencensus.de/15894"
+    ],
+    "scripta": {
+        "id": 46305,
+        "name": "Vlaams",
+        "description": "Dialect of Flanders.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47591,
+            "shelfmark": "1618",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/15894"
+            ],
+            "witness_parts": [
+                {
+                    "id": 47593,
+                    "part_order": 1,
+                    "number_of_verses": 164,
+                    "number_of_lines": 164,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43787,
+                "name": "Rijksuniversiteit te Gent. Bibliotheek",
+                "alternative_names": [
+                    "Universiteitsbibliotheek Gand, Belgique",
+                    "Rijksuniversiteit Gent. Bibliothek",
+                    "Universiteitsbibliotheek UGent",
+                    "Universiteitsbibliotheek Gent (B-Gu)",
+                    "Rijksuniversiteit (Gandawa). Bibliotheek.",
+                    "Universiteitsbibliotheek Gent"
+                ],
+                "viaf": "139553481.000000",
+                "isni": "0000000123484448",
+                "settlement": {
+                    "id": 43690,
+                    "name": "Ghent",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(3.71667 51.05)",
+                    "geonames_id": 2797656
+                }
+            }
+        }
+    ]
+}

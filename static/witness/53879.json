@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 53879,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/73199"
+    ],
+    "manuscripts": [
+        {
+            "id": 49454,
+            "shelfmark": "J. 7. 4",
+            "old_shelfmarks": [],
+            "collection": "Conventi soppressi",
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/73199"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51346,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Joseph d'Arimathie Vulgate ou Estoire del Saint Graal)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43801,
+                "name": "Biblioteca nazionale centrale di Firenze",
+                "alternative_names": [
+                    "Biblioteca nazionale centrale (Firenze)",
+                    "Itália Biblioteca Nazionale Centrale",
+                    "Biblioteca Nazionale Centrale (Florencja).",
+                    "Biblioteca nazionale centrale Florence, Italie",
+                    "Itália., Biblioteca Nazionale Centrale (Firenze)",
+                    "הספרייה הלאומית המרכזית של פירנצה"
+                ],
+                "viaf": "143744216.000000",
+                "isni": "0000000417559409",
+                "settlement": {
+                    "id": 43639,
+                    "name": "Florence",
+                    "region": "Tuscany",
+                    "country": "Italy",
+                    "location_mappable": "POINT(11.24626 43.77925)",
+                    "geonames_id": 3176959
+                }
+            }
+        }
+    ]
+}

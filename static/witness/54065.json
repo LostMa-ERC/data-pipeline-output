@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 54065,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/83877"
+    ],
+    "manuscripts": [
+        {
+            "id": 48578,
+            "shelfmark": "fonds principal mem. Provv. reg. 786",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/83877"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52319,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Aliscans)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43963,
+                "name": "Archivio di stato di Bologna",
+                "alternative_names": [
+                    "Archivio di Stato (Bolonia).",
+                    "Archivio di Stato",
+                    "Archivio di stato (Bologna)",
+                    "Italie. Archivio di Stato (Bologne)"
+                ],
+                "viaf": "154202136.000000",
+                "isni": "000000012297076X",
+                "settlement": {
+                    "id": 43635,
+                    "name": "Bologna",
+                    "region": "Emilia-Romagna",
+                    "country": "Italy",
+                    "location_mappable": "POINT(11.33875 44.49381)",
+                    "geonames_id": 3181928
+                }
+            }
+        }
+    ]
+}

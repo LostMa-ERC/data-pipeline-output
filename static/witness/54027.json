@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 54027,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "DÉAF",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 45335,
+            "shelfmark": "Gall. Fol. 188",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51526,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Folie Lancelot)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43846,
+                "name": "Uniwersytet Jagielloński",
+                "alternative_names": [
+                    "Uniwersytet Jagielloński (Kraków)",
+                    "Uniwersytet Jagielloński Cracovie, Pologne",
+                    "Uniwersytet Jagielloński w Krakowie",
+                    "Ягелонскі ўніверсітэт",
+                    "Uniwersytet Jagielloński (Kraków, Polska)"
+                ],
+                "viaf": "135493691.000000",
+                "isni": "0000000123374740",
+                "settlement": {
+                    "id": 43136,
+                    "name": "Krakow",
+                    "region": "Lesser Poland",
+                    "country": "Poland",
+                    "location_mappable": "POINT(19.93658 50.06143)",
+                    "geonames_id": 3094802
+                }
+            }
+        }
+    ]
+}

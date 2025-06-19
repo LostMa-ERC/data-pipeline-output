@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 53515,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Stimming 1899, https://gallica.bnf.fr/ark:/12148/bpt6k6530780p/f28.item",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/83409"
+    ],
+    "manuscripts": [
+        {
+            "id": 46140,
+            "shelfmark": "G.170",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51383,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1-52"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43962,
+                "name": "Katholieke Universiteit te Leuven . Universiteitsbibliotheek",
+                "alternative_names": [
+                    "Bibliothèque universitaire KU Leuven",
+                    "Katholieke Universiteit te Leuven Universiteitsbibliotheek former owner of Philadelphia, Free Library, Lewis E 213",
+                    "Sint-Maartensdaal (Löwen) Bibliotheek",
+                    "Université catholique de Louvain 1435-1970, Bibliothèque",
+                    "Katholieke Universiteit te Leuven. Universiteitsbibliotheek",
+                    "Universiteitsbibliotheek-K.U. Leuven (Louvain)"
+                ],
+                "viaf": "273696433.000000",
+                "isni": "000000011940824X",
+                "settlement": {
+                    "id": 43676,
+                    "name": "Leuven",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(4.70093 50.87959)",
+                    "geonames_id": 2792482
+                }
+            }
+        }
+    ]
+}

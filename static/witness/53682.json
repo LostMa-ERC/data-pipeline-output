@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 53682,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1455-01-01",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78389"
+    ],
+    "manuscripts": [
+        {
+            "id": 49403,
+            "shelfmark": "Rep. II 108",
+            "old_shelfmarks": [],
+            "collection": "Bibliotheca Albertina",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/78389"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51067,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Cligès)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43796,
+                "name": "Universitätsbibliothek Leipzig",
+                "alternative_names": [
+                    "Universität Leipzig (Alemania). Bibliothek",
+                    "Universitätsbibliothek der Universität Leipzig"
+                ],
+                "viaf": "142483245.000000",
+                "isni": "0000000123092970",
+                "settlement": {
+                    "id": 42855,
+                    "name": "Leipzig",
+                    "region": "Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(12.37129 51.33962)",
+                    "geonames_id": 2879139
+                }
+            }
+        }
+    ]
+}

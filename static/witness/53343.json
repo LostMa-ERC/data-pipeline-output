@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 53343,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1298-01-01",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/22773"
+    ],
+    "manuscripts": [
+        {
+            "id": 49303,
+            "shelfmark": "Ms. 368",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/22775"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52946,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troie, prose 2)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43956,
+                "name": "Bibliothèque municipale de Grenoble",
+                "alternative_names": [
+                    "Bibliothèque municipale Grenoble (F-G)",
+                    "Bibliothèque municipale Grenoble, France",
+                    "Bibliothèque Municipale",
+                    "Bibliothèque municipale (Grenoble)."
+                ],
+                "viaf": "146164457.000000",
+                "isni": "000000010944284X",
+                "settlement": {
+                    "id": 42672,
+                    "name": "Grenoble",
+                    "region": "Auvergne-Rhône-Alpes",
+                    "country": "France",
+                    "location_mappable": "POINT(5.71479 45.17869)",
+                    "geonames_id": 3014728
+                }
+            }
+        }
+    ]
+}

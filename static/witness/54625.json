@@ -1,0 +1,57 @@
+{
+    "type": "witness",
+    "id": 54625,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "K",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "DEAF, MortAymR",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 49577,
+            "shelfmark": "K 3: F 87",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52669,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Mort Aimeri de Narbonne)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43807,
+                "name": "Universitäts- und Landesbibliothek Düsseldorf",
+                "alternative_names": [
+                    "Universitäts-und Landesbibliothek Düsseldorf, Allemagne",
+                    "Heinrich-Heine-Universität, Universitäts- und Landesbibliothek Düsseldorf (D-DÜl)"
+                ],
+                "viaf": "125646738.000000",
+                "isni": "0000000109410725",
+                "settlement": {
+                    "id": 42782,
+                    "name": "Düsseldorf",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(6.77616 51.22172)",
+                    "geonames_id": 2934246
+                }
+            }
+        }
+    ]
+}

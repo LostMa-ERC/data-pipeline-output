@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 47268,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H41",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1366-01-01",
+    "creation_date_max": "1410-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIVd'",
+    "urls": [
+        "https://www.handschriftencensus.de/21480"
+    ],
+    "scripta": {
+        "id": 46305,
+        "name": "Vlaams",
+        "description": "Dialect of Flanders.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47266,
+            "shelfmark": "196 B 19",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47269,
+                    "part_order": 1,
+                    "number_of_verses": 130,
+                    "number_of_lines": 1472,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48417,
+                "name": "Société archéologique de Namur. Bibliothèque",
+                "alternative_names": [],
+                "viaf": "529159474338927673344.000000",
+                "settlement": {
+                    "id": 43716,
+                    "name": "Namur",
+                    "region": "Wallonia",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(4.86746 50.4669)",
+                    "geonames_id": 2790471
+                }
+            }
+        }
+    ]
+}

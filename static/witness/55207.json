@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 55207,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1296-01-01",
+    "creation_date_max": "1305-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/80335"
+    ],
+    "manuscripts": [
+        {
+            "id": 45465,
+            "shelfmark": "Misc Mss (Large) Box 2 Folder 25",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51828,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Tristan)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43896,
+                "name": "University of Pennsylvania. Library",
+                "alternative_names": [
+                    "Van Pelt Library",
+                    "Van Pelt library Philadelphie, Pa.",
+                    "University of Pennsylvania Libraries, Van Pelt-Dietrich Library Center - Kislak Center Philadelphia, PA (US-PHukc)"
+                ],
+                "viaf": "136552639.000000",
+                "isni": "0000000109428327",
+                "settlement": {
+                    "id": 42603,
+                    "name": "Philadelphia",
+                    "region": "Pennsylvania",
+                    "country": "United States",
+                    "location_mappable": "POINT(-75.16362 39.95238)",
+                    "geonames_id": 4560349
+                }
+            }
+        }
+    ]
+}

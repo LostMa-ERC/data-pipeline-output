@@ -1,0 +1,66 @@
+{
+    "type": "witness",
+    "id": 47738,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "MS 712.36",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1360-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'tweede kwart veertiende eeuw'",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47737,
+            "shelfmark": "MS 712.36",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47739,
+                    "part_order": 1,
+                    "number_of_verses": 65,
+                    "part_of_text": "2957-64, 2974-5, 3007-17, 3028-31, 3034-40, 3059-70, 3080-3, 3086-90, 3117-22, 3134-7 (Wissense codex)",
+                    "number_of_lines": 65,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v",
+                        "2r-2v",
+                        "3r-3v",
+                        "4r-4v",
+                        "5r-5v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43775,
+                "name": "Yale university. Library",
+                "alternative_names": [
+                    "Yale University Library (New Haven, Connecticut)",
+                    "Yale university library New Haven, Conn."
+                ],
+                "viaf": "134837061.000000",
+                "isni": "0000000122898075",
+                "settlement": {
+                    "id": 43496,
+                    "name": "New Haven",
+                    "region": "Connecticut",
+                    "country": "United States",
+                    "location_mappable": "POINT(-72.92816 41.30815)",
+                    "geonames_id": 4839366
+                }
+            }
+        }
+    ]
+}

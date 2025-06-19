@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 50086,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "D4-7",
+    "alternative_sigla": [
+        "A"
+    ],
+    "status": "defective",
+    "creation_date_min": "1261-01-01",
+    "creation_date_max": "1280-12-31",
+    "creation_date_text": "c1270",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47875,
+            "shelfmark": "DG 4-7 fol.",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://manuscripta.se/ms/101028"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50159,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Elís saga ok Rósamundu)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47809,
+                "name": "Uppsala universitetsbibliotek",
+                "alternative_names": [
+                    "Uppsala University Library"
+                ],
+                "viaf": "139714542.000000",
+                "website": "https://www.uu.se/en/library",
+                "settlement": {
+                    "id": 43267,
+                    "name": "Uppsala",
+                    "country": "Sweden",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(17.77395 59.96425)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2666219
+                }
+            }
+        }
+    ]
+}

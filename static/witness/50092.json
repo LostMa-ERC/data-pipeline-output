@@ -1,0 +1,98 @@
+{
+    "type": "witness",
+    "id": 50092,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "A570a",
+    "alternative_sigla": [
+        "D"
+    ],
+    "status": "defective",
+    "creation_date_min": "1451-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "c 1450-1500",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47846,
+            "shelfmark": "AM 570a 4to",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://handrit.is/manuscript/view/da/AM04-0570-a"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50026,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "13r-14v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 50027,
+                    "part_order": 2,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "15r-18v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 50028,
+                    "part_order": 3,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "19v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 50029,
+                    "part_order": 4,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "20r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46319,
+                "name": "Den Arnamagnæanske Samling",
+                "alternative_names": [],
+                "viaf": "123148995933759750144.000000",
+                "settlement": {
+                    "id": 43659,
+                    "name": "Copenhagen",
+                    "country": "Denmark",
+                    "location_mappable": "POINT(12.56553 55.67594)",
+                    "geonames_id": 2618425
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "witness",
+    "id": 53311,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/73202"
+    ],
+    "manuscripts": [
+        {
+            "id": 45176,
+            "shelfmark": "1275",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52915,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troie)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43769,
+                "name": "Schøyen Collection",
+                "alternative_names": [
+                    "Schøyen-samlingen",
+                    "Schøyen Collection of Western Manuscripts"
+                ],
+                "viaf": "152129314.000000",
+                "settlement": {
+                    "id": 43592,
+                    "name": "Oslo",
+                    "country": "Norway",
+                    "location_mappable": "POINT(10.74609 59.91273)",
+                    "geonames_id": 3143244
+                }
+            }
+        }
+    ]
+}

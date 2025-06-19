@@ -1,0 +1,40 @@
+{
+    "type": "witness",
+    "id": 53320,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "S2",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 49948,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arlima.net/no/12411"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52924,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troie)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

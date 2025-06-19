@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 54048,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "B",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/74432"
+    ],
+    "manuscripts": [
+        {
+            "id": 49413,
+            "shelfmark": "1493",
+            "old_shelfmarks": [],
+            "collection": "Correr",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/74432"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52808,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-108r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49414,
+                "name": "Museo Correr. Biblioteca",
+                "alternative_names": [],
+                "viaf": "124872681.000000",
+                "settlement": {
+                    "id": 43717,
+                    "name": "Venice",
+                    "region": "Veneto",
+                    "country": "Italy",
+                    "location_mappable": "POINT(12.33265 45.43713)",
+                    "geonames_id": 3164603
+                }
+            }
+        }
+    ]
+}

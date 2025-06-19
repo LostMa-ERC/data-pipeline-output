@@ -1,0 +1,112 @@
+{
+    "type": "witness",
+    "id": 48157,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H62",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1360-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'≤ 1350'",
+    "urls": [
+        "https://lib.ugent.be/nl/catalog/rug01:000990088?i=21&q=1648&type=manuscript"
+    ],
+    "manuscripts": [
+        {
+            "id": 48154,
+            "shelfmark": "1648",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48158,
+                    "part_order": 1,
+                    "number_of_verses": 46,
+                    "number_of_lines": 46,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43787,
+                "name": "Rijksuniversiteit te Gent. Bibliotheek",
+                "alternative_names": [
+                    "Universiteitsbibliotheek Gand, Belgique",
+                    "Rijksuniversiteit Gent. Bibliothek",
+                    "Universiteitsbibliotheek UGent",
+                    "Universiteitsbibliotheek Gent (B-Gu)",
+                    "Rijksuniversiteit (Gandawa). Bibliotheek.",
+                    "Universiteitsbibliotheek Gent"
+                ],
+                "viaf": "139553481.000000",
+                "isni": "0000000123484448",
+                "settlement": {
+                    "id": 43690,
+                    "name": "Ghent",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(3.71667 51.05)",
+                    "geonames_id": 2797656
+                }
+            }
+        },
+        {
+            "id": 47414,
+            "shelfmark": "M 15.10",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48160,
+                    "part_order": 2,
+                    "number_of_verses": 200,
+                    "number_of_lines": 200,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v",
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47525,
+                "name": "Museum Plantin-Moretus",
+                "alternative_names": [
+                    "Musée Plantin-Moretus Anvers, Belgique",
+                    "Museum Plantijn-Moretus Antwerpen"
+                ],
+                "viaf": "130668175.000000",
+                "settlement": {
+                    "id": 43652,
+                    "name": "Antwerp",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(4.40026 51.22047)",
+                    "geonames_id": 2803138
+                }
+            }
+        }
+    ]
+}

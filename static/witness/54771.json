@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 54771,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1296-01-01",
+    "creation_date_max": "1305-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/80240"
+    ],
+    "manuscripts": [
+        {
+            "id": 45279,
+            "shelfmark": "folio 21",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51559,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Lancelot)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43818,
+                "name": "Newberry Library",
+                "alternative_names": [
+                    "Newberry Library (Chicago, Estados Unidos)",
+                    "Newberry library Chicago, Ill.",
+                    "The Newberry Library Chicago, IL (US-Cn)"
+                ],
+                "viaf": "155372052.000000",
+                "isni": "0000000121898997",
+                "settlement": {
+                    "id": 43462,
+                    "name": "Chicago",
+                    "region": "Illinois",
+                    "country": "United States",
+                    "location_mappable": "POINT(-87.65005 41.85003)",
+                    "geonames_id": 4887398
+                }
+            }
+        }
+    ]
+}

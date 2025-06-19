@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 53732,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/75450"
+    ],
+    "manuscripts": [
+        {
+            "id": 45450,
+            "shelfmark": "IV. 578",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52553,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1ra-24vb"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43892,
+                "name": "Niedersächsische Landesbibliothek",
+                "alternative_names": [
+                    "Niedersächsische Landesbibliothek Hannover, Deutschland",
+                    "Niedersächsische Landesbibliothek (Hanower).",
+                    "Niedersächsische Landesbibliothek (Hannover)"
+                ],
+                "viaf": "149611494.000000",
+                "isni": "0000000121825157",
+                "settlement": {
+                    "id": 42802,
+                    "name": "Hannover",
+                    "region": "Lower Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.73711 52.37362)",
+                    "geonames_id": 6559065
+                }
+            }
+        }
+    ]
+}

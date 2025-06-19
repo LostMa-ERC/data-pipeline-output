@@ -1,0 +1,84 @@
+{
+    "type": "witness",
+    "id": 50123,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "A655",
+    "alternative_sigla": [
+        "C"
+    ],
+    "status": "fragmentary",
+    "creation_date_min": "1271-01-01",
+    "creation_date_max": "1290-12-31",
+    "creation_date_text": "1270-1290",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47871,
+            "shelfmark": "AM 655 4to XXIX",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://handrit.is/manuscript/view/da/AM04-0655-XXIX"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50060,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 50061,
+                    "part_order": 2,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "2r-3v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 50062,
+                    "part_order": 3,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "4r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46319,
+                "name": "Den Arnamagnæanske Samling",
+                "alternative_names": [],
+                "viaf": "123148995933759750144.000000",
+                "settlement": {
+                    "id": 43659,
+                    "name": "Copenhagen",
+                    "country": "Denmark",
+                    "location_mappable": "POINT(12.56553 55.67594)",
+                    "geonames_id": 2618425
+                }
+            }
+        }
+    ]
+}

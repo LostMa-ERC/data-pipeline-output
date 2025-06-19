@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 53463,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1472-01-01",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/3524",
+        "https://arlima.net/no/5555"
+    ],
+    "manuscripts": [
+        {
+            "id": 45315,
+            "shelfmark": "766",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52516,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-199v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43834,
+                "name": "Bibliothèque d'Arras",
+                "alternative_names": [
+                    "Bibliothèque Municipale",
+                    "Bibliothèque municipale d'Arras",
+                    "Bibliothèque municipale (Arras)"
+                ],
+                "viaf": "172428812.000000",
+                "isni": "0000000103579589",
+                "settlement": {
+                    "id": 43706,
+                    "name": "Arras",
+                    "region": "Hauts-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.78186 50.29301)",
+                    "geonames_id": 3036784
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 53269,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/80866"
+    ],
+    "manuscripts": [
+        {
+            "id": 45480,
+            "shelfmark": "I F 342",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52879,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43739,
+                "name": "Archives départementales de Meurthe-et-Moselle",
+                "alternative_names": [
+                    "Archives départementales de Meurthe-et-Moselle Nancy (F-NAad)",
+                    "Archives Départementales de Meurthe-et-Moselle (Nancy)",
+                    "archives départementales de Meurthe-et-Moselle archives du département de Meurthe-et-Moselle",
+                    "Archives départementales (Meurthe-et-Moselle)",
+                    "Meurthe-et-Moselle. Archives départementales"
+                ],
+                "viaf": "147817727.000000",
+                "isni": "0000000119574264",
+                "settlement": {
+                    "id": 42702,
+                    "name": "Nancy",
+                    "region": "Grand Est",
+                    "country": "France",
+                    "location_mappable": "POINT(6.18496 48.68439)",
+                    "geonames_id": 2990999
+                }
+            }
+        }
+    ]
+}

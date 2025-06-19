@@ -1,0 +1,70 @@
+{
+    "type": "witness",
+    "id": 47433,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H100",
+    "alternative_sigla": [],
+    "status": "lost",
+    "creation_date_min": "1291-01-01",
+    "creation_date_max": "1410-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIV?'.",
+    "urls": [],
+    "scripta": {
+        "id": 46305,
+        "name": "Vlaams",
+        "description": "Dialect of Flanders.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47432,
+            "shelfmark": "z.s.",
+            "old_shelfmarks": [],
+            "is_hypothetical": true,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47434,
+                    "part_order": 1,
+                    "number_of_verses": 380,
+                    "number_of_lines": 380,
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43875,
+                "name": "Médiathèque municipale Jean-Lévy Lille",
+                "alternative_names": [
+                    "Médiathèque municipale Jean Lévy Lille, France",
+                    "Bibliothèque municipale (Lille)",
+                    "Bibliothèque municipale de Lille",
+                    "Lille (France). Bibliothèque municipale",
+                    "Bibliothèque municipale Lille (F-Lm)",
+                    "Bibliothèque Municipale"
+                ],
+                "viaf": "122615193.000000",
+                "isni": "0000000121499662",
+                "settlement": {
+                    "id": 42685,
+                    "name": "Lille",
+                    "region": "Hauts-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(3.05858 50.63297)",
+                    "geonames_id": 2998324
+                }
+            }
+        }
+    ]
+}

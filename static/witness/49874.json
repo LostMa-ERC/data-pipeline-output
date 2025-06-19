@@ -1,0 +1,118 @@
+{
+    "type": "witness",
+    "id": 49874,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "P",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "15e s.",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/80633",
+        "http://jonas.irht.cnrs.fr/manuscrit/80633"
+    ],
+    "manuscripts": [
+        {
+            "id": 49407,
+            "shelfmark": "Lewis E M 42:22",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/80633"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49875,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49408,
+                "name": "Free library of Philadelphia",
+                "alternative_names": [],
+                "viaf": "168787830.000000",
+                "settlement": {
+                    "id": 42603,
+                    "name": "Philadelphia",
+                    "region": "Pennsylvania",
+                    "country": "United States",
+                    "location_mappable": "POINT(-75.16362 39.95238)",
+                    "geonames_id": 4560349
+                }
+            }
+        },
+        {
+            "id": 49409,
+            "shelfmark": "NKS 1884 2°",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arca.irht.cnrs.fr/ark:/63955/md773t949h28",
+                "https://jonas.irht.cnrs.fr/manuscrit/80633",
+                "https://data.biblissima.fr/w/Item:Q271552"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49876,
+                    "part_order": 2,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43960,
+                "name": "Kongelige Bibliotek",
+                "alternative_names": [
+                    "Det Kongelige Bibliotek (Danmark)",
+                    "Bibliothèque royale (Copenhague)",
+                    "Kongelige Bibliotek (Dinamarca)",
+                    "Kongelige Bibliotek (Kopenhaga).",
+                    "Dinamarca., Kongelige Bibliotek",
+                    "Kongelige Bibliotek (Kobenhavn)",
+                    "Det Kongelige bibliotek (København)",
+                    "Kongelige Bibliotek (Dānija)",
+                    "Kongelige Bibliotek",
+                    "הספרייה המלכותית (דנמרק)",
+                    "Kongelige Bibliotek (Kaupmannahöfn)",
+                    "Det Kgl. Bibliotek",
+                    "Kongelige bibliotek Danemark",
+                    "Det ¤Kongelige Bibliotek",
+                    "Det Kongelige Bibliotek på Slotsholmen - Den Sorte Diamant København (DK-Kk)",
+                    "Kongelige Bibliotek (Dánsko)"
+                ],
+                "viaf": "138525910.000000",
+                "isni": "000000012308732X",
+                "settlement": {
+                    "id": 43659,
+                    "name": "Copenhagen",
+                    "country": "Denmark",
+                    "location_mappable": "POINT(12.56553 55.67594)",
+                    "geonames_id": 2618425
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 54242,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Mn",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1320-12-31",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/82413"
+    ],
+    "manuscripts": [
+        {
+            "id": 49493,
+            "shelfmark": "Cimeli 143ter",
+            "old_shelfmarks": [
+                "L 4?"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/82413"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52191,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "5-8"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43937,
+                "name": "Archivio di stato di Mantova",
+                "alternative_names": [
+                    "Archivio di Stato di Mantova archivio di Stato italiano",
+                    "Archivio di Stato Mantova (I-MAa)",
+                    "Italie. Archivio di stato (Mantoue)",
+                    "Archivio di Stato (Mantova)",
+                    "Archivio di Stato (Mantua)"
+                ],
+                "viaf": "134658682.000000",
+                "isni": "0000000122893733",
+                "settlement": {
+                    "id": 43654,
+                    "name": "Mantova",
+                    "region": "Lombardy",
+                    "country": "Italy",
+                    "location_mappable": "POINT(10.79784 45.16031)",
+                    "geonames_id": 3174051
+                }
+            }
+        }
+    ]
+}

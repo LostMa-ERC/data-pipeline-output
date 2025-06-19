@@ -1,0 +1,56 @@
+{
+    "type": "witness",
+    "id": 54967,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1486-01-01",
+    "creation_date_max": "1495-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/76354",
+        "https://arlima.net/no/2633"
+    ],
+    "manuscripts": [
+        {
+            "id": 45639,
+            "shelfmark": "MS 065",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52700,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "35r-46v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43929,
+                "name": "University of Oregon. Library",
+                "alternative_names": [],
+                "viaf": "125387799.000000",
+                "isni": "0000000107209323",
+                "settlement": {
+                    "id": 43650,
+                    "name": "Eugene",
+                    "region": "Oregon",
+                    "country": "United States",
+                    "location_mappable": "POINT(-123.08675 44.05207)",
+                    "geonames_id": 5725846
+                }
+            }
+        }
+    ]
+}

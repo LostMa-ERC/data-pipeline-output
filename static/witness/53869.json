@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 53869,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Fragm9",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1331-01-01",
+    "creation_date_max": "1340-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78639"
+    ],
+    "manuscripts": [
+        {
+            "id": 45206,
+            "shelfmark": "55",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51337,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Joseph d'Arimathie Vulgate ou Estoire del Saint Graal)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43786,
+                "name": "Bibliothèque municipale",
+                "alternative_names": [
+                    "Bibliothèque municipale (Bourg-en-Bresse)",
+                    "Bibliothèque municipale Bourg-en-Bresse (F-BG)",
+                    "Médiathèque Elisabeth et Roger Vailland Bourg-en-Bresse"
+                ],
+                "viaf": "140283992.000000",
+                "settlement": {
+                    "id": 43697,
+                    "name": "Bourg-en-Bresse",
+                    "region": "Auvergne-Rhône-Alpes",
+                    "country": "France",
+                    "location_mappable": "POINT(5.2258 46.20574)",
+                    "geonames_id": 3031009
+                }
+            }
+        }
+    ]
+}

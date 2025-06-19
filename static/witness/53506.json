@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 53506,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/83503"
+    ],
+    "manuscripts": [
+        {
+            "id": 45332,
+            "shelfmark": "Ms 268/2",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/83503"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52521,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Bueve d'Aigremont)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43844,
+                "name": "Abbaye de Clervaux",
+                "alternative_names": [
+                    "Abbaye Saint-Maurice-et-Saint-Maur (Clervaux).",
+                    "Abbaye Saint Maurice et Saint Maur (Clerf)",
+                    "Klasztor św. Maurycego i św. Maura (Clervaux)",
+                    "abbaye Saint-Maurice-et-Saint-Maur",
+                    "Abbaye Saint-Maurice-et-Saint-Maur Clervaux, Luxembourg"
+                ],
+                "viaf": "148865760.000000",
+                "settlement": {
+                    "id": 43713,
+                    "name": "Clervaux",
+                    "country": "Luxembourg",
+                    "location_mappable": "POINT(6.03139 50.05472)",
+                    "geonames_id": 2960684
+                }
+            }
+        }
+    ]
+}

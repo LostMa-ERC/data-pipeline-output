@@ -1,0 +1,42 @@
+{
+    "type": "witness",
+    "id": 55148,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "London",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1286-01-01",
+    "creation_date_max": "1295-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/82790"
+    ],
+    "manuscripts": [
+        {
+            "id": 49958,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/82790"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51596,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Lancelot)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

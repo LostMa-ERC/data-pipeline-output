@@ -1,0 +1,57 @@
+{
+    "type": "witness",
+    "id": 53896,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Not.",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1220-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/75980",
+        "https://arlima.net/no/2345"
+    ],
+    "manuscripts": [
+        {
+            "id": 45233,
+            "shelfmark": "Mi Lm 7",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "Yes",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51362,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Joseph d'Arimathie Vulgate ou Estoire del Saint Graal)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43795,
+                "name": "University of Nottingham. Library",
+                "alternative_names": [],
+                "viaf": "158808798.000000",
+                "isni": "0000000108170555",
+                "settlement": {
+                    "id": 43693,
+                    "name": "Nottingham",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-1.15047 52.9536)",
+                    "geonames_id": 2641170
+                }
+            }
+        }
+    ]
+}

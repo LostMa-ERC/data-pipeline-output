@@ -1,0 +1,167 @@
+{
+    "type": "witness",
+    "id": 49870,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "D",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1445-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "2e moitié 15e s. (vol. 1, vers 1445-1447)",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/73980",
+        "http://jonas.irht.cnrs.fr/manuscrit/73980",
+        "http://jonas.irht.cnrs.fr/manuscrit/73980",
+        "https://arlima.net/no/8915",
+        "https://arlima.net/no/8904",
+        "https://arlima.net/no/8904"
+    ],
+    "manuscripts": [
+        {
+            "id": 49406,
+            "shelfmark": "Royal MS 15 E V",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 49871,
+                    "part_order": 1,
+                    "volume_number": "1",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1-440"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43919,
+                "name": "British library",
+                "alternative_names": [
+                    "הספרייה הבריטית",
+                    "Breetish Leebrary",
+                    "英国図書館",
+                    "British Library London",
+                    "Reino Unido., British Library",
+                    "Biblioteka Brytyjska",
+                    "المكتبة البريطانية"
+                ],
+                "viaf": "121814978.000000",
+                "isni": "0000000123081542",
+                "settlement": {
+                    "id": 43399,
+                    "name": "London",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.12574 51.50853)",
+                    "geonames_id": 2643743
+                }
+            }
+        },
+        {
+            "id": 49404,
+            "shelfmark": "Royal MS 19 E III",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 49872,
+                    "part_order": 2,
+                    "volume_number": "2",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1-378"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43919,
+                "name": "British library",
+                "alternative_names": [
+                    "הספרייה הבריטית",
+                    "Breetish Leebrary",
+                    "英国図書館",
+                    "British Library London",
+                    "Reino Unido., British Library",
+                    "Biblioteka Brytyjska",
+                    "المكتبة البريطانية"
+                ],
+                "viaf": "121814978.000000",
+                "isni": "0000000123081542",
+                "settlement": {
+                    "id": 43399,
+                    "name": "London",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.12574 51.50853)",
+                    "geonames_id": 2643743
+                }
+            }
+        },
+        {
+            "id": 49405,
+            "shelfmark": "Royal MS 19 E II",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 49873,
+                    "part_order": 3,
+                    "volume_number": "3",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1-304"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43919,
+                "name": "British library",
+                "alternative_names": [
+                    "הספרייה הבריטית",
+                    "Breetish Leebrary",
+                    "英国図書館",
+                    "British Library London",
+                    "Reino Unido., British Library",
+                    "Biblioteka Brytyjska",
+                    "المكتبة البريطانية"
+                ],
+                "viaf": "121814978.000000",
+                "isni": "0000000123081542",
+                "settlement": {
+                    "id": 43399,
+                    "name": "London",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.12574 51.50853)",
+                    "geonames_id": 2643743
+                }
+            }
+        }
+    ]
+}

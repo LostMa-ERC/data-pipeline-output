@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 54088,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78632"
+    ],
+    "manuscripts": [
+        {
+            "id": 45402,
+            "shelfmark": "BPL 2833",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52288,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Garin le Lorrain)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43873,
+                "name": "Universitaire Bibliotheken Leiden",
+                "alternative_names": [
+                    "Rijksuniversiteit te Leiden., Bibliotheek",
+                    "Leiden University Library",
+                    "Bibliotheek der Rijksuniversiteit Leiden",
+                    "Universiteitsbibliotheek (Lejda).",
+                    "Universiteitsbibliotheek (Leyde, Pays-Bas)",
+                    "Rijksuniversiteit Leiden Bibliotheek"
+                ],
+                "viaf": "133132602.000000",
+                "isni": "0000000122932800",
+                "settlement": {
+                    "id": 43362,
+                    "name": "Leiden",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.49306 52.15833)",
+                    "geonames_id": 2751773
+                }
+            }
+        }
+    ]
+}

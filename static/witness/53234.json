@@ -1,0 +1,68 @@
+{
+    "type": "witness",
+    "id": 53234,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "D",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/32022",
+        "https://arlima.net/no/6385"
+    ],
+    "manuscripts": [
+        {
+            "id": 45307,
+            "shelfmark": "Ms PA 59",
+            "old_shelfmarks": [
+                "Delandine, 674"
+            ],
+            "collection": "Palais des Arts",
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52510,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-91r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43910,
+                "name": "Bibliothèque municipale",
+                "alternative_names": [
+                    "Bibliothèque municipale de Lyon.",
+                    "Bibliothèque de la Ville de Lyon",
+                    "Bibliothèque municipale de Lyon réseau de bibliothèques à Lyon",
+                    "Bibliothèque municipale Lyon, France",
+                    "Bibliothèque municipale Lyon (F-LYm)",
+                    "Bibliothèque Municipale",
+                    "Lyon., Bibliothéque Municipale"
+                ],
+                "viaf": "140221169.000000",
+                "isni": "0000000122919411",
+                "settlement": {
+                    "id": 42688,
+                    "name": "Lyon",
+                    "region": "Auvergne-Rhône-Alpes",
+                    "country": "France",
+                    "location_mappable": "POINT(4.84671 45.74846)",
+                    "geonames_id": 2996944
+                }
+            }
+        }
+    ]
+}

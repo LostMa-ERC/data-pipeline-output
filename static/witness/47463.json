@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 47463,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H95",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1391-01-01",
+    "creation_date_max": "1610-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XV/XVI'.",
+    "urls": [],
+    "scripta": {
+        "id": 46312,
+        "name": "Brabants",
+        "description": "Dialect of Brabant.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47461,
+            "shelfmark": "Inv. Nr. 22895: 5",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "Yes",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47464,
+                    "part_order": 1,
+                    "number_of_verses": 72,
+                    "number_of_lines": 72,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48434,
+                "name": "Statens historiska museum",
+                "alternative_names": [],
+                "viaf": "148571114.000000",
+                "settlement": {
+                    "id": 42574,
+                    "name": "Stockholm",
+                    "country": "Sweden",
+                    "location_mappable": "POINT(18.06871 59.32938)",
+                    "geonames_id": 2673730
+                }
+            }
+        }
+    ]
+}

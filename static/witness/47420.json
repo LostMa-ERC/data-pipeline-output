@@ -1,0 +1,51 @@
+{
+    "type": "witness",
+    "id": 47420,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H55",
+    "alternative_sigla": [],
+    "status": "lost",
+    "creation_date_min": "1101-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "urls": [
+        "https://www.handschriftencensus.de/20260"
+    ],
+    "scripta": {
+        "id": 46312,
+        "name": "Brabants",
+        "description": "Dialect of Brabant.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47419,
+            "old_shelfmarks": [],
+            "is_hypothetical": true,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://www.handschriftencensus.de/20260"
+            ],
+            "witness_parts": [
+                {
+                    "id": 47421,
+                    "part_order": 1,
+                    "number_of_verses": 161,
+                    "number_of_lines": 161,
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v",
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

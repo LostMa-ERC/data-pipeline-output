@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 53240,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/72989"
+    ],
+    "manuscripts": [
+        {
+            "id": 45434,
+            "shelfmark": "449",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52849,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troie)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43887,
+                "name": "Universiteitsbibliotheek Amsterdam",
+                "alternative_names": [
+                    "Bibliotheek der Universiteit van Amsterdam",
+                    "Universiteit van Amsterdam. Bibliotheek",
+                    "Universiteitsbibliotheek van Amsterdam",
+                    "Universiteitsbibliotheek Amsterdam (NL-Au)",
+                    "Amsterdam University Library",
+                    "Universiteitsbibliotheek"
+                ],
+                "viaf": "121919918.000000",
+                "isni": "0000000121496234",
+                "settlement": {
+                    "id": 43629,
+                    "name": "Amsterdam",
+                    "region": "North Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.88969 52.37403)",
+                    "geonames_id": 2759794
+                }
+            }
+        }
+    ]
+}

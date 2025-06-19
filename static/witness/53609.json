@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 53609,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "https://arlima.net/no/9576"
+    ],
+    "manuscripts": [
+        {
+            "id": 45280,
+            "shelfmark": "1J661",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51805,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Chevalier au Cygne)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43819,
+                "name": "Archives départementales de l'Ariège",
+                "alternative_names": [
+                    "Ariège. Archives départementales",
+                    "Archives départementales (Ariège)"
+                ],
+                "viaf": "149670800.000000",
+                "isni": "0000000121827160",
+                "settlement": {
+                    "id": 42669,
+                    "name": "Foix",
+                    "region": "Occitanie",
+                    "country": "France",
+                    "location_mappable": "POINT(1.60705 42.96535)",
+                    "geonames_id": 3018174
+                }
+            }
+        }
+    ]
+}

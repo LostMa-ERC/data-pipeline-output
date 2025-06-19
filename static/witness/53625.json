@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 53625,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1475-01-01",
+    "creation_date_max": "1488-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/76577"
+    ],
+    "manuscripts": [
+        {
+            "id": 45263,
+            "shelfmark": "Oc., 81",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52133,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Conquêtes et Chroniques de Charlemagne)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43809,
+                "name": "Sächsische Landesbibliothek",
+                "alternative_names": [
+                    "Sächsische Landesbibliothek (Drezno).",
+                    "Sächsische Landesbibliothek (Dresden, Alemanya)",
+                    "Sächsische Landesbibliothek Dresden",
+                    "SLUB",
+                    "Sächsische Landesbibliothek (Drēzdene, Vācija)",
+                    "Sachsische Landesbibliothek (Alemanha)",
+                    "Sächsische Landesbibliothek",
+                    "Sächsische Landesbibliothek (Drážďany, Německo)",
+                    "Sächsische Landesbibliothek (Dresde, Allemagne)"
+                ],
+                "viaf": "122203699.000000",
+                "isni": "0000000123081585",
+                "settlement": {
+                    "id": 43698,
+                    "name": "Dresden",
+                    "region": "Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.73832 51.05089)",
+                    "geonames_id": 2935022
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 48373,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H134",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1385-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'Het perkament wordt op paleografische gronden in het midden van de veertiende eeuw gedateerd.'",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 48372,
+            "shelfmark": "mazzo 41 (fasc. 2)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48374,
+                    "part_order": 1,
+                    "number_of_verses": 20,
+                    "part_of_text": "Ending",
+                    "number_of_lines": 20,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48435,
+                "name": "Archivio di Stato",
+                "alternative_names": [],
+                "viaf": "168490697.000000",
+                "settlement": {
+                    "id": 43100,
+                    "name": "Vercelli",
+                    "region": "Piedmont",
+                    "country": "Italy",
+                    "location_mappable": "POINT(8.41533 45.32306)",
+                    "geonames_id": 6540116
+                }
+            }
+        }
+    ]
+}

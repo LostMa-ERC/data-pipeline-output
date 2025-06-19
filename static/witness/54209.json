@@ -1,0 +1,52 @@
+{
+    "type": "witness",
+    "id": 54209,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1296-01-01",
+    "creation_date_max": "1305-12-31",
+    "creation_date_text": "DEAF",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 45177,
+            "shelfmark": "XVII.F.33",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52369,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Gui de Warwick)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43771,
+                "name": "Cathedral Library Ripon",
+                "alternative_names": [],
+                "viaf": "24159032764001181696.000000",
+                "settlement": {
+                    "id": 43683,
+                    "name": "Ripon",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-1.52826 54.13579)",
+                    "geonames_id": 2639323
+                }
+            }
+        }
+    ]
+}

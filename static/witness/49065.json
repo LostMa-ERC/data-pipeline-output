@@ -1,0 +1,55 @@
+{
+    "type": "witness",
+    "id": 49065,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1913",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1411-01-01",
+    "creation_date_max": "1440-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'1420-30'",
+    "urls": [
+        "https://www.medievalscribes.com/index.php?browse=aspect&id=3&navlocation=Petworth&navlibrary=Petworth%20House,%20The%20National%20Trust&msid=116&nav=off",
+        "https://www.middleenglishromance.org.uk/mer/22"
+    ],
+    "scripta": {
+        "id": 48780,
+        "name": "West Midlands",
+        "description": "Dialect spaken in the western part of central England (midlands), surrounding present day Birmingham.",
+        "urls": [
+            "https://en.wikipedia.org/wiki/West_Midlands_(region)"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 49064,
+            "shelfmark": "MS 7",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 49066,
+                    "part_order": 1,
+                    "number_of_verses": 898,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 898,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "62r-74r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

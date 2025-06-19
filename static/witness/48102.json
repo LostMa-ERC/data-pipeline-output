@@ -1,0 +1,208 @@
+{
+    "type": "witness",
+    "id": 48102,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H48",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1360-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIVb'",
+    "urls": [
+        "https://www.handschriftencensus.de/18433"
+    ],
+    "scripta": {
+        "id": 46305,
+        "name": "Vlaams",
+        "description": "Dialect of Flanders.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48100,
+            "old_shelfmarks": [],
+            "is_hypothetical": true,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/18433"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48106,
+                    "part_order": 1,
+                    "number_of_verses": 208,
+                    "number_of_lines": 208,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "6r-6v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48443,
+                "name": "Stadtarchiv Mengeringhausen",
+                "alternative_names": [],
+                "viaf": "154825970.000000",
+                "settlement": {
+                    "id": 48444,
+                    "name": "Mengeringhausen",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(8.98845 51.36701)",
+                    "location_certainty": "1. High confidence"
+                }
+            }
+        },
+        {
+            "id": 48098,
+            "shelfmark": "Ltk. 1752",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/18433"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48103,
+                    "part_order": 1,
+                    "number_of_verses": 43,
+                    "number_of_lines": 43,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "21r-21v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43873,
+                "name": "Universitaire Bibliotheken Leiden",
+                "alternative_names": [
+                    "Rijksuniversiteit te Leiden., Bibliotheek",
+                    "Leiden University Library",
+                    "Bibliotheek der Rijksuniversiteit Leiden",
+                    "Universiteitsbibliotheek (Lejda).",
+                    "Universiteitsbibliotheek (Leyde, Pays-Bas)",
+                    "Rijksuniversiteit Leiden Bibliotheek"
+                ],
+                "viaf": "133132602.000000",
+                "isni": "0000000122932800",
+                "settlement": {
+                    "id": 43362,
+                    "name": "Leiden",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.49306 52.15833)",
+                    "geonames_id": 2751773
+                }
+            }
+        },
+        {
+            "id": 48099,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/18433"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48105,
+                    "part_order": 1,
+                    "number_of_verses": 184,
+                    "number_of_lines": 184,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "8r-8v",
+                        "38r-38v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48442,
+                "name": "Studien- und Zentralbibliothek der Franziskaner",
+                "alternative_names": [],
+                "viaf": "133110271.000000",
+                "settlement": {
+                    "id": 43615,
+                    "name": "Münster",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.62571 51.96236)",
+                    "geonames_id": 2867543
+                }
+            }
+        },
+        {
+            "id": 48101,
+            "shelfmark": "Best. 147 Hr. 1,1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/18433"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48107,
+                    "part_order": 1,
+                    "number_of_verses": 5638,
+                    "number_of_lines": 5638,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-5v",
+                        "7r-7v",
+                        "9r-20v",
+                        "22r-37v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48428,
+                "name": "Hessisches Staatsarchiv Marburg",
+                "alternative_names": [],
+                "viaf": "155417613.000000",
+                "settlement": {
+                    "id": 48429,
+                    "name": "Marburg an der Lahn",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(8.77069 50.80904)",
+                    "location_certainty": "1. High confidence"
+                }
+            }
+        }
+    ]
+}

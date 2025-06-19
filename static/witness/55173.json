@@ -1,0 +1,57 @@
+{
+    "type": "witness",
+    "id": 55173,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Car",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1267-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/73300"
+    ],
+    "manuscripts": [
+        {
+            "id": 49572,
+            "shelfmark": "DCHA/11/2",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/73300"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52744,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Tristan)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43832,
+                "name": "Cumbria Record Office",
+                "alternative_names": [],
+                "viaf": "137464537.000000",
+                "settlement": {
+                    "id": 43646,
+                    "name": "Carlisle",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-2.9382 54.8951)",
+                    "geonames_id": 2653775
+                }
+            }
+        }
+    ]
+}

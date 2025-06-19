@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 53986,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1454-01-01",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/14895",
+        "https://arlima.net/no/6466"
+    ],
+    "manuscripts": [
+        {
+            "id": 45088,
+            "shelfmark": "Ms 652",
+            "old_shelfmarks": [
+                "Ms 1082"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 50978,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1v-253r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43840,
+                "name": "Musée Condé, Château de Chantilly",
+                "alternative_names": [
+                    "Musée Condé Chantilly, Oise",
+                    "Bibliothèque du Musée Condé Chantilly (F-CH)",
+                    "Musée Condé (Chantilly)",
+                    "Musée Condé (Chantilly, Francia)"
+                ],
+                "viaf": "139676854.000000",
+                "isni": "0000000123148954",
+                "settlement": {
+                    "id": 43711,
+                    "name": "Chantilly",
+                    "region": "Hauts-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.47124 49.19461)",
+                    "geonames_id": 3026827
+                }
+            }
+        }
+    ]
+}

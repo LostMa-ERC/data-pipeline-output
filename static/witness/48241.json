@@ -1,0 +1,67 @@
+{
+    "type": "witness",
+    "id": 48241,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H87",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1266-01-01",
+    "creation_date_max": "1310-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIIId'",
+    "urls": [],
+    "scripta": {
+        "id": 46312,
+        "name": "Brabants",
+        "description": "Dialect of Brabant.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48240,
+            "shelfmark": "1333",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48242,
+                    "part_order": 1,
+                    "number_of_verses": 736,
+                    "number_of_lines": 736,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-2v",
+                        "3r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48415,
+                "name": "Université de Liège. Bibliothèque",
+                "alternative_names": [
+                    "Bibliothèques de l'université de Liège",
+                    "Bibliothèque Générale de l'Université"
+                ],
+                "viaf": "137970439.000000",
+                "settlement": {
+                    "id": 43648,
+                    "name": "Liège",
+                    "region": "Wallonia",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(5.56749 50.63373)",
+                    "geonames_id": 2792413
+                }
+            }
+        }
+    ]
+}

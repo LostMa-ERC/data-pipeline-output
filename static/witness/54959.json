@@ -1,0 +1,64 @@
+{
+    "type": "witness",
+    "id": 54959,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/80613"
+    ],
+    "manuscripts": [
+        {
+            "id": 49625,
+            "shelfmark": "MS Ripon Cathedral Fragments/8",
+            "old_shelfmarks": [],
+            "collection": "Ripon Cathedral",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/80613"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51579,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Lancelot)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43721,
+                "name": "University of Leeds. Brotherton library",
+                "alternative_names": [
+                    "Brotherton library Leeds, GB",
+                    "Brotherton Library",
+                    "Brotherton Library (Leeds)",
+                    "University of Leeds, Brotherton Library Leeds (GB-LEbc)",
+                    "Leeds University Library. Brotherton Library"
+                ],
+                "viaf": "136949486.000000",
+                "isni": "0000000122908835",
+                "settlement": {
+                    "id": 43613,
+                    "name": "Leeds",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-1.54785 53.79648)",
+                    "geonames_id": 2644688
+                }
+            }
+        }
+    ]
+}

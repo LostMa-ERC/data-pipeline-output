@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 53637,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "N",
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/17479",
+        "https://arlima.net/no/9086"
+    ],
+    "manuscripts": [
+        {
+            "id": 45188,
+            "shelfmark": "Cod. Bodmer 1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51204,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1ra-133rb"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43773,
+                "name": "Fondation Martin Bodmer",
+                "alternative_names": [
+                    "Fondation Martin Bodmer (Cologny)",
+                    "Foundation Martin Bodmer",
+                    "Fondation Martin Bodmer (Cologny, Suisse)"
+                ],
+                "viaf": "134321830.000000",
+                "isni": "0000000121621672",
+                "settlement": {
+                    "id": 43685,
+                    "name": "Cologny",
+                    "region": "Geneva",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(6.18041 46.21672)",
+                    "geonames_id": 6691492
+                }
+            }
+        }
+    ]
+}

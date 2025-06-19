@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 55038,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Tn",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "RIALFRI",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/73183"
+    ],
+    "manuscripts": [
+        {
+            "id": 45164,
+            "shelfmark": "Arch., 320",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52774,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Aspramonte)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43993,
+                "name": "Convento dei Cappuccini, Biblioteca Vipiteno",
+                "alternative_names": [
+                    "Ordo Fratrum Minorum Capuccinorum. Provincia di Trento",
+                    "Biblioteca Cappuccini di Trento",
+                    "Convento dei Cappuccini, Biblioteca library in Vipiteno, Italy"
+                ],
+                "viaf": "126995636.000000",
+                "settlement": {
+                    "id": 43091,
+                    "name": "Trento",
+                    "region": "Trentino-Alto Adige",
+                    "country": "Italy",
+                    "location_mappable": "POINT(11.12074 46.07043)",
+                    "geonames_id": 6541469
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "type": "witness",
+    "id": 49190,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "70",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1421-01-01",
+    "creation_date_max": "1460-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'1430-1450'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/23",
+        "http://corsair.themorgan.org/msdescr/BBM0876a.pdf"
+    ],
+    "scripta": {
+        "id": 48802,
+        "name": "North Midlands",
+        "description": "The North Midlands is a loosely defined area covering the northern parts of the Midlands in England.",
+        "urls": [
+            "https://en.wikipedia.org/wiki/North_Midlands"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 49188,
+            "shelfmark": "MS M.876",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 49191,
+                    "part_order": 1,
+                    "number_of_verses": 10086,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 10086,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "103v-152v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43763,
+                "name": "Pierpont Morgan Library",
+                "alternative_names": [
+                    "Morgan library & museum New York, N.Y.",
+                    "Pierpont Morgan Library New York, NY",
+                    "The Morgan Library & Museum New York City, NY (US-NYpm)",
+                    "Pierpont Morgan Library (Estados Unidos)",
+                    "Pierpont Morgan library (New York)"
+                ],
+                "viaf": "140782799.000000",
+                "isni": "0000000122929935",
+                "settlement": {
+                    "id": 43498,
+                    "name": "New York",
+                    "region": "New York",
+                    "country": "United States",
+                    "location_mappable": "POINT(-74.00597 40.71427)",
+                    "geonames_id": 5128581
+                }
+            }
+        }
+    ]
+}

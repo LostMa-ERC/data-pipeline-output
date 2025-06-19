@@ -1,0 +1,63 @@
+{
+    "type": "witness",
+    "id": 55005,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "C",
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1236-01-01",
+    "creation_date_max": "1255-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/13231"
+    ],
+    "manuscripts": [
+        {
+            "id": 45283,
+            "shelfmark": "O.9.34",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52051,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Roman de toute chevalerie)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43820,
+                "name": "Trinity College",
+                "alternative_names": [
+                    "University of Cambridge Trinity College",
+                    "Trinity College Cambridge",
+                    "Colaiste na Trianaide",
+                    "Trinity College Library Cambridge (GB-Ctc)",
+                    "Trinity College",
+                    "Trinity college Cambridge, GB"
+                ],
+                "viaf": "137201631.000000",
+                "isni": "0000000122431918",
+                "settlement": {
+                    "id": 43630,
+                    "name": "Cambridge",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(0.11667 52.2)",
+                    "geonames_id": 2653941
+                }
+            }
+        }
+    ]
+}

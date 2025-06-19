@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 54587,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1479-01-01",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78422"
+    ],
+    "manuscripts": [
+        {
+            "id": 45171,
+            "shelfmark": "MS M.38",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/78422"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51758,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "265v-292"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43763,
+                "name": "Pierpont Morgan Library",
+                "alternative_names": [
+                    "Morgan library & museum New York, N.Y.",
+                    "Pierpont Morgan Library New York, NY",
+                    "The Morgan Library & Museum New York City, NY (US-NYpm)",
+                    "Pierpont Morgan Library (Estados Unidos)",
+                    "Pierpont Morgan library (New York)"
+                ],
+                "viaf": "140782799.000000",
+                "isni": "0000000122929935",
+                "settlement": {
+                    "id": 43498,
+                    "name": "New York",
+                    "region": "New York",
+                    "country": "United States",
+                    "location_mappable": "POINT(-74.00597 40.71427)",
+                    "geonames_id": 5128581
+                }
+            }
+        }
+    ]
+}

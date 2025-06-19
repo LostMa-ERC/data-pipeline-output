@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 53511,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1341-01-01",
+    "creation_date_max": "1369-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/68334"
+    ],
+    "manuscripts": [
+        {
+            "id": 45117,
+            "shelfmark": "fr., Z. 16 (= 229)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52525,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Bueve d'Aigremont)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43854,
+                "name": "Biblioteca nazionale marciana",
+                "alternative_names": [
+                    "Biblioteca di San Marco (Venedig)",
+                    "Biblioteca nazionale marciana (Venezia)",
+                    "Вінниця. Центральна бібліотека",
+                    "Itália., Biblioteca Nazionale Marciana",
+                    "Biblioteca nazionale Marciana Venise, Italie"
+                ],
+                "viaf": "156622926.000000",
+                "isni": "0000000114060483",
+                "settlement": {
+                    "id": 43717,
+                    "name": "Venice",
+                    "region": "Veneto",
+                    "country": "Italy",
+                    "location_mappable": "POINT(12.33265 45.43713)",
+                    "geonames_id": 3164603
+                }
+            }
+        }
+    ]
+}

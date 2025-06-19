@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 54267,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Pi",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1300-12-31",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/71987"
+    ],
+    "manuscripts": [
+        {
+            "id": 46156,
+            "shelfmark": "C 57, C 128",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52184,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Guiron le courtois)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43790,
+                "name": "Archivio capitolare",
+                "alternative_names": [
+                    "Archivio capitolare Pistoia, Italie",
+                    "Archivio capitolare Pistoia (I-PS)",
+                    "Archivio capitolare di Pistoia"
+                ],
+                "viaf": "239178458.000000",
+                "settlement": {
+                    "id": 43060,
+                    "name": "Pistoia",
+                    "region": "Tuscany",
+                    "country": "Italy",
+                    "location_mappable": "POINT(10.92365 43.93064)",
+                    "geonames_id": 3170621
+                }
+            }
+        }
+    ]
+}

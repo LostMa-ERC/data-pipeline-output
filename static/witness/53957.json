@@ -1,0 +1,70 @@
+{
+    "type": "witness",
+    "id": 53957,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "E",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/20419",
+        "https://arlima.net/no/3689"
+    ],
+    "manuscripts": [
+        {
+            "id": 47308,
+            "shelfmark": "M-III-21",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arlima.net/no/3689",
+                "http://jonas.irht.cnrs.fr/manuscrit/20419"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52587,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "33-96"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43852,
+                "name": "El Escorial, Biblioteca del Monasterio de S Lorenzo",
+                "alternative_names": [
+                    "Real Biblioteca de El Escorial",
+                    "Espanha., Real Monasterio de San Lorenzo del Escorial., Biblioteca",
+                    "Real Biblioteca del Monasterio de San Lorenzo de El Escorial El Escorial (E-E)",
+                    "Kloster El Escorial Bibliothek",
+                    "Biblioteca del Monestir de l'Escorial",
+                    "Real Monasterio de San Lorenzo del Escorial (Madrid). Biblioteca",
+                    "Real Monasterio de San Lorenzo de El Escorial. Biblioteca.",
+                    "Monasterio de El Escorial. Biblioteca",
+                    "Monasterio de San Lorenzo el Real del Escorial (San Lorenzo del Escorial, Espagne). Real Biblioteca"
+                ],
+                "viaf": "122563904.000000",
+                "isni": "0000000122924536",
+                "settlement": {
+                    "id": 43715,
+                    "name": "El Escorial",
+                    "region": "Madrid",
+                    "country": "Spain",
+                    "location_mappable": "POINT(-4.14738 40.59144)",
+                    "geonames_id": 3110458
+                }
+            }
+        }
+    ]
+}

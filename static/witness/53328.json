@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 53328,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1441-01-01",
+    "creation_date_max": "1460-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/73991"
+    ],
+    "manuscripts": [
+        {
+            "id": 49641,
+            "shelfmark": "ms. F°/26",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/73991"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52932,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troie, prose 1)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43731,
+                "name": "Abbaye de Maredsous. Bibliothèque",
+                "alternative_names": [
+                    "Abbaye Saint-Benoît de Maredsous. Bibliothèque",
+                    "Kloster Maredsous Bibliothek"
+                ],
+                "viaf": "125579984.000000",
+                "isni": "0000000086664828",
+                "settlement": {
+                    "id": 43663,
+                    "name": "Denée",
+                    "region": "Wallonia",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(4.75202 50.31889)",
+                    "geonames_id": 2799636
+                }
+            }
+        }
+    ]
+}

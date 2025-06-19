@@ -1,0 +1,64 @@
+{
+    "type": "witness",
+    "id": 54230,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/81614"
+    ],
+    "manuscripts": [
+        {
+            "id": 50196,
+            "shelfmark": "Ms. 103",
+            "old_shelfmarks": [
+                "n° 59 (1819, Dauzat)",
+                "I, 43 (avant 1885)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/81614"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52016,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Crosada)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43774,
+                "name": "Bibliothèque de Toulouse",
+                "alternative_names": [
+                    "Bibliothèques de Toulouse",
+                    "Bibliothèque Municipale Toulouse",
+                    "Bibliothèque municipale de Toulouse"
+                ],
+                "viaf": "124593334.000000",
+                "isni": "0000000120971793",
+                "settlement": {
+                    "id": 42738,
+                    "name": "Toulouse",
+                    "region": "Occitanie",
+                    "country": "France",
+                    "location_mappable": "POINT(1.44367 43.60426)",
+                    "geonames_id": 2972315
+                }
+            }
+        }
+    ]
+}

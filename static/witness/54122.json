@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 54122,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1420-12-31",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78677"
+    ],
+    "manuscripts": [
+        {
+            "id": 46152,
+            "shelfmark": "Abt 1105 Nr 40",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52709,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Lohier et Malart)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43746,
+                "name": "Hessisches Hauptstaatsarchiv",
+                "alternative_names": [
+                    "Hesse. Hauptstaatsarchiv (Wiesbaden, Allemagne)",
+                    "Hessisches Hauptstaatsarchiv Wiesbaden, Allemagne",
+                    "Hessisches Hauptstaatsarchiv Wiesbaden (D-WIhha)",
+                    "Hessisches Hauptstaatsarchiv Abteilung des Hessischen Landesarchivs mit Sitz in Wiesbaden",
+                    "Hessisches Hauptstaatsarchiv (Wiesbaden)"
+                ],
+                "viaf": "139599477.000000",
+                "isni": "0000000123148786",
+                "settlement": {
+                    "id": 42930,
+                    "name": "Wiesbaden",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.24932 50.08258)",
+                    "geonames_id": 2809346
+                }
+            }
+        }
+    ]
+}

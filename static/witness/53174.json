@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 53174,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/27136",
+        "https://arlima.net/no/8985"
+    ],
+    "manuscripts": [
+        {
+            "id": 45335,
+            "shelfmark": "Gall. Fol. 188",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51834,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Tristan)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43846,
+                "name": "Uniwersytet Jagielloński",
+                "alternative_names": [
+                    "Uniwersytet Jagielloński (Kraków)",
+                    "Uniwersytet Jagielloński Cracovie, Pologne",
+                    "Uniwersytet Jagielloński w Krakowie",
+                    "Ягелонскі ўніверсітэт",
+                    "Uniwersytet Jagielloński (Kraków, Polska)"
+                ],
+                "viaf": "135493691.000000",
+                "isni": "0000000123374740",
+                "settlement": {
+                    "id": 43136,
+                    "name": "Krakow",
+                    "region": "Lesser Poland",
+                    "country": "Poland",
+                    "location_mappable": "POINT(19.93658 50.06143)",
+                    "geonames_id": 3094802
+                }
+            }
+        }
+    ]
+}

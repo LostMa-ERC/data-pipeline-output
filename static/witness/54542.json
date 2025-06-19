@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 54542,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/75036"
+    ],
+    "manuscripts": [
+        {
+            "id": 45143,
+            "shelfmark": "2425",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 53083,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Apollonius de Tyr)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43867,
+                "name": "Wojewódzka i Miejska Biblioteka Publiczna im. Josepha Conrada-Korzeniowskiego",
+                "alternative_names": [
+                    "Wojewódzka i Miejska Biblioteka Publiczna (Gdańsk).",
+                    "Wojewódzka i Miejska Biblioteka Publiczna w Gdańsku"
+                ],
+                "viaf": "138379450.000000",
+                "isni": "0000000122347572",
+                "settlement": {
+                    "id": 43129,
+                    "name": "Gdansk",
+                    "region": "Pomerania",
+                    "country": "Poland",
+                    "location_mappable": "POINT(18.64912 54.35227)",
+                    "geonames_id": 3099434
+                }
+            }
+        }
+    ]
+}

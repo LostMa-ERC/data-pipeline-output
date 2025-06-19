@@ -1,0 +1,64 @@
+{
+    "type": "witness",
+    "id": 54205,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/81171",
+        "https://arlima.net/no/8350"
+    ],
+    "manuscripts": [
+        {
+            "id": 45271,
+            "shelfmark": "MS Add. 2751/16",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://data.biblissima.fr/w/Item:Q269727"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52366,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Gui de Warwick)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43816,
+                "name": "University of Cambridge. Library",
+                "alternative_names": [
+                    "University of Cambridge (Inglaterra). Library",
+                    "אוניברסיטת קיימברידג'. הספרייה",
+                    "Biblioteka Uniwersytetu w Cambridge",
+                    "University of Cambridge. University Library",
+                    "Llyfrgell Prifysgol Caergrawnt"
+                ],
+                "viaf": "140790558.000000",
+                "isni": "0000000459040795",
+                "settlement": {
+                    "id": 43630,
+                    "name": "Cambridge",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(0.11667 52.2)",
+                    "geonames_id": 2653941
+                }
+            }
+        }
+    ]
+}

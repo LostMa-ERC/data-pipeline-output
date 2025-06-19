@@ -1,0 +1,56 @@
+{
+    "type": "witness",
+    "id": 55105,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1286-01-01",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/9080"
+    ],
+    "manuscripts": [
+        {
+            "id": 45467,
+            "shelfmark": "526",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51482,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "79-170"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43897,
+                "name": "Universitätsbibliothek Bonn",
+                "alternative_names": [
+                    "Universitäts- und Landesbibliothek Bonn"
+                ],
+                "viaf": "155781074.000000",
+                "isni": "0000000104145010",
+                "settlement": {
+                    "id": 43631,
+                    "name": "Bonn",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.09549 50.73438)",
+                    "geonames_id": 2946447
+                }
+            }
+        }
+    ]
+}

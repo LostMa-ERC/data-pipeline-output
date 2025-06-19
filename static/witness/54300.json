@@ -1,0 +1,64 @@
+{
+    "type": "witness",
+    "id": 54300,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1451-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/42946",
+        "https://arlima.net/no/5164"
+    ],
+    "manuscripts": [
+        {
+            "id": 45645,
+            "shelfmark": "Ms-3145",
+            "old_shelfmarks": [],
+            "collection": "Arsenal",
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "ark": "ark:/12148/cc838745",
+            "witness_parts": [
+                {
+                    "id": 52647,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1-103v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43932,
+                "name": "Bibliothèque nationale de France",
+                "alternative_names": [
+                    "França., Bibliothèque Nationale",
+                    "Национальная библиотека. (Париж)",
+                    "Bibliotheque nationale de France (Paris)",
+                    "הספרייה הלאומית של צרפת",
+                    "باريس. المكتبة الوطنية"
+                ],
+                "viaf": "137156173.000000",
+                "isni": "0000000123531945",
+                "settlement": {
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
+                }
+            }
+        }
+    ]
+}

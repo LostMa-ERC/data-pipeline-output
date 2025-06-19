@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 53213,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Boehm, thèse AP",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/81735"
+    ],
+    "manuscripts": [
+        {
+            "id": 45525,
+            "shelfmark": "4.1161",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 53018,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Auberi le Bourgoing)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43741,
+                "name": "Cardiff Central Library",
+                "alternative_names": [
+                    "Cardiff Central Library (Wales)",
+                    "Central Library Cardiff"
+                ],
+                "viaf": "151455226.000000",
+                "isni": "0000000101649475",
+                "settlement": {
+                    "id": 43668,
+                    "name": "Cardiff",
+                    "region": "Wales",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-3.18 51.48)",
+                    "geonames_id": 2653822
+                }
+            }
+        }
+    ]
+}

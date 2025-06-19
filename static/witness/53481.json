@@ -1,0 +1,37 @@
+{
+    "type": "witness",
+    "id": 53481,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Caroline du Sud",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 49920,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arlima.net/no/11074"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51039,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Berte au grand pied)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "type": "witness",
+    "id": 53529,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Q",
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Librairie Quaritch",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 49921,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arlima.net/no/11429"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51417,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Bueve)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

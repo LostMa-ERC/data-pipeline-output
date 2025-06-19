@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 54703,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/81295"
+    ],
+    "manuscripts": [
+        {
+            "id": 49699,
+            "shelfmark": "Fragment A-XVIII (2)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://data.biblissima.fr/w/Item:Q271292",
+                "http://jonas.irht.cnrs.fr/manuscrit/81295"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52771,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Parthonopeus de Blois)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43884,
+                "name": "Niedersächsische Staats-und Universitätsbibliothek Göttingen",
+                "alternative_names": [
+                    "Niedersächsische Staats- und Universitätsbibliothek Göttingen (D-Gs)"
+                ],
+                "viaf": "139495279.000000",
+                "isni": "0000000121695516",
+                "settlement": {
+                    "id": 42797,
+                    "name": "Göttingen",
+                    "region": "Lower Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.93228 51.53443)",
+                    "geonames_id": 2918632
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "type": "witness",
+    "id": 53540,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "U",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1350-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78397"
+    ],
+    "manuscripts": [
+        {
+            "id": 45173,
+            "shelfmark": "BMH h fragm. 36",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52760,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Blancandin)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43765,
+                "name": "Rijksmuseum Het Catharijneconvent",
+                "alternative_names": [
+                    "Museum Catharijneconvent.",
+                    "Rijksmuseum Het Catharijneconvent (Utrecht)",
+                    "Rijksmuseum Het Catharijneconvent (Utrecht, Pays-Bas)",
+                    "Museum Catharijneconvent Utrecht (NL-Urc)",
+                    "Museum Catharijneconvent Utrecht, Pays-Bas",
+                    "St. Catherine's Convent (Sion Hill, Dublin)",
+                    "Museum Catharijneconvent (Utrecht)"
+                ],
+                "viaf": "152743245.000000",
+                "isni": "0000000417850247",
+                "settlement": {
+                    "id": 43681,
+                    "name": "Utrecht",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(5.12222 52.09083)",
+                    "geonames_id": 2745912
+                }
+            }
+        }
+    ]
+}

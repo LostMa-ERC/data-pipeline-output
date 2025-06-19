@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 53560,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1101-01-01",
+    "creation_date_max": "1200-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/oeuvre/17192"
+    ],
+    "manuscripts": [
+        {
+            "id": 49432,
+            "shelfmark": "mssHM 62",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/80119"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52711,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "241r-241r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49434,
+                "name": "Henry E. Huntington Library",
+                "alternative_names": [
+                    "Henry E. Huntington Library and Art Gallery"
+                ],
+                "viaf": "147236009.000000",
+                "settlement": {
+                    "id": 43515,
+                    "name": "San Marino",
+                    "region": "California",
+                    "country": "United States",
+                    "location_mappable": "POINT(-118.10646 34.1214)",
+                    "geonames_id": 5392400
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "type": "witness",
+    "id": 53880,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/80384",
+        "https://arlima.net/no/11623"
+    ],
+    "manuscripts": [
+        {
+            "id": 45208,
+            "shelfmark": "2749/15",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51347,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Joseph d'Arimathie Vulgate ou Estoire del Saint Graal)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43787,
+                "name": "Rijksuniversiteit te Gent. Bibliotheek",
+                "alternative_names": [
+                    "Universiteitsbibliotheek Gand, Belgique",
+                    "Rijksuniversiteit Gent. Bibliothek",
+                    "Universiteitsbibliotheek UGent",
+                    "Universiteitsbibliotheek Gent (B-Gu)",
+                    "Rijksuniversiteit (Gandawa). Bibliotheek.",
+                    "Universiteitsbibliotheek Gent"
+                ],
+                "viaf": "139553481.000000",
+                "isni": "0000000123484448",
+                "settlement": {
+                    "id": 43690,
+                    "name": "Ghent",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(3.71667 51.05)",
+                    "geonames_id": 2797656
+                }
+            }
+        }
+    ]
+}

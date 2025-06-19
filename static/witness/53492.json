@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 53492,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "E",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1441-01-01",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/678",
+        "https://arlima.net/no/2583"
+    ],
+    "manuscripts": [
+        {
+            "id": 45453,
+            "shelfmark": "428",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51139,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1-526"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43893,
+                "name": "Bibliothèque Méjanes",
+                "alternative_names": [
+                    "Bibliothèque Méjanes (Aix-en-Provence)",
+                    "Bibliothèque Municipale Méjanes Aix-en-Provence",
+                    "Bibliothèque Méjanes Aix-en-Provence (F-AIXm)",
+                    "Bibliothèque Méjanes Aix-en-Provence, Bouches-du-Rhône"
+                ],
+                "viaf": "135611890.000000",
+                "isni": "0000000122904076",
+                "settlement": {
+                    "id": 43633,
+                    "name": "Aix-en-Provence",
+                    "region": "Provence-Alpes-Côte d'Azur",
+                    "country": "France",
+                    "location_mappable": "POINT(5.44973 43.5283)",
+                    "geonames_id": 3038354
+                }
+            }
+        }
+    ]
+}

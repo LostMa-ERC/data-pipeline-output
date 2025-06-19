@@ -1,0 +1,66 @@
+{
+    "type": "witness",
+    "id": 48051,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H33",
+    "alternative_sigla": [],
+    "status": "lost",
+    "creation_date_min": "1341-01-01",
+    "creation_date_max": "1410-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIV2'",
+    "urls": [
+        "https://www.arlima.net/eh/huon_de_bordeaux/nl_version_fragmentaire.html"
+    ],
+    "scripta": {
+        "id": 46305,
+        "name": "Vlaams",
+        "description": "Dialect of Flanders.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48050,
+            "old_shelfmarks": [],
+            "is_hypothetical": true,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48052,
+                    "part_order": 1,
+                    "number_of_verses": 800,
+                    "number_of_lines": 800,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48441,
+                "name": "Rijksarchief in Zeeland",
+                "alternative_names": [],
+                "viaf": "267226829.000000",
+                "settlement": {
+                    "id": 47367,
+                    "name": "Middelburg",
+                    "region": "Zeeland",
+                    "country": "Netherlands",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(3.61389 51.5)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2750896
+                }
+            }
+        }
+    ]
+}

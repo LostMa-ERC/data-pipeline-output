@@ -1,0 +1,66 @@
+{
+    "type": "witness",
+    "id": 54853,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "R",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1303-01-01",
+    "creation_date_max": "1304-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/52307"
+    ],
+    "manuscripts": [
+        {
+            "id": 49600,
+            "shelfmark": "593",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arca.irht.cnrs.fr/ark:/63955/md42n583zs3q"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51919,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "104ra-163ra"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43940,
+                "name": "Bibliothèque municipale",
+                "alternative_names": [
+                    "Rennes (France). Bibliothèque municipale",
+                    "bibliothèques de Rennes",
+                    "Rennes Bibliothèque municipale",
+                    "Bibliothèque de Rennes Métropole Rennes (F-RE)",
+                    "Bibliothèque municipale de Rennes",
+                    "Bibliothèque municipale de Rennes (França)",
+                    "Bibliothèque municipale Rennes, France"
+                ],
+                "viaf": "133740490.000000",
+                "isni": "0000000119399961",
+                "settlement": {
+                    "id": 42724,
+                    "name": "Rennes",
+                    "region": "Brittany",
+                    "country": "France",
+                    "location_mappable": "POINT(-1.67429 48.11198)",
+                    "geonames_id": 2983990
+                }
+            }
+        }
+    ]
+}

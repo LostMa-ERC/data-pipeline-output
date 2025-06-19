@@ -1,0 +1,57 @@
+{
+    "type": "witness",
+    "id": 54937,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/79247"
+    ],
+    "manuscripts": [
+        {
+            "id": 45428,
+            "shelfmark": "Morbio 17",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51577,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Lancelot)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43884,
+                "name": "Niedersächsische Staats-und Universitätsbibliothek Göttingen",
+                "alternative_names": [
+                    "Niedersächsische Staats- und Universitätsbibliothek Göttingen (D-Gs)"
+                ],
+                "viaf": "139495279.000000",
+                "isni": "0000000121695516",
+                "settlement": {
+                    "id": 42797,
+                    "name": "Göttingen",
+                    "region": "Lower Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.93228 51.53443)",
+                    "geonames_id": 2918632
+                }
+            }
+        }
+    ]
+}

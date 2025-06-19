@@ -1,0 +1,71 @@
+{
+    "type": "witness",
+    "id": 50134,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "A598_IIa",
+    "alternative_sigla": [
+        "alpha in 1963",
+        "Fr in 1981"
+    ],
+    "status": "fragmentary",
+    "creation_date_min": "1491-01-01",
+    "creation_date_max": "1510-12-31",
+    "creation_date_text": "c1500",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47869,
+            "shelfmark": "AM 598 II alpha 4to",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://handrit.is/manuscript/view/da/AM04-0598-II-alpha"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50058,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 50059,
+                    "part_order": 2,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46319,
+                "name": "Den Arnamagnæanske Samling",
+                "alternative_names": [],
+                "viaf": "123148995933759750144.000000",
+                "settlement": {
+                    "id": 43659,
+                    "name": "Copenhagen",
+                    "country": "Denmark",
+                    "location_mappable": "POINT(12.56553 55.67594)",
+                    "geonames_id": 2618425
+                }
+            }
+        }
+    ]
+}

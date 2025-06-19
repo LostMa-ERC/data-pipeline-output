@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 54651,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Ch",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/81633"
+    ],
+    "manuscripts": [
+        {
+            "id": 45237,
+            "shelfmark": "708",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52214,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Narbonnais)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43797,
+                "name": "University of Chicago",
+                "alternative_names": [
+                    "University of Chicago private university in Chicago, Illinois",
+                    "Universidad de Chicago"
+                ],
+                "viaf": "143657677.000000",
+                "settlement": {
+                    "id": 43462,
+                    "name": "Chicago",
+                    "region": "Illinois",
+                    "country": "United States",
+                    "location_mappable": "POINT(-87.65005 41.85003)",
+                    "geonames_id": 4887398
+                }
+            }
+        }
+    ]
+}

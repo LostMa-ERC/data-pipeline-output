@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 53550,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1376-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/33137"
+    ],
+    "manuscripts": [
+        {
+            "id": 45388,
+            "shelfmark": "10264",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51033,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Cardenois et Passebeauté)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43864,
+                "name": "Biblioteca Nacional",
+                "alternative_names": [
+                    "Biblioteca Nacional Madrid",
+                    "Hiszpańska Biblioteka Narodowa",
+                    "Espanha., Biblioteca Nacional",
+                    "Biblioteca Nacional España",
+                    "Biblioteca nacional Espagne",
+                    "Biblioteca Nacional (Španielsko)"
+                ],
+                "viaf": "150572288.000000",
+                "isni": "0000000417659012",
+                "settlement": {
+                    "id": 43714,
+                    "name": "Madrid",
+                    "country": "Spain",
+                    "location_mappable": "POINT(-3.70256 40.4165)",
+                    "geonames_id": 3117735
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "witness",
+    "id": 54087,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1231-01-01",
+    "creation_date_max": "1250-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/82595"
+    ],
+    "manuscripts": [
+        {
+            "id": 45448,
+            "shelfmark": "MS. var. 475.a",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52287,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Garin le Lorrain)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43890,
+                "name": "Jewish national and university library",
+                "alternative_names": [
+                    "Bet ha-sefarim ha-leummí ve-ha-universitaí bi-Yeruixalàyim",
+                    "בית הספרים הלאומי והאוניברסיטאי",
+                    "Bet ha-sefarim ha-leʾumi ṿe-ha-universiṭaʾi ha-ʿivri",
+                    "Bet ha-sefarim ha-leʾumi ṿeha-universiṭaʾi bi-Yerushalayim",
+                    "National Library of Israel (Jérusalem)",
+                    "הספרייה הלאומית‏",
+                    "دار الكتب الوطنية والجامعية",
+                    "دار الكتب الوطنية والجامعية (القدس)",
+                    "National library of Israel",
+                    "Sifriyah ha-le'umit (Israele)",
+                    "Jewish National and University Library",
+                    "Biblioteka Narodowa Izraela",
+                    "Бет Г'а-Сефарим Г'а-Леумми Вег'а-Университаи"
+                ],
+                "viaf": "160568218.000000",
+                "isni": "0000000121551336",
+                "settlement": {
+                    "id": 43566,
+                    "name": "Jerusalem",
+                    "country": "Israel",
+                    "location_mappable": "POINT(35.21633 31.76904)",
+                    "geonames_id": 281184
+                }
+            }
+        }
+    ]
+}

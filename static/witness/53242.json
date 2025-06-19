@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 53242,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "B1",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1181-01-01",
+    "creation_date_max": "1200-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/75430"
+    ],
+    "manuscripts": [
+        {
+            "id": 45470,
+            "shelfmark": "N. I. 02 (83)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52852,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43898,
+                "name": "Universitätsbibliothek Basel",
+                "alternative_names": [
+                    "Universitätsbibliothek Bâle, Suisse",
+                    "Bibliothèque universitaire de Bâle",
+                    "Öffentliche Bibliothek der Universität Basel"
+                ],
+                "viaf": "146140663.000000",
+                "isni": "0000000121861940",
+                "settlement": {
+                    "id": 43634,
+                    "name": "Basel",
+                    "region": "Basel-Stadt",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(7.57327 47.55839)",
+                    "geonames_id": 2661604
+                }
+            }
+        }
+    ]
+}

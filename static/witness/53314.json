@@ -1,0 +1,56 @@
+{
+    "type": "witness",
+    "id": 53314,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/81493"
+    ],
+    "manuscripts": [
+        {
+            "id": 45324,
+            "shelfmark": "Hs Fragm Pg 3",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52917,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troie)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43836,
+                "name": "Wilhelmsstift. Bibliothek",
+                "alternative_names": [
+                    "Konviktsbibliothek Wilhelmsstift"
+                ],
+                "viaf": "152590686.000000",
+                "settlement": {
+                    "id": 43709,
+                    "name": "Tübingen",
+                    "region": "Baden-Wurttemberg",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.05222 48.52266)",
+                    "geonames_id": 2820860
+                }
+            }
+        }
+    ]
+}

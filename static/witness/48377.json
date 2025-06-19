@@ -1,0 +1,71 @@
+{
+    "type": "witness",
+    "id": 48377,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H135",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1385-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'Mitte 14. Jh.'",
+    "urls": [
+        "https://www.handschriftencensus.de/20069"
+    ],
+    "scripta": {
+        "id": 46312,
+        "name": "Brabants",
+        "description": "Dialect of Brabant.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48376,
+            "shelfmark": "E 1057",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/20069"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48378,
+                    "part_order": 1,
+                    "number_of_verses": 236,
+                    "number_of_lines": 236,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43841,
+                "name": "Nicolaus-Matz-Bibliothek Michelstadt",
+                "alternative_names": [
+                    "Nicolaus-Matz-Bibliothek Michelstadt, Allemagne",
+                    "Nicolaus-Matz-Bibliothek"
+                ],
+                "viaf": "153705244.000000",
+                "isni": "0000000122304206",
+                "settlement": {
+                    "id": 43712,
+                    "name": "Michelstadt",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.00373 49.67569)",
+                    "geonames_id": 2871284
+                }
+            }
+        }
+    ]
+}

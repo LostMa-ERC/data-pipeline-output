@@ -1,0 +1,55 @@
+{
+    "type": "witness",
+    "id": 46410,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "A577",
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1476-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "15 årh. slutning (Kålund, I:739.)",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 46408,
+            "shelfmark": "AM 577 4to",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://handrit.is/manuscript/view/is/AM04-0577"
+            ],
+            "witness_parts": [
+                {
+                    "id": 46411,
+                    "part_order": 1,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "71v-76v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46324,
+                "name": "Stofnun Árna Magnússonar",
+                "alternative_names": [],
+                "viaf": "143048087.000000",
+                "settlement": {
+                    "id": 42953,
+                    "name": "Reykjavík",
+                    "region": "Capital Region",
+                    "country": "Iceland",
+                    "location_mappable": "POINT(-21.89541 64.13548)",
+                    "geonames_id": 3413829
+                }
+            }
+        }
+    ]
+}

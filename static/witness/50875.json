@@ -1,0 +1,69 @@
+{
+    "type": "witness",
+    "id": 50875,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1979",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1439-01-01",
+    "creation_date_max": "1458-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'c. 1448'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/45"
+    ],
+    "manuscripts": [
+        {
+            "id": 50874,
+            "shelfmark": "Arundel 58",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.middleenglishromance.org.uk/mer/45"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50876,
+                    "part_order": 1,
+                    "number_of_verses": 7252,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 7252,
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "250r-275r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43825,
+                "name": "College of Arms",
+                "alternative_names": [
+                    "College of arms",
+                    "College of arms GB",
+                    "Coleg yr Arfau",
+                    "College of Arms (Grande-Bretagne)",
+                    "College of Arms (Inghilterra)",
+                    "College of arms (Londres)"
+                ],
+                "viaf": "143970573.000000",
+                "isni": "0000000404228686",
+                "settlement": {
+                    "id": 43399,
+                    "name": "London",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.12574 51.50853)",
+                    "geonames_id": 2643743
+                }
+            }
+        }
+    ]
+}

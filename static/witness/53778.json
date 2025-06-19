@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 53778,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/68331"
+    ],
+    "manuscripts": [
+        {
+            "id": 49901,
+            "shelfmark": "ACCE130-165",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arca.irht.cnrs.fr/ark:/63955/md52w3766z12",
+                "http://jonas.irht.cnrs.fr/manuscrit/68331"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51657,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Lancelot)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43945,
+                "name": "Arxiu Comarcal de la Cerdanya",
+                "alternative_names": [
+                    "Archives régionales Cerdagne, Espagne",
+                    "Arxiu Comarcal de la Cerdanya (ACCE) Puigcerdà (E-PG)"
+                ],
+                "viaf": "312738705.000000",
+                "isni": "0000000121969417",
+                "settlement": {
+                    "id": 43657,
+                    "name": "Puigcerdà",
+                    "region": "Catalonia",
+                    "country": "Spain",
+                    "location_mappable": "POINT(1.92819 42.4316)",
+                    "geonames_id": 3112680
+                }
+            }
+        }
+    ]
+}

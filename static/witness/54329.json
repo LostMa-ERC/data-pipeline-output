@@ -1,0 +1,56 @@
+{
+    "type": "witness",
+    "id": 54329,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/72107"
+    ],
+    "manuscripts": [
+        {
+            "id": 49598,
+            "shelfmark": "F(01) 083",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/72107"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51295,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Jaufré)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49597,
+                "name": "Archives départementales du Gard",
+                "alternative_names": [],
+                "viaf": "149499114.000000",
+                "settlement": {
+                    "id": 42708,
+                    "name": "Nîmes",
+                    "region": "Occitanie",
+                    "country": "France",
+                    "location_mappable": "POINT(4.35788 43.83665)",
+                    "geonames_id": 2990363
+                }
+            }
+        }
+    ]
+}

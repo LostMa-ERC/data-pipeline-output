@@ -1,0 +1,56 @@
+{
+    "type": "witness",
+    "id": 50118,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "A598_Ib",
+    "alternative_sigla": [
+        "beta"
+    ],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1360-12-31",
+    "creation_date_text": "c1300-1350",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47868,
+            "shelfmark": "AM 598 4to I beta",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://handrit.is/manuscript/view/da/AM04-0598-I-beta"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50050,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46319,
+                "name": "Den Arnamagnæanske Samling",
+                "alternative_names": [],
+                "viaf": "123148995933759750144.000000",
+                "settlement": {
+                    "id": 43659,
+                    "name": "Copenhagen",
+                    "country": "Denmark",
+                    "location_mappable": "POINT(12.56553 55.67594)",
+                    "geonames_id": 2618425
+                }
+            }
+        }
+    ]
+}

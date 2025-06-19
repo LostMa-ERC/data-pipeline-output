@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 55166,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1351-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/81367"
+    ],
+    "manuscripts": [
+        {
+            "id": 45145,
+            "shelfmark": "Inc. A VI 7",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51798,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Tristan)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43879,
+                "name": "Biblioteca civica queriniana",
+                "alternative_names": [
+                    "Civica biblioteca queriniana di Brescia (Itálie)",
+                    "Civica biblioteca queriniana di Brescia (Italy)",
+                    "Biblioteca civica queriniana di Brescia",
+                    "Biblioteca civica Queriniana (Brescia, Italy)",
+                    "Civica biblioteca queriniana di Brescia (Itàlia)",
+                    "Biblioteca Quer.",
+                    "Biblioteca civica queriniana (Brescia)",
+                    "Biblioteca civica queriniana Brescia, Italie",
+                    "Biblioteca Queriniana Brescia (I-BRq)"
+                ],
+                "viaf": "129963670.000000",
+                "isni": "0000000121567944",
+                "settlement": {
+                    "id": 43626,
+                    "name": "Brescia",
+                    "region": "Lombardy",
+                    "country": "Italy",
+                    "location_mappable": "POINT(10.21472 45.53558)",
+                    "geonames_id": 3181554
+                }
+            }
+        }
+    ]
+}

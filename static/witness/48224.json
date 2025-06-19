@@ -1,0 +1,71 @@
+{
+    "type": "witness",
+    "id": 48224,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H84",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1341-01-01",
+    "creation_date_max": "1360-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'c.1350'",
+    "urls": [
+        "https://www.handschriftencensus.de/23980"
+    ],
+    "scripta": {
+        "id": 46305,
+        "name": "Vlaams",
+        "description": "Dialect of Flanders.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48223,
+            "shelfmark": "167 III 9",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/23980"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48225,
+                    "part_order": 1,
+                    "number_of_verses": 320,
+                    "number_of_lines": 320,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43855,
+                "name": "Regionaal Historisch Centrum Limburg",
+                "alternative_names": [
+                    "Regionaal Historisch Centrum Limburg (Maastricht, Pays-Bas)",
+                    "Regionaal Historisch Centrum Limburg Maastricht"
+                ],
+                "viaf": "143322092.000000",
+                "isni": "0000000122228514",
+                "settlement": {
+                    "id": 43718,
+                    "name": "Maastricht",
+                    "region": "Limburg",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(5.68889 50.84833)",
+                    "geonames_id": 2751283
+                }
+            }
+        }
+    ]
+}

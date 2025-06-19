@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 54993,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/74666"
+    ],
+    "manuscripts": [
+        {
+            "id": 45813,
+            "shelfmark": "345",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52563,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Amis et Amiloun)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43756,
+                "name": "Badische Landesbibliothek Karlsruhe",
+                "alternative_names": [
+                    "Badische Landesbibliothek.",
+                    "Badische Landesbibliothek (Karlsruhe, Allemagne)",
+                    "Badische Landesbibliothek, Musiksammlung Karlsruhe (D-KA)"
+                ],
+                "viaf": "156582730.000000",
+                "isni": "0000000405650782",
+                "settlement": {
+                    "id": 42811,
+                    "name": "Karlsruhe",
+                    "region": "Baden-Wurttemberg",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.40444 49.00937)",
+                    "geonames_id": 2892794
+                }
+            }
+        }
+    ]
+}

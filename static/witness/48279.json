@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 48279,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H103",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1366-01-01",
+    "creation_date_max": "1410-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIVd'",
+    "urls": [
+        "https://www.handschriftencensus.de/19710"
+    ],
+    "scripta": {
+        "id": 46305,
+        "name": "Vlaams",
+        "description": "Dialect of Flanders.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48278,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/19710"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48280,
+                    "part_order": 1,
+                    "number_of_verses": 160,
+                    "number_of_lines": 160,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48440,
+                "name": "Univerzita Karlova. Katedra pomocných věd historických a archivního studia",
+                "alternative_names": [],
+                "viaf": "150288598.000000",
+                "settlement": {
+                    "id": 43579,
+                    "name": "Prague",
+                    "country": "Czechia",
+                    "location_mappable": "POINT(14.42076 50.08804)",
+                    "geonames_id": 3067696
+                }
+            }
+        }
+    ]
+}

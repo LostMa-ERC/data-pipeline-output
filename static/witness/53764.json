@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 53764,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "B",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1181-01-01",
+    "creation_date_max": "1220-12-31",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/21134",
+        "https://arlima.net/no/5125"
+    ],
+    "manuscripts": [
+        {
+            "id": 49440,
+            "shelfmark": "Plutei XLI cod. 44",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/21134",
+                "https://arlima.net/no/5125"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52979,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Eneas)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43826,
+                "name": "Biblioteca medicea laurenziana",
+                "alternative_names": [
+                    "Medicean-Laurentian Library",
+                    "Biblioteca medicea laurenziana (Firenze)",
+                    "Biblioteca Medicea Laurenziana Florence, Italie",
+                    "Biblioteka Laurenziana (Florencja)",
+                    "Biblioteca Medicea Laurenziana (Florencja)."
+                ],
+                "viaf": "133196672.000000",
+                "isni": "0000000122867164",
+                "settlement": {
+                    "id": 43639,
+                    "name": "Florence",
+                    "region": "Tuscany",
+                    "country": "Italy",
+                    "location_mappable": "POINT(11.24626 43.77925)",
+                    "geonames_id": 3176959
+                }
+            }
+        }
+    ]
+}

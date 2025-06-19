@@ -1,0 +1,57 @@
+{
+    "type": "witness",
+    "id": 53243,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "B3",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1300-12-31",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 49799,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52853,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troie)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43877,
+                "name": "Archives départementales du Doubs",
+                "alternative_names": [
+                    "Archives départementales du Doubs (Besançon)",
+                    "archives départementales du Doubs service d'archives départementales",
+                    "Archives du Doubs",
+                    "Doubs. Archives départementales"
+                ],
+                "viaf": "157132944.000000",
+                "isni": "0000000121598951",
+                "settlement": {
+                    "id": 42641,
+                    "name": "Besançon",
+                    "region": "Bourgogne-Franche-Comté",
+                    "country": "France",
+                    "location_mappable": "POINT(6.01815 47.24878)",
+                    "geonames_id": 3033123
+                }
+            }
+        }
+    ]
+}

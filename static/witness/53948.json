@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 53948,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/21850",
+        "https://arlima.net/no/6164"
+    ],
+    "manuscripts": [
+        {
+            "id": 45310,
+            "shelfmark": "français, 198",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52579,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Fierabras)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43830,
+                "name": "Bibliothèque de Genève",
+                "alternative_names": [
+                    "Bibliothèque publique et universitaire (Genewa)",
+                    "Bibliothèque publique et universitaire de Genève",
+                    "Bibliothèque de Genève Genève (CH-Gpu)",
+                    "Bibliothèque de Genève (2006)"
+                ],
+                "viaf": "150676214.000000",
+                "isni": "0000000121844366",
+                "settlement": {
+                    "id": 43708,
+                    "name": "Geneva",
+                    "region": "Geneva",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(6.14569 46.20222)",
+                    "geonames_id": 2660646
+                }
+            }
+        }
+    ]
+}

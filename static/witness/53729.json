@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 53729,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/75521"
+    ],
+    "manuscripts": [
+        {
+            "id": 46129,
+            "shelfmark": "palat. 1206",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52838,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Alexandre)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43954,
+                "name": "Biblioteca palatina di Parma",
+                "alternative_names": [
+                    "Biblioteca Palatina Parme, Italie",
+                    "Biblioteca Palatina",
+                    "Biblioteca Palatina (Parma).",
+                    "ספריית הפלאטינה (פארמה)"
+                ],
+                "viaf": "142721807.000000",
+                "isni": "000000012324708X",
+                "settlement": {
+                    "id": 43686,
+                    "name": "Parma",
+                    "region": "Emilia-Romagna",
+                    "country": "Italy",
+                    "location_mappable": "POINT(10.32618 44.79935)",
+                    "geonames_id": 3171457
+                }
+            }
+        }
+    ]
+}

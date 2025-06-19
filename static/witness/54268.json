@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 54268,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Pr",
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/71989"
+    ],
+    "manuscripts": [
+        {
+            "id": 45330,
+            "shelfmark": "n. 1 (F.7)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52185,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Guiron le courtois)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43842,
+                "name": "Archives départementales de l'Ardèche",
+                "alternative_names": [
+                    "Archives départementales (Ardèche)",
+                    "Ardèche. Archives départementales",
+                    "archives départementales de l'Ardèche archives du département de l'Ardèche"
+                ],
+                "viaf": "129747833.000000",
+                "isni": "0000000121564866",
+                "settlement": {
+                    "id": 42721,
+                    "name": "Privas",
+                    "region": "Auvergne-Rhône-Alpes",
+                    "country": "France",
+                    "location_mappable": "POINT(4.59918 44.735)",
+                    "geonames_id": 2985290
+                }
+            }
+        }
+    ]
+}

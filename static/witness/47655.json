@@ -1,0 +1,67 @@
+{
+    "type": "witness",
+    "id": 47655,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H106",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1291-01-01",
+    "creation_date_max": "1310-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'c. 1300'",
+    "urls": [
+        "https://www.handschriftencensus.de/20378"
+    ],
+    "scripta": {
+        "id": 46312,
+        "name": "Brabants",
+        "description": "Dialect of Brabant.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47653,
+            "shelfmark": "1330",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/20378"
+            ],
+            "witness_parts": [
+                {
+                    "id": 47656,
+                    "part_order": 1,
+                    "number_of_verses": 739,
+                    "number_of_lines": 739,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v",
+                        "3r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47365,
+                "name": "Rijksuniversiteit Utrecht Bibliotheek",
+                "alternative_names": [],
+                "viaf": "143682339.000000",
+                "settlement": {
+                    "id": 43681,
+                    "name": "Utrecht",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(5.12222 52.09083)",
+                    "geonames_id": 2745912
+                }
+            }
+        }
+    ]
+}

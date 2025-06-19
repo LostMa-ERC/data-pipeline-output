@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 54420,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1220-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/27853"
+    ],
+    "manuscripts": [
+        {
+            "id": 45100,
+            "shelfmark": "398",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52715,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43761,
+                "name": "Bibliothèque municipale",
+                "alternative_names": [
+                    "bibliothèque municipale de Laon",
+                    "Bibliothèque municipale Suzanne Martinet",
+                    "Bibliothèque municipale Laon (F-LA)",
+                    "Bibliothèque de Laon",
+                    "Bibliothèque Municipale",
+                    "Bibliothèque municipale Suzanne Martinet Laon"
+                ],
+                "viaf": "136779628.000000",
+                "isni": "0000000121655274",
+                "settlement": {
+                    "id": 42678,
+                    "name": "Laon",
+                    "region": "Hauts-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(3.62714 49.5631)",
+                    "geonames_id": 3007477
+                }
+            }
+        }
+    ]
+}

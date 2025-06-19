@@ -1,0 +1,64 @@
+{
+    "type": "witness",
+    "id": 53491,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "R",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/53961",
+        "https://arlima.net/no/10802"
+    ],
+    "manuscripts": [
+        {
+            "id": 45247,
+            "shelfmark": "Ms O-53",
+            "old_shelfmarks": [
+                "O.42"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51128,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "85r-140v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43729,
+                "name": "Bibliothèque municipale",
+                "alternative_names": [
+                    "Bibliothèque municipale",
+                    "Bibliothèque municipale (Rouen, Francie)",
+                    "Bibliothèques de Rouen",
+                    "Bibliothèque municipale de Rouen"
+                ],
+                "viaf": "127811314.000000",
+                "isni": "0000000119452857",
+                "settlement": {
+                    "id": 42727,
+                    "name": "Rouen",
+                    "region": "Normandy",
+                    "country": "France",
+                    "location_mappable": "POINT(1.09932 49.44313)",
+                    "geonames_id": 2982652
+                }
+            }
+        }
+    ]
+}

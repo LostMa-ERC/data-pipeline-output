@@ -1,0 +1,54 @@
+{
+    "type": "witness",
+    "id": 54252,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Fa",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/71977"
+    ],
+    "manuscripts": [
+        {
+            "id": 45390,
+            "shelfmark": "n. B. 375",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52163,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Guiron le courtois)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43866,
+                "name": "Biblioteca comunale Fabriano",
+                "alternative_names": [],
+                "viaf": "22159032531501182976.000000",
+                "settlement": {
+                    "id": 43619,
+                    "name": "Fabriano",
+                    "region": "The Marches",
+                    "country": "Italy",
+                    "location_mappable": "POINT(12.90327 43.33941)",
+                    "geonames_id": 3177315
+                }
+            }
+        }
+    ]
+}

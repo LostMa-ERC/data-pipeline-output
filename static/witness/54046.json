@@ -1,0 +1,72 @@
+{
+    "type": "witness",
+    "id": 54046,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "S",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1225-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/58016",
+        "https://arlima.net/no/2332"
+    ],
+    "manuscripts": [
+        {
+            "id": 45087,
+            "shelfmark": "Vu 14",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52615,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1-115"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43838,
+                "name": "Kungliga Biblioteket",
+                "alternative_names": [
+                    "Kungl. biblioteket",
+                    "Kungliga biblioteket (Stockholm)",
+                    "Kungliga biblioteket Suède",
+                    "Kungliga Biblioteket (Švédsko)",
+                    "Kungliga Bibliotek",
+                    "Kungliga Biblioteket (Zviedrija)",
+                    "Kungliga Biblioteket (Štokholm, Švédsko)",
+                    "Kungliga Biblioteket (Sztokholm).",
+                    "Biblioteka Królewska (Szwecja)",
+                    "Kungliga biblioteket Sverige",
+                    "Suécia., Kungliga Biblioteket",
+                    "Kungliga Biblioteket (Suécia)",
+                    "Kungliga biblioteket",
+                    "Biblioteca Real (Suecia)",
+                    "נאציאנאלע ביבליאטעק פון שוועדן"
+                ],
+                "viaf": "240610793.000000",
+                "isni": "0000000123370977",
+                "settlement": {
+                    "id": 42574,
+                    "name": "Stockholm",
+                    "country": "Sweden",
+                    "location_mappable": "POINT(18.06871 59.32938)",
+                    "geonames_id": 2673730
+                }
+            }
+        }
+    ]
+}

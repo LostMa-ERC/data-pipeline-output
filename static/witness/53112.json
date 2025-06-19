@@ -1,0 +1,75 @@
+{
+    "type": "witness",
+    "id": 53112,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "3139",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1385-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'Mid 14th century'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/75"
+    ],
+    "scripta": {
+        "id": 48780,
+        "name": "West Midlands",
+        "description": "Dialect spaken in the western part of central England (midlands), surrounding present day Birmingham.",
+        "urls": [
+            "https://en.wikipedia.org/wiki/West_Midlands_(region)"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 53111,
+            "shelfmark": "Arundel 22",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.middleenglishromance.org.uk/mer/75"
+            ],
+            "witness_parts": [
+                {
+                    "id": 53113,
+                    "part_order": 1,
+                    "part_of_text": "Full text",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-8v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43825,
+                "name": "College of Arms",
+                "alternative_names": [
+                    "College of arms",
+                    "College of arms GB",
+                    "Coleg yr Arfau",
+                    "College of Arms (Grande-Bretagne)",
+                    "College of Arms (Inghilterra)",
+                    "College of arms (Londres)"
+                ],
+                "viaf": "143970573.000000",
+                "isni": "0000000404228686",
+                "settlement": {
+                    "id": 43399,
+                    "name": "London",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.12574 51.50853)",
+                    "geonames_id": 2643743
+                }
+            }
+        }
+    ]
+}

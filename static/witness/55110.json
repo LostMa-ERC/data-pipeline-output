@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 55110,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Florence",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1206-01-01",
+    "creation_date_max": "1225-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/80577"
+    ],
+    "manuscripts": [
+        {
+            "id": 49539,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/80577"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51246,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Athis et Prophilias)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43908,
+                "name": "Institut français de Florence",
+                "alternative_names": [
+                    "Institut français (Firenze)",
+                    "institut français de Florence Institut français installé à Florence",
+                    "Institut français (Florencja).",
+                    "Institut français Florence, Italie"
+                ],
+                "viaf": "137954560.000000",
+                "isni": "0000000121672306",
+                "settlement": {
+                    "id": 43639,
+                    "name": "Florence",
+                    "region": "Tuscany",
+                    "country": "Italy",
+                    "location_mappable": "POINT(11.24626 43.77925)",
+                    "geonames_id": 3176959
+                }
+            }
+        }
+    ]
+}

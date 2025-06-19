@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 53791,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Medium(IRHT)",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/79820"
+    ],
+    "manuscripts": [
+        {
+            "id": 45142,
+            "shelfmark": "H 0375",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52108,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Alexandre, 1re et 2e rédactions en prose)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43860,
+                "name": "Archives départementales du Tarn",
+                "alternative_names": [
+                    "Archives Départementales du Tarn Albi",
+                    "Archives départementales (Tarn)"
+                ],
+                "viaf": "132101756.000000",
+                "isni": "0000000121599356",
+                "settlement": {
+                    "id": 42626,
+                    "name": "Albi",
+                    "region": "Occitanie",
+                    "country": "France",
+                    "location_mappable": "POINT(2.148 43.9298)",
+                    "geonames_id": 3038261
+                }
+            }
+        }
+    ]
+}

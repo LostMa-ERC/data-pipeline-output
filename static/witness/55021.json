@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 55021,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/57808"
+    ],
+    "manuscripts": [
+        {
+            "id": 49615,
+            "shelfmark": "100",
+            "old_shelfmarks": [
+                "93"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/57808"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51998,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Dolopathos)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49616,
+                "name": "Bibliothèque municipale",
+                "alternative_names": [],
+                "viaf": "123374301.000000",
+                "settlement": {
+                    "id": 49617,
+                    "name": "Soissons",
+                    "region": "Aisne",
+                    "country": "France",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(3.32361 49.38167)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2974389
+                }
+            }
+        }
+    ]
+}

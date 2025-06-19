@@ -1,0 +1,188 @@
+{
+    "type": "witness",
+    "id": 47662,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H107",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1360-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIVb'",
+    "number_of_hands": 1,
+    "urls": [
+        "https://www.handschriftencensus.de/24256"
+    ],
+    "scripta": {
+        "id": 46305,
+        "name": "Vlaams",
+        "description": "Dialect of Flanders.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47660,
+            "shelfmark": "Fragm. 18",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47666,
+                    "part_order": 2,
+                    "number_of_verses": 60,
+                    "number_of_lines": 60,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43889,
+                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
+                "alternative_names": [
+                    "Staatsbibliothek zu Berlin.",
+                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
+                    "Staatsbibliothek Berlin"
+                ],
+                "viaf": "157207056.000000",
+                "isni": "0000000123699481",
+                "settlement": {
+                    "id": 43580,
+                    "name": "Berlin",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
+                }
+            }
+        },
+        {
+            "id": 47661,
+            "shelfmark": "2749,5",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47667,
+                    "part_order": 4,
+                    "number_of_verses": 1444,
+                    "number_of_lines": 1444,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v",
+                        "3r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43787,
+                "name": "Rijksuniversiteit te Gent. Bibliotheek",
+                "alternative_names": [
+                    "Universiteitsbibliotheek Gand, Belgique",
+                    "Rijksuniversiteit Gent. Bibliothek",
+                    "Universiteitsbibliotheek UGent",
+                    "Universiteitsbibliotheek Gent (B-Gu)",
+                    "Rijksuniversiteit (Gandawa). Bibliotheek.",
+                    "Universiteitsbibliotheek Gent"
+                ],
+                "viaf": "139553481.000000",
+                "isni": "0000000123484448",
+                "settlement": {
+                    "id": 43690,
+                    "name": "Ghent",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(3.71667 51.05)",
+                    "geonames_id": 2797656
+                }
+            }
+        },
+        {
+            "id": 47658,
+            "shelfmark": "Ltk. 181",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/24256"
+            ],
+            "witness_parts": [
+                {
+                    "id": 47665,
+                    "part_order": 1,
+                    "number_of_verses": 1473,
+                    "number_of_lines": 1473,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 47663,
+                    "part_order": 3,
+                    "number_of_verses": 357,
+                    "number_of_lines": 357,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "5r-5v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43873,
+                "name": "Universitaire Bibliotheken Leiden",
+                "alternative_names": [
+                    "Rijksuniversiteit te Leiden., Bibliotheek",
+                    "Leiden University Library",
+                    "Bibliotheek der Rijksuniversiteit Leiden",
+                    "Universiteitsbibliotheek (Lejda).",
+                    "Universiteitsbibliotheek (Leyde, Pays-Bas)",
+                    "Rijksuniversiteit Leiden Bibliotheek"
+                ],
+                "viaf": "133132602.000000",
+                "isni": "0000000122932800",
+                "settlement": {
+                    "id": 43362,
+                    "name": "Leiden",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.49306 52.15833)",
+                    "geonames_id": 2751773
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "type": "witness",
+    "id": 48059,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H35",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1341-01-01",
+    "creation_date_max": "1410-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIV2'",
+    "urls": [],
+    "scripta": {
+        "id": 46305,
+        "name": "Vlaams",
+        "description": "Dialect of Flanders.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48058,
+            "shelfmark": "5000 PB 52",
+            "old_shelfmarks": [],
+            "collection": "Fragmenten-Katwijk/Fragment-Deschamps",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48060,
+                    "part_order": 1,
+                    "number_of_verses": 40,
+                    "number_of_lines": 40,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 48062,
+                    "part_order": 2,
+                    "number_of_verses": 115,
+                    "number_of_lines": 115,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v",
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48433,
+                "name": "Provinciebibliotheek Nederlandse Jezuïeten",
+                "alternative_names": [
+                    "Statie van de Jezuïeten te Nijmegen"
+                ],
+                "settlement": {
+                    "id": 47378,
+                    "name": "Nijmegen",
+                    "region": "Gelderland",
+                    "country": "Netherlands",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(5.85278 51.8425)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2750053
+                }
+            }
+        }
+    ]
+}

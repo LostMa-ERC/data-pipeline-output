@@ -1,0 +1,71 @@
+{
+    "type": "witness",
+    "id": 55168,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1405-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/56270"
+    ],
+    "manuscripts": [
+        {
+            "id": 45458,
+            "shelfmark": "4° v. XIV. 0004",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51252,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Athis et Prophilias)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43737,
+                "name": "National Library of Russia",
+                "alternative_names": [
+                    "Rossiĭskai︠a︡ nat︠s︡ional'nai︠a︡ biblioteka",
+                    "Rosyjska Biblioteka Narodowa (Petersburg)",
+                    "הספרייה הציבורית על שם סלטיקוב-שצ'דרין (פטרבורג)",
+                    "Rossijskaja nacionaľnaja biblioteka (Petrohrad, Rusko)",
+                    "Rossijskaâ nacional'naâ biblioteka (Saint-Pétersbourg, Russie)",
+                    "Российская Национальная библиотека (Санкт-Петербург)",
+                    "Rossijskaja nacional'naja biblioteka Sankt-Peterburg (RUS-SPsc)",
+                    "Rossijskaja nacional/ naja biblioteka",
+                    "Rússia., National Library",
+                    "Российская национальная библиотека",
+                    "Rossijskaâ nacional'naâ biblioteka.",
+                    "Государственная публичная библиотека им. Салтыкова-Щедрина, Отдел каталогизации",
+                    "Rossijskaja nacional'naja biblioteka Sankt-Peterburg",
+                    "ロシア国立図書館",
+                    "Rossijskaja nacional'naja biblioteka",
+                    "Bibliothèque nationale de Russie"
+                ],
+                "viaf": "127114742.000000",
+                "isni": "0000000122431029",
+                "settlement": {
+                    "id": 43666,
+                    "name": "St Petersburg",
+                    "country": "Russia",
+                    "location_mappable": "POINT(30.31413 59.93863)",
+                    "geonames_id": 498817
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 54079,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Z22",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/76163"
+    ],
+    "manuscripts": [
+        {
+            "id": 45640,
+            "shelfmark": "Fr, 323",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52278,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43930,
+                "name": "Houghton Library",
+                "alternative_names": [
+                    "Harvard University. Houghton Library.",
+                    "Harvard College Library (Cambridge Mass). Houghton Library",
+                    "Houghton Library (Cambridge, Massachusetts)",
+                    "Houghton Library (Harvard)",
+                    "Houghton library Cambridge, Mass."
+                ],
+                "viaf": "155530939.000000",
+                "isni": "0000000121904234",
+                "settlement": {
+                    "id": 43457,
+                    "name": "Cambridge",
+                    "region": "Massachusetts",
+                    "country": "United States",
+                    "location_mappable": "POINT(-71.10561 42.3751)",
+                    "geonames_id": 4931972
+                }
+            }
+        }
+    ]
+}

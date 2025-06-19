@@ -1,0 +1,56 @@
+{
+    "type": "witness",
+    "id": 54797,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "v",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1271-01-01",
+    "creation_date_max": "1280-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/81492"
+    ],
+    "manuscripts": [
+        {
+            "id": 46142,
+            "shelfmark": "carton 9, fragment de Perceval",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 53022,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Continuation Gauvain)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43967,
+                "name": "Archivio storico del Castello di Valperga",
+                "alternative_names": [],
+                "settlement": {
+                    "id": 43968,
+                    "name": "Cuorgnè",
+                    "region": "Piedmont",
+                    "country": "Italy",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(7.65015 45.39341)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 3177695
+                }
+            }
+        }
+    ]
+}

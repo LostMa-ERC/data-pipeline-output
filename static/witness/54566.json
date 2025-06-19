@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 54566,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1381-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/80301"
+    ],
+    "manuscripts": [
+        {
+            "id": 45385,
+            "shelfmark": "MS f Med. 091",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51000,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "69-86"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43861,
+                "name": "Boston Public Library",
+                "alternative_names": [
+                    "Public Library",
+                    "ボストン公共図書館",
+                    "Boston Public Library library system in Boston, Massachusetts"
+                ],
+                "viaf": "133435180.000000",
+                "isni": "0000000122873150",
+                "settlement": {
+                    "id": 43453,
+                    "name": "Boston",
+                    "region": "Massachusetts",
+                    "country": "United States",
+                    "location_mappable": "POINT(-71.05977 42.35843)",
+                    "geonames_id": 4930956
+                }
+            }
+        }
+    ]
+}

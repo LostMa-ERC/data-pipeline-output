@@ -1,0 +1,73 @@
+{
+    "type": "witness",
+    "id": 50842,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "4081",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1441-01-01",
+    "creation_date_max": "1470-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'1450-60'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/44"
+    ],
+    "scripta": {
+        "id": 48797,
+        "name": "East Midlands",
+        "description": "Dialect spoken in the middle Eastern part of England (East Midlands).",
+        "urls": [
+            "https://nl.wikipedia.org/wiki/East_Midlands"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 49060,
+            "shelfmark": "Beinecke MS 32",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 50843,
+                    "part_order": 2,
+                    "number_of_verses": 308,
+                    "number_of_lines": 308,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "164r-166v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43722,
+                "name": "Beinecke rare book and manuscript library",
+                "alternative_names": [
+                    "Yale University. Beinecke Rare Book and Manuscript Library (New Haven)",
+                    "Beinecke Rare Book and Manuscript Library (New Haven, Conn.) New Haven, Conn.",
+                    "Beinecke rare book and manuscript library New Haven, Conn.",
+                    "Beinecke Rare Book & Manuscript Library",
+                    "Yale University. Library. Beinecke Rare Book and Manuscript Library"
+                ],
+                "viaf": "146865135.000000",
+                "isni": "0000000121797790",
+                "settlement": {
+                    "id": 43496,
+                    "name": "New Haven",
+                    "region": "Connecticut",
+                    "country": "United States",
+                    "location_mappable": "POINT(-72.92816 41.30815)",
+                    "geonames_id": 4839366
+                }
+            }
+        }
+    ]
+}

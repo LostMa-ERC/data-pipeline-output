@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 53765,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Saint-Lô",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1180-01-01",
+    "creation_date_max": "1185-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78287"
+    ],
+    "manuscripts": [
+        {
+            "id": 49538,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/78287"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52842,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Alexandre)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43759,
+                "name": "Archives départementales de la Manche",
+                "alternative_names": [
+                    "archives départementales de la Manche archives du département de la Manche",
+                    "Archives Départementales de la Manche Saint-Lô",
+                    "Archives départementales (Manche)",
+                    "Manche. Archives départementales"
+                ],
+                "viaf": "153679842.000000",
+                "isni": "0000000122968555",
+                "settlement": {
+                    "id": 42735,
+                    "name": "Saint-Lô",
+                    "region": "Normandy",
+                    "country": "France",
+                    "location_mappable": "POINT(-1.09031 49.11624)",
+                    "geonames_id": 2978758
+                }
+            }
+        }
+    ]
+}

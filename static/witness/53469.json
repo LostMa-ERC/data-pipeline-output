@@ -1,0 +1,54 @@
+{
+    "type": "witness",
+    "id": 53469,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "DÉAF",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/72374"
+    ],
+    "manuscripts": [
+        {
+            "id": 45547,
+            "shelfmark": "642",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51190,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Berinus)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43743,
+                "name": "Bibliothèque de l'Université de l'État",
+                "alternative_names": [],
+                "viaf": "19145003286661300224.000000",
+                "settlement": {
+                    "id": 43670,
+                    "name": "Mons",
+                    "region": "Wallonia",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(3.95229 50.45413)",
+                    "geonames_id": 2790869
+                }
+            }
+        }
+    ]
+}

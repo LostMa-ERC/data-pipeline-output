@@ -1,0 +1,57 @@
+{
+    "type": "witness",
+    "id": 50087,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "L1230_III",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1476-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "ca. 1500 or last quarter of 15th cent",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47876,
+            "shelfmark": "Lbs 1230 8vo III",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://handrit.is/manuscript/view/is/Lbs08-1230"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50021,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47810,
+                "name": "Landsbókasafn Íslands-Háskólabókasafn",
+                "alternative_names": [
+                    "National and university library of Iceland"
+                ],
+                "viaf": "128288021.000000",
+                "settlement": {
+                    "id": 42953,
+                    "name": "Reykjavík",
+                    "region": "Capital Region",
+                    "country": "Iceland",
+                    "location_mappable": "POINT(-21.89541 64.13548)",
+                    "geonames_id": 3413829
+                }
+            }
+        }
+    ]
+}

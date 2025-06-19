@@ -1,0 +1,54 @@
+{
+    "type": "witness",
+    "id": 54709,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/84091"
+    ],
+    "manuscripts": [
+        {
+            "id": 49426,
+            "shelfmark": "Busta 17, cartella 593",
+            "old_shelfmarks": [],
+            "collection": "Fragmenta codicum",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/84091"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51023,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Artus de Bretagne)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49424,
+                "name": "Archivio di Stato Lucca",
+                "alternative_names": [],
+                "viaf": "141898891.000000",
+                "settlement": {
+                    "id": 43031,
+                    "name": "Lucca",
+                    "region": "Tuscany",
+                    "country": "Italy",
+                    "location_mappable": "POINT(10.50705 43.84823)",
+                    "geonames_id": 6542121
+                }
+            }
+        }
+    ]
+}

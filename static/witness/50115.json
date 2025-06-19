@@ -1,0 +1,56 @@
+{
+    "type": "witness",
+    "id": 50115,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "N62",
+    "alternative_sigla": [
+        "Nr2"
+    ],
+    "status": "fragmentary",
+    "creation_date_min": "1321-01-01",
+    "creation_date_max": "1340-12-31",
+    "creation_date_text": "c1350",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47883,
+            "shelfmark": "NRA 62",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 50047,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47811,
+                "name": "Riksarkivet",
+                "alternative_names": [
+                    "National Archives of Norway"
+                ],
+                "viaf": "153010642.000000",
+                "settlement": {
+                    "id": 43592,
+                    "name": "Oslo",
+                    "country": "Norway",
+                    "location_mappable": "POINT(10.74609 59.91273)",
+                    "geonames_id": 3143244
+                }
+            }
+        }
+    ]
+}

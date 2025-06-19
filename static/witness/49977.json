@@ -1,0 +1,109 @@
+{
+    "type": "witness",
+    "id": 49977,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Hs 93-94",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1420-12-31",
+    "creation_date_text": "début du 15e s.",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/78635"
+    ],
+    "manuscripts": [
+        {
+            "id": 45394,
+            "shelfmark": "Hs 93",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://data.biblissima.fr/w/Item:Q271238"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49978,
+                    "part_order": 1,
+                    "volume_number": "1",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "4-332v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43869,
+                "name": "Universitätsbibliothek Gießen",
+                "alternative_names": [
+                    "Universitätsbibliothek Giessen (Alemania)",
+                    "Universitätsbibliothek Gießen, Allemagne",
+                    "Justus-Liebig-Universität, Universitätsbibliothek Gießen (D-GI)"
+                ],
+                "viaf": "154192976.000000",
+                "isni": "0000000123593820",
+                "settlement": {
+                    "id": 43621,
+                    "name": "Giessen",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.67554 50.58727)",
+                    "geonames_id": 2920512
+                }
+            }
+        },
+        {
+            "id": 45393,
+            "shelfmark": "Hs 94",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://data.biblissima.fr/w/Item:Q271238"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49979,
+                    "part_order": 2,
+                    "volume_number": "2",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "3-232v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43869,
+                "name": "Universitätsbibliothek Gießen",
+                "alternative_names": [
+                    "Universitätsbibliothek Giessen (Alemania)",
+                    "Universitätsbibliothek Gießen, Allemagne",
+                    "Justus-Liebig-Universität, Universitätsbibliothek Gießen (D-GI)"
+                ],
+                "viaf": "154192976.000000",
+                "isni": "0000000123593820",
+                "settlement": {
+                    "id": 43621,
+                    "name": "Giessen",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.67554 50.58727)",
+                    "geonames_id": 2920512
+                }
+            }
+        }
+    ]
+}

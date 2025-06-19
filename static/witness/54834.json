@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 54834,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "D",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/18294"
+    ],
+    "manuscripts": [
+        {
+            "id": 49576,
+            "shelfmark": "Ms 2930",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/18294"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51901,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Propheties de Merlin)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43772,
+                "name": "Bibliothèque Municipale Dijon",
+                "alternative_names": [
+                    "Bibliothèque municipale de Dijon",
+                    "Dijon (France). Bibliothèque municipale",
+                    "Bibliothèque municipale Dijon (F-Dm)"
+                ],
+                "viaf": "169261871.000000",
+                "isni": "0000000404477551",
+                "settlement": {
+                    "id": 43684,
+                    "name": "Dijon",
+                    "region": "Bourgogne-Franche-Comté",
+                    "country": "France",
+                    "location_mappable": "POINT(5.01667 47.31667)",
+                    "geonames_id": 3021372
+                }
+            }
+        }
+    ]
+}

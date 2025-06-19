@@ -1,0 +1,55 @@
+{
+    "type": "witness",
+    "id": 53695,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "N",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1276-01-01",
+    "creation_date_max": "1305-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/40279"
+    ],
+    "manuscripts": [
+        {
+            "id": 45638,
+            "shelfmark": "D 641 / 1 / 2 / 84",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51971,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Conquete de Jerusalem)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43928,
+                "name": "Staffordshire Record Office Stafford",
+                "alternative_names": [],
+                "viaf": "27159032769901182976.000000",
+                "settlement": {
+                    "id": 43415,
+                    "name": "Stafford",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-2.11636 52.80521)",
+                    "geonames_id": 2637142
+                }
+            }
+        }
+    ]
+}

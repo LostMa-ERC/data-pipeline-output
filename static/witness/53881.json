@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 53881,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Fragm2",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/22778",
+        "https://arlima.net/no/7298"
+    ],
+    "manuscripts": [
+        {
+            "id": 46132,
+            "shelfmark": "Ms. 4148",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51348,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Joseph d'Arimathie Vulgate ou Estoire del Saint Graal)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43956,
+                "name": "Bibliothèque municipale de Grenoble",
+                "alternative_names": [
+                    "Bibliothèque municipale Grenoble (F-G)",
+                    "Bibliothèque municipale Grenoble, France",
+                    "Bibliothèque Municipale",
+                    "Bibliothèque municipale (Grenoble)."
+                ],
+                "viaf": "146164457.000000",
+                "isni": "000000010944284X",
+                "settlement": {
+                    "id": 42672,
+                    "name": "Grenoble",
+                    "region": "Auvergne-Rhône-Alpes",
+                    "country": "France",
+                    "location_mappable": "POINT(5.71479 45.17869)",
+                    "geonames_id": 3014728
+                }
+            }
+        }
+    ]
+}

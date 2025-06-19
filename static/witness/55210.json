@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 55210,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/81958"
+    ],
+    "manuscripts": [
+        {
+            "id": 45404,
+            "shelfmark": "M.I.376",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51831,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Tristan)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43874,
+                "name": "Universitätsbibliothek Salzburg",
+                "alternative_names": [
+                    "Universitätsbibliothek Salzbourg, Autriche",
+                    "Universitätsbibliothek Salzburg (A-Su)",
+                    "Universitätsbibliothek Salzburg, Universität"
+                ],
+                "viaf": "138814138.000000",
+                "isni": "0000000123549184",
+                "settlement": {
+                    "id": 43623,
+                    "name": "Salzburg",
+                    "region": "Salzburg",
+                    "country": "Austria",
+                    "location_mappable": "POINT(13.04399 47.79941)",
+                    "geonames_id": 2766824
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 54039,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/72590"
+    ],
+    "manuscripts": [
+        {
+            "id": 45378,
+            "shelfmark": "Afdeling Handschriften, 167, III, 6",
+            "old_shelfmarks": [],
+            "collection": "Afdeling Handschriften",
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52609,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43855,
+                "name": "Regionaal Historisch Centrum Limburg",
+                "alternative_names": [
+                    "Regionaal Historisch Centrum Limburg (Maastricht, Pays-Bas)",
+                    "Regionaal Historisch Centrum Limburg Maastricht"
+                ],
+                "viaf": "143322092.000000",
+                "isni": "0000000122228514",
+                "settlement": {
+                    "id": 43718,
+                    "name": "Maastricht",
+                    "region": "Limburg",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(5.68889 50.84833)",
+                    "geonames_id": 2751283
+                }
+            }
+        }
+    ]
+}

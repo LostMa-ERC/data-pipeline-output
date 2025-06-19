@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 54825,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "J",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1276-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/27134"
+    ],
+    "manuscripts": [
+        {
+            "id": 49750,
+            "shelfmark": "Ms. gall. fol. 178",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://www.manuscripta-mediaevalia.de/dokumente/html/obj31160023",
+                "http://jonas.irht.cnrs.fr/manuscrit/27134"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51895,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "2ra-2vb"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43889,
+                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
+                "alternative_names": [
+                    "Staatsbibliothek zu Berlin.",
+                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
+                    "Staatsbibliothek Berlin"
+                ],
+                "viaf": "157207056.000000",
+                "isni": "0000000123699481",
+                "settlement": {
+                    "id": 43580,
+                    "name": "Berlin",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
+                }
+            }
+        }
+    ]
+}

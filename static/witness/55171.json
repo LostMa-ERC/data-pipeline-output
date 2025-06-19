@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 55171,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/80058"
+    ],
+    "manuscripts": [
+        {
+            "id": 45248,
+            "shelfmark": "428",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51801,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Tristan)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43802,
+                "name": "Harvard university library",
+                "alternative_names": [
+                    "Harvard University Library (Cambridge, Mass.)",
+                    "Harvard University, Harvard College Library Cambridge, MA (US-CA)"
+                ],
+                "viaf": "129558359.000000",
+                "isni": "0000000114819074",
+                "settlement": {
+                    "id": 43457,
+                    "name": "Cambridge",
+                    "region": "Massachusetts",
+                    "country": "United States",
+                    "location_mappable": "POINT(-71.10561 42.3751)",
+                    "geonames_id": 4931972
+                }
+            }
+        }
+    ]
+}

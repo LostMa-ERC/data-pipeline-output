@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 54401,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/80285"
+    ],
+    "manuscripts": [
+        {
+            "id": 45469,
+            "shelfmark": "Fondo Pergamene, cartella 13, n° 131",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52160,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Meliadus)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43738,
+                "name": "Archivio di Stato",
+                "alternative_names": [
+                    "Archivio di Stato di Viterbo archives in Italy",
+                    "Archivio di Stato di Viterbo"
+                ],
+                "viaf": "137409011.000000",
+                "isni": "0000000121773254",
+                "settlement": {
+                    "id": 43667,
+                    "name": "Viterbo",
+                    "region": "Lazio",
+                    "country": "Italy",
+                    "location_mappable": "POINT(12.1056 42.41937)",
+                    "geonames_id": 3164039
+                }
+            }
+        }
+    ]
+}

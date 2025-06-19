@@ -1,0 +1,54 @@
+{
+    "type": "witness",
+    "id": 54188,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/69200"
+    ],
+    "manuscripts": [
+        {
+            "id": 45769,
+            "shelfmark": "232",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52633,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Girart de Vienne)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43751,
+                "name": "Bibliothèque Louis-Garret",
+                "alternative_names": [],
+                "viaf": "50146937704013832192.000000",
+                "settlement": {
+                    "id": 42745,
+                    "name": "Vesoul",
+                    "region": "Bourgogne-Franche-Comté",
+                    "country": "France",
+                    "location_mappable": "POINT(6.14251 47.62604)",
+                    "geonames_id": 2969562
+                }
+            }
+        }
+    ]
+}

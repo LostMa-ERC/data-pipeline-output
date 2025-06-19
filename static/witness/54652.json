@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 54652,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78695"
+    ],
+    "manuscripts": [
+        {
+            "id": 45326,
+            "shelfmark": "m.r.cf.2.23",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52215,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Narbonnais)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43837,
+                "name": "Biblioteca civica Berio Gênes, Italie",
+                "alternative_names": [
+                    "Biblioteca civica Berio (Genoa, Italy)",
+                    "Biblioteca civica Berio.",
+                    "Biblioteca civica Berio (Genova)",
+                    "Biblioteca Berio",
+                    "Biblioteca Civica Berio (Genua)",
+                    "Biblioteca Civica Berio Genova (I-Gc)"
+                ],
+                "viaf": "148667823.000000",
+                "isni": "0000000121811855",
+                "settlement": {
+                    "id": 43710,
+                    "name": "Genoa",
+                    "region": "Liguria",
+                    "country": "Italy",
+                    "location_mappable": "POINT(8.94439 44.40478)",
+                    "geonames_id": 3176219
+                }
+            }
+        }
+    ]
+}

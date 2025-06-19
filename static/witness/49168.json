@@ -1,0 +1,71 @@
+{
+    "type": "witness",
+    "id": 49168,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1913",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1416-01-01",
+    "creation_date_max": "1460-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'1425-1450'",
+    "number_of_hands": 2,
+    "urls": [
+        "https://www.medievalscribes.com/index.php?browse=manuscripts&id=108&nav=off",
+        "https://ehive.com/collections/201690/objects/1355139/the-canterbury-tales"
+    ],
+    "scripta": {
+        "id": 48834,
+        "name": "London",
+        "description": "Dialect spoken in the south east Brittain region.",
+        "urls": [
+            "https://en.wikipedia.org/wiki/London"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 49166,
+            "shelfmark": "MS Lich 029",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 49169,
+                    "part_order": 1,
+                    "number_of_verses": 898,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 898,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "57v-69r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49795,
+                "name": "Lichfield Cathedral. Library",
+                "alternative_names": [],
+                "settlement": {
+                    "id": 49796,
+                    "name": "Lichfield",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(-1.82549 52.68154)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2644531
+                }
+            }
+        }
+    ]
+}

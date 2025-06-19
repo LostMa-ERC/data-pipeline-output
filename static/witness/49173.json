@@ -1,0 +1,69 @@
+{
+    "type": "witness",
+    "id": 49173,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1913",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1421-01-01",
+    "creation_date_max": "1460-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'1430-1450'",
+    "number_of_hands": 1,
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/22",
+        "https://www.repository.cam.ac.uk/items/649da08f-5eb2-4125-911c-4a522970a775"
+    ],
+    "manuscripts": [
+        {
+            "id": 49172,
+            "shelfmark": "MS LI.3.26",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 49174,
+                    "part_order": 1,
+                    "number_of_verses": 898,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 898,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "52r-62v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43816,
+                "name": "University of Cambridge. Library",
+                "alternative_names": [
+                    "University of Cambridge (Inglaterra). Library",
+                    "אוניברסיטת קיימברידג'. הספרייה",
+                    "Biblioteka Uniwersytetu w Cambridge",
+                    "University of Cambridge. University Library",
+                    "Llyfrgell Prifysgol Caergrawnt"
+                ],
+                "viaf": "140790558.000000",
+                "isni": "0000000459040795",
+                "settlement": {
+                    "id": 43630,
+                    "name": "Cambridge",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(0.11667 52.2)",
+                    "geonames_id": 2653941
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "type": "witness",
+    "id": 48003,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H25",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1366-01-01",
+    "creation_date_max": "1410-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIVd'",
+    "urls": [],
+    "scripta": {
+        "id": 46305,
+        "name": "Vlaams",
+        "description": "Dialect of Flanders.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48000,
+            "shelfmark": "1804",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48004,
+                    "part_order": 1,
+                    "number_of_verses": 1030,
+                    "number_of_lines": 1030,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-2v",
+                        "3r-4v",
+                        "5r-6v",
+                        "7r-8v",
+                        "9r-10v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48416,
+                "name": "Provinciale Bibliotheek van Friesland",
+                "alternative_names": [
+                    "Provinciale bibliotheek Frise"
+                ],
+                "viaf": "129907462.000000",
+                "settlement": {
+                    "id": 43354,
+                    "name": "Leeuwarden",
+                    "region": "Friesland",
+                    "country": "Netherlands",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(5.81111 53.18602)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2751791
+                }
+            }
+        },
+        {
+            "id": 48001,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48006,
+                    "part_order": 2,
+                    "number_of_verses": 110,
+                    "number_of_lines": 110,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48447,
+                "name": "Stadsarchief gemeente 's-Hertogenbosch",
+                "alternative_names": [],
+                "viaf": "628167807404018106368.000000",
+                "settlement": {
+                    "id": 47368,
+                    "name": "'s-Hertogenbosch",
+                    "region": "North Brabant",
+                    "country": "Netherlands",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(5.30417 51.69917)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2747351
+                }
+            }
+        },
+        {
+            "id": 48002,
+            "shelfmark": "K 2: F 48",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48007,
+                    "part_order": 3,
+                    "number_of_verses": 50,
+                    "number_of_lines": 50,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v",
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43807,
+                "name": "Universitäts- und Landesbibliothek Düsseldorf",
+                "alternative_names": [
+                    "Universitäts-und Landesbibliothek Düsseldorf, Allemagne",
+                    "Heinrich-Heine-Universität, Universitäts- und Landesbibliothek Düsseldorf (D-DÜl)"
+                ],
+                "viaf": "125646738.000000",
+                "isni": "0000000109410725",
+                "settlement": {
+                    "id": 42782,
+                    "name": "Düsseldorf",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(6.77616 51.22172)",
+                    "geonames_id": 2934246
+                }
+            }
+        }
+    ]
+}

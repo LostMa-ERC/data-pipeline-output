@@ -1,0 +1,69 @@
+{
+    "type": "witness",
+    "id": 53255,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "G1",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/81004"
+    ],
+    "manuscripts": [
+        {
+            "id": 45369,
+            "shelfmark": "75 G 68",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52867,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troie)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43733,
+                "name": "Koninklijke Bibliotheek",
+                "alternative_names": [
+                    "Koninklijke Bibliotheek (Haga).",
+                    "Koninklijke Bibliotheek (Nīderlande)",
+                    "Koninklijke Bibliotheek (Nederland)",
+                    "Koninklijke Bibliotheek (Países Baixos)",
+                    "Koninklijke bibliotheek ('s-Gravenhage)",
+                    "Paises Baixos., Koninklijke Bibliotheek",
+                    "Koninklijke Bibliotheek",
+                    "Koninklijke Bibliotheek (Nizozemsko)",
+                    "Koninklijke Bibliotheek (Holanda)",
+                    "Koninklijke Bibliotheek (Països Baixos)",
+                    "Koninklijke bibliotheek Pays-Bas",
+                    "Koninklijke Bibliotheek Den Haag"
+                ],
+                "viaf": "102145970121932242944.000000",
+                "isni": "0000000123699000",
+                "settlement": {
+                    "id": 43653,
+                    "name": "The Hague",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.29861 52.07667)",
+                    "geonames_id": 2747373
+                }
+            }
+        }
+    ]
+}

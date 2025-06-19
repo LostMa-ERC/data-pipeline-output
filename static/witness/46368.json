@@ -1,0 +1,116 @@
+{
+    "type": "witness",
+    "id": 46368,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H1",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1181-01-01",
+    "creation_date_max": "1200-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "\"< 1200\"",
+    "urls": [],
+    "scripta": {
+        "id": 46335,
+        "name": "Nederfrankisch",
+        "description": "Volkstalige dialecten gesproken tussen Maas en Nederrijn (Nederfrankisch)",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 46354,
+            "shelfmark": "Ms. IV 816 / 1-6",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 46376,
+                    "part_order": 2,
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "9 fragments"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43904,
+                "name": "Bibliothèque royale de Belgique",
+                "alternative_names": [
+                    "Bélgica., Koninklijke Bibliotheek van België",
+                    "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR) Bruxelles; Brussel (B-Br)",
+                    "Biblioteka Królewska Belgii",
+                    "Bibliothèque royale Albert Ier",
+                    "Bibliothèque royale de Belgique (Bruxelles)",
+                    "Bibliothèque royale Albert Ier (Bruxelles, Belgique)",
+                    "Royal Library of Belgium"
+                ],
+                "viaf": "312739455.000000",
+                "isni": "0000000122714686",
+                "settlement": {
+                    "id": 43150,
+                    "name": "Brussels",
+                    "country": "Belgium",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(4.34878 50.85045)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2800866
+                }
+            }
+        },
+        {
+            "id": 46346,
+            "shelfmark": "B.P.L. 1049",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 46373,
+                    "part_order": 1,
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "15 fragments"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43873,
+                "name": "Universitaire Bibliotheken Leiden",
+                "alternative_names": [
+                    "Rijksuniversiteit te Leiden., Bibliotheek",
+                    "Leiden University Library",
+                    "Bibliotheek der Rijksuniversiteit Leiden",
+                    "Universiteitsbibliotheek (Lejda).",
+                    "Universiteitsbibliotheek (Leyde, Pays-Bas)",
+                    "Rijksuniversiteit Leiden Bibliotheek"
+                ],
+                "viaf": "133132602.000000",
+                "isni": "0000000122932800",
+                "settlement": {
+                    "id": 43362,
+                    "name": "Leiden",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.49306 52.15833)",
+                    "geonames_id": 2751773
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 53890,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Mans",
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/33533"
+    ],
+    "manuscripts": [
+        {
+            "id": 45399,
+            "shelfmark": "Ms 354",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51355,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1ra-207vb"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43872,
+                "name": "Médiathèque Louis Aragon",
+                "alternative_names": [
+                    "Médiathèque Louis-Aragon Le Mans (F-LM)",
+                    "Médiathèque Louis Aragon (Le Mans, Sarthe)",
+                    "Médiathèque Louis Aragon (Le Mans, France)",
+                    "médiathèque Louis-Aragon Le Mans"
+                ],
+                "viaf": "123371116.000000",
+                "settlement": {
+                    "id": 43622,
+                    "name": "Le Mans",
+                    "region": "Pays de la Loire",
+                    "country": "France",
+                    "location_mappable": "POINT(0.20251 48.0021)",
+                    "geonames_id": 3003603
+                }
+            }
+        }
+    ]
+}

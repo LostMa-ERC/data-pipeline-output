@@ -1,0 +1,66 @@
+{
+    "type": "witness",
+    "id": 55034,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "l",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1381-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/41193",
+        "https://arlima.net/no/8530"
+    ],
+    "manuscripts": [
+        {
+            "id": 47310,
+            "shelfmark": "102",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arlima.net/no/8530",
+                "http://jonas.irht.cnrs.fr/manuscrit/41193",
+                "https://data.biblissima.fr/entity/Q274655"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51952,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "67r-105r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43888,
+                "name": "St. John's College Oxford",
+                "alternative_names": [
+                    "Coleg Sant Ioan",
+                    "St. John's College (University of Oxford)",
+                    "St John's College",
+                    "St John's College Library Oxford (GB-Ojc)"
+                ],
+                "viaf": "152441516.000000",
+                "isni": "0000000122966373",
+                "settlement": {
+                    "id": 43407,
+                    "name": "Oxford",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-1.25596 51.75222)",
+                    "geonames_id": 2640729
+                }
+            }
+        }
+    ]
+}

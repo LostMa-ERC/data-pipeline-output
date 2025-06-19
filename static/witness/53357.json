@@ -1,0 +1,41 @@
+{
+    "type": "witness",
+    "id": 53357,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "https://arlima.net/no/380"
+    ],
+    "manuscripts": [
+        {
+            "id": 49934,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arlima.net/no/380"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52958,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troie, prose 5)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

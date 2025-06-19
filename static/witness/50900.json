@@ -1,0 +1,79 @@
+{
+    "type": "witness",
+    "id": 50900,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "2780",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1449-01-01",
+    "creation_date_max": "1471-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'1458-61'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/46"
+    ],
+    "scripta": {
+        "id": 48797,
+        "name": "East Midlands",
+        "description": "Dialect spoken in the middle Eastern part of England (East Midlands).",
+        "urls": [
+            "https://nl.wikipedia.org/wiki/East_Midlands"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 50899,
+            "shelfmark": "MS 432",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.middleenglishromance.org.uk/mer/46"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50901,
+                    "part_order": 1,
+                    "number_of_verses": 72,
+                    "number_of_lines": 72,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "60r-61v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43918,
+                "name": "Trinity College",
+                "alternative_names": [
+                    "Trinity College (Dublin, Irlande)",
+                    "Trinity College Library Dublin (IRL-Dtc)",
+                    "University of Dublin, Trinity College",
+                    "Trinity College (Dublin, Ireland).",
+                    "Trinity College Dublin, Éire",
+                    "University Dublin",
+                    "Dublin., Trinity College",
+                    "University of Dublin university located in Dublin, Ireland",
+                    "Trinity College (Dublín, Irlanda)"
+                ],
+                "viaf": "261059942.000000",
+                "isni": "0000000419369705",
+                "settlement": {
+                    "id": 42954,
+                    "name": "Dublin",
+                    "region": "Leinster",
+                    "country": "Ireland",
+                    "location_mappable": "POINT(-6.24889 53.33306)",
+                    "geonames_id": 2964574
+                }
+            }
+        }
+    ]
+}

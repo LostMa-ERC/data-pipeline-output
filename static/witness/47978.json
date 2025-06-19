@@ -1,0 +1,76 @@
+{
+    "type": "witness",
+    "id": 47978,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Hs. 24",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1335-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'c.1325'",
+    "urls": [
+        "https://digitalcollections.universiteitleiden.nl/view/item/1598537?solr_nav%5Bid%5D=a2ed1d13c8c952ff681e&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0#page/1/mode/1up"
+    ],
+    "scripta": {
+        "id": 46305,
+        "name": "Vlaams",
+        "description": "Dialect of Flanders.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47550,
+            "shelfmark": "Ltk. 191",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/21936"
+            ],
+            "witness_parts": [
+                {
+                    "id": 47979,
+                    "part_order": 1,
+                    "number_of_verses": 5604,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 5604,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-32v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43873,
+                "name": "Universitaire Bibliotheken Leiden",
+                "alternative_names": [
+                    "Rijksuniversiteit te Leiden., Bibliotheek",
+                    "Leiden University Library",
+                    "Bibliotheek der Rijksuniversiteit Leiden",
+                    "Universiteitsbibliotheek (Lejda).",
+                    "Universiteitsbibliotheek (Leyde, Pays-Bas)",
+                    "Rijksuniversiteit Leiden Bibliotheek"
+                ],
+                "viaf": "133132602.000000",
+                "isni": "0000000122932800",
+                "settlement": {
+                    "id": 43362,
+                    "name": "Leiden",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.49306 52.15833)",
+                    "geonames_id": 2751773
+                }
+            }
+        }
+    ]
+}

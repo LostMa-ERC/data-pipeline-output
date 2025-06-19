@@ -1,0 +1,63 @@
+{
+    "type": "witness",
+    "id": 54983,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "C",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/16360",
+        "https://arlima.net/no/4536"
+    ],
+    "manuscripts": [
+        {
+            "id": 45375,
+            "shelfmark": "1",
+            "old_shelfmarks": [
+                "B. 225"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51129,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-125v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43851,
+                "name": "Bibliothèque Municipale",
+                "alternative_names": [
+                    "Médiathèque Équinoxe (Châteauroux, France)",
+                    "Médiathëque (Châteauroux)",
+                    "Médiathèque Equinoxe Châteauroux",
+                    "Equinoxe - La Médiathèque Châteauroux (F-CHAme)"
+                ],
+                "viaf": "133346225.000000",
+                "settlement": {
+                    "id": 42657,
+                    "name": "Châteauroux",
+                    "region": "Centre-Val de Loire",
+                    "country": "France",
+                    "location_mappable": "POINT(1.69362 46.81248)",
+                    "geonames_id": 3026204
+                }
+            }
+        }
+    ]
+}

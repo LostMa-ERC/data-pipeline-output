@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 54839,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Mb",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/74780"
+    ],
+    "manuscripts": [
+        {
+            "id": 49590,
+            "shelfmark": "Busta 11a, fascicolo 4",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/74780"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51906,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Propheties de Merlin)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43862,
+                "name": "Archivio di Stato",
+                "alternative_names": [
+                    "Archivio di Stato (Modena, Itálie)",
+                    "Archivio di Stato (Sienne, Italie)",
+                    "Archivio di Stato (Modena)",
+                    "Archivio di Stato Modena (I-MOs)",
+                    "Italie. Archivio di Stato (Sienne)",
+                    "Archivio di Stato di Modena"
+                ],
+                "viaf": "151296005.000000",
+                "isni": "0000000121119113",
+                "settlement": {
+                    "id": 43702,
+                    "name": "Modena",
+                    "region": "Emilia-Romagna",
+                    "country": "Italy",
+                    "location_mappable": "POINT(10.92539 44.64783)",
+                    "geonames_id": 3173331
+                }
+            }
+        }
+    ]
+}

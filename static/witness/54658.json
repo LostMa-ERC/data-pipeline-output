@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 54658,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "https://arlima.net/no/9797"
+    ],
+    "manuscripts": [
+        {
+            "id": 49608,
+            "shelfmark": "5",
+            "old_shelfmarks": [
+                "D3 502"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arlima.net/no/9797"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51639,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Chevalier Ogier)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43992,
+                "name": "Bibliothèque municipale",
+                "alternative_names": [
+                    "Médiathèque municipale Saint-Étienne"
+                ],
+                "viaf": "158690404.000000",
+                "website": "http://www.bm-st-etienne.fr",
+                "settlement": {
+                    "id": 42731,
+                    "name": "Saint-Étienne",
+                    "region": "Auvergne-Rhône-Alpes",
+                    "country": "France",
+                    "location_mappable": "POINT(4.39 45.43389)",
+                    "geonames_id": 2980291
+                }
+            }
+        }
+    ]
+}

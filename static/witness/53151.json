@@ -1,0 +1,76 @@
+{
+    "type": "witness",
+    "id": 53151,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1583",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1391-01-01",
+    "creation_date_max": "1435-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'Early 15th century'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/48"
+    ],
+    "scripta": {
+        "id": 48834,
+        "name": "London",
+        "description": "Dialect spoken in the south east Brittain region.",
+        "urls": [
+            "https://en.wikipedia.org/wiki/London"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 53150,
+            "shelfmark": "MS Mm.5.14",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.middleenglishromance.org.uk/mer/48"
+            ],
+            "witness_parts": [
+                {
+                    "id": 53152,
+                    "part_order": 1,
+                    "number_of_verses": 1341,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 1341,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "186r-205v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43816,
+                "name": "University of Cambridge. Library",
+                "alternative_names": [
+                    "University of Cambridge (Inglaterra). Library",
+                    "אוניברסיטת קיימברידג'. הספרייה",
+                    "Biblioteka Uniwersytetu w Cambridge",
+                    "University of Cambridge. University Library",
+                    "Llyfrgell Prifysgol Caergrawnt"
+                ],
+                "viaf": "140790558.000000",
+                "isni": "0000000459040795",
+                "settlement": {
+                    "id": 43630,
+                    "name": "Cambridge",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(0.11667 52.2)",
+                    "geonames_id": 2653941
+                }
+            }
+        }
+    ]
+}

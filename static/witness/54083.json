@@ -1,0 +1,54 @@
+{
+    "type": "witness",
+    "id": 54083,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 45392,
+            "shelfmark": "Ms. 162-165, no. 165",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52282,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Garin le Lorrain)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43734,
+                "name": "Bibliothèque Municipale Epinal",
+                "alternative_names": [
+                    "Bibliothèque multimédia intercommunale Épinal Épinal (F-E)",
+                    "Bibliothèque municipale d'Épinal",
+                    "bibliothèque multimédia intercommunale d'Épinal"
+                ],
+                "viaf": "149637539.000000",
+                "isni": "0000000123484333",
+                "settlement": {
+                    "id": 42667,
+                    "name": "Épinal",
+                    "region": "Grand Est",
+                    "country": "France",
+                    "location_mappable": "POINT(6.45304 48.18324)",
+                    "geonames_id": 3020035
+                }
+            }
+        }
+    ]
+}

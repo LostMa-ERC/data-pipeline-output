@@ -1,0 +1,71 @@
+{
+    "type": "witness",
+    "id": 48015,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H28",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1191-01-01",
+    "creation_date_max": "1201-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'c.1200'",
+    "urls": [
+        "https://www.handschriftencensus.de/1608"
+    ],
+    "scripta": {
+        "id": 47503,
+        "name": "Oost-Nederlands",
+        "description": "Dialect from the eastern part of the current Netherlands, surrounding the Rijn-area.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48014,
+            "shelfmark": "Mappe X, mhd. Fragmente, Nr. 13",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "Yes",
+            "urls": [
+                "https://www.handschriftencensus.de/1608"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48016,
+                    "part_order": 1,
+                    "number_of_verses": 388,
+                    "number_of_lines": 388,
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v",
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43817,
+                "name": "Stadtbibliothek Trier",
+                "alternative_names": [
+                    "Stadtbibliothek Trèves, Allemagne",
+                    "Stadtbibliothek Trier, Deutschland"
+                ],
+                "viaf": "156462269.000000",
+                "isni": "0000000123697101",
+                "settlement": {
+                    "id": 43701,
+                    "name": "Trier",
+                    "region": "Rheinland-Pfalz",
+                    "country": "Germany",
+                    "location_mappable": "POINT(6.63935 49.75565)",
+                    "geonames_id": 2821164
+                }
+            }
+        }
+    ]
+}

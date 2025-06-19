@@ -1,0 +1,82 @@
+{
+    "type": "witness",
+    "id": 47785,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "LC",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1360-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIVb'",
+    "number_of_hands": 5,
+    "urls": [
+        "https://www.kb.nl/ontdekken-bewonderen/topstukken/lancelotcompilatie"
+    ],
+    "scripta": {
+        "id": 46312,
+        "name": "Brabants",
+        "description": "Dialect of Brabant.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47782,
+            "shelfmark": "129 A 10",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/18444"
+            ],
+            "witness_parts": [
+                {
+                    "id": 47786,
+                    "part_order": 1,
+                    "number_of_verses": 3667,
+                    "number_of_lines": 3667,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "188r-190r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43733,
+                "name": "Koninklijke Bibliotheek",
+                "alternative_names": [
+                    "Koninklijke Bibliotheek (Haga).",
+                    "Koninklijke Bibliotheek (Nīderlande)",
+                    "Koninklijke Bibliotheek (Nederland)",
+                    "Koninklijke Bibliotheek (Países Baixos)",
+                    "Koninklijke bibliotheek ('s-Gravenhage)",
+                    "Paises Baixos., Koninklijke Bibliotheek",
+                    "Koninklijke Bibliotheek",
+                    "Koninklijke Bibliotheek (Nizozemsko)",
+                    "Koninklijke Bibliotheek (Holanda)",
+                    "Koninklijke Bibliotheek (Països Baixos)",
+                    "Koninklijke bibliotheek Pays-Bas",
+                    "Koninklijke Bibliotheek Den Haag"
+                ],
+                "viaf": "102145970121932242944.000000",
+                "isni": "0000000123699000",
+                "settlement": {
+                    "id": 43653,
+                    "name": "The Hague",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.29861 52.07667)",
+                    "geonames_id": 2747373
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 53834,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Serrant",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/83274"
+    ],
+    "manuscripts": [
+        {
+            "id": 49819,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/83273"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51663,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Lancelot)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49817,
+                "name": "Bibliothèque du château de Serrant",
+                "alternative_names": [],
+                "viaf": "1408159234087803420672.000000",
+                "settlement": {
+                    "id": 49818,
+                    "name": "Saint-Georges-sur-Loire",
+                    "region": "Maine-et-Loire",
+                    "country": "France",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(-0.76331 47.40826)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2979885
+                }
+            }
+        }
+    ]
+}

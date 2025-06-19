@@ -1,0 +1,56 @@
+{
+    "type": "witness",
+    "id": 54187,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/76353"
+    ],
+    "manuscripts": [
+        {
+            "id": 45413,
+            "shelfmark": "PQ 1463. G78",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52632,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Girart de Vienne)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43881,
+                "name": "University of St Andrews Library",
+                "alternative_names": [
+                    "University of Saint Andrews. Library"
+                ],
+                "viaf": "137737086.000000",
+                "isni": "0000000099390766",
+                "settlement": {
+                    "id": 43627,
+                    "name": "Saint Andrews",
+                    "region": "Scotland",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-2.79902 56.33871)",
+                    "geonames_id": 2638864
+                }
+            }
+        }
+    ]
+}

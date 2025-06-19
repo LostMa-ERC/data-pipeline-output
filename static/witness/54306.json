@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 54306,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "P",
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1460-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/74925"
+    ],
+    "manuscripts": [
+        {
+            "id": 46139,
+            "shelfmark": "Cod. 32",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51461,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-117r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43961,
+                "name": "Seminario di Padova",
+                "alternative_names": [
+                    "Seminario vescovile di Padova (Padoue)",
+                    "Seminario vescovile Padoue, Italie",
+                    "Seminario vescovile (Padwa)."
+                ],
+                "viaf": "147848776.000000",
+                "isni": "000000009955939X",
+                "settlement": {
+                    "id": 43674,
+                    "name": "Padua",
+                    "region": "Veneto",
+                    "country": "Italy",
+                    "location_mappable": "POINT(11.88586 45.40797)",
+                    "geonames_id": 3171728
+                }
+            }
+        }
+    ]
+}

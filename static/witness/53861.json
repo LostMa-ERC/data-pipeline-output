@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 53861,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Fragm1",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/72990"
+    ],
+    "manuscripts": [
+        {
+            "id": 45437,
+            "shelfmark": "I A 24 q",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/72990"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51331,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43887,
+                "name": "Universiteitsbibliotheek Amsterdam",
+                "alternative_names": [
+                    "Bibliotheek der Universiteit van Amsterdam",
+                    "Universiteit van Amsterdam. Bibliotheek",
+                    "Universiteitsbibliotheek van Amsterdam",
+                    "Universiteitsbibliotheek Amsterdam (NL-Au)",
+                    "Amsterdam University Library",
+                    "Universiteitsbibliotheek"
+                ],
+                "viaf": "121919918.000000",
+                "isni": "0000000121496234",
+                "settlement": {
+                    "id": 43629,
+                    "name": "Amsterdam",
+                    "region": "North Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.88969 52.37403)",
+                    "geonames_id": 2759794
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 53349,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78971"
+    ],
+    "manuscripts": [
+        {
+            "id": 49802,
+            "shelfmark": "MS 160",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/78970"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52950,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "158-159"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49801,
+                "name": "Queen's College",
+                "alternative_names": [
+                    "Queen's College. University of Oxford"
+                ],
+                "viaf": "125513925.000000",
+                "settlement": {
+                    "id": 43407,
+                    "name": "Oxford",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-1.25596 51.75222)",
+                    "geonames_id": 2640729
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "witness",
+    "id": 53882,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Fragm4",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78636"
+    ],
+    "manuscripts": [
+        {
+            "id": 45195,
+            "shelfmark": "Reg., 366",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51349,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Joseph d'Arimathie Vulgate ou Estoire del Saint Graal)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43777,
+                "name": "Archives de l'État à Liège",
+                "alternative_names": [],
+                "viaf": "258599271.000000",
+                "isni": "0000000096909032",
+                "settlement": {
+                    "id": 43648,
+                    "name": "Liège",
+                    "region": "Wallonia",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(5.56749 50.63373)",
+                    "geonames_id": 2792413
+                }
+            }
+        }
+    ]
+}

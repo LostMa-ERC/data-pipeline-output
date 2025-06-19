@@ -1,0 +1,73 @@
+{
+    "type": "witness",
+    "id": 49713,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1690",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1441-01-01",
+    "creation_date_max": "1510-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'Second half of the 15th century'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/39"
+    ],
+    "scripta": {
+        "id": 48834,
+        "name": "London",
+        "description": "Dialect spoken in the south east Brittain region.",
+        "urls": [
+            "https://en.wikipedia.org/wiki/London"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 49710,
+            "shelfmark": "MS 306",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.middleenglishromance.org.uk/mer/39"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49714,
+                    "part_order": 1,
+                    "number_of_verses": 2241,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 2241,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "73r-107v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43850,
+                "name": "Lambeth Palace. Library",
+                "alternative_names": [
+                    "Lambeth Palace Library (London)",
+                    "Lambeth palace library Londres"
+                ],
+                "viaf": "221149196268974800896.000000",
+                "isni": "0000000122425921",
+                "settlement": {
+                    "id": 43399,
+                    "name": "London",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.12574 51.50853)",
+                    "geonames_id": 2643743
+                }
+            }
+        }
+    ]
+}

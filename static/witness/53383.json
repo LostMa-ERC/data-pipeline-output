@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 53383,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/36276",
+        "https://arlima.net/no/7779"
+    ],
+    "manuscripts": [
+        {
+            "id": 45304,
+            "shelfmark": "H 249",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 53052,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "232v-295v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43827,
+                "name": "Bibliothèque Interuniversitaire Section Médecine",
+                "alternative_names": [
+                    "Bibliothèque interuniversitaire (Montpellier, France). Section médecine",
+                    "Bibliothèque universitaire Historique de Médecine Montpellier (F-MOf)",
+                    "Bibliothèque interuniversitaire de Montpellier",
+                    "Bibliothèque interuniversitaire (Montpellier, Francie). Section médecine"
+                ],
+                "viaf": "150088932.000000",
+                "isni": "0000000121754440",
+                "settlement": {
+                    "id": 42700,
+                    "name": "Montpellier",
+                    "region": "Occitanie",
+                    "country": "France",
+                    "location_mappable": "POINT(3.87635 43.61093)",
+                    "geonames_id": 2992166
+                }
+            }
+        }
+    ]
+}

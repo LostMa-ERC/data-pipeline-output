@@ -1,0 +1,73 @@
+{
+    "type": "witness",
+    "id": 48284,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Germ. fol. 922",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1403-01-01",
+    "creation_date_max": "1425-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'c.1412-1415'",
+    "urls": [
+        "https://www.handschriftencensus.de/4269"
+    ],
+    "scripta": {
+        "id": 48048,
+        "name": "Westfalen",
+        "description": "German-Dutch dialect located at the middle west side of current Germany.",
+        "urls": [
+            "https://nl.wikipedia.org/wiki/Westfalen_(streek)"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 48283,
+            "shelfmark": "Ms. germ. fol. 922",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/4269"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48285,
+                    "part_order": 1,
+                    "number_of_verses": 11979,
+                    "number_of_lines": 11979,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "71r-122v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43889,
+                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
+                "alternative_names": [
+                    "Staatsbibliothek zu Berlin.",
+                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
+                    "Staatsbibliothek Berlin"
+                ],
+                "viaf": "157207056.000000",
+                "isni": "0000000123699481",
+                "settlement": {
+                    "id": 43580,
+                    "name": "Berlin",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
+                }
+            }
+        }
+    ]
+}

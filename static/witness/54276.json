@@ -1,0 +1,67 @@
+{
+    "type": "witness",
+    "id": 54276,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "T",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/59022"
+    ],
+    "manuscripts": [
+        {
+            "id": 49508,
+            "shelfmark": "L. I. 9",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arca.irht.cnrs.fr/ark:/63955/md483j334c6r",
+                "http://jonas.irht.cnrs.fr/manuscrit/59022"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52202,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Suite Guiron)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43776,
+                "name": "Biblioteca nazionale di Torino",
+                "alternative_names": [
+                    "Biblioteca nazionale universitaria Torino (I-Tn)",
+                    "Biblioteca nazionale universitaria di Torino",
+                    "Biblioteca nazionale universitaria Turin, Italie",
+                    "Biblioteca Nazionale (Torino)",
+                    "Biblioteca nazionale universitaria di Torino Italia",
+                    "Biblioteca nazionale universitaria (Turyn).",
+                    "Biblioteca Nazionale Universitaria"
+                ],
+                "viaf": "137869949.000000",
+                "isni": "0000000121669553",
+                "settlement": {
+                    "id": 43649,
+                    "name": "Turin",
+                    "region": "Piedmont",
+                    "country": "Italy",
+                    "location_mappable": "POINT(7.68682 45.07049)",
+                    "geonames_id": 3165524
+                }
+            }
+        }
+    ]
+}

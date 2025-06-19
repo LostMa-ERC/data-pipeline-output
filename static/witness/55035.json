@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 55035,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/43237",
+        "https://arlima.net/no/9334"
+    ],
+    "manuscripts": [
+        {
+            "id": 49545,
+            "shelfmark": "Ms 611",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/43237",
+                "https://arlima.net/no/9334"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51953,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Sept Sages de Rome, version A)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43931,
+                "name": "Institut de France. Bibliothèque",
+                "alternative_names": [
+                    "Bibliothèque de l'Institut de France Paris (F-Pi)",
+                    "Bibliothèque de l'Institut de France"
+                ],
+                "viaf": "131799465.000000",
+                "isni": "0000000121592437",
+                "settlement": {
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
+                }
+            }
+        }
+    ]
+}

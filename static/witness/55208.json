@@ -1,0 +1,51 @@
+{
+    "type": "witness",
+    "id": 55208,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/74775"
+    ],
+    "manuscripts": [
+        {
+            "id": 45175,
+            "shelfmark": "Ms. 13",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51829,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Tristan)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43767,
+                "name": "Archives Départementales de la Vienne",
+                "alternative_names": [],
+                "viaf": "142526182.000000",
+                "settlement": {
+                    "id": 42716,
+                    "name": "Poitiers",
+                    "region": "Nouvelle-Aquitaine",
+                    "country": "France",
+                    "location_mappable": "POINT(0.34348 46.58261)",
+                    "geonames_id": 2986495
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 54073,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/80341"
+    ],
+    "manuscripts": [
+        {
+            "id": 45409,
+            "shelfmark": "5 (Bibl., 139)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52273,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Garin le Lorrain)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43877,
+                "name": "Archives départementales du Doubs",
+                "alternative_names": [
+                    "Archives départementales du Doubs (Besançon)",
+                    "archives départementales du Doubs service d'archives départementales",
+                    "Archives du Doubs",
+                    "Doubs. Archives départementales"
+                ],
+                "viaf": "157132944.000000",
+                "isni": "0000000121598951",
+                "settlement": {
+                    "id": 42641,
+                    "name": "Besançon",
+                    "region": "Bourgogne-Franche-Comté",
+                    "country": "France",
+                    "location_mappable": "POINT(6.01815 47.24878)",
+                    "geonames_id": 3033123
+                }
+            }
+        }
+    ]
+}

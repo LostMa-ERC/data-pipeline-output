@@ -1,0 +1,56 @@
+{
+    "type": "witness",
+    "id": 54223,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "DEAF",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78654"
+    ],
+    "manuscripts": [
+        {
+            "id": 45747,
+            "shelfmark": "XVI. I, 7",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52381,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Gui de Warwick)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43749,
+                "name": "York Minster. Library",
+                "alternative_names": [
+                    "Minster Library York (GB-Y)"
+                ],
+                "viaf": "147210143.000000",
+                "settlement": {
+                    "id": 43672,
+                    "name": "York",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-1.08271 53.95763)",
+                    "geonames_id": 2633352
+                }
+            }
+        }
+    ]
+}

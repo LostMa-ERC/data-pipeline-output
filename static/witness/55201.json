@@ -1,0 +1,63 @@
+{
+    "type": "witness",
+    "id": 55201,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/82313"
+    ],
+    "manuscripts": [
+        {
+            "id": 47311,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "Yes",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/82313",
+                "https://data.biblissima.fr/entity/Q273943"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51826,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Tristan)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43739,
+                "name": "Archives départementales de Meurthe-et-Moselle",
+                "alternative_names": [
+                    "Archives départementales de Meurthe-et-Moselle Nancy (F-NAad)",
+                    "Archives Départementales de Meurthe-et-Moselle (Nancy)",
+                    "archives départementales de Meurthe-et-Moselle archives du département de Meurthe-et-Moselle",
+                    "Archives départementales (Meurthe-et-Moselle)",
+                    "Meurthe-et-Moselle. Archives départementales"
+                ],
+                "viaf": "147817727.000000",
+                "isni": "0000000119574264",
+                "settlement": {
+                    "id": 42702,
+                    "name": "Nancy",
+                    "region": "Grand Est",
+                    "country": "France",
+                    "location_mappable": "POINT(6.18496 48.68439)",
+                    "geonames_id": 2990999
+                }
+            }
+        }
+    ]
+}

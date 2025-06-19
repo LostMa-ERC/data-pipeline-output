@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 53201,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/81965"
+    ],
+    "manuscripts": [
+        {
+            "id": 45077,
+            "shelfmark": "Takamiya MS 42",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51604,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Lancelot)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43722,
+                "name": "Beinecke rare book and manuscript library",
+                "alternative_names": [
+                    "Yale University. Beinecke Rare Book and Manuscript Library (New Haven)",
+                    "Beinecke Rare Book and Manuscript Library (New Haven, Conn.) New Haven, Conn.",
+                    "Beinecke rare book and manuscript library New Haven, Conn.",
+                    "Beinecke Rare Book & Manuscript Library",
+                    "Yale University. Library. Beinecke Rare Book and Manuscript Library"
+                ],
+                "viaf": "146865135.000000",
+                "isni": "0000000121797790",
+                "settlement": {
+                    "id": 43496,
+                    "name": "New Haven",
+                    "region": "Connecticut",
+                    "country": "United States",
+                    "location_mappable": "POINT(-72.92816 41.30815)",
+                    "geonames_id": 4839366
+                }
+            }
+        }
+    ]
+}

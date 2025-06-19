@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 54927,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/82061"
+    ],
+    "manuscripts": [
+        {
+            "id": 48737,
+            "shelfmark": "Vente du 6 Juillet 2016, lot 36",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://jonas.irht.cnrs.fr/manuscrit/82061",
+                "https://data.biblissima.fr/entity/Q273267"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52896,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Aspremont)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43770,
+                "name": "Bloomsbury Book Auctions",
+                "alternative_names": [
+                    "Bloomsbury Book Auctions (Firm) London auctioneer founded by Frank Hermann and David Stagg",
+                    "Bloomsbury Book Auctions (Firme)",
+                    "Bloomsbury Book Auctions (firma)",
+                    "Bloomsbury Book Auctions London"
+                ],
+                "viaf": "125125135.000000",
+                "settlement": {
+                    "id": 43399,
+                    "name": "London",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.12574 51.50853)",
+                    "geonames_id": 2643743
+                }
+            }
+        }
+    ]
+}

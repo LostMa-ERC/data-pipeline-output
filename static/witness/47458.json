@@ -1,0 +1,68 @@
+{
+    "type": "witness",
+    "id": 47458,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H94",
+    "alternative_sigla": [],
+    "status": "lost",
+    "creation_date_min": "1191-01-01",
+    "creation_date_max": "1410-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIII/XIV'.",
+    "urls": [
+        "https://www.handschriftencensus.de/18870"
+    ],
+    "scripta": {
+        "id": 46312,
+        "name": "Brabants",
+        "description": "Dialect of Brabant.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47457,
+            "shelfmark": "3",
+            "old_shelfmarks": [],
+            "is_hypothetical": true,
+            "collection_of_fragments": "Yes",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47459,
+                    "part_order": 1,
+                    "number_of_verses": 132,
+                    "number_of_lines": 132,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47526,
+                "name": "Latvijas nacionālā bibliotēka",
+                "alternative_names": [
+                    "Biblioteka Narodowa Łotwy",
+                    "Latvijas nacionâlâ bibliotçka",
+                    "Riga, Stadsbibliotheek"
+                ],
+                "viaf": "148127403.000000",
+                "settlement": {
+                    "id": 43587,
+                    "name": "Riga",
+                    "country": "Latvia",
+                    "location_mappable": "POINT(24.10589 56.946)",
+                    "geonames_id": 456172
+                }
+            }
+        }
+    ]
+}

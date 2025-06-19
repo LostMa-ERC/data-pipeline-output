@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 53821,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78482",
+        "https://arlima.net/no/8816"
+    ],
+    "manuscripts": [
+        {
+            "id": 45384,
+            "shelfmark": "Vari E 181",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52238,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Entrée d’Espagne)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43859,
+                "name": "Biblioteca Antonio Panizzi",
+                "alternative_names": [
+                    "Biblioteca municipale Antonio Panizzi (Reggio Emilia)",
+                    "Biblioteca Panizzi",
+                    "Biblioteca Antonio Panizzi Reggio Emilia, Italie"
+                ],
+                "viaf": "145262876.000000",
+                "isni": "0000000119414017",
+                "settlement": {
+                    "id": 43617,
+                    "name": "Reggio Emilia",
+                    "region": "Emilia-Romagna",
+                    "country": "Italy",
+                    "location_mappable": "POINT(10.63125 44.69825)",
+                    "geonames_id": 3169522
+                }
+            }
+        }
+    ]
+}

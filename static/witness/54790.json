@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 54790,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1474-01-01",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/57690",
+        "https://arlima.net/no/7849"
+    ],
+    "manuscripts": [
+        {
+            "id": 49613,
+            "shelfmark": "S 97 bis",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/57690",
+                "https://arlima.net/no/7849"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51103,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-122r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49614,
+                "name": "Archives cantonales du Valais",
+                "alternative_names": [
+                    "Staatsarchiv Wallis",
+                    "Staatsarchiv des Kantons Wallis",
+                    "Archives de l'État du Valais",
+                    "Médiathèque Valais"
+                ],
+                "viaf": "158020648.000000",
+                "settlement": {
+                    "id": 43331,
+                    "name": "Sion",
+                    "region": "Valais",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(7.36606 46.23045)",
+                    "geonames_id": 7287176
+                }
+            }
+        }
+    ]
+}

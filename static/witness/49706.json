@@ -1,0 +1,74 @@
+{
+    "type": "witness",
+    "id": 49706,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1690",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1457-01-01",
+    "creation_date_max": "1457-01-01",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'1457'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/39"
+    ],
+    "manuscripts": [
+        {
+            "id": 48962,
+            "shelfmark": "MS XIII.B.29",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.medievalscribes.com/index.php?browse=manuscripts&id=147&navlocation=Naples&navlibrary=Biblioteca%20Nazionale&nav=off"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49707,
+                    "part_order": 1,
+                    "number_of_verses": 2241,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 2241,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "p. 87-113"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43778,
+                "name": "Biblioteca nazionale di Napoli",
+                "alternative_names": [
+                    "Biblioteca Nazionale Vittorio Emanuele III Napoli (I-Nn)",
+                    "Biblioteca nazionale Vittorio Emanuele III (Napoli)",
+                    "Biblioteca nazionale (Naples, Italie)",
+                    "Biblioteca nazionale (Nàpols, Itàlia)",
+                    "Biblioteca nazionale (Naples, Italy)",
+                    "Biblioteca nazionale Vittorio Emanuele III Naples, Italie",
+                    "Biblioteca nazionale Vittorio Emanuelle III (Napoli)",
+                    "Biblioteca Nazionale",
+                    "Biblioteca nazionale (Νεάπολη, Ιταλία)",
+                    "Biblioteca nazionale Vittorio Emanuele III",
+                    "Biblioteca Nazionale Vittorio Emanuele III (Neapol)."
+                ],
+                "viaf": "123993876.000000",
+                "isni": "0000000119310912",
+                "settlement": {
+                    "id": 43687,
+                    "name": "Naples",
+                    "region": "Campania",
+                    "country": "Italy",
+                    "location_mappable": "POINT(14.26811 40.85216)",
+                    "geonames_id": 3172394
+                }
+            }
+        }
+    ]
+}

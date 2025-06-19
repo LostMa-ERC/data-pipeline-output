@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 53496,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "C° C'",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/33328",
+        "https://arlima.net/no/2584"
+    ],
+    "manuscripts": [
+        {
+            "id": 45398,
+            "shelfmark": "Ms 14",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51172,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1-698"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43872,
+                "name": "Médiathèque Louis Aragon",
+                "alternative_names": [
+                    "Médiathèque Louis-Aragon Le Mans (F-LM)",
+                    "Médiathèque Louis Aragon (Le Mans, Sarthe)",
+                    "Médiathèque Louis Aragon (Le Mans, France)",
+                    "médiathèque Louis-Aragon Le Mans"
+                ],
+                "viaf": "123371116.000000",
+                "settlement": {
+                    "id": 43622,
+                    "name": "Le Mans",
+                    "region": "Pays de la Loire",
+                    "country": "France",
+                    "location_mappable": "POINT(0.20251 48.0021)",
+                    "geonames_id": 3003603
+                }
+            }
+        }
+    ]
+}

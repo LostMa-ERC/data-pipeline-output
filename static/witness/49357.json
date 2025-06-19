@@ -1,0 +1,214 @@
+{
+    "type": "witness",
+    "id": 49357,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "A",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1470-01-01",
+    "creation_date_max": "1475-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "1470-1475 d'après les filigranes (Roussineau, 1987, p.XXII)",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/oeuvre/2161"
+    ],
+    "manuscripts": [
+        {
+            "id": 49355,
+            "shelfmark": "Français 347",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/75256"
+            ],
+            "ark": "ark:/12148/cc49924q/ca19859827",
+            "witness_parts": [
+                {
+                    "id": 49360,
+                    "part_order": 3,
+                    "volume_number": "3",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-416v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43932,
+                "name": "Bibliothèque nationale de France",
+                "alternative_names": [
+                    "França., Bibliothèque Nationale",
+                    "Национальная библиотека. (Париж)",
+                    "Bibliotheque nationale de France (Paris)",
+                    "הספרייה הלאומית של צרפת",
+                    "باريس. المكتبة الوطنية"
+                ],
+                "viaf": "137156173.000000",
+                "isni": "0000000123531945",
+                "settlement": {
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
+                }
+            }
+        },
+        {
+            "id": 49356,
+            "shelfmark": "Français 348",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/75256"
+            ],
+            "ark": "ark:/12148/cc49924q/ca19859833",
+            "witness_parts": [
+                {
+                    "id": 49361,
+                    "part_order": 4,
+                    "volume_number": "4",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-341v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43932,
+                "name": "Bibliothèque nationale de France",
+                "alternative_names": [
+                    "França., Bibliothèque Nationale",
+                    "Национальная библиотека. (Париж)",
+                    "Bibliotheque nationale de France (Paris)",
+                    "הספרייה הלאומית של צרפת",
+                    "باريس. المكتبة الوطنية"
+                ],
+                "viaf": "137156173.000000",
+                "isni": "0000000123531945",
+                "settlement": {
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
+                }
+            }
+        },
+        {
+            "id": 49353,
+            "shelfmark": "Français 345",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/75256"
+            ],
+            "ark": "ark:/12148/cc49924q/ca19859825",
+            "witness_parts": [
+                {
+                    "id": 49358,
+                    "part_order": 1,
+                    "volume_number": "1",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-440v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43932,
+                "name": "Bibliothèque nationale de France",
+                "alternative_names": [
+                    "França., Bibliothèque Nationale",
+                    "Национальная библиотека. (Париж)",
+                    "Bibliotheque nationale de France (Paris)",
+                    "הספרייה הלאומית של צרפת",
+                    "باريس. المكتبة الوطنية"
+                ],
+                "viaf": "137156173.000000",
+                "isni": "0000000123531945",
+                "settlement": {
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
+                }
+            }
+        },
+        {
+            "id": 49354,
+            "shelfmark": "Français 346",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/75256"
+            ],
+            "ark": "ark:/12148/cc49924q/ca19859826",
+            "witness_parts": [
+                {
+                    "id": 49359,
+                    "part_order": 2,
+                    "volume_number": "2",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-425v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43932,
+                "name": "Bibliothèque nationale de France",
+                "alternative_names": [
+                    "França., Bibliothèque Nationale",
+                    "Национальная библиотека. (Париж)",
+                    "Bibliotheque nationale de France (Paris)",
+                    "הספרייה הלאומית של צרפת",
+                    "باريس. المكتبة الوطنية"
+                ],
+                "viaf": "137156173.000000",
+                "isni": "0000000123531945",
+                "settlement": {
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
+                }
+            }
+        }
+    ]
+}

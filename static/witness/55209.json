@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 55209,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1296-01-01",
+    "creation_date_max": "1305-12-31",
+    "creation_date_text": "Catalogue",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78956"
+    ],
+    "manuscripts": [
+        {
+            "id": 49778,
+            "shelfmark": "Fragm. philol. 2",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/78956"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51830,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Tristan)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43903,
+                "name": "Universitätsbibliothek Rostock",
+                "alternative_names": [
+                    "Universitätsbibliothek Rostock, Allemagne",
+                    "Universitätsbibliothek (Rostock) Rostock",
+                    "Universitätsbibliothek Rostock, Deutschland"
+                ],
+                "viaf": "122573964.000000",
+                "isni": "0000000122592551",
+                "settlement": {
+                    "id": 43638,
+                    "name": "Rostock",
+                    "region": "Mecklenburg-Vorpommern",
+                    "country": "Germany",
+                    "location_mappable": "POINT(12.14049 54.0887)",
+                    "geonames_id": 2844588
+                }
+            }
+        }
+    ]
+}

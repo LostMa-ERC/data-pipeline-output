@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 54040,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/72591"
+    ],
+    "manuscripts": [
+        {
+            "id": 45163,
+            "shelfmark": "061/190",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52610,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Fouque de Candie)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43988,
+                "name": "Bibliothèque de la ville de Mons",
+                "alternative_names": [
+                    "Bibliothèque de la ville de Tournai",
+                    "Openbare Bibliotheek",
+                    "Stedelijke Openbare Bibliotheek",
+                    "Bibliothèque publique de la ville de Mons"
+                ],
+                "viaf": "127889581.000000",
+                "settlement": {
+                    "id": 43670,
+                    "name": "Mons",
+                    "region": "Wallonia",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(3.95229 50.45413)",
+                    "geonames_id": 2790869
+                }
+            }
+        }
+    ]
+}

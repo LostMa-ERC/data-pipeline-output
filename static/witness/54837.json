@@ -1,0 +1,54 @@
+{
+    "type": "witness",
+    "id": 54837,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/83586"
+    ],
+    "manuscripts": [
+        {
+            "id": 49843,
+            "shelfmark": "ms.404c",
+            "old_shelfmarks": [],
+            "collection": "Fondo Antico",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/83586"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51568,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Lancelot)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49842,
+                "name": "Biblioteca dei Musei Civici",
+                "alternative_names": [],
+                "website": "https://anagrafe.iccu.sbn.it/isil/IT-CO0205",
+                "settlement": {
+                    "id": 42993,
+                    "name": "Como",
+                    "region": "Lombardy",
+                    "country": "Italy",
+                    "location_mappable": "POINT(9.08744 45.80998)",
+                    "geonames_id": 6542055
+                }
+            }
+        }
+    ]
+}

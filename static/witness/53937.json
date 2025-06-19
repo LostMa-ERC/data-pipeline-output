@@ -1,0 +1,42 @@
+{
+    "type": "witness",
+    "id": 53937,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Private1",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1291-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/69158"
+    ],
+    "manuscripts": [
+        {
+            "id": 47259,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/69158"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51399,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Joseph d'Arimathie Vulgate ou Estoire del Saint Graal)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

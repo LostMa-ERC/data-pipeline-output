@@ -1,0 +1,55 @@
+{
+    "type": "witness",
+    "id": 54112,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78275"
+    ],
+    "manuscripts": [
+        {
+            "id": 45836,
+            "shelfmark": "Maddison Deposit, 2/6",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52363,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Aliscans)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43758,
+                "name": "Lincolnshire Archives Office",
+                "alternative_names": [],
+                "viaf": "141912871.000000",
+                "isni": "0000000106965928",
+                "settlement": {
+                    "id": 43680,
+                    "name": "Lincoln",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.53792 53.22683)",
+                    "geonames_id": 2644487
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "type": "witness",
+    "id": 49967,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Louvre cuttings",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1470-01-01",
+    "creation_date_max": "1475-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "Vers 1470-1475",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/72894"
+    ],
+    "manuscripts": [
+        {
+            "id": 49548,
+            "shelfmark": "RF 4143",
+            "old_shelfmarks": [],
+            "collection": "Département des Arts graphiques",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/72894"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49968,
+                    "part_order": 1,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49546,
+                "name": "Musée du Louvre",
+                "alternative_names": [],
+                "viaf": "257711507.000000",
+                "settlement": {
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
+                }
+            }
+        },
+        {
+            "id": 49549,
+            "shelfmark": "RF 5271",
+            "old_shelfmarks": [],
+            "collection": "Cabinet des dessins",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/72894"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49969,
+                    "part_order": 2,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49546,
+                "name": "Musée du Louvre",
+                "alternative_names": [],
+                "viaf": "257711507.000000",
+                "settlement": {
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
+                }
+            }
+        }
+    ]
+}

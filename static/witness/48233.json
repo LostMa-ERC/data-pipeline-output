@@ -1,0 +1,98 @@
+{
+    "type": "witness",
+    "id": 48233,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H86",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1466-01-01",
+    "creation_date_max": "1510-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XVd'",
+    "urls": [],
+    "scripta": {
+        "id": 47240,
+        "name": "Limburgs",
+        "description": "Dialect from the Middle Dutch region Limburg.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48232,
+            "old_shelfmarks": [],
+            "collection": "mevr. B. Buchholz",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48236,
+                    "part_order": 1,
+                    "number_of_verses": 166,
+                    "number_of_lines": 166,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v",
+                        "3r-4v",
+                        "5r-6v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        },
+        {
+            "id": 48231,
+            "shelfmark": "W. 4o 322*",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48234,
+                    "part_order": 2,
+                    "number_of_verses": 135,
+                    "number_of_lines": 135,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v",
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48426,
+                "name": "Historisches Archiv der Stadt Köln",
+                "alternative_names": [
+                    "Cologne Allemagne, Historisches Archiv",
+                    "Cologne Historisches Archiv"
+                ],
+                "viaf": "143699716.000000",
+                "settlement": {
+                    "id": 47379,
+                    "name": "Köln",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(6.95 50.93333)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2886242
+                }
+            }
+        }
+    ]
+}

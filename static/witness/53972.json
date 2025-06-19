@@ -1,0 +1,63 @@
+{
+    "type": "witness",
+    "id": 53972,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/75448"
+    ],
+    "manuscripts": [
+        {
+            "id": 46110,
+            "shelfmark": "507",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52248,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43938,
+                "name": "Universitätsbibliothek Freiburg im Breisgau",
+                "alternative_names": [
+                    "Universität Freiburg im Breisgau. Bibliothek",
+                    "Universitätsbibliothek Freiburg",
+                    "Albert-Ludwigs-Universität Fribourg-en-Brisgau, Allemagne, Bibliothek",
+                    "Universitätsbibliothek (Freiburg im Breisgau, Allemagne)",
+                    "Universitätsbibliothek Freiburg im Breisgau (D-FRu)",
+                    "Universitätsbibliothek (Fryburg Bryzgowijski).",
+                    "Universitätsbibliothek Freiburg, Breisgau, Deutschland",
+                    "Universitätsbibliothek"
+                ],
+                "viaf": "143595522.000000",
+                "isni": "0000000123314799",
+                "settlement": {
+                    "id": 42791,
+                    "name": "Freiburg im Breisgau",
+                    "region": "Freiburg Region",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.85222 47.9959)",
+                    "geonames_id": 2925177
+                }
+            }
+        }
+    ]
+}

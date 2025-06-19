@@ -1,0 +1,108 @@
+{
+    "type": "witness",
+    "id": 48117,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H59",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1291-01-01",
+    "creation_date_max": "1335-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'≤ 1325'",
+    "urls": [
+        "https://www.handschriftencensus.de/20264"
+    ],
+    "scripta": {
+        "id": 46312,
+        "name": "Brabants",
+        "description": "Dialect of Brabant.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48116,
+            "old_shelfmarks": [],
+            "collection": "Fragment-J.F. Willems",
+            "is_hypothetical": true,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/20264"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48120,
+                    "part_order": 2,
+                    "number_of_verses": 26,
+                    "number_of_lines": 26,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        },
+        {
+            "id": 45381,
+            "shelfmark": "131 D 01 (1)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48118,
+                    "part_order": 1,
+                    "number_of_verses": 793,
+                    "number_of_lines": 793,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-5v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43733,
+                "name": "Koninklijke Bibliotheek",
+                "alternative_names": [
+                    "Koninklijke Bibliotheek (Haga).",
+                    "Koninklijke Bibliotheek (Nīderlande)",
+                    "Koninklijke Bibliotheek (Nederland)",
+                    "Koninklijke Bibliotheek (Países Baixos)",
+                    "Koninklijke bibliotheek ('s-Gravenhage)",
+                    "Paises Baixos., Koninklijke Bibliotheek",
+                    "Koninklijke Bibliotheek",
+                    "Koninklijke Bibliotheek (Nizozemsko)",
+                    "Koninklijke Bibliotheek (Holanda)",
+                    "Koninklijke Bibliotheek (Països Baixos)",
+                    "Koninklijke bibliotheek Pays-Bas",
+                    "Koninklijke Bibliotheek Den Haag"
+                ],
+                "viaf": "102145970121932242944.000000",
+                "isni": "0000000123699000",
+                "settlement": {
+                    "id": 43653,
+                    "name": "The Hague",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.29861 52.07667)",
+                    "geonames_id": 2747373
+                }
+            }
+        }
+    ]
+}

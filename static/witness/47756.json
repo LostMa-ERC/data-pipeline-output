@@ -1,0 +1,79 @@
+{
+    "type": "witness",
+    "id": 47756,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "15.589-623",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1391-01-01",
+    "creation_date_max": "1420-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'c.1399-1410'",
+    "number_of_hands": 1,
+    "urls": [
+        "https://opac.kbr.be/Library/search.aspx?SC=KBR_UNIFIED&QUERY=hulthem&_lg=nl-BE#/Detail/(query:(Id:'position:%20SOLR/DEFA-000001_OFFSET_0',Index:1,NBResults:50,PageRange:3,SearchQuery:(FacetFilter:'%7B%22_842%22:%22Handschrift%22%7D',ForceSearch:!f,InitialSearch:!f,Page:0,PageRange:3,QueryGuid:d04000e5-a342-44ad-a15c-5f24127f158c,QueryString:hulthem,ResultSize:50,ScenarioCode:KBR_UNIFIED,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:hulthem,SessionGuid:'81d2d403-471d-4dd7-aa92-9a6174cef71b',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Library,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"
+    ],
+    "scripta": {
+        "id": 46312,
+        "name": "Brabants",
+        "description": "Dialect of Brabant.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47647,
+            "shelfmark": "KBR, 15.589-623",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/6926"
+            ],
+            "witness_parts": [
+                {
+                    "id": 47757,
+                    "part_order": 1,
+                    "number_of_verses": 1127,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 1127,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "157v-164r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43904,
+                "name": "Bibliothèque royale de Belgique",
+                "alternative_names": [
+                    "Bélgica., Koninklijke Bibliotheek van België",
+                    "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR) Bruxelles; Brussel (B-Br)",
+                    "Biblioteka Królewska Belgii",
+                    "Bibliothèque royale Albert Ier",
+                    "Bibliothèque royale de Belgique (Bruxelles)",
+                    "Bibliothèque royale Albert Ier (Bruxelles, Belgique)",
+                    "Royal Library of Belgium"
+                ],
+                "viaf": "312739455.000000",
+                "isni": "0000000122714686",
+                "settlement": {
+                    "id": 43150,
+                    "name": "Brussels",
+                    "country": "Belgium",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(4.34878 50.85045)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2800866
+                }
+            }
+        }
+    ]
+}

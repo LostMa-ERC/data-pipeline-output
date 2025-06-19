@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 53362,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "M",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1381-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/72865"
+    ],
+    "manuscripts": [
+        {
+            "id": 49669,
+            "shelfmark": "Ms. Ludwig XIII 3 (83.MP.146)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/72865"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52963,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "3-3"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43902,
+                "name": "Getty Foundation",
+                "alternative_names": [
+                    "Getty Foundation nonprofit organization in Los Angeles, United States"
+                ],
+                "viaf": "136512731.000000",
+                "settlement": {
+                    "id": 43487,
+                    "name": "Los Angeles",
+                    "region": "California",
+                    "country": "United States",
+                    "location_mappable": "POINT(-118.24368 34.05223)",
+                    "geonames_id": 5368361
+                }
+            }
+        }
+    ]
+}

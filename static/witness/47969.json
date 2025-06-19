@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 47969,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H18",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1276-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47968,
+            "shelfmark": "Doos 1",
+            "old_shelfmarks": [],
+            "collection": "Fragmenten-De Pauw",
+            "is_hypothetical": true,
+            "collection_of_fragments": "Yes",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47970,
+                    "part_order": 1,
+                    "number_of_verses": 560,
+                    "number_of_lines": 560,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v",
+                        "3r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48432,
+                "name": "Stadsarchief te Gent",
+                "alternative_names": [],
+                "viaf": "151414770.000000",
+                "settlement": {
+                    "id": 43690,
+                    "name": "Ghent",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(3.71667 51.05)",
+                    "geonames_id": 2797656
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "type": "witness",
+    "id": 48972,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1993",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1416-01-01",
+    "creation_date_max": "1510-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'Mid to late fifteenth century'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/11",
+        "https://cudl.lib.cam.ac.uk/view/MS-TRINITY-COLLEGE-O-00002-00013/258"
+    ],
+    "scripta": {
+        "id": 48851,
+        "name": "East Anglia",
+        "description": "Region in the middle of Eastern England.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48970,
+            "shelfmark": "MS O.2.13",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48973,
+                    "part_order": 1,
+                    "number_of_verses": 245,
+                    "part_of_text": "4431-4993 (Auchinleck)",
+                    "number_of_lines": 245,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "149r-152r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43820,
+                "name": "Trinity College",
+                "alternative_names": [
+                    "University of Cambridge Trinity College",
+                    "Trinity College Cambridge",
+                    "Colaiste na Trianaide",
+                    "Trinity College Library Cambridge (GB-Ctc)",
+                    "Trinity College",
+                    "Trinity college Cambridge, GB"
+                ],
+                "viaf": "137201631.000000",
+                "isni": "0000000122431918",
+                "settlement": {
+                    "id": 43630,
+                    "name": "Cambridge",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(0.11667 52.2)",
+                    "geonames_id": 2653941
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 53889,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "V",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/66134"
+    ],
+    "manuscripts": [
+        {
+            "id": 46024,
+            "shelfmark": "Reg.lat.1725",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/66134"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51534,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Lancelot)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43760,
+                "name": "Biblioteca apostolica vaticana",
+                "alternative_names": [
+                    "Biblioteca apostolica vaticana (Vatikán)",
+                    "Vaticano., Biblioteca Apostolica Vaticana",
+                    "bibliothèque apostolique vaticane",
+                    "Biblioteka Watykańska",
+                    "ספריית הוותיקן",
+                    "Biblioteca Apostolica Vaticana Città del Vaticano (V-CVbav)"
+                ],
+                "viaf": "146085455.000000",
+                "isni": "0000000121786485",
+                "settlement": {
+                    "id": 43070,
+                    "name": "Rome",
+                    "region": "Lazio",
+                    "country": "Italy",
+                    "location_mappable": "POINT(12.51133 41.89193)",
+                    "geonames_id": 3169070
+                }
+            }
+        }
+    ]
+}

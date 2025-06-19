@@ -1,0 +1,70 @@
+{
+    "type": "witness",
+    "id": 47734,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "liasse 698",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1291-01-01",
+    "creation_date_max": "1460-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'De tekst is geschreven in de eerste helft van de veertiende eeuw'",
+    "urls": [
+        "https://www.dbnl.org/tekst/_tij003200001_01/_tij003200001_01_0019.php"
+    ],
+    "manuscripts": [
+        {
+            "id": 47733,
+            "shelfmark": "liasse 698",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47735,
+                    "part_order": 1,
+                    "number_of_verses": 99,
+                    "part_of_text": "18579-92, 18610-30, 18631-53, 18654-73, 18675-97 (ed. Pauw en Gauilliard)",
+                    "number_of_lines": 99,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43901,
+                "name": "Archives générales du Royaume",
+                "alternative_names": [
+                    "Algemeen Rijksarchief te Brussel",
+                    "Archives générales du Royaume (Belgique)",
+                    "Archives générales du Royaume",
+                    "Archives de l'État en Belgique",
+                    "Bruxelles., Archives Generales du Royaume",
+                    "Archives générales du Royaume (Bélgica)",
+                    "Archives générales du Royaume (Belgie)"
+                ],
+                "viaf": "144844098.000000",
+                "isni": "0000000121762651",
+                "settlement": {
+                    "id": 43150,
+                    "name": "Brussels",
+                    "country": "Belgium",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(4.34878 50.85045)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2800866
+                }
+            }
+        }
+    ]
+}

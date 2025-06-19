@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 54534,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "creation_date_min": "1381-01-01",
+    "creation_date_max": "1420-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/59035"
+    ],
+    "manuscripts": [
+        {
+            "id": 49471,
+            "shelfmark": "L. IV. 33 (1677)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://jonas.irht.cnrs.fr/manuscrit/59035",
+                "https://arlima.net/no/3053"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51290,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Merveilles de Rigomer)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43776,
+                "name": "Biblioteca nazionale di Torino",
+                "alternative_names": [
+                    "Biblioteca nazionale universitaria Torino (I-Tn)",
+                    "Biblioteca nazionale universitaria di Torino",
+                    "Biblioteca nazionale universitaria Turin, Italie",
+                    "Biblioteca Nazionale (Torino)",
+                    "Biblioteca nazionale universitaria di Torino Italia",
+                    "Biblioteca nazionale universitaria (Turyn).",
+                    "Biblioteca Nazionale Universitaria"
+                ],
+                "viaf": "137869949.000000",
+                "isni": "0000000121669553",
+                "settlement": {
+                    "id": 43649,
+                    "name": "Turin",
+                    "region": "Piedmont",
+                    "country": "Italy",
+                    "location_mappable": "POINT(7.68682 45.07049)",
+                    "geonames_id": 3165524
+                }
+            }
+        }
+    ]
+}

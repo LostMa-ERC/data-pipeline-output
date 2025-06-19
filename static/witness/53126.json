@@ -1,0 +1,71 @@
+{
+    "type": "witness",
+    "id": 53126,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1583",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1366-01-01",
+    "creation_date_max": "1410-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'Late 14th century'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/48",
+        "https://catalog.princeton.edu/catalog/99111942213506421"
+    ],
+    "scripta": {
+        "id": 49014,
+        "name": "Yorkshire",
+        "description": "Dialect spoken in the northern East of England, surrounding York.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 53124,
+            "shelfmark": "MS Taylor Medieval 11",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 53127,
+                    "part_order": 1,
+                    "number_of_verses": 1143,
+                    "part_of_text": "v. 1-1143",
+                    "number_of_lines": 1143,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "104v-110v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43915,
+                "name": "Princeton university. Library",
+                "alternative_names": [
+                    "Princeton University Library Princeton, NJ (US-PRu)",
+                    "Princeton University Libraries"
+                ],
+                "viaf": "121763554.000000",
+                "isni": "0000000121495514",
+                "settlement": {
+                    "id": 43644,
+                    "name": "Princeton",
+                    "region": "New Jersey",
+                    "country": "United States",
+                    "location_mappable": "POINT(-74.65905 40.34872)",
+                    "geonames_id": 5102922
+                }
+            }
+        }
+    ]
+}

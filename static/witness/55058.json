@@ -1,0 +1,63 @@
+{
+    "type": "witness",
+    "id": 55058,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "C",
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/16276",
+        "https://arlima.net/no/3626"
+    ],
+    "manuscripts": [
+        {
+            "id": 45080,
+            "shelfmark": "620",
+            "old_shelfmarks": [
+                "261"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51939,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "19-26"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43814,
+                "name": "Bibliothèque de Chartres",
+                "alternative_names": [
+                    "Bibliothèque municipale (Chartres).",
+                    "bibliothèque municipale de Chartres",
+                    "Bibliothèque Municipale"
+                ],
+                "viaf": "129750491.000000",
+                "isni": "0000000121564938",
+                "settlement": {
+                    "id": 43700,
+                    "name": "Chartres",
+                    "region": "Centre-Val de Loire",
+                    "country": "France",
+                    "location_mappable": "POINT(1.48925 48.44685)",
+                    "geonames_id": 3026467
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "type": "witness",
+    "id": 54756,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "F",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Medium",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/69397"
+    ],
+    "manuscripts": [
+        {
+            "id": 45629,
+            "shelfmark": "69",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 53080,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Perlesvaus)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43922,
+                "name": "Library of Congress",
+                "alternative_names": [
+                    "Library of Congress (Estados Unidos)",
+                    "Library of Congress (Washington, DC)",
+                    "ספריית הקונגרס (וושינגטון)",
+                    "مكتبة الكونجرس (واشنطن)",
+                    "アメリカ合衆国議会図書館",
+                    "Biblioteka Kongresu",
+                    "Library of Congress (Washington, D. C.)",
+                    "Library of Congress Etats-Unis",
+                    "Estados Unidos., Library of Congress"
+                ],
+                "viaf": "151962300.000000",
+                "isni": "000000012186288X‏",
+                "settlement": {
+                    "id": 43526,
+                    "name": "Washington",
+                    "region": "Washington, D.C.",
+                    "country": "United States",
+                    "location_mappable": "POINT(-77.03637 38.89511)",
+                    "geonames_id": 4140963
+                }
+            }
+        }
+    ]
+}

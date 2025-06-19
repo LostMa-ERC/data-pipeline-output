@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 47717,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H114",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1360-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'≤ 1350'",
+    "urls": [],
+    "scripta": {
+        "id": 47357,
+        "name": "Hollands",
+        "description": "Dialect from the north-western Dutch region.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47716,
+            "shelfmark": "7 bis a",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47718,
+                    "part_order": 1,
+                    "number_of_verses": 630,
+                    "number_of_lines": 630,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47350,
+                "name": "Koninklijke academie voor Nederlandse taal en letteren",
+                "alternative_names": [
+                    "Koninklijke vlaamse academie voor taal- en letterkunde"
+                ],
+                "viaf": "219233094.000000",
+                "settlement": {
+                    "id": 43690,
+                    "name": "Ghent",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(3.71667 51.05)",
+                    "geonames_id": 2797656
+                }
+            }
+        }
+    ]
+}

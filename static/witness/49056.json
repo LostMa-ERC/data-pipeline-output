@@ -1,0 +1,76 @@
+{
+    "type": "witness",
+    "id": 49056,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "*2288.8",
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1366-01-01",
+    "creation_date_max": "1410-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'late 14th century'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/21"
+    ],
+    "scripta": {
+        "id": 48845,
+        "name": "East of England",
+        "description": "Southern eastern region of England.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48841,
+            "shelfmark": "Egerton MS 2862",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.middleenglishromance.org.uk/mer/5"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49057,
+                    "part_order": 1,
+                    "number_of_verses": 1083,
+                    "part_of_text": "81-1164",
+                    "number_of_lines": 1083,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "98r-111r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43919,
+                "name": "British library",
+                "alternative_names": [
+                    "הספרייה הבריטית",
+                    "Breetish Leebrary",
+                    "英国図書館",
+                    "British Library London",
+                    "Reino Unido., British Library",
+                    "Biblioteka Brytyjska",
+                    "المكتبة البريطانية"
+                ],
+                "viaf": "121814978.000000",
+                "isni": "0000000123081542",
+                "settlement": {
+                    "id": 43399,
+                    "name": "London",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.12574 51.50853)",
+                    "geonames_id": 2643743
+                }
+            }
+        }
+    ]
+}

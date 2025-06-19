@@ -1,0 +1,63 @@
+{
+    "type": "witness",
+    "id": 53241,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "S2",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1351-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/6149"
+    ],
+    "manuscripts": [
+        {
+            "id": 46123,
+            "shelfmark": "146",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52850,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troie)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43947,
+                "name": "Biblioteca de Catalunya",
+                "alternative_names": [
+                    "Biblioteca Central de la Diputación Provincial de Barcelona",
+                    "Barcelona., Biblioteca Central de la Diputación Provincial",
+                    "Barcelona (Provincia) Biblioteca Central",
+                    "Biblioteca Central de Barcelona",
+                    "Biblioteca Central de Barcelona (España)",
+                    "Biblioteca Central de Cataluña"
+                ],
+                "viaf": "132077121.000000",
+                "isni": "0000000111957164",
+                "settlement": {
+                    "id": 43660,
+                    "name": "Barcelona",
+                    "region": "Catalonia",
+                    "country": "Spain",
+                    "location_mappable": "POINT(2.15899 41.38879)",
+                    "geonames_id": 3128760
+                }
+            }
+        }
+    ]
+}

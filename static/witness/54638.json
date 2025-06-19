@@ -1,0 +1,56 @@
+{
+    "type": "witness",
+    "id": 54638,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1225-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/81977"
+    ],
+    "manuscripts": [
+        {
+            "id": 45680,
+            "shelfmark": "De Ricci, 145",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52426,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Chevalier au cygne)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43745,
+                "name": "McGill University. Libraries",
+                "alternative_names": [
+                    "McGill University. Bibliothèques"
+                ],
+                "viaf": "130108013.000000",
+                "settlement": {
+                    "id": 43430,
+                    "name": "Montreal",
+                    "region": "Quebec",
+                    "country": "Canada",
+                    "location_mappable": "POINT(-73.58781 45.50884)",
+                    "geonames_id": 6077243
+                }
+            }
+        }
+    ]
+}

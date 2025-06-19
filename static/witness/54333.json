@@ -1,0 +1,63 @@
+{
+    "type": "witness",
+    "id": 54333,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/66314",
+        "https://arlima.net/no/6800"
+    ],
+    "manuscripts": [
+        {
+            "id": 46146,
+            "shelfmark": "Urb.lat.375",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52696,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1-117v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43760,
+                "name": "Biblioteca apostolica vaticana",
+                "alternative_names": [
+                    "Biblioteca apostolica vaticana (Vatikán)",
+                    "Vaticano., Biblioteca Apostolica Vaticana",
+                    "bibliothèque apostolique vaticane",
+                    "Biblioteka Watykańska",
+                    "ספריית הוותיקן",
+                    "Biblioteca Apostolica Vaticana Città del Vaticano (V-CVbav)"
+                ],
+                "viaf": "146085455.000000",
+                "isni": "0000000121786485",
+                "settlement": {
+                    "id": 43070,
+                    "name": "Rome",
+                    "region": "Lazio",
+                    "country": "Italy",
+                    "location_mappable": "POINT(12.51133 41.89193)",
+                    "geonames_id": 3169070
+                }
+            }
+        }
+    ]
+}

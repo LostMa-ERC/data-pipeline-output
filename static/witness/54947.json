@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 54947,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Brunswick-fragment",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1326-01-01",
+    "creation_date_max": "1335-12-31",
+    "creation_date_text": "Arlima, DÉAF",
+    "urls": [
+        "https://arlima.net/no/3568"
+    ],
+    "manuscripts": [
+        {
+            "id": 45294,
+            "shelfmark": "M194. R463 folio Vault",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arlima.net/no/3568"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52393,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Renaut de Montauban)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43824,
+                "name": "Bowdoin College. Library",
+                "alternative_names": [
+                    "Hawthorne Longfellow Library"
+                ],
+                "viaf": "140802630.000000",
+                "settlement": {
+                    "id": 43703,
+                    "name": "Brunswick",
+                    "region": "Maine",
+                    "country": "United States",
+                    "location_mappable": "POINT(-69.96533 43.91452)",
+                    "geonames_id": 4959473
+                }
+            }
+        }
+    ]
+}

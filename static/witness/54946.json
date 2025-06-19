@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 54946,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/61371",
+        "https://arlima.net/no/9937"
+    ],
+    "manuscripts": [
+        {
+            "id": 45211,
+            "shelfmark": "743",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52074,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-395v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43789,
+                "name": "Médiathèque du Grand Troyes",
+                "alternative_names": [
+                    "Médiathèque Jacques-Chirac Troyes (F-T)",
+                    "Bibliothèque de Troyes",
+                    "Médiathèque Jacques-Chirac",
+                    "Bibliothèque municipale à vocation régionale de Troyes"
+                ],
+                "viaf": "157848133.000000",
+                "isni": "0000000120977415",
+                "settlement": {
+                    "id": 42741,
+                    "name": "Troyes",
+                    "region": "Grand Est",
+                    "country": "France",
+                    "location_mappable": "POINT(4.08524 48.30073)",
+                    "geonames_id": 2971549
+                }
+            }
+        }
+    ]
+}

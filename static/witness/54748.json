@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 54748,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/81525"
+    ],
+    "manuscripts": [
+        {
+            "id": 45260,
+            "shelfmark": "MS 494",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51557,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Lancelot)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43805,
+                "name": "Corpus Christi College, Parker Library",
+                "alternative_names": [
+                    "Parker Library (Corpus Christi College)",
+                    "Corpus Christi College (Cambridge) Cambridge (GB-Ccc)",
+                    "Parker Library",
+                    "Corpus Christi College Cambridge, GB, Library"
+                ],
+                "viaf": "132157055.000000",
+                "isni": "0000000090493507",
+                "settlement": {
+                    "id": 43630,
+                    "name": "Cambridge",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(0.11667 52.2)",
+                    "geonames_id": 2653941
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "witness",
+    "id": 53147,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1583",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1416-01-01",
+    "creation_date_max": "1460-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'c. 1425-50'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/48"
+    ],
+    "scripta": {
+        "id": 48802,
+        "name": "North Midlands",
+        "description": "The North Midlands is a loosely defined area covering the northern parts of the Midlands in England.",
+        "urls": [
+            "https://en.wikipedia.org/wiki/North_Midlands"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 53146,
+            "shelfmark": "MS 2507",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 53148,
+                    "part_order": 1,
+                    "number_of_verses": 64,
+                    "part_of_text": "v. 985-1017, 1106-23, 1196, 1125-38",
+                    "number_of_lines": 64,
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

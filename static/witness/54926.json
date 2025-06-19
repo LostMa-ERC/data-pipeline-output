@@ -1,0 +1,64 @@
+{
+    "type": "witness",
+    "id": 54926,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/79246",
+        "https://arlima.net/no/12003"
+    ],
+    "manuscripts": [
+        {
+            "id": 45379,
+            "shelfmark": "L 310",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51576,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-145v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43857,
+                "name": "Bibliothèque cantonale et universitaire",
+                "alternative_names": [
+                    "Bibliothéque cantonale et universitaire",
+                    "Bibliothèque cantonale et universitaire (Fribourg) Fribourg (CH-Fcu)",
+                    "Bibliothèque cantonale et universitaire (Fribourg, Suisse)",
+                    "Bibliothèque cantonale et universitaire de Fribourg",
+                    "Bibliothèque cantonale et universitaire (Fribourg, Fribourg, Suisse)",
+                    "Bibliothèque cantonale et universitaire (Vaud, Suisse)",
+                    "Bibliothèque cantonale et universitaire (Fribourg, Švýcarsko)",
+                    "Bibliothèque cantonale et universitaire (Fribourg, Switzerland)",
+                    "Kantons- und Universitätsbibliothek Freiburg"
+                ],
+                "viaf": "128996068.000000",
+                "isni": "0000000122894189",
+                "settlement": {
+                    "id": 43614,
+                    "name": "Fribourg",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(7.15128 46.80237)",
+                    "geonames_id": 2660718
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "type": "witness",
+    "id": 54064,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Droz",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 49922,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arlima.net/no/11528"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52266,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Garin le Lorrain)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

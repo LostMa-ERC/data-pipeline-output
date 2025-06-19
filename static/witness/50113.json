@@ -1,0 +1,55 @@
+{
+    "type": "witness",
+    "id": 50113,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Þ280",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1376-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "c1375-1400",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47893,
+            "shelfmark": "Þjms 280",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://handrit.is/manuscript/view/is/?jms-0280"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50045,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46324,
+                "name": "Stofnun Árna Magnússonar",
+                "alternative_names": [],
+                "viaf": "143048087.000000",
+                "settlement": {
+                    "id": 42953,
+                    "name": "Reykjavík",
+                    "region": "Capital Region",
+                    "country": "Iceland",
+                    "location_mappable": "POINT(-21.89541 64.13548)",
+                    "geonames_id": 3413829
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 54294,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "F1",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/13305",
+        "https://arlima.net/no/8356"
+    ],
+    "manuscripts": [
+        {
+            "id": 49228,
+            "shelfmark": "MS Add. 4407",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.middleenglishromance.org.uk/mer/27"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52642,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Horn)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43816,
+                "name": "University of Cambridge. Library",
+                "alternative_names": [
+                    "University of Cambridge (Inglaterra). Library",
+                    "אוניברסיטת קיימברידג'. הספרייה",
+                    "Biblioteka Uniwersytetu w Cambridge",
+                    "University of Cambridge. University Library",
+                    "Llyfrgell Prifysgol Caergrawnt"
+                ],
+                "viaf": "140790558.000000",
+                "isni": "0000000459040795",
+                "settlement": {
+                    "id": 43630,
+                    "name": "Cambridge",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(0.11667 52.2)",
+                    "geonames_id": 2653941
+                }
+            }
+        }
+    ]
+}

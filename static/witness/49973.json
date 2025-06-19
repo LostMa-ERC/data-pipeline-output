@@ -1,0 +1,158 @@
+{
+    "type": "witness",
+    "id": 49973,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Alençon",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "Début du XIVe siècle",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/946"
+    ],
+    "manuscripts": [
+        {
+            "id": 45281,
+            "shelfmark": "MS 646",
+            "old_shelfmarks": [
+                "T. q. 1"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/946"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49975,
+                    "part_order": 2,
+                    "volume_number": "2",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43730,
+                "name": "Médiathèque de la communauté urbaine d'Alençon",
+                "alternative_names": [
+                    "Bibliothèque municipale Alençon (F-AL)",
+                    "Bibliothèque municipale d'Arras",
+                    "Médiathèque (Alençon, Orne)"
+                ],
+                "viaf": "261516764.000000",
+                "isni": "0000000106758961",
+                "settlement": {
+                    "id": 42627,
+                    "name": "Alençon",
+                    "region": "Normandy",
+                    "country": "France",
+                    "location_mappable": "POINT(0.09311 48.43476)",
+                    "geonames_id": 3038230
+                }
+            }
+        },
+        {
+            "id": 45292,
+            "shelfmark": "MS 647",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://initiale.irht.cnrs.fr/codex/196",
+                "http://jonas.irht.cnrs.fr/manuscrit/946"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49976,
+                    "part_order": 3,
+                    "volume_number": "3",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43730,
+                "name": "Médiathèque de la communauté urbaine d'Alençon",
+                "alternative_names": [
+                    "Bibliothèque municipale Alençon (F-AL)",
+                    "Bibliothèque municipale d'Arras",
+                    "Médiathèque (Alençon, Orne)"
+                ],
+                "viaf": "261516764.000000",
+                "isni": "0000000106758961",
+                "settlement": {
+                    "id": 42627,
+                    "name": "Alençon",
+                    "region": "Normandy",
+                    "country": "France",
+                    "location_mappable": "POINT(0.09311 48.43476)",
+                    "geonames_id": 3038230
+                }
+            }
+        },
+        {
+            "id": 45270,
+            "shelfmark": "MS 637",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/946"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49974,
+                    "part_order": 1,
+                    "volume_number": "1",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43730,
+                "name": "Médiathèque de la communauté urbaine d'Alençon",
+                "alternative_names": [
+                    "Bibliothèque municipale Alençon (F-AL)",
+                    "Bibliothèque municipale d'Arras",
+                    "Médiathèque (Alençon, Orne)"
+                ],
+                "viaf": "261516764.000000",
+                "isni": "0000000106758961",
+                "settlement": {
+                    "id": 42627,
+                    "name": "Alençon",
+                    "region": "Normandy",
+                    "country": "France",
+                    "location_mappable": "POINT(0.09311 48.43476)",
+                    "geonames_id": 3038230
+                }
+            }
+        }
+    ]
+}

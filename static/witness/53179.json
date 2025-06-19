@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 53179,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/81090"
+    ],
+    "manuscripts": [
+        {
+            "id": 45531,
+            "shelfmark": "AF A8",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51602,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-138v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43906,
+                "name": "Bibliothèque publique et universitaire",
+                "alternative_names": [
+                    "Bibliothèque publique et universitaire Neuchâtel, Suisse",
+                    "Bibliothèque publique de Neuchâtel",
+                    "Bibliothèque publique et universitaire de Neuchâtel",
+                    "Bibliothèque publique et universitaire de Neuchâtel (Neuchâtel) Neuchâtel (CH-N)",
+                    "Bibliothèque publique et universitaire (Neuchâtel, Neuchâtel, Suisse)"
+                ],
+                "viaf": "154265638.000000",
+                "isni": "0000000406409050",
+                "settlement": {
+                    "id": 42576,
+                    "name": "Neuchâtel",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(6.931 46.99179)",
+                    "geonames_id": 2659496
+                }
+            }
+        }
+    ]
+}

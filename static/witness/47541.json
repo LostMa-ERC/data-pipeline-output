@@ -1,0 +1,72 @@
+{
+    "type": "witness",
+    "id": 47541,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H12",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1366-01-01",
+    "creation_date_max": "1410-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIVd'",
+    "urls": [
+        "https://www.arlima.net/ad/baudouin_de_sebourc_en_neerlandais.html"
+    ],
+    "scripta": {
+        "id": 46305,
+        "name": "Vlaams",
+        "description": "Dialect of Flanders.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47540,
+            "shelfmark": "2o Cod. ms. 756",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.arlima.net/ad/baudouin_de_sebourc_en_neerlandais.html"
+            ],
+            "witness_parts": [
+                {
+                    "id": 47542,
+                    "part_order": 1,
+                    "number_of_verses": 314,
+                    "part_of_text": "Eerste zang",
+                    "number_of_lines": 314,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47356,
+                "name": "Universitätsbibliothek München",
+                "alternative_names": [
+                    "Ludwig-Maximilians-Universität München Universitätsbibliothek"
+                ],
+                "viaf": "146551110.000000",
+                "isni": "0000 0001 2342 2802",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        }
+    ]
+}

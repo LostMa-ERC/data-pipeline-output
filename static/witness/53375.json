@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 53375,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1425-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78980"
+    ],
+    "manuscripts": [
+        {
+            "id": 49599,
+            "shelfmark": "Divers 4 Roman de Troie",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/78980"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52976,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troie, prose 5)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43882,
+                "name": "Archives de l'Ancien Évêché de Bâle",
+                "alternative_names": [
+                    "Fondation des Archives de l'ancien Evêché de Bâle (Porrentruy)",
+                    "Catholic Church. Diocese of Basel (Switzerland). Archives",
+                    "Catholic Church Archives",
+                    "fondation des archives de l'ancien Évêché de Bâle"
+                ],
+                "viaf": "134024865.000000",
+                "isni": "0000000091570332",
+                "settlement": {
+                    "id": 43628,
+                    "name": "Porrentruy",
+                    "region": "Jura",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(7.07573 47.41728)",
+                    "geonames_id": 2659171
+                }
+            }
+        }
+    ]
+}

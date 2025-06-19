@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 53694,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1296-01-01",
+    "creation_date_max": "1305-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/82073"
+    ],
+    "manuscripts": [
+        {
+            "id": 45532,
+            "shelfmark": "183-04",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51861,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Conquete de Jerusalem)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43909,
+                "name": "Archives départementales de la Dordogne",
+                "alternative_names": [
+                    "Archives Départementales de la Dordogne Périgueux",
+                    "Archives départementales (Dordogne)",
+                    "Dordogne. Archives départementales",
+                    "Archives départementales de la Dordogne Périgueux (F-PEad)"
+                ],
+                "viaf": "131319133.000000",
+                "isni": "0000000121587064",
+                "settlement": {
+                    "id": 42714,
+                    "name": "Périgueux",
+                    "region": "Nouvelle-Aquitaine",
+                    "country": "France",
+                    "location_mappable": "POINT(0.71439 45.18691)",
+                    "geonames_id": 2987967
+                }
+            }
+        }
+    ]
+}

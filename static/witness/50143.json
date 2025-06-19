@@ -1,0 +1,66 @@
+{
+    "type": "witness",
+    "id": 50143,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "R",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1451-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "late 15th cent",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47874,
+            "shelfmark": "Reeves' Fragment",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://www.loc.gov/resource/mcc.013"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50055,
+                    "part_order": 2,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43922,
+                "name": "Library of Congress",
+                "alternative_names": [
+                    "Library of Congress (Estados Unidos)",
+                    "Library of Congress (Washington, DC)",
+                    "ספריית הקונגרס (וושינגטון)",
+                    "مكتبة الكونجرس (واشنطن)",
+                    "アメリカ合衆国議会図書館",
+                    "Biblioteka Kongresu",
+                    "Library of Congress (Washington, D. C.)",
+                    "Library of Congress Etats-Unis",
+                    "Estados Unidos., Library of Congress"
+                ],
+                "viaf": "151962300.000000",
+                "isni": "000000012186288X‏",
+                "settlement": {
+                    "id": 43526,
+                    "name": "Washington",
+                    "region": "Washington, D.C.",
+                    "country": "United States",
+                    "location_mappable": "POINT(-77.03637 38.89511)",
+                    "geonames_id": 4140963
+                }
+            }
+        }
+    ]
+}

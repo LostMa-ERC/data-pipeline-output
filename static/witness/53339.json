@@ -1,0 +1,38 @@
+{
+    "type": "witness",
+    "id": 53339,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "urls": [
+        "https://arlima.net/no/376"
+    ],
+    "manuscripts": [
+        {
+            "id": 49933,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arlima.net/no/376"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52942,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troise, prose 1 remaniée)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

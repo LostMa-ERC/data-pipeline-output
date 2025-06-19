@@ -1,0 +1,54 @@
+{
+    "type": "witness",
+    "id": 50069,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "A225",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1391-01-01",
+    "creation_date_max": "1410-12-31",
+    "creation_date_text": "1390-1410",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47807,
+            "shelfmark": "AM 225 fol.",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://handrit.is/manuscript/view/da/AM02-0225"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50006,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "88va-101rb"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46319,
+                "name": "Den Arnamagnæanske Samling",
+                "alternative_names": [],
+                "viaf": "123148995933759750144.000000",
+                "settlement": {
+                    "id": 43659,
+                    "name": "Copenhagen",
+                    "country": "Denmark",
+                    "location_mappable": "POINT(12.56553 55.67594)",
+                    "geonames_id": 2618425
+                }
+            }
+        }
+    ]
+}

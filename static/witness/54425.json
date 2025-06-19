@@ -1,0 +1,63 @@
+{
+    "type": "witness",
+    "id": 54425,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "V",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1441-01-01",
+    "creation_date_max": "1460-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/63505",
+        "https://arlima.net/no/2489"
+    ],
+    "manuscripts": [
+        {
+            "id": 45825,
+            "shelfmark": "461 (425)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51186,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "3r-124r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43757,
+                "name": "Bibliothèque Municipale Valenciennes",
+                "alternative_names": [
+                    "Bibliothèque Municipale",
+                    "bibliothèque municipale de Valenciennes",
+                    "Bibliothèque municipale Valenciennes (F-VAL)",
+                    "Valenciennes (France). Bibliothèque municipale",
+                    "Bibliothèque municipale Valenciennes, Nord"
+                ],
+                "viaf": "155510318.000000",
+                "isni": "0000000119583128",
+                "settlement": {
+                    "id": 43679,
+                    "name": "Valenciennes",
+                    "region": "Hauts-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(3.52506 50.35909)",
+                    "geonames_id": 2971041
+                }
+            }
+        }
+    ]
+}

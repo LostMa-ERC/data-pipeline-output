@@ -1,0 +1,52 @@
+{
+    "type": "witness",
+    "id": 53230,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78955"
+    ],
+    "manuscripts": [
+        {
+            "id": 45111,
+            "shelfmark": "6",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51888,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Tristan)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43762,
+                "name": "Archives départementales des Côtes-d'Armor",
+                "alternative_names": [],
+                "viaf": "136478623.000000",
+                "isni": "0000000121104202",
+                "settlement": {
+                    "id": 42728,
+                    "name": "Saint-Brieuc",
+                    "region": "Brittany",
+                    "country": "France",
+                    "location_mappable": "POINT(-2.76838 48.51513)",
+                    "geonames_id": 2981280
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 53799,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "F",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1325-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/72584"
+    ],
+    "manuscripts": [
+        {
+            "id": 45505,
+            "shelfmark": "Ms. II 7451",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52564,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "23r-75v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43904,
+                "name": "Bibliothèque royale de Belgique",
+                "alternative_names": [
+                    "Bélgica., Koninklijke Bibliotheek van België",
+                    "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR) Bruxelles; Brussel (B-Br)",
+                    "Biblioteka Królewska Belgii",
+                    "Bibliothèque royale Albert Ier",
+                    "Bibliothèque royale de Belgique (Bruxelles)",
+                    "Bibliothèque royale Albert Ier (Bruxelles, Belgique)",
+                    "Royal Library of Belgium"
+                ],
+                "viaf": "312739455.000000",
+                "isni": "0000000122714686",
+                "settlement": {
+                    "id": 43150,
+                    "name": "Brussels",
+                    "country": "Belgium",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(4.34878 50.85045)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2800866
+                }
+            }
+        }
+    ]
+}

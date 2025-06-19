@@ -1,0 +1,168 @@
+{
+    "type": "witness",
+    "id": 50103,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "A180a",
+    "alternative_sigla": [
+        "a"
+    ],
+    "status": "defective",
+    "creation_date_min": "1451-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "c1450-1500",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47803,
+            "shelfmark": "AM 180a fol.",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://handrit.is/manuscript/view/da/AM02-0180-a"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50033,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 50034,
+                    "part_order": 2,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 50035,
+                    "part_order": 3,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "3r-13v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 50036,
+                    "part_order": 4,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "14r-33v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 50037,
+                    "part_order": 5,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "34r-34v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 50038,
+                    "part_order": 6,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "35r-35v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 50039,
+                    "part_order": 7,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "36r-37v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 50040,
+                    "part_order": 8,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "38r-49v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 50041,
+                    "part_order": 9,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "50r-60v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46319,
+                "name": "Den Arnamagnæanske Samling",
+                "alternative_names": [],
+                "viaf": "123148995933759750144.000000",
+                "settlement": {
+                    "id": 43659,
+                    "name": "Copenhagen",
+                    "country": "Denmark",
+                    "location_mappable": "POINT(12.56553 55.67594)",
+                    "geonames_id": 2618425
+                }
+            }
+        }
+    ]
+}

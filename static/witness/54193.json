@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 54193,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "D",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/17653",
+        "https://arlima.net/no/12147"
+    ],
+    "manuscripts": [
+        {
+            "id": 45252,
+            "shelfmark": "3306",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52357,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Gui de Bourgogne)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43804,
+                "name": "Hessische Landes- und Hochschulbibliothek Darmstadt",
+                "alternative_names": [
+                    "Hessische Landes- und Hochschulbibliothek",
+                    "Hessischen Landes- und Hochschulbibliothek Darmstadt",
+                    "Hessische Landes- und Hochschulbibliothek Darmstadt, Allemagne"
+                ],
+                "viaf": "127347391.000000",
+                "isni": "0000000121536988",
+                "settlement": {
+                    "id": 43696,
+                    "name": "Darmstadt",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.65027 49.87167)",
+                    "geonames_id": 2938913
+                }
+            }
+        }
+    ]
+}

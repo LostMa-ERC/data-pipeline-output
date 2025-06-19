@@ -1,0 +1,69 @@
+{
+    "type": "witness",
+    "id": 48919,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1566",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1431-01-01",
+    "creation_date_max": "1450-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'c. 1440'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/69"
+    ],
+    "scripta": {
+        "id": 48921,
+        "name": "North East England",
+        "description": "Dialect spoken in the northern east of England, surrounding Durham.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48815,
+            "shelfmark": "MS 91",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://geographies-of-orthodoxy.qub.ac.uk/resources/?section=manuscript&id=67"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48920,
+                    "part_order": 1,
+                    "number_of_verses": 702,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 702,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "154r-161r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43758,
+                "name": "Lincolnshire Archives Office",
+                "alternative_names": [],
+                "viaf": "141912871.000000",
+                "isni": "0000000106965928",
+                "settlement": {
+                    "id": 43680,
+                    "name": "Lincoln",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.53792 53.22683)",
+                    "geonames_id": 2644487
+                }
+            }
+        }
+    ]
+}

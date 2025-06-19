@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 54388,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1111-01-01",
+    "creation_date_max": "1149-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/32841"
+    ],
+    "manuscripts": [
+        {
+            "id": 49704,
+            "shelfmark": "Códice 117",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://data.biblissima.fr/w/Item:Q273338",
+                "http://jonas.irht.cnrs.fr/manuscrit/32841"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52740,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Antiocha)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43952,
+                "name": "Real Academia de la Historia. Biblioteca",
+                "alternative_names": [
+                    "Real Academia de la historia Madrid, Biblioteca",
+                    "Academia de la Historia, Madrid. Biblioteca",
+                    "Real Academia de la Historia (Španělsko). Biblioteca",
+                    "Real Academia de la Historia Biblioteca",
+                    "Real Academia de la Historia (Espanya). Biblioteca",
+                    "Biblioteca de la Real Academia de la Historia",
+                    "Real Academia de la Historia (España) Biblioteca"
+                ],
+                "viaf": "122074788.000000",
+                "isni": "000000012096936X",
+                "settlement": {
+                    "id": 43714,
+                    "name": "Madrid",
+                    "country": "Spain",
+                    "location_mappable": "POINT(-3.70256 40.4165)",
+                    "geonames_id": 3117735
+                }
+            }
+        }
+    ]
+}

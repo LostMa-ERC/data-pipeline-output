@@ -1,0 +1,64 @@
+{
+    "type": "witness",
+    "id": 54358,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1300-12-31",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/80624"
+    ],
+    "manuscripts": [
+        {
+            "id": 45200,
+            "shelfmark": "SC 12/37/34",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52420,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Maugis d'Aigremont)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43895,
+                "name": "National Archives",
+                "alternative_names": [
+                    "National Archives London",
+                    "National Archives (Großbritannien)",
+                    "National Archives (Gran Bretanya)",
+                    "National Archives (Wielka Brytania)",
+                    "National Archives (Lielbritānija)",
+                    "National archives GB",
+                    "National Archives (Londyn).",
+                    "National Archives (Velká Británie)",
+                    "Yr Archifau Cenedlaethol"
+                ],
+                "viaf": "157574888.000000",
+                "isni": "0000000121125804",
+                "settlement": {
+                    "id": 43399,
+                    "name": "London",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.12574 51.50853)",
+                    "geonames_id": 2643743
+                }
+            }
+        }
+    ]
+}

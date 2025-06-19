@@ -1,0 +1,64 @@
+{
+    "type": "witness",
+    "id": 53344,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1323-01-01",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/40260"
+    ],
+    "manuscripts": [
+        {
+            "id": 49681,
+            "shelfmark": "MS. Douce 196",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/40260"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52947,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troie, prose 2)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43847,
+                "name": "Bodleian Library",
+                "alternative_names": [
+                    "ספריית בודליאנה",
+                    "Бодлеянская библиотека",
+                    "Biblioteka Bodlejańska",
+                    "Bodleian Library (Oxford)",
+                    "University of Oxford., Bodleian Library",
+                    "Bodleian library Oxford, GB",
+                    "Llyfrgell Bodley"
+                ],
+                "viaf": "129788129.000000",
+                "isni": "0000000123029752",
+                "settlement": {
+                    "id": 43407,
+                    "name": "Oxford",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-1.25596 51.75222)",
+                    "geonames_id": 2640729
+                }
+            }
+        }
+    ]
+}

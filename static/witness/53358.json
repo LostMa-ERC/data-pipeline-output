@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 53358,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Par",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/49448"
+    ],
+    "manuscripts": [
+        {
+            "id": 49762,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/49448"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51262,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Aventures des bruns)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43764,
+                "name": "Archivio di Stato",
+                "alternative_names": [
+                    "Italie. Archivio di Stato (Parme)",
+                    "Archivio di Stato di Parma (Italy)",
+                    "Archivio di Stato di Parma",
+                    "Archivio di Stato Parma (I-PAas)"
+                ],
+                "viaf": "151351604.000000",
+                "isni": "0000000121854425",
+                "settlement": {
+                    "id": 43686,
+                    "name": "Parma",
+                    "region": "Emilia-Romagna",
+                    "country": "Italy",
+                    "location_mappable": "POINT(10.32618 44.79935)",
+                    "geonames_id": 3171457
+                }
+            }
+        }
+    ]
+}

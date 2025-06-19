@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 54719,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1461-01-01",
+    "creation_date_max": "1470-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/38655",
+        "https://arlima.net/no/6975"
+    ],
+    "manuscripts": [
+        {
+            "id": 45192,
+            "shelfmark": "114",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51024,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Artus de Bretagne)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43726,
+                "name": "New York public library",
+                "alternative_names": [
+                    "ニューヨーク公共図書館"
+                ],
+                "viaf": "143013888.000000",
+                "isni": "0000000121736162",
+                "settlement": {
+                    "id": 43498,
+                    "name": "New York",
+                    "region": "New York",
+                    "country": "United States",
+                    "location_mappable": "POINT(-74.00597 40.71427)",
+                    "geonames_id": 5128581
+                }
+            }
+        }
+    ]
+}

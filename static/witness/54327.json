@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 54327,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1225-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/72368"
+    ],
+    "manuscripts": [
+        {
+            "id": 49527,
+            "shelfmark": "C06-B109",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/72368"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51292,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Jaufré)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49526,
+                "name": "Arxiu Municipal de Barcelona",
+                "alternative_names": [
+                    "Arxiu Històric de la Ciutat",
+                    "Institut Municipal d'Història"
+                ],
+                "viaf": "124501855.000000",
+                "website": "https://catalegarxiumunicipal.bcn.cat",
+                "settlement": {
+                    "id": 43660,
+                    "name": "Barcelona",
+                    "region": "Catalonia",
+                    "country": "Spain",
+                    "location_mappable": "POINT(2.15899 41.38879)",
+                    "geonames_id": 3128760
+                }
+            }
+        }
+    ]
+}

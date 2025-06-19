@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 55121,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1276-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/73413"
+    ],
+    "manuscripts": [
+        {
+            "id": 45266,
+            "shelfmark": "Rouse MS 68",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51247,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Athis et Prophilias)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43811,
+                "name": "University of California, Los Angeles. Library",
+                "alternative_names": [
+                    "University of California (Berkeley, Calif.) Library",
+                    "University research library",
+                    "University research library Los Angeles, Calif.",
+                    "University of California (Los Angeles). University Research Library",
+                    "University of California Los Angeles, Calif, Library",
+                    "University of California, Los Angeles. Research Library"
+                ],
+                "viaf": "132228110.000000",
+                "isni": "0000000121602279",
+                "settlement": {
+                    "id": 43487,
+                    "name": "Los Angeles",
+                    "region": "California",
+                    "country": "United States",
+                    "location_mappable": "POINT(-118.24368 34.05223)",
+                    "geonames_id": 5368361
+                }
+            }
+        }
+    ]
+}

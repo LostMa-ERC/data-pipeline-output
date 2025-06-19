@@ -1,0 +1,64 @@
+{
+    "type": "witness",
+    "id": 53483,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/82675"
+    ],
+    "manuscripts": [
+        {
+            "id": 45320,
+            "shelfmark": "AB/XIX/1739",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52817,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Alexandre)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43835,
+                "name": "Archives nationales France",
+                "alternative_names": [
+                    "Archives nationales (Frankrike)",
+                    "Archives nationales (França).",
+                    "Archives de France",
+                    "Archives nationales",
+                    "Archives Nationales (Paris; Pierrefitte-sur-Seine; Fontainebleau)",
+                    "Archives nationales (Francia)",
+                    "Archives Nationales Paris (F-Pan)",
+                    "Direction des archives de France."
+                ],
+                "viaf": "131469365.000000",
+                "isni": "0000000121589529",
+                "settlement": {
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
+                }
+            }
+        }
+    ]
+}

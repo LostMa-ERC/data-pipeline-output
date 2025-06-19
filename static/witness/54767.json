@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 54767,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/24227"
+    ],
+    "manuscripts": [
+        {
+            "id": 45325,
+            "shelfmark": "Gall. 001",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51082,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Pontus et Sidoine)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43732,
+                "name": "Staats- und Universitätsbibliothek Hamburg",
+                "alternative_names": [
+                    "Staats-und Universitats Bibliothek Hamburg",
+                    "Staats- und Universitätsbibliothek (Hambourg, Allemagne)",
+                    "Staats- und Universitätsbibliothek Hamburg, Deutschland",
+                    "Staats- und Universitätsbibliothek"
+                ],
+                "viaf": "158923653.000000",
+                "isni": "0000000122994294",
+                "settlement": {
+                    "id": 43584,
+                    "name": "Hamburg",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.99302 53.55073)",
+                    "geonames_id": 2911298
+                }
+            }
+        }
+    ]
+}

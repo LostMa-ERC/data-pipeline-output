@@ -1,0 +1,72 @@
+{
+    "type": "witness",
+    "id": 47437,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H101",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1466-01-01",
+    "creation_date_max": "1510-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XVd'.",
+    "urls": [],
+    "scripta": {
+        "id": 47240,
+        "name": "Limburgs",
+        "description": "Dialect from the Middle Dutch region Limburg.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47436,
+            "shelfmark": "I A 24 l",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47438,
+                    "part_order": 1,
+                    "number_of_verses": 557,
+                    "part_of_text": "Conclusion",
+                    "number_of_lines": 557,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-10r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43887,
+                "name": "Universiteitsbibliotheek Amsterdam",
+                "alternative_names": [
+                    "Bibliotheek der Universiteit van Amsterdam",
+                    "Universiteit van Amsterdam. Bibliotheek",
+                    "Universiteitsbibliotheek van Amsterdam",
+                    "Universiteitsbibliotheek Amsterdam (NL-Au)",
+                    "Amsterdam University Library",
+                    "Universiteitsbibliotheek"
+                ],
+                "viaf": "121919918.000000",
+                "isni": "0000000121496234",
+                "settlement": {
+                    "id": 43629,
+                    "name": "Amsterdam",
+                    "region": "North Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.88969 52.37403)",
+                    "geonames_id": 2759794
+                }
+            }
+        }
+    ]
+}

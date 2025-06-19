@@ -1,0 +1,64 @@
+{
+    "type": "witness",
+    "id": 54902,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "E",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/82527"
+    ],
+    "manuscripts": [
+        {
+            "id": 47319,
+            "shelfmark": "Q 63",
+            "old_shelfmarks": [],
+            "collection": "Bibliotheca Amploniana",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/82527"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52885,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "126-127"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43999,
+                "name": "Universitäts- und Forschungsbibliothek",
+                "alternative_names": [
+                    "Universitäts- und Forschungsbibliothek Erfurt/Gotha",
+                    "Forschungsbibliothek Gotha der Universität Erfurt Gotha"
+                ],
+                "viaf": "152174356.000000",
+                "website": "https://www.uni-erfurt.de/forschungsbibliothek-gotha",
+                "settlement": {
+                    "id": 43998,
+                    "name": "Erfurt",
+                    "region": "Thuringia",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.03283 50.9787)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2929670
+                }
+            }
+        }
+    ]
+}

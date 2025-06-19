@@ -1,0 +1,74 @@
+{
+    "type": "witness",
+    "id": 47500,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Cod. Germ. 41",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1291-01-01",
+    "creation_date_max": "1510-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIV/XV'.",
+    "urls": [
+        "https://www.handschriftencensus.de/9746"
+    ],
+    "scripta": {
+        "id": 47503,
+        "name": "Oost-Nederlands",
+        "description": "Dialect from the eastern part of the current Netherlands, surrounding the Rijn-area.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47498,
+            "shelfmark": "Cgm 41",
+            "old_shelfmarks": [
+                "Cod. germ. 41"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/9746"
+            ],
+            "witness_parts": [
+                {
+                    "id": 47501,
+                    "part_order": 1,
+                    "number_of_verses": 14300,
+                    "number_of_lines": 14300,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-108v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        }
+    ]
+}

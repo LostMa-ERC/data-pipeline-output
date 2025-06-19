@@ -1,0 +1,68 @@
+{
+    "type": "witness",
+    "id": 47467,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H96",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1291-01-01",
+    "creation_date_max": "1335-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIVa'.",
+    "urls": [
+        "https://www.handschriftencensus.de/13766"
+    ],
+    "scripta": {
+        "id": 46335,
+        "name": "Nederfrankisch",
+        "description": "Volkstalige dialecten gesproken tussen Maas en Nederrijn (Nederfrankisch)",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47466,
+            "shelfmark": "Cod. germ. 50",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/13766"
+            ],
+            "witness_parts": [
+                {
+                    "id": 47468,
+                    "part_order": 1,
+                    "number_of_verses": 320,
+                    "number_of_lines": 320,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47527,
+                "name": "Országos Széchényi Könyvtár",
+                "alternative_names": [
+                    "National Széchényi Library"
+                ],
+                "viaf": "147133105.000000",
+                "settlement": {
+                    "id": 43585,
+                    "name": "Budapest",
+                    "country": "Hungary",
+                    "location_mappable": "POINT(19.04045 47.49835)",
+                    "geonames_id": 3054643
+                }
+            }
+        }
+    ]
+}

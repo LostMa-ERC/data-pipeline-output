@@ -1,0 +1,76 @@
+{
+    "type": "witness",
+    "id": 53099,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "*823",
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1321-01-01",
+    "creation_date_max": "1340-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'c. 1330'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/47"
+    ],
+    "scripta": {
+        "id": 48834,
+        "name": "London",
+        "description": "Dialect spoken in the south east Brittain region.",
+        "urls": [
+            "https://en.wikipedia.org/wiki/London"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 48827,
+            "shelfmark": "MS Advocates 19.2.1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.middleenglishromance.org.uk/mer/5"
+            ],
+            "witness_parts": [
+                {
+                    "id": 53100,
+                    "part_order": 1,
+                    "number_of_verses": 880,
+                    "part_of_text": "Full text but lacks beginning 44 v.",
+                    "number_of_lines": 880,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "263r-267v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43958,
+                "name": "National Library of Scotland",
+                "alternative_names": [
+                    "National library of Scotland (Édimbourg)",
+                    "Leabharlann Nàiseanta na h-Alba",
+                    "Escócia., National Library",
+                    "National Library of Scotland (Edinburgh)"
+                ],
+                "viaf": "132075128.000000",
+                "isni": "000000040606761X",
+                "settlement": {
+                    "id": 43637,
+                    "name": "Edinburgh",
+                    "region": "Scotland",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-3.19648 55.95206)",
+                    "geonames_id": 2650225
+                }
+            }
+        }
+    ]
+}

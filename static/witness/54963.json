@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 54963,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "fragment",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_year": "1294-01-01",
+    "creation_date_text": "Bibale",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 49618,
+            "shelfmark": "Ms. 157",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://initiale.irht.cnrs.fr/codex/4113",
+                "https://bibale.irht.cnrs.fr/8950"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52408,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Renaut de Montauban)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43774,
+                "name": "Bibliothèque de Toulouse",
+                "alternative_names": [
+                    "Bibliothèques de Toulouse",
+                    "Bibliothèque Municipale Toulouse",
+                    "Bibliothèque municipale de Toulouse"
+                ],
+                "viaf": "124593334.000000",
+                "isni": "0000000120971793",
+                "settlement": {
+                    "id": 42738,
+                    "name": "Toulouse",
+                    "region": "Occitanie",
+                    "country": "France",
+                    "location_mappable": "POINT(1.44367 43.60426)",
+                    "geonames_id": 2972315
+                }
+            }
+        }
+    ]
+}

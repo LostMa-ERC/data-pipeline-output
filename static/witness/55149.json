@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 55149,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "D",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1181-01-01",
+    "creation_date_max": "1220-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/1829",
+        "https://arlima.net/no/2381"
+    ],
+    "manuscripts": [
+        {
+            "id": 46125,
+            "shelfmark": "26 (22)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52989,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "Garde début 1-1"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43949,
+                "name": "Bibliothèque municipale",
+                "alternative_names": [
+                    "Médiathèque Toussaint (Angers)",
+                    "Médiathèque Toussaint Angers (F-AN)",
+                    "Bibliothèque municipale d'Angers"
+                ],
+                "viaf": "149783419.000000",
+                "isni": "000000012182973X",
+                "settlement": {
+                    "id": 42628,
+                    "name": "Angers",
+                    "region": "Pays de la Loire",
+                    "country": "France",
+                    "location_mappable": "POINT(-0.55202 47.47156)",
+                    "geonames_id": 3037656
+                }
+            }
+        }
+    ]
+}

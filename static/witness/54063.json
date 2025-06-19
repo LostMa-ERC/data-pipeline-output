@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 54063,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "t",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "DÉAF",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78633"
+    ],
+    "manuscripts": [
+        {
+            "id": 49757,
+            "shelfmark": "Fragment Garin de Monglane",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/78633",
+                "https://www.stadtbibliothek-weberbach.de/File/fragmente-stadtbibliothek-trier.pdf"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52265,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Garin de Monglane)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43817,
+                "name": "Stadtbibliothek Trier",
+                "alternative_names": [
+                    "Stadtbibliothek Trèves, Allemagne",
+                    "Stadtbibliothek Trier, Deutschland"
+                ],
+                "viaf": "156462269.000000",
+                "isni": "0000000123697101",
+                "settlement": {
+                    "id": 43701,
+                    "name": "Trier",
+                    "region": "Rheinland-Pfalz",
+                    "country": "Germany",
+                    "location_mappable": "POINT(6.63935 49.75565)",
+                    "geonames_id": 2821164
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 53741,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/80087",
+        "https://arlima.net/no/2344"
+    ],
+    "manuscripts": [
+        {
+            "id": 45415,
+            "shelfmark": "93 J,I",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52839,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Alexandre)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43882,
+                "name": "Archives de l'Ancien Évêché de Bâle",
+                "alternative_names": [
+                    "Fondation des Archives de l'ancien Evêché de Bâle (Porrentruy)",
+                    "Catholic Church. Diocese of Basel (Switzerland). Archives",
+                    "Catholic Church Archives",
+                    "fondation des archives de l'ancien Évêché de Bâle"
+                ],
+                "viaf": "134024865.000000",
+                "isni": "0000000091570332",
+                "settlement": {
+                    "id": 43628,
+                    "name": "Porrentruy",
+                    "region": "Jura",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(7.07573 47.41728)",
+                    "geonames_id": 2659171
+                }
+            }
+        }
+    ]
+}

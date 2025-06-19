@@ -1,0 +1,74 @@
+{
+    "type": "witness",
+    "id": 53134,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1583",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1391-01-01",
+    "creation_date_max": "1435-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'First quarter of the 15th century'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/48",
+        "https://www.medievalscribes.com/index.php?browse=manuscripts&id=191&nav=off"
+    ],
+    "scripta": {
+        "id": 48834,
+        "name": "London",
+        "description": "Dialect spoken in the south east Brittain region.",
+        "urls": [
+            "https://en.wikipedia.org/wiki/London"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 48922,
+            "shelfmark": "MS 491",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.middleenglishromance.org.uk/mer/69"
+            ],
+            "witness_parts": [
+                {
+                    "id": 53135,
+                    "part_order": 1,
+                    "number_of_verses": 1341,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 1341,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "206r-227v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43850,
+                "name": "Lambeth Palace. Library",
+                "alternative_names": [
+                    "Lambeth Palace Library (London)",
+                    "Lambeth palace library Londres"
+                ],
+                "viaf": "221149196268974800896.000000",
+                "isni": "0000000122425921",
+                "settlement": {
+                    "id": 43399,
+                    "name": "London",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.12574 51.50853)",
+                    "geonames_id": 2643743
+                }
+            }
+        }
+    ]
+}

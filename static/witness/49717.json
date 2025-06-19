@@ -1,0 +1,79 @@
+{
+    "type": "witness",
+    "id": 49717,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1690",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1437-01-01",
+    "creation_date_max": "1470-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'1446-1460'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/39"
+    ],
+    "scripta": {
+        "id": 48797,
+        "name": "East Midlands",
+        "description": "Dialect spoken in the middle Eastern part of England (East Midlands).",
+        "urls": [
+            "https://nl.wikipedia.org/wiki/East_Midlands"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 49008,
+            "shelfmark": "Cotton MS Caligula A.ii",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.middleenglishromance.org.uk/mer/14"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49718,
+                    "part_order": 1,
+                    "number_of_verses": 2241,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 2241,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "42v-57r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43919,
+                "name": "British library",
+                "alternative_names": [
+                    "הספרייה הבריטית",
+                    "Breetish Leebrary",
+                    "英国図書館",
+                    "British Library London",
+                    "Reino Unido., British Library",
+                    "Biblioteka Brytyjska",
+                    "المكتبة البريطانية"
+                ],
+                "viaf": "121814978.000000",
+                "isni": "0000000123081542",
+                "settlement": {
+                    "id": 43399,
+                    "name": "London",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.12574 51.50853)",
+                    "geonames_id": 2643743
+                }
+            }
+        }
+    ]
+}

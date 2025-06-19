@@ -1,0 +1,63 @@
+{
+    "type": "witness",
+    "id": 53499,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "G",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1464-01-01",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/76569",
+        "https://arlima.net/no/6794"
+    ],
+    "manuscripts": [
+        {
+            "id": 46150,
+            "shelfmark": "Fr. c. 2",
+            "old_shelfmarks": [
+                "51"
+            ],
+            "collection": "Hesburgh Library, Rare Books and Special Collections",
+            "is_hypothetical": false,
+            "collection_of_fragments": "Yes",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51206,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Bertrand Du Guesclin)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43735,
+                "name": "University of Notre Dame. Library",
+                "alternative_names": [
+                    "University of Notre Dame, Libraries",
+                    "Theodore Hesburgh Library",
+                    "University of Notre Dame (Indiana). Library"
+                ],
+                "viaf": "136040265.000000",
+                "isni": "0000000122599753",
+                "settlement": {
+                    "id": 43665,
+                    "name": "Notre Dame",
+                    "region": "Indiana",
+                    "country": "United States",
+                    "location_mappable": "POINT(-86.23793 41.70019)",
+                    "geonames_id": 8469294
+                }
+            }
+        }
+    ]
+}

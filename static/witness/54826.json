@@ -1,0 +1,53 @@
+{
+    "type": "witness",
+    "id": 54826,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/82397"
+    ],
+    "manuscripts": [
+        {
+            "id": 45758,
+            "shelfmark": "Fragment A19",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51564,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Lancelot)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43750,
+                "name": "Universidade de Coimbra., Biblioteca Geral",
+                "alternative_names": [
+                    "Biblioteca Geral da Universidade de Coimbra"
+                ],
+                "viaf": "156615544.000000",
+                "isni": "0000000121924104",
+                "settlement": {
+                    "id": 43673,
+                    "name": "Coimbra",
+                    "country": "Portugal",
+                    "location_mappable": "POINT(-8.41955 40.20564)",
+                    "geonames_id": 2740637
+                }
+            }
+        }
+    ]
+}

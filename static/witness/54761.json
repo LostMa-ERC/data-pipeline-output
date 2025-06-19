@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 54761,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/8692"
+    ],
+    "manuscripts": [
+        {
+            "id": 45199,
+            "shelfmark": "587",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51076,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-80v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43780,
+                "name": "Bibliothèque municipale",
+                "alternative_names": [
+                    "Bibliothèque publique (Dijon)",
+                    "Bibliothèque municipale de Besançon",
+                    "Bibliothèque Municipale",
+                    "Bibliothèque municipale Besançon (F-B)"
+                ],
+                "viaf": "149564739.000000",
+                "isni": "0000000122962452",
+                "settlement": {
+                    "id": 42641,
+                    "name": "Besançon",
+                    "region": "Bourgogne-Franche-Comté",
+                    "country": "France",
+                    "location_mappable": "POINT(6.01815 47.24878)",
+                    "geonames_id": 3033123
+                }
+            }
+        }
+    ]
+}

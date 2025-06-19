@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 54984,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "Rialfri",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/83815"
+    ],
+    "manuscripts": [
+        {
+            "id": 48583,
+            "shelfmark": "134.A.A5, n.9",
+            "old_shelfmarks": [
+                "6"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/83815"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51130,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Roland)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49193,
+                "name": "Biblioteca comunale Imola",
+                "alternative_names": [],
+                "viaf": "124407255.000000",
+                "settlement": {
+                    "id": 43019,
+                    "name": "Imola",
+                    "region": "Emilia-Romagna",
+                    "country": "Italy",
+                    "location_mappable": "POINT(11.71582 44.35227)",
+                    "geonames_id": 6541032
+                }
+            }
+        }
+    ]
+}

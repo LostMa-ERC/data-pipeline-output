@@ -1,0 +1,75 @@
+{
+    "type": "witness",
+    "id": 48925,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1993",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1416-01-01",
+    "creation_date_max": "1510-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'Mid to late 15th century'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/11"
+    ],
+    "scripta": {
+        "id": 48845,
+        "name": "East of England",
+        "description": "Southern eastern region of England.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48924,
+            "shelfmark": "MS. Eng. Poet. D. 208",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "Yes",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48926,
+                    "part_order": 1,
+                    "number_of_verses": 211,
+                    "part_of_text": "4056-4266 of Auchinleck",
+                    "number_of_lines": 211,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "49r-50v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43847,
+                "name": "Bodleian Library",
+                "alternative_names": [
+                    "ספריית בודליאנה",
+                    "Бодлеянская библиотека",
+                    "Biblioteka Bodlejańska",
+                    "Bodleian Library (Oxford)",
+                    "University of Oxford., Bodleian Library",
+                    "Bodleian library Oxford, GB",
+                    "Llyfrgell Bodley"
+                ],
+                "viaf": "129788129.000000",
+                "isni": "0000000123029752",
+                "settlement": {
+                    "id": 43407,
+                    "name": "Oxford",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-1.25596 51.75222)",
+                    "geonames_id": 2640729
+                }
+            }
+        }
+    ]
+}

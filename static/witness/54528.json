@@ -1,0 +1,63 @@
+{
+    "type": "witness",
+    "id": 54528,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/81689"
+    ],
+    "manuscripts": [
+        {
+            "id": 45202,
+            "shelfmark": "F-11 00121",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51470,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Merlin)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43783,
+                "name": "Thomas Fisher Rare Book Library",
+                "alternative_names": [
+                    "Thomas Fisher rare book library (Toronto, Canada)",
+                    "University of Toronto. Thomas Fisher Rare Book Library",
+                    "Thomas Fisher rare book library Toronto, Ont.",
+                    "Bibliothèque de livres rares de Thomas Fisher",
+                    "University of Toronto, Thomas Fisher Rare Book Library Toronto (CDN-Ttfl)",
+                    "University of Toronto Library",
+                    "Thomas Fisher Rare Book Library Toronto"
+                ],
+                "viaf": "153502342.000000",
+                "isni": "0000000121885037",
+                "settlement": {
+                    "id": 43434,
+                    "name": "Toronto",
+                    "region": "Ontario",
+                    "country": "Canada",
+                    "location_mappable": "POINT(-79.39864 43.70643)",
+                    "geonames_id": 6167865
+                }
+            }
+        }
+    ]
+}

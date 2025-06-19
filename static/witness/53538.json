@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 53538,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "P",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78362",
+        "https://arlima.net/no/2571"
+    ],
+    "manuscripts": [
+        {
+            "id": 45466,
+            "shelfmark": "Ms. Codex 862",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52758,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1-126"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43896,
+                "name": "University of Pennsylvania. Library",
+                "alternative_names": [
+                    "Van Pelt Library",
+                    "Van Pelt library Philadelphie, Pa.",
+                    "University of Pennsylvania Libraries, Van Pelt-Dietrich Library Center - Kislak Center Philadelphia, PA (US-PHukc)"
+                ],
+                "viaf": "136552639.000000",
+                "isni": "0000000109428327",
+                "settlement": {
+                    "id": 42603,
+                    "name": "Philadelphia",
+                    "region": "Pennsylvania",
+                    "country": "United States",
+                    "location_mappable": "POINT(-75.16362 39.95238)",
+                    "geonames_id": 4560349
+                }
+            }
+        }
+    ]
+}

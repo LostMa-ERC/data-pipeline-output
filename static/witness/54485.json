@@ -1,0 +1,66 @@
+{
+    "type": "witness",
+    "id": 54485,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/82398"
+    ],
+    "manuscripts": [
+        {
+            "id": 45395,
+            "shelfmark": "1042-VIII",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51429,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Merlin)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43870,
+                "name": "Biblioteca de Montserrat",
+                "alternative_names": [
+                    "Montserrat (abbazia benedettina). Biblioteca",
+                    "Abadía de Montserrat. Biblioteca",
+                    "Montserrat (Monestir). Biblioteca",
+                    "Montserrat (Abbey). Biblioteca",
+                    "Kloster Montserrat Bibliothek",
+                    "Montserrat (kloster) Biblioteca",
+                    "Arxiu Històric Musical de Montserrat - Biblioteca de Montserrat Montserrat (E-MO)"
+                ],
+                "viaf": "150819331.000000",
+                "isni": "0000000119573317",
+                "website": "http://www.bibliotecademontserrat.net/",
+                "settlement": {
+                    "id": 43989,
+                    "name": "Montserrat",
+                    "region": "Catalonia",
+                    "country": "Spain",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(1.89407 41.54372)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 3115171
+                }
+            }
+        }
+    ]
+}

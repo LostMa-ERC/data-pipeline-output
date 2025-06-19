@@ -1,0 +1,67 @@
+{
+    "type": "witness",
+    "id": 55183,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/20836?contenu_tri=feuillets#temoins"
+    ],
+    "manuscripts": [
+        {
+            "id": 48710,
+            "shelfmark": "Ashburnham 50",
+            "old_shelfmarks": [
+                "Libri 50; 55"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arlima.net/no/9203",
+                "http://jonas.irht.cnrs.fr/manuscrit/20836",
+                "https://data.biblissima.fr/entity/Q270937"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51810,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Tristan)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43826,
+                "name": "Biblioteca medicea laurenziana",
+                "alternative_names": [
+                    "Medicean-Laurentian Library",
+                    "Biblioteca medicea laurenziana (Firenze)",
+                    "Biblioteca Medicea Laurenziana Florence, Italie",
+                    "Biblioteka Laurenziana (Florencja)",
+                    "Biblioteca Medicea Laurenziana (Florencja)."
+                ],
+                "viaf": "133196672.000000",
+                "isni": "0000000122867164",
+                "settlement": {
+                    "id": 43639,
+                    "name": "Florence",
+                    "region": "Tuscany",
+                    "country": "Italy",
+                    "location_mappable": "POINT(11.24626 43.77925)",
+                    "geonames_id": 3176959
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "type": "witness",
+    "id": 46402,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H2",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1341-01-01",
+    "creation_date_max": "1360-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "\"XIVm\"",
+    "urls": [],
+    "scripta": {
+        "id": 46312,
+        "name": "Brabants",
+        "description": "Dialect of Brabant.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 46398,
+            "shelfmark": "708.IBB",
+            "old_shelfmarks": [],
+            "collection": "Archief van het begijnhof",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 46406,
+                    "part_order": 1,
+                    "number_of_verses": 1200,
+                    "number_of_lines": 1200,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-4v",
+                        "5r-6v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46399,
+                "name": "Stadsarchief",
+                "alternative_names": [],
+                "viaf": "126477668.000000",
+                "settlement": {
+                    "id": 43347,
+                    "name": "Breda",
+                    "region": "North Brabant",
+                    "country": "Netherlands",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(4.76039 51.5779)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2758400
+                }
+            }
+        }
+    ]
+}

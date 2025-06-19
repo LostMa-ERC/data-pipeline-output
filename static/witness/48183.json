@@ -1,0 +1,75 @@
+{
+    "type": "witness",
+    "id": 48183,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H76",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1335-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'c.1325'",
+    "urls": [
+        "https://opac.kbr.be/Library/search.aspx?SC=KBR_UNIFIED&QUERY=Moriaen&_lg=nl-BE#/Detail/(query:(Id:'position:%20SOLR/DEFA-000007_OFFSET_0',Index:10,NBResults:184,PageRange:3,SearchQuery:(FacetFilter:%7B%7D,ForceSearch:!f,InitialSearch:!f,Page:0,PageRange:3,QueryGuid:'27d88d51-68d2-4a48-bd05-9377265154a4',QueryString:Moriaen,ResultSize:50,ScenarioCode:KBR_UNIFIED,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:Moriaen,SessionGuid:'75beb923-1724-4b2b-be58-fe6853fb555b',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Library,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"
+    ],
+    "scripta": {
+        "id": 46305,
+        "name": "Vlaams",
+        "description": "Dialect of Flanders.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48182,
+            "shelfmark": "Ms. IV 1059",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48184,
+                    "part_order": 1,
+                    "number_of_verses": 243,
+                    "number_of_lines": 243,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43904,
+                "name": "Bibliothèque royale de Belgique",
+                "alternative_names": [
+                    "Bélgica., Koninklijke Bibliotheek van België",
+                    "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR) Bruxelles; Brussel (B-Br)",
+                    "Biblioteka Królewska Belgii",
+                    "Bibliothèque royale Albert Ier",
+                    "Bibliothèque royale de Belgique (Bruxelles)",
+                    "Bibliothèque royale Albert Ier (Bruxelles, Belgique)",
+                    "Royal Library of Belgium"
+                ],
+                "viaf": "312739455.000000",
+                "isni": "0000000122714686",
+                "settlement": {
+                    "id": 43150,
+                    "name": "Brussels",
+                    "country": "Belgium",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(4.34878 50.85045)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2800866
+                }
+            }
+        }
+    ]
+}

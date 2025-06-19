@@ -1,0 +1,67 @@
+{
+    "type": "witness",
+    "id": 47938,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Teplá MS. Fragm. 44",
+    "alternative_sigla": [
+        "H133"
+    ],
+    "status": "fragmentary",
+    "creation_date_min": "1291-01-01",
+    "creation_date_max": "1351-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "urls": [
+        "https://www.handschriftencensus.de/7569"
+    ],
+    "manuscripts": [
+        {
+            "id": 47937,
+            "shelfmark": "Teplá MS. Fragm. 44",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/7569"
+            ],
+            "witness_parts": [
+                {
+                    "id": 47939,
+                    "part_order": 1,
+                    "number_of_verses": 178,
+                    "number_of_lines": 178,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v",
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47364,
+                "name": "National Library of the Czech Republic",
+                "alternative_names": [
+                    "Národní knihovna České republiky",
+                    "Национальная библиотека Чешской Республики",
+                    "Bibliothèque nationale de la République tchèque",
+                    "National Library of the Czech Republic"
+                ],
+                "viaf": "135195765.000000",
+                "settlement": {
+                    "id": 43579,
+                    "name": "Prague",
+                    "country": "Czechia",
+                    "location_mappable": "POINT(14.42076 50.08804)",
+                    "geonames_id": 3067696
+                }
+            }
+        }
+    ]
+}

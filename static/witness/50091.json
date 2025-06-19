@@ -1,0 +1,57 @@
+{
+    "type": "witness",
+    "id": 50091,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "A152",
+    "alternative_sigla": [
+        "C"
+    ],
+    "status": "complete",
+    "creation_date_min": "1501-01-01",
+    "creation_date_max": "1525-12-31",
+    "creation_date_text": "c1500-1525",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47800,
+            "shelfmark": "AM 152 fol.",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://handrit.is/manuscript/view/is/AM02-0152-1-2"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50025,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "54v-69r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46324,
+                "name": "Stofnun Árna Magnússonar",
+                "alternative_names": [],
+                "viaf": "143048087.000000",
+                "settlement": {
+                    "id": 42953,
+                    "name": "Reykjavík",
+                    "region": "Capital Region",
+                    "country": "Iceland",
+                    "location_mappable": "POINT(-21.89541 64.13548)",
+                    "geonames_id": 3413829
+                }
+            }
+        }
+    ]
+}

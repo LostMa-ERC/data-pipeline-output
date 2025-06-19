@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 54950,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Metz-fragment",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1241-01-01",
+    "creation_date_max": "1260-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/82153",
+        "https://arlima.net/no/9463"
+    ],
+    "manuscripts": [
+        {
+            "id": 46149,
+            "shelfmark": "II 129 n°1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52395,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Renaut de Montauban)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43723,
+                "name": "Archives municipales de Metz",
+                "alternative_names": [
+                    "Archives municipales Metz (F-MEam)",
+                    "Archives Municipales (Metz)",
+                    "archives municipales de Metz service d'archives municipales en France"
+                ],
+                "viaf": "154453062.000000",
+                "isni": "0000000122978278",
+                "settlement": {
+                    "id": 42694,
+                    "name": "Metz",
+                    "region": "Grand Est",
+                    "country": "France",
+                    "location_mappable": "POINT(6.17269 49.11911)",
+                    "geonames_id": 2994160
+                }
+            }
+        }
+    ]
+}

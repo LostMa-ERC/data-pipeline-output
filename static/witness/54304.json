@@ -1,0 +1,57 @@
+{
+    "type": "witness",
+    "id": 54304,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "B",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1341-01-01",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/74433",
+        "https://arlima.net/no/7679"
+    ],
+    "manuscripts": [
+        {
+            "id": 45540,
+            "shelfmark": "78 D 8",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51439,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-84v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43997,
+                "name": "Kupferstichkabinett",
+                "alternative_names": [
+                    "Kupferstichkabinett Berlin, RDA",
+                    "Staatliche Museen zu Berlin (Germany : East). Kupferstichkabinett"
+                ],
+                "viaf": "158244037.000000",
+                "settlement": {
+                    "id": 43580,
+                    "name": "Berlin",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
+                }
+            }
+        }
+    ]
+}

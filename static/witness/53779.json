@@ -1,0 +1,53 @@
+{
+    "type": "witness",
+    "id": 53779,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 45386,
+            "shelfmark": "Scatola 20, fol. 34v",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52843,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Alexandre)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43863,
+                "name": "Archivio di Stato",
+                "alternative_names": [
+                    "Archivio di Stato di Treviso",
+                    "Archivio di Stato di Treviso (Italy)"
+                ],
+                "viaf": "141176281.000000",
+                "isni": "0000000095731412",
+                "settlement": {
+                    "id": 43618,
+                    "name": "Treviso",
+                    "region": "Veneto",
+                    "country": "Italy",
+                    "location_mappable": "POINT(12.2416 45.66673)",
+                    "geonames_id": 3165201
+                }
+            }
+        }
+    ]
+}

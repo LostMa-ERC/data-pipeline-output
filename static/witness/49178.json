@@ -1,0 +1,75 @@
+{
+    "type": "witness",
+    "id": 49178,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1913",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1416-01-01",
+    "creation_date_max": "1485-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'Mid 15th century'",
+    "number_of_hands": 1,
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/22",
+        "https://idiscover.lib.cam.ac.uk/primo-explore/fulldisplay?docid=44CAM_DSPACE_APOLLO1810%2F320151&context=L&vid=44CAM_PROD&lang=en_US&search_scope=SCOP_CAM_ALL&adaptor=Local%20Search%20Engine&tab=cam_lib_coll&query=any,contains,MS%20Mm.2.5"
+    ],
+    "scripta": {
+        "id": 48851,
+        "name": "East Anglia",
+        "description": "Region in the middle of Eastern England.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 49177,
+            "shelfmark": "MS Mm.2.5",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 49179,
+                    "part_order": 1,
+                    "number_of_verses": 898,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 898,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "48v-58v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43816,
+                "name": "University of Cambridge. Library",
+                "alternative_names": [
+                    "University of Cambridge (Inglaterra). Library",
+                    "אוניברסיטת קיימברידג'. הספרייה",
+                    "Biblioteka Uniwersytetu w Cambridge",
+                    "University of Cambridge. University Library",
+                    "Llyfrgell Prifysgol Caergrawnt"
+                ],
+                "viaf": "140790558.000000",
+                "isni": "0000000459040795",
+                "settlement": {
+                    "id": 43630,
+                    "name": "Cambridge",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(0.11667 52.2)",
+                    "geonames_id": 2653941
+                }
+            }
+        }
+    ]
+}

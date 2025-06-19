@@ -1,0 +1,44 @@
+name: Test
+
+on:
+  schedule:
+    # Run at 8:00 UTC (9:00 CET) on weekdays
+    - cron: "00 8 * * 1-5"
+
+jobs:
+  update:
+    name: Update data
+    runs-on: ubuntu-latest
+    env:
+      HEURIST_LOGIN: ${{ secrets.HEURISTUSER }}
+      HEURIST_PASSWORD: ${{ secrets.HEURISTPASS }}
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.12
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip setuptools wheel
+          pip install git+https://github.com/LostMa-ERC/data-pipeline.git
+
+      - name: Download data
+        run: lostma build full
+
+      - name: Commit data
+        run: |
+          if git diff . | grep . > /dev/null ; then
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git pull
+            git add .
+            git commit -m "update data"
+            git push
+          fi

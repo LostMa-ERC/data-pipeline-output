@@ -1,0 +1,56 @@
+{
+    "type": "witness",
+    "id": 50865,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1979",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1391-01-01",
+    "creation_date_max": "1435-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'c. 1400-1425'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/45"
+    ],
+    "scripta": {
+        "id": 48780,
+        "name": "West Midlands",
+        "description": "Dialect spaken in the western part of central England (midlands), surrounding present day Birmingham.",
+        "urls": [
+            "https://en.wikipedia.org/wiki/West_Midlands_(region)"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 50864,
+            "shelfmark": "MS 704.1.16",
+            "old_shelfmarks": [],
+            "collection": "Duke of Beaufort",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.middleenglishromance.org.uk/mer/45"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50866,
+                    "part_order": 1,
+                    "number_of_verses": 157,
+                    "part_of_text": "v. 2732-72, 2852-90, 2891-2047",
+                    "number_of_lines": 157,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "NA"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

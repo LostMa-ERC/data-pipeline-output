@@ -1,0 +1,15 @@
+{
+    "type": "witness",
+    "id": 49665,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Louvain G. 147",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1376-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_certainty": "0. Unlikely (1%-33%)",
+    "creation_date_text": "FIX THIS! Find witness date for destroyed manuscript.",
+    "urls": [],
+    "manuscripts": []
+}

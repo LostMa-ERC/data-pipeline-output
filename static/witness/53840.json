@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 53840,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Laigle",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Thomas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/72931"
+    ],
+    "manuscripts": [
+        {
+            "id": 47313,
+            "old_shelfmarks": [],
+            "collection": "Collection particulière Joseph Decaëns",
+            "is_hypothetical": false,
+            "collection_of_fragments": "Yes",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/72931",
+                "https://data.biblissima.fr/entity/Q273281"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51038,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43977,
+                "name": "Collection particulière Joseph Decaëns",
+                "alternative_names": [],
+                "settlement": {
+                    "id": 43976,
+                    "name": "Louvigny",
+                    "region": "Normandy",
+                    "country": "France",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(-0.39376 49.15715)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2997325
+                }
+            }
+        }
+    ]
+}

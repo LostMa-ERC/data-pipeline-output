@@ -1,0 +1,54 @@
+{
+    "type": "witness",
+    "id": 54747,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/75522"
+    ],
+    "manuscripts": [
+        {
+            "id": 49830,
+            "shelfmark": "1. E. a. 035",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://data.biblissima.fr/w/Item:Q203954",
+                "http://jonas.irht.cnrs.fr/manuscrit/75522",
+                "https://initiale.irht.cnrs.fr/codex/3498"
+            ],
+            "witness_parts": [
+                {
+                    "id": 53020,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Perceval ou le Conte du Graal)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49828,
+                "name": "Knihovna Národního muzea",
+                "alternative_names": [],
+                "viaf": "134175560.000000",
+                "settlement": {
+                    "id": 43579,
+                    "name": "Prague",
+                    "country": "Czechia",
+                    "location_mappable": "POINT(14.42076 50.08804)",
+                    "geonames_id": 3067696
+                }
+            }
+        }
+    ]
+}

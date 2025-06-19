@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 54623,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/83709"
+    ],
+    "manuscripts": [
+        {
+            "id": 49607,
+            "shelfmark": "MS. 132, fragment 88",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/83709"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51791,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Mort Artu)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43915,
+                "name": "Princeton university. Library",
+                "alternative_names": [
+                    "Princeton University Library Princeton, NJ (US-PRu)",
+                    "Princeton University Libraries"
+                ],
+                "viaf": "121763554.000000",
+                "isni": "0000000121495514",
+                "settlement": {
+                    "id": 43644,
+                    "name": "Princeton",
+                    "region": "New Jersey",
+                    "country": "United States",
+                    "location_mappable": "POINT(-74.65905 40.34872)",
+                    "geonames_id": 5102922
+                }
+            }
+        }
+    ]
+}

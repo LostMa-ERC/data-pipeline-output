@@ -1,0 +1,41 @@
+{
+    "type": "witness",
+    "id": 53325,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1456-01-01",
+    "creation_date_max": "1465-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://arlima.net/no/376"
+    ],
+    "manuscripts": [
+        {
+            "id": 49931,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arlima.net/no/376"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52928,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troie, prose 1)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

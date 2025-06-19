@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 55211,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "T",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1250-12-31",
+    "creation_date_text": "DEAF",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/74141"
+    ],
+    "manuscripts": [
+        {
+            "id": 45633,
+            "shelfmark": "mazzo 813, fascicolo 43",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52747,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Tristan)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43926,
+                "name": "Accademia delle scienze di Torino",
+                "alternative_names": [
+                    "Accademia delle Scienze, Biblioteca Torino (I-Tas)",
+                    "Accademia delle scienze (Turin, Italie)",
+                    "Accademia delle scienze"
+                ],
+                "viaf": "158005777.000000",
+                "isni": "0000000121133345",
+                "settlement": {
+                    "id": 43649,
+                    "name": "Turin",
+                    "region": "Piedmont",
+                    "country": "Italy",
+                    "location_mappable": "POINT(7.68682 45.07049)",
+                    "geonames_id": 3165524
+                }
+            }
+        }
+    ]
+}

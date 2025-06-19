@@ -1,0 +1,63 @@
+{
+    "type": "witness",
+    "id": 54729,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "C",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/16858",
+        "https://arlima.net/no/11457"
+    ],
+    "manuscripts": [
+        {
+            "id": 45725,
+            "shelfmark": "Ms 248",
+            "old_shelfmarks": [
+                "196b"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 53003,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-152v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43747,
+                "name": "Bibliothèque municipale et interuniversitaire",
+                "alternative_names": [
+                    "Clermont-Ferrand (France). Bibliothèque municipale et interuniversitaire",
+                    "Bibliothèque Municipale",
+                    "Bibliothèque municipale et interuniversitaire (Clermont-Ferrand, France)"
+                ],
+                "viaf": "137908739.000000",
+                "isni": "0000000123588941",
+                "settlement": {
+                    "id": 43655,
+                    "name": "Clermont-Ferrand",
+                    "region": "Auvergne-Rhône-Alpes",
+                    "country": "France",
+                    "location_mappable": "POINT(3.08682 45.77969)",
+                    "geonames_id": 3024635
+                }
+            }
+        }
+    ]
+}

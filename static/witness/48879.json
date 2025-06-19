@@ -1,0 +1,68 @@
+{
+    "type": "witness",
+    "id": 48879,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1113",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1403-01-01",
+    "creation_date_max": "1438-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'1412-28'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/9"
+    ],
+    "scripta": {
+        "id": 48867,
+        "name": "South West England",
+        "description": "Dialect spoken in South West region of England, surrounding Bath and Bristol.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48878,
+            "shelfmark": "MS 55",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48880,
+                    "part_order": 1,
+                    "number_of_verses": 642,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 642,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "42v-46r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49791,
+                "name": "Longleat House",
+                "alternative_names": [],
+                "viaf": "156017684.000000",
+                "settlement": {
+                    "id": 49792,
+                    "name": "Warminster",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(-2.17873 51.20434)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2634755
+                }
+            }
+        }
+    ]
+}

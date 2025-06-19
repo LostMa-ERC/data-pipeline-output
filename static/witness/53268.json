@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 53268,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "N2",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1251-12-31",
+    "creation_date_text": "DÉAF",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 49722,
+            "shelfmark": "1/2 XIII (N2)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arlima.net/no/12411"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52878,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troie)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43853,
+                "name": "Archives de l'État à Namur",
+                "alternative_names": [
+                    "Archives de l'État (Namur)",
+                    "Archives de l'Etat (Belgique ; Namur)",
+                    "Belgique. Archives de l'État à Namur",
+                    "Archives de l'Etat Namur (B-Naet)"
+                ],
+                "viaf": "148424799.000000",
+                "isni": "0000000109445936",
+                "settlement": {
+                    "id": 43716,
+                    "name": "Namur",
+                    "region": "Wallonia",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(4.86746 50.4669)",
+                    "geonames_id": 2790471
+                }
+            }
+        }
+    ]
+}

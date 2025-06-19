@@ -1,0 +1,73 @@
+{
+    "type": "witness",
+    "id": 50072,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "P7",
+    "alternative_sigla": [
+        "C"
+    ],
+    "status": "defective",
+    "creation_date_min": "1451-01-01",
+    "creation_date_max": "1475-12-31",
+    "creation_date_text": "c1450-1475",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47892,
+            "shelfmark": "Perg. fol. nr 7",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://www.manuscripta.se/ms/101254"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50158,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Bevis saga)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43838,
+                "name": "Kungliga Biblioteket",
+                "alternative_names": [
+                    "Kungl. biblioteket",
+                    "Kungliga biblioteket (Stockholm)",
+                    "Kungliga biblioteket Suède",
+                    "Kungliga Biblioteket (Švédsko)",
+                    "Kungliga Bibliotek",
+                    "Kungliga Biblioteket (Zviedrija)",
+                    "Kungliga Biblioteket (Štokholm, Švédsko)",
+                    "Kungliga Biblioteket (Sztokholm).",
+                    "Biblioteka Królewska (Szwecja)",
+                    "Kungliga biblioteket Sverige",
+                    "Suécia., Kungliga Biblioteket",
+                    "Kungliga Biblioteket (Suécia)",
+                    "Kungliga biblioteket",
+                    "Biblioteca Real (Suecia)",
+                    "נאציאנאלע ביבליאטעק פון שוועדן"
+                ],
+                "viaf": "240610793.000000",
+                "isni": "0000000123370977",
+                "settlement": {
+                    "id": 42574,
+                    "name": "Stockholm",
+                    "country": "Sweden",
+                    "location_mappable": "POINT(18.06871 59.32938)",
+                    "geonames_id": 2673730
+                }
+            }
+        }
+    ]
+}

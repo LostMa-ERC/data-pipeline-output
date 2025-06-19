@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 48334,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H127",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1341-01-01",
+    "creation_date_max": "1410-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIV2'",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 48333,
+            "old_shelfmarks": [],
+            "is_hypothetical": true,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48335,
+                    "part_order": 1,
+                    "number_of_verses": 199,
+                    "number_of_lines": 199,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v",
+                        "3r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47363,
+                "name": "Biblioteca Batthyáneum",
+                "alternative_names": [],
+                "viaf": "132555279.000000",
+                "settlement": {
+                    "id": 43167,
+                    "name": "Alba Iulia",
+                    "country": "Romania",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(23.57494 46.06346)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 8299636
+                }
+            }
+        }
+    ]
+}

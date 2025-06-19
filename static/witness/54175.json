@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 54175,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Be",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1465-01-01",
+    "creation_date_max": "1474-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/73694"
+    ],
+    "manuscripts": [
+        {
+            "id": 49900,
+            "shelfmark": "Layette 123, 12",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://data.biblissima.fr/w/Item:Q207181",
+                "http://jonas.irht.cnrs.fr/manuscrit/73694"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52097,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Girart de Roussillon)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49898,
+                "name": "Archives hospitalières",
+                "alternative_names": [],
+                "settlement": {
+                    "id": 49899,
+                    "name": "Beaune",
+                    "region": "Bourgogne-Franche-Comté",
+                    "country": "France",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(4.83887 47.02413)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 3034126
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 54070,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "W",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/7266",
+        "https://arlima.net/no/8742"
+    ],
+    "manuscripts": [
+        {
+            "id": 45456,
+            "shelfmark": "MS UCB 140",
+            "old_shelfmarks": [],
+            "collection": "Bancroft Library",
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52270,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1ra-239vb"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43894,
+                "name": "University of California, Berkeley. Library",
+                "alternative_names": [
+                    "University of California, Berkeley Libraries maison d'édition",
+                    "Library of the University of California (Berkeley)"
+                ],
+                "viaf": "129907352.000000",
+                "isni": "0000000121567258",
+                "settlement": {
+                    "id": 43448,
+                    "name": "Berkeley",
+                    "region": "California",
+                    "country": "United States",
+                    "location_mappable": "POINT(-122.27275 37.87159)",
+                    "geonames_id": 5327684
+                }
+            }
+        }
+    ]
+}

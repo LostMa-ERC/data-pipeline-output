@@ -1,0 +1,61 @@
+{
+    "type": "witness",
+    "id": 53364,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1441-01-01",
+    "creation_date_max": "1460-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/73486"
+    ],
+    "manuscripts": [
+        {
+            "id": 49677,
+            "shelfmark": "MS 1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/73486"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52965,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "23va-117va"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49678,
+                "name": "Otemae University",
+                "alternative_names": [
+                    "Ōtemae Joshi Daigaku",
+                    "大手前大学"
+                ],
+                "viaf": "141933115.000000",
+                "settlement": {
+                    "id": 49679,
+                    "name": "Nishinomiya",
+                    "region": "Hyōgo",
+                    "country": "Japan",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(135.33199 34.71562)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 1855207
+                }
+            }
+        }
+    ]
+}

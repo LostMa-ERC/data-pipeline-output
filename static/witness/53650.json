@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 53650,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1496-01-01",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "https://arlima.net/no/6497"
+    ],
+    "manuscripts": [
+        {
+            "id": 49877,
+            "shelfmark": "Ms. El. f. 97",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arlima.net/no/6497",
+                "https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00016589",
+                "http://jonas.irht.cnrs.fr/manuscrit/82833"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51216,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1v-74v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48437,
+                "name": "Thüringer Universitäts- und Landesbibliothek Jena",
+                "alternative_names": [],
+                "viaf": "125779981.000000",
+                "settlement": {
+                    "id": 47380,
+                    "name": "Jena",
+                    "region": "Thuringia",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.5899 50.92878)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2895044
+                }
+            }
+        }
+    ]
+}

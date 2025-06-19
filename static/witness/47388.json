@@ -1,0 +1,75 @@
+{
+    "type": "witness",
+    "id": 47388,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H50",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1360-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'XIVb'.",
+    "urls": [
+        "https://www.handschriftencensus.de/11396"
+    ],
+    "scripta": {
+        "id": 46312,
+        "name": "Brabants",
+        "description": "Dialect of Brabant.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47387,
+            "shelfmark": "Allemand 118, f.22",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "Yes",
+            "urls": [],
+            "ark": "ark:/12148/cc256130",
+            "witness_parts": [
+                {
+                    "id": 47389,
+                    "part_order": 1,
+                    "number_of_verses": 144,
+                    "part_of_text": "Fragment of book 9",
+                    "number_of_lines": 144,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v",
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43932,
+                "name": "Bibliothèque nationale de France",
+                "alternative_names": [
+                    "França., Bibliothèque Nationale",
+                    "Национальная библиотека. (Париж)",
+                    "Bibliotheque nationale de France (Paris)",
+                    "הספרייה הלאומית של צרפת",
+                    "باريس. المكتبة الوطنية"
+                ],
+                "viaf": "137156173.000000",
+                "isni": "0000000123531945",
+                "settlement": {
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "type": "witness",
+    "id": 49205,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "3145",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1291-01-01",
+    "creation_date_max": "1335-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'Early 14th century'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/26"
+    ],
+    "manuscripts": [
+        {
+            "id": 49204,
+            "shelfmark": "MS 572",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.middleenglishromance.org.uk/mer/26"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49206,
+                    "part_order": 1,
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "NA"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43900,
+                "name": "National library of Wales",
+                "alternative_names": [
+                    "Llyfrgell Genedlaethol Cymru Aberystwyth (GB-AB)",
+                    "Leabharlann Nàiseanta na Cuimrigh",
+                    "Llyfrgell Genedlaethol Cymru",
+                    "LLyfrgell Genedlaethol Cymru (Aberystwyth)",
+                    "National Library of Wales (Aberystwyth)"
+                ],
+                "viaf": "139269948.000000",
+                "isni": "0000000406057171",
+                "website": "https://archives.library.wales/index.php",
+                "settlement": {
+                    "id": 43636,
+                    "name": "Aberystwyth",
+                    "region": "Wales",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-4.08292 52.41548)",
+                    "geonames_id": 2657782
+                }
+            }
+        }
+    ]
+}

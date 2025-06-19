@@ -1,0 +1,68 @@
+{
+    "type": "witness",
+    "id": 54723,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "E",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1211-01-01",
+    "creation_date_max": "1220-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/35650"
+    ],
+    "manuscripts": [
+        {
+            "id": 45287,
+            "shelfmark": "etr. 39",
+            "old_shelfmarks": [
+                "AL.L.09.30"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 53066,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Perceval)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43821,
+                "name": "Biblioteca estense",
+                "alternative_names": [
+                    "Biblioteca estense (Modène, Italie)",
+                    "Biblioteca estense",
+                    "Biblioteca Estense Universitaria Modena (I-MOe)",
+                    "Biblioteca estense (Modena, Itálie)",
+                    "Biblioteca Estense universitaria Modène, Italie",
+                    "Biblioteca Estense Universitaria",
+                    "Biblioteca Estense Modena, Italija",
+                    "Biblioteca Estense (Modène)",
+                    "Biblioteca estense (Modena, Italy)"
+                ],
+                "viaf": "141633615.000000",
+                "isni": "0000000121716938",
+                "settlement": {
+                    "id": 43702,
+                    "name": "Modena",
+                    "region": "Emilia-Romagna",
+                    "country": "Italy",
+                    "location_mappable": "POINT(10.92539 44.64783)",
+                    "geonames_id": 3173331
+                }
+            }
+        }
+    ]
+}

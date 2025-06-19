@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 54353,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/54777",
+        "https://arlima.net/no/9333"
+    ],
+    "manuscripts": [
+        {
+            "id": 46144,
+            "shelfmark": "109",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52025,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "34r-149"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43992,
+                "name": "Bibliothèque municipale",
+                "alternative_names": [
+                    "Médiathèque municipale Saint-Étienne"
+                ],
+                "viaf": "158690404.000000",
+                "website": "http://www.bm-st-etienne.fr",
+                "settlement": {
+                    "id": 42731,
+                    "name": "Saint-Étienne",
+                    "region": "Auvergne-Rhône-Alpes",
+                    "country": "France",
+                    "location_mappable": "POINT(4.39 45.43389)",
+                    "geonames_id": 2980291
+                }
+            }
+        }
+    ]
+}

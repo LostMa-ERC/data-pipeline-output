@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 54482,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "C",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1461-01-01",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/76588"
+    ],
+    "manuscripts": [
+        {
+            "id": 45331,
+            "shelfmark": "C11",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52414,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Jourdain de Blaye)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43843,
+                "name": "Bibliothèque de la ville de Tournai",
+                "alternative_names": [
+                    "Bibliothèque de la ville de Mons",
+                    "Bibliothèque publique (Mons, Belgique)",
+                    "Bibliothèque publique (Mons)",
+                    "Bibliothèque Publique"
+                ],
+                "viaf": "127889581.000000",
+                "isni": "0000000106590273",
+                "settlement": {
+                    "id": 43139,
+                    "name": "Bruges",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(3.22424 51.20892)",
+                    "geonames_id": 2800931
+                }
+            }
+        }
+    ]
+}

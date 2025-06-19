@@ -1,0 +1,69 @@
+{
+    "type": "witness",
+    "id": 53158,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "*3518.5",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1441-01-01",
+    "creation_date_max": "1470-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'1450-60'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/50"
+    ],
+    "scripta": {
+        "id": 48890,
+        "name": "North West England",
+        "description": "Dialect spoken in the north western region of England, surrounding Manchester and Liverpool.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48891,
+            "shelfmark": "Taylor MS. 9",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 53159,
+                    "part_order": 1,
+                    "number_of_verses": 852,
+                    "part_of_text": "Lacks opening",
+                    "number_of_lines": 852,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "16r-34v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43915,
+                "name": "Princeton university. Library",
+                "alternative_names": [
+                    "Princeton University Library Princeton, NJ (US-PRu)",
+                    "Princeton University Libraries"
+                ],
+                "viaf": "121763554.000000",
+                "isni": "0000000121495514",
+                "settlement": {
+                    "id": 43644,
+                    "name": "Princeton",
+                    "region": "New Jersey",
+                    "country": "United States",
+                    "location_mappable": "POINT(-74.65905 40.34872)",
+                    "geonames_id": 5102922
+                }
+            }
+        }
+    ]
+}

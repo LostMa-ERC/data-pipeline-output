@@ -1,0 +1,78 @@
+{
+    "type": "witness",
+    "id": 53131,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1583",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1366-01-01",
+    "creation_date_max": "1410-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'Late 14th century'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/48",
+        "https://marco.ox.ac.uk/ark:29072/x0h702q637g7"
+    ],
+    "scripta": {
+        "id": 48870,
+        "name": "South East England",
+        "description": "Dialect spoken in South East part of England, surrounding Canterbury.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 53129,
+            "shelfmark": "MS Laud Misc. 656",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://marco.ox.ac.uk/ark:29072/x0h702q637g7"
+            ],
+            "witness_parts": [
+                {
+                    "id": 53132,
+                    "part_order": 1,
+                    "number_of_verses": 1341,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 1341,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1v-19r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43847,
+                "name": "Bodleian Library",
+                "alternative_names": [
+                    "ספריית בודליאנה",
+                    "Бодлеянская библиотека",
+                    "Biblioteka Bodlejańska",
+                    "Bodleian Library (Oxford)",
+                    "University of Oxford., Bodleian Library",
+                    "Bodleian library Oxford, GB",
+                    "Llyfrgell Bodley"
+                ],
+                "viaf": "129788129.000000",
+                "isni": "0000000123029752",
+                "settlement": {
+                    "id": 43407,
+                    "name": "Oxford",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-1.25596 51.75222)",
+                    "geonames_id": 2640729
+                }
+            }
+        }
+    ]
+}

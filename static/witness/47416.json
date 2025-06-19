@@ -1,0 +1,69 @@
+{
+    "type": "witness",
+    "id": 47416,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H54",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1335-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'c.1325'.",
+    "urls": [
+        "https://www.handschriftencensus.de/20257"
+    ],
+    "scripta": {
+        "id": 46312,
+        "name": "Brabants",
+        "description": "Dialect of Brabant.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47414,
+            "shelfmark": "M 15.10",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47417,
+                    "part_order": 1,
+                    "number_of_verses": 393,
+                    "part_of_text": "Part of book 9",
+                    "number_of_lines": 393,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47525,
+                "name": "Museum Plantin-Moretus",
+                "alternative_names": [
+                    "Musée Plantin-Moretus Anvers, Belgique",
+                    "Museum Plantijn-Moretus Antwerpen"
+                ],
+                "viaf": "130668175.000000",
+                "settlement": {
+                    "id": 43652,
+                    "name": "Antwerp",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(4.40026 51.22047)",
+                    "geonames_id": 2803138
+                }
+            }
+        }
+    ]
+}

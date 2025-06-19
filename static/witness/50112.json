@@ -1,0 +1,57 @@
+{
+    "type": "witness",
+    "id": 50112,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "A180c",
+    "alternative_sigla": [
+        "A"
+    ],
+    "status": "defective",
+    "creation_date_min": "1391-01-01",
+    "creation_date_max": "1410-12-31",
+    "creation_date_text": "1390-1410",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47805,
+            "shelfmark": "AM 180c fol.",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://handrit.is/manuscript/view/da/AM02-0180-c"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50044,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1ra-73vb"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46324,
+                "name": "Stofnun Árna Magnússonar",
+                "alternative_names": [],
+                "viaf": "143048087.000000",
+                "settlement": {
+                    "id": 42953,
+                    "name": "Reykjavík",
+                    "region": "Capital Region",
+                    "country": "Iceland",
+                    "location_mappable": "POINT(-21.89541 64.13548)",
+                    "geonames_id": 3413829
+                }
+            }
+        }
+    ]
+}

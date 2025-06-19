@@ -1,0 +1,70 @@
+{
+    "type": "witness",
+    "id": 48855,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "3320",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1449-01-01",
+    "creation_date_max": "1470-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'Produced in East Anglia, starting in 1448 and possibly until 1470'",
+    "urls": [
+        "https://catalog.princeton.edu/catalog/99108872923506421"
+    ],
+    "scripta": {
+        "id": 48851,
+        "name": "East Anglia",
+        "description": "Region in the middle of Eastern England.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48853,
+            "shelfmark": "Garrett MS. 141",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48856,
+                    "part_order": 1,
+                    "number_of_verses": 2222,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 2222,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "18r-57r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43915,
+                "name": "Princeton university. Library",
+                "alternative_names": [
+                    "Princeton University Library Princeton, NJ (US-PRu)",
+                    "Princeton University Libraries"
+                ],
+                "viaf": "121763554.000000",
+                "isni": "0000000121495514",
+                "settlement": {
+                    "id": 43644,
+                    "name": "Princeton",
+                    "region": "New Jersey",
+                    "country": "United States",
+                    "location_mappable": "POINT(-74.65905 40.34872)",
+                    "geonames_id": 5102922
+                }
+            }
+        }
+    ]
+}

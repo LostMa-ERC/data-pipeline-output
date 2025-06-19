@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 54157,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "K",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-12-31",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 49760,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arlima.net/no/1231",
+                "http://jonas.irht.cnrs.fr/manuscrit/83427"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52348,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Girbert de Metz)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43768,
+                "name": "Stiftsbibliothek Seitenstetten",
+                "alternative_names": [
+                    "Benediktinerstift Seitenstetten. Bibliothek",
+                    "Benediktinerstift Seitenstetten. Stiftsbibliothek"
+                ],
+                "viaf": "169315054.000000",
+                "settlement": {
+                    "id": 43682,
+                    "name": "Seitenstetten",
+                    "region": "Lower Austria",
+                    "country": "Austria",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(14.65 48.03333)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2765196
+                }
+            }
+        }
+    ]
+}

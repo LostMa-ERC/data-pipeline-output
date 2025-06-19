@@ -1,0 +1,56 @@
+{
+    "type": "witness",
+    "id": 50126,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "A533",
+    "alternative_sigla": [
+        "A1"
+    ],
+    "status": "complete",
+    "creation_date_min": "1451-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "c1450-1500",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 47889,
+            "shelfmark": "AM 533 4to",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://handrit.is/manuscript/view/da/AM04-0533"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50052,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "45v-60v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46319,
+                "name": "Den Arnamagnæanske Samling",
+                "alternative_names": [],
+                "viaf": "123148995933759750144.000000",
+                "settlement": {
+                    "id": 43659,
+                    "name": "Copenhagen",
+                    "country": "Denmark",
+                    "location_mappable": "POINT(12.56553 55.67594)",
+                    "geonames_id": 2618425
+                }
+            }
+        }
+    ]
+}

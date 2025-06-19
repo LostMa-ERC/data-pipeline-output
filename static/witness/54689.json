@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 54689,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "https://arlima.net/no/11097"
+    ],
+    "manuscripts": [
+        {
+            "id": 49575,
+            "shelfmark": "Fragmenta manuscripta 188",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arlima.net/no/11097"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51141,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Paris et Vienne)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43779,
+                "name": "University of Missouri, Ellis library",
+                "alternative_names": [
+                    "University of Missouri, Elmer Ellis Library Columbia, MO (US-COL)",
+                    "Université du Missouri"
+                ],
+                "viaf": "132493960.000000",
+                "isni": "0000000121679268",
+                "settlement": {
+                    "id": 43688,
+                    "name": "Columbia",
+                    "region": "Missouri",
+                    "country": "United States",
+                    "location_mappable": "POINT(-92.33407 38.95171)",
+                    "geonames_id": 4381982
+                }
+            }
+        }
+    ]
+}

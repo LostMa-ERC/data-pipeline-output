@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 54931,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/62935"
+    ],
+    "manuscripts": [
+        {
+            "id": 45291,
+            "shelfmark": "177",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51729,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (queste del Saint Graal)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43822,
+                "name": "Biblioteca arcivescovile",
+                "alternative_names": [
+                    "Biblioteca arcivescovile di Udine",
+                    "Biblioteca arcivescovile (Udine, Italie)",
+                    "Biblioteca Arcivescovile e Bartoliniana Udine (I-UDba)",
+                    "Palazzo Patriarcale"
+                ],
+                "viaf": "168805686.000000",
+                "isni": "0000000121135658",
+                "settlement": {
+                    "id": 43656,
+                    "name": "Udine",
+                    "region": "Friuli Venezia Giulia",
+                    "country": "Italy",
+                    "location_mappable": "POINT(13.23715 46.0693)",
+                    "geonames_id": 3165072
+                }
+            }
+        }
+    ]
+}

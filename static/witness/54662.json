@@ -1,0 +1,64 @@
+{
+    "type": "witness",
+    "id": 54662,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "F",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1326-01-01",
+    "creation_date_max": "1350-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/13816",
+        "https://arlima.net/no/9686"
+    ],
+    "manuscripts": [
+        {
+            "id": 45245,
+            "shelfmark": "403",
+            "old_shelfmarks": [
+                "L. 399"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51019,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-164r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43799,
+                "name": "Bibliothèque inguimbertine Carpentras, Vaucluse",
+                "alternative_names": [
+                    "bibliothèque Inguimbertine",
+                    "Bibliothèque Inguimbertine Carpentras (F-C)",
+                    "Bibliothèque inguimbertine de Carpentras",
+                    "Bibliothèque Inguimbertine (Carpentras)"
+                ],
+                "viaf": "150807197.000000",
+                "isni": "0000000123533625",
+                "settlement": {
+                    "id": 43694,
+                    "name": "Carpentras",
+                    "region": "Provence-Alpes-Côte d'Azur",
+                    "country": "France",
+                    "location_mappable": "POINT(5.04813 44.05507)",
+                    "geonames_id": 3028542
+                }
+            }
+        }
+    ]
+}

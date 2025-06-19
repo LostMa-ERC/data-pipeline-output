@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 54949,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "P",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1276-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/12297",
+        "https://arlima.net/no/9467"
+    ],
+    "manuscripts": [
+        {
+            "id": 45146,
+            "shelfmark": "2. 0. 5",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52394,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "57-168"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43891,
+                "name": "Peterhouse Library",
+                "alternative_names": [
+                    "Peterhouse Library Cambridge (GB-Cp)",
+                    "Peterhouse Library (University of Cambridge)",
+                    "Peterhouse (Cambridge). Library."
+                ],
+                "viaf": "135584585.000000",
+                "settlement": {
+                    "id": 43630,
+                    "name": "Cambridge",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(0.11667 52.2)",
+                    "geonames_id": 2653941
+                }
+            }
+        }
+    ]
+}

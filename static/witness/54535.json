@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 54535,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "B ou C",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1295-01-01",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/9587",
+        "https://arlima.net/no/5829"
+    ],
+    "manuscripts": [
+        {
+            "id": 46157,
+            "shelfmark": "192",
+            "old_shelfmarks": [],
+            "collection": "Saint Bertin",
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52650,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "301r-306r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43868,
+                "name": "Bibliothèque Municipale",
+                "alternative_names": [
+                    "Bibliothèque municipale Boulogne-sur-Mer (F-BSM)",
+                    "Bibliothèque municipale des Annonciades (Boulogne-sur-Mer, Pas-de-Calais)",
+                    "Bibliothèque des Annonciades Boulogne-sur-Mer, Pas-de-Calais"
+                ],
+                "viaf": "149392350.000000",
+                "settlement": {
+                    "id": 43620,
+                    "name": "Boulogne-sur-Mer",
+                    "region": "Hauts-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(1.61373 50.72485)",
+                    "geonames_id": 3031133
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "witness",
+    "id": 53377,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1451-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/73487"
+    ],
+    "manuscripts": [
+        {
+            "id": 49805,
+            "shelfmark": "Cod. Guelf. 81.29 Aug. 2°",
+            "old_shelfmarks": [
+                "Heinemann-Nr. 2819"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/73487"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52978,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troie, prose 5)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43727,
+                "name": "Herzog-August-Bibliothek",
+                "alternative_names": [
+                    "Herzog August Bibliothek (Wolfenbüttel, Allemagne)",
+                    "Herzog August Bibliothek Wolfenbüttel, Deutschland",
+                    "Herzog August Bibliothek (Þýskaland)",
+                    "Herzog August Bibliothek (Wolfenbüttel, Nemecko)",
+                    "Herzog August Bibliothek (Wolfenbuettel)",
+                    "Herzog August Bibliothek (Alemania)",
+                    "Herzog August Bibliothek Wolfenbüttel (D-W)",
+                    "Herzog-August-Bibliothek (Wolfenbüttel)"
+                ],
+                "viaf": "125059269.000000",
+                "isni": "0000000121513727",
+                "settlement": {
+                    "id": 43661,
+                    "name": "Wolfenbüttel",
+                    "region": "Lower Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.54095 52.16442)",
+                    "geonames_id": 2806914
+                }
+            }
+        }
+    ]
+}

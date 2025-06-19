@@ -1,0 +1,72 @@
+{
+    "type": "witness",
+    "id": 54438,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/75442",
+        "https://www.arlima.net/mss/danmark/kobenhavn/kongelige_bibliotek/gamle_kongelig_samling/3555_8.html#F1"
+    ],
+    "manuscripts": [
+        {
+            "id": 45153,
+            "shelfmark": "GKS 3555 oktav",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52131,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Joufroi de Poitiers)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43960,
+                "name": "Kongelige Bibliotek",
+                "alternative_names": [
+                    "Det Kongelige Bibliotek (Danmark)",
+                    "Bibliothèque royale (Copenhague)",
+                    "Kongelige Bibliotek (Dinamarca)",
+                    "Kongelige Bibliotek (Kopenhaga).",
+                    "Dinamarca., Kongelige Bibliotek",
+                    "Kongelige Bibliotek (Kobenhavn)",
+                    "Det Kongelige bibliotek (København)",
+                    "Kongelige Bibliotek (Dānija)",
+                    "Kongelige Bibliotek",
+                    "הספרייה המלכותית (דנמרק)",
+                    "Kongelige Bibliotek (Kaupmannahöfn)",
+                    "Det Kgl. Bibliotek",
+                    "Kongelige bibliotek Danemark",
+                    "Det ¤Kongelige Bibliotek",
+                    "Det Kongelige Bibliotek på Slotsholmen - Den Sorte Diamant København (DK-Kk)",
+                    "Kongelige Bibliotek (Dánsko)"
+                ],
+                "viaf": "138525910.000000",
+                "isni": "000000012308732X",
+                "settlement": {
+                    "id": 43659,
+                    "name": "Copenhagen",
+                    "country": "Denmark",
+                    "location_mappable": "POINT(12.56553 55.67594)",
+                    "geonames_id": 2618425
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "type": "witness",
+    "id": 49232,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1114",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1366-01-01",
+    "creation_date_max": "1410-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'Late 14th century'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/27"
+    ],
+    "scripta": {
+        "id": 48845,
+        "name": "East of England",
+        "description": "Southern eastern region of England.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 49228,
+            "shelfmark": "MS Add. 4407",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.middleenglishromance.org.uk/mer/27"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49233,
+                    "part_order": 1,
+                    "number_of_verses": 47,
+                    "part_of_text": "V. 174-83, 341-64, 537-49",
+                    "number_of_lines": 47,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v, 2r-2v, 3r-3v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43816,
+                "name": "University of Cambridge. Library",
+                "alternative_names": [
+                    "University of Cambridge (Inglaterra). Library",
+                    "אוניברסיטת קיימברידג'. הספרייה",
+                    "Biblioteka Uniwersytetu w Cambridge",
+                    "University of Cambridge. University Library",
+                    "Llyfrgell Prifysgol Caergrawnt"
+                ],
+                "viaf": "140790558.000000",
+                "isni": "0000000459040795",
+                "settlement": {
+                    "id": 43630,
+                    "name": "Cambridge",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(0.11667 52.2)",
+                    "geonames_id": 2653941
+                }
+            }
+        }
+    ]
+}

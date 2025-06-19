@@ -1,0 +1,101 @@
+{
+    "type": "witness",
+    "id": 48367,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H143",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1360-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'≥ 1325'",
+    "urls": [],
+    "scripta": {
+        "id": 46312,
+        "name": "Brabants",
+        "description": "Dialect of Brabant.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48371,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48370,
+                    "part_order": 1,
+                    "number_of_lines": 82,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48445,
+                "name": "De Pastorie",
+                "alternative_names": [],
+                "website": "https://www.wezemaal3.be/depastorie",
+                "settlement": {
+                    "id": 48446,
+                    "name": "Wezemaal",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(4.75536 50.94848)",
+                    "location_certainty": "1. High confidence"
+                }
+            }
+        },
+        {
+            "id": 48365,
+            "shelfmark": "96 A 7",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48368,
+                    "part_order": 1,
+                    "number_of_lines": 382,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v",
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47361,
+                "name": "Gemeentebibliotheek Rotterdam",
+                "alternative_names": [],
+                "viaf": "153684222.000000",
+                "settlement": {
+                    "id": 43364,
+                    "name": "Rotterdam",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.28784 51.88246)",
+                    "geonames_id": 2747890
+                }
+            }
+        }
+    ]
+}

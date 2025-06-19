@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 53266,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "DÉAF",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/81758"
+    ],
+    "manuscripts": [
+        {
+            "id": 49719,
+            "shelfmark": "Fragment Roman de Troie",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://data.biblissima.fr/w/Item:Q273910",
+                "http://jonas.irht.cnrs.fr/manuscrit/81758"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52877,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Troie)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43856,
+                "name": "Universitäts- und Landesbibliothek Münster",
+                "alternative_names": [
+                    "Universitäts- und Landesbibliothek Münster (D-MÜu)"
+                ],
+                "viaf": "130353592.000000",
+                "isni": "0000000121573156",
+                "settlement": {
+                    "id": 43615,
+                    "name": "Münster",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.62571 51.96236)",
+                    "geonames_id": 2867543
+                }
+            }
+        }
+    ]
+}

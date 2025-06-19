@@ -1,0 +1,202 @@
+{
+    "type": "witness",
+    "id": 48037,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "H31",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1335-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'c.1325'",
+    "urls": [
+        "https://lib.ugent.be/en/catalog/rug01:000990091?i=0&q=roman+van+antiochi%C3%AB"
+    ],
+    "scripta": {
+        "id": 46305,
+        "name": "Vlaams",
+        "description": "Dialect of Flanders.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48032,
+            "shelfmark": "15.393",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48038,
+                    "part_order": 1,
+                    "number_of_verses": 124,
+                    "number_of_lines": 124,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v",
+                        "2r-2v",
+                        "3r-3v",
+                        "4r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43792,
+                "name": "Österreichische Nationalbibliothek",
+                "alternative_names": [
+                    "كتابخانهى ملى اتريش",
+                    "Áustria., Österreichische Nationalbibliothek",
+                    "הספרייה הלאומית של אוסטריה",
+                    "Austriacka Biblioteka Narodowa",
+                    "Österreichische Nationalbibliothek (Viedeň, Rakúsko)",
+                    "Österreichische Nationalbibliothek (Wien)"
+                ],
+                "viaf": "136765452.000000",
+                "isni": "0000000123064881",
+                "settlement": {
+                    "id": 43576,
+                    "name": "Vienna",
+                    "country": "Austria",
+                    "location_mappable": "POINT(16.37208 48.20849)",
+                    "geonames_id": 2761369
+                }
+            }
+        },
+        {
+            "id": 48033,
+            "shelfmark": "1647",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48040,
+                    "part_order": 2,
+                    "number_of_verses": 30,
+                    "number_of_lines": 30,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43787,
+                "name": "Rijksuniversiteit te Gent. Bibliotheek",
+                "alternative_names": [
+                    "Universiteitsbibliotheek Gand, Belgique",
+                    "Rijksuniversiteit Gent. Bibliothek",
+                    "Universiteitsbibliotheek UGent",
+                    "Universiteitsbibliotheek Gent (B-Gu)",
+                    "Rijksuniversiteit (Gandawa). Bibliotheek.",
+                    "Universiteitsbibliotheek Gent"
+                ],
+                "viaf": "139553481.000000",
+                "isni": "0000000123484448",
+                "settlement": {
+                    "id": 43690,
+                    "name": "Ghent",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(3.71667 51.05)",
+                    "geonames_id": 2797656
+                }
+            }
+        },
+        {
+            "id": 48036,
+            "old_shelfmarks": [],
+            "collection": "Coll.-J. Deschamps",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48042,
+                    "part_order": 4,
+                    "number_of_verses": 48,
+                    "number_of_lines": 48,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        },
+        {
+            "id": 48035,
+            "shelfmark": "Ms. IV 209 / 10",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48041,
+                    "part_order": 3,
+                    "number_of_verses": 30,
+                    "number_of_lines": 30,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43904,
+                "name": "Bibliothèque royale de Belgique",
+                "alternative_names": [
+                    "Bélgica., Koninklijke Bibliotheek van België",
+                    "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR) Bruxelles; Brussel (B-Br)",
+                    "Biblioteka Królewska Belgii",
+                    "Bibliothèque royale Albert Ier",
+                    "Bibliothèque royale de Belgique (Bruxelles)",
+                    "Bibliothèque royale Albert Ier (Bruxelles, Belgique)",
+                    "Royal Library of Belgium"
+                ],
+                "viaf": "312739455.000000",
+                "isni": "0000000122714686",
+                "settlement": {
+                    "id": 43150,
+                    "name": "Brussels",
+                    "country": "Belgium",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(4.34878 50.85045)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2800866
+                }
+            }
+        }
+    ]
+}

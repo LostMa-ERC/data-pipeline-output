@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 54859,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Cremona",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/81672"
+    ],
+    "manuscripts": [
+        {
+            "id": 49844,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://jonas.irht.cnrs.fr/manuscrit/81672"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51570,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Lancelot)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43916,
+                "name": "Biblioteca statale di Cremona",
+                "alternative_names": [
+                    "Cremona., Biblioteca Statale",
+                    "Biblioteca Statale di Cremona (Italia)"
+                ],
+                "viaf": "130190696.000000",
+                "isni": "0000000123087573",
+                "settlement": {
+                    "id": 43645,
+                    "name": "Cremona",
+                    "region": "Lombardy",
+                    "country": "Italy",
+                    "location_mappable": "POINT(10.02129 45.13325)",
+                    "geonames_id": 3177838
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 54872,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1281-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78642"
+    ],
+    "manuscripts": [
+        {
+            "id": 45431,
+            "shelfmark": "ms 1, pièce 6, F",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51676,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (queste del Saint Graal)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43886,
+                "name": "Archives départementales de la Gironde",
+                "alternative_names": [
+                    "Archives départementales de la Gironde (Bordeaux)",
+                    "Archives départementales (Gironde)",
+                    "Archives de la Gironde",
+                    "archives départementales de la Gironde service d'archives départementales",
+                    "Gironde. Archives départementales",
+                    "Archives départementales de la Gironde Bordeaux (F-BOa)"
+                ],
+                "viaf": "126219118.000000",
+                "isni": "0000000121082832",
+                "settlement": {
+                    "id": 42644,
+                    "name": "Bordeaux",
+                    "region": "Nouvelle-Aquitaine",
+                    "country": "France",
+                    "location_mappable": "POINT(-0.5805 44.84044)",
+                    "geonames_id": 3031582
+                }
+            }
+        }
+    ]
+}

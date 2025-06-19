@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 53263,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Lyon",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1181-01-01",
+    "creation_date_max": "1220-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/76279"
+    ],
+    "manuscripts": [
+        {
+            "id": 47312,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/76279",
+                "https://data.biblissima.fr/entity/Q273943"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52873,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43798,
+                "name": "Bibliothèque universitaire Henri de Lubac Lyon",
+                "alternative_names": [
+                    "Université catholique de Lyon. Bibliothèque universitaire Henri de Lubac"
+                ],
+                "viaf": "305396398.000000",
+                "settlement": {
+                    "id": 42688,
+                    "name": "Lyon",
+                    "region": "Auvergne-Rhône-Alpes",
+                    "country": "France",
+                    "location_mappable": "POINT(4.84671 45.74846)",
+                    "geonames_id": 2996944
+                }
+            }
+        }
+    ]
+}

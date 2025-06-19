@@ -1,0 +1,60 @@
+{
+    "type": "witness",
+    "id": 55174,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/82311"
+    ],
+    "manuscripts": [
+        {
+            "id": 45250,
+            "shelfmark": "3 J 141",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://data.biblissima.fr/w/Item:Q270013",
+                "https://jonas.irht.cnrs.fr/manuscrit/82311"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51802,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Tristan)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43803,
+                "name": "Archives départementales de la Marne, Centre de Châlons",
+                "alternative_names": [
+                    "Archives du département de la Marne"
+                ],
+                "viaf": "157681964.000000",
+                "isni": "0000000119456380",
+                "settlement": {
+                    "id": 43671,
+                    "name": "Châlons-en-Champagne",
+                    "region": "Grand Est",
+                    "country": "France",
+                    "location_mappable": "POINT(4.36724 48.95393)",
+                    "geonames_id": 3027487
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "witness",
+    "id": 54362,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Rochefort",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/52347"
+    ],
+    "manuscripts": [
+        {
+            "id": 49811,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/52347"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52423,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Maugis d'Aigremont)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43833,
+                "name": "Abbaye Notre-Dame de Saint-Rémy",
+                "alternative_names": [
+                    "Abbaye Notre-Dame de Saint-Remy Rochefort, Marche-en-Famenne"
+                ],
+                "viaf": "129738649.000000",
+                "isni": "0000000121564671",
+                "settlement": {
+                    "id": 43704,
+                    "name": "Rochefort",
+                    "region": "Wallonia",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(5.2216 50.1631)",
+                    "geonames_id": 2787948
+                }
+            }
+        }
+    ]
+}

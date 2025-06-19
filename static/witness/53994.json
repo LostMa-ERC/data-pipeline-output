@@ -1,0 +1,67 @@
+{
+    "type": "witness",
+    "id": 53994,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "B",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1476-01-01",
+    "creation_date_max": "1495-12-31",
+    "creation_date_text": "Jonas",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/80524"
+    ],
+    "manuscripts": [
+        {
+            "id": 49320,
+            "shelfmark": "Français 1492",
+            "old_shelfmarks": [
+                "Anc. 7560"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/80524"
+            ],
+            "ark": "ark:/12148/cc45465c",
+            "witness_parts": [
+                {
+                    "id": 51013,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Floriant et Florete)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43932,
+                "name": "Bibliothèque nationale de France",
+                "alternative_names": [
+                    "França., Bibliothèque Nationale",
+                    "Национальная библиотека. (Париж)",
+                    "Bibliotheque nationale de France (Paris)",
+                    "הספרייה הלאומית של צרפת",
+                    "باريس. المكتبة الوطنية"
+                ],
+                "viaf": "137156173.000000",
+                "isni": "0000000123531945",
+                "settlement": {
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
+                }
+            }
+        }
+    ]
+}

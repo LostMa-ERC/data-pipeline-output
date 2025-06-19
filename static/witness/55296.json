@@ -1,0 +1,66 @@
+{
+    "type": "witness",
+    "id": 55296,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Antwerp MAG-P 64.19",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1360-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'1325-1350'",
+    "number_of_hands": 1,
+    "urls": [
+        "https://anet.be/brocade/imageviewer/universalviewer/uv.html#?manifest=/iiif/179d19da13c4be2828682ffcb9450955e908146e/manifest&config=/iiif/viewercfg.phtml%3Fcg=uauniversalviewer"
+    ],
+    "scripta": {
+        "id": 46312,
+        "name": "Brabants",
+        "description": "Dialect of Brabant.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 48360,
+            "shelfmark": "MAG-P 64.19",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 55297,
+                    "part_order": 1,
+                    "number_of_verses": 80,
+                    "number_of_lines": 80,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43935,
+                "name": "Universiteit Antwerpen, Bibliotheek",
+                "alternative_names": [],
+                "viaf": "107144647637243985920.000000",
+                "settlement": {
+                    "id": 43652,
+                    "name": "Antwerp",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(4.40026 51.22047)",
+                    "geonames_id": 2803138
+                }
+            }
+        }
+    ]
+}

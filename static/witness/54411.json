@@ -1,0 +1,64 @@
+{
+    "type": "witness",
+    "id": 54411,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "G",
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "Arlima",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/22775",
+        "https://arlima.net/no/10906"
+    ],
+    "manuscripts": [
+        {
+            "id": 49303,
+            "shelfmark": "Ms. 368",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/22775"
+            ],
+            "witness_parts": [
+                {
+                    "id": 51173,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-139r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43956,
+                "name": "Bibliothèque municipale de Grenoble",
+                "alternative_names": [
+                    "Bibliothèque municipale Grenoble (F-G)",
+                    "Bibliothèque municipale Grenoble, France",
+                    "Bibliothèque Municipale",
+                    "Bibliothèque municipale (Grenoble)."
+                ],
+                "viaf": "146164457.000000",
+                "isni": "000000010944284X",
+                "settlement": {
+                    "id": 42672,
+                    "name": "Grenoble",
+                    "region": "Auvergne-Rhône-Alpes",
+                    "country": "France",
+                    "location_mappable": "POINT(5.71479 45.17869)",
+                    "geonames_id": 3014728
+                }
+            }
+        }
+    ]
+}

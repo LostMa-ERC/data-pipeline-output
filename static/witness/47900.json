@@ -1,0 +1,64 @@
+{
+    "type": "witness",
+    "id": 47900,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Hs. 33",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1360-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'xiv-b'",
+    "urls": [],
+    "scripta": {
+        "id": 46305,
+        "name": "Vlaams",
+        "description": "Dialect of Flanders.",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 47899,
+            "shelfmark": "2",
+            "old_shelfmarks": [],
+            "collection": "Sint-Catharinakapittel en Sint-Catherinakerk te Hoogstraten",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47901,
+                    "part_order": 1,
+                    "number_of_verses": 160,
+                    "number_of_lines": 160,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47351,
+                "name": "Rijksarchief te Antwerpen",
+                "alternative_names": [],
+                "viaf": "237196617.000000",
+                "settlement": {
+                    "id": 43652,
+                    "name": "Antwerp",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(4.40026 51.22047)",
+                    "geonames_id": 2803138
+                }
+            }
+        }
+    ]
+}

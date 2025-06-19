@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 54956,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "O",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1333-01-01",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/40510",
+        "https://arlima.net/no/9798"
+    ],
+    "manuscripts": [
+        {
+            "id": 45362,
+            "shelfmark": "MS. Laud Misc. 637",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://data.biblissima.fr/w/Item:Q274441"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52401,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "2-67"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43847,
+                "name": "Bodleian Library",
+                "alternative_names": [
+                    "ספריית בודליאנה",
+                    "Бодлеянская библиотека",
+                    "Biblioteka Bodlejańska",
+                    "Bodleian Library (Oxford)",
+                    "University of Oxford., Bodleian Library",
+                    "Bodleian library Oxford, GB",
+                    "Llyfrgell Bodley"
+                ],
+                "viaf": "129788129.000000",
+                "isni": "0000000123029752",
+                "settlement": {
+                    "id": 43407,
+                    "name": "Oxford",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-1.25596 51.75222)",
+                    "geonames_id": 2640729
+                }
+            }
+        }
+    ]
+}

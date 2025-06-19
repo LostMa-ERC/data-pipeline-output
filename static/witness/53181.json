@@ -1,0 +1,54 @@
+{
+    "type": "witness",
+    "id": 53181,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1500-12-31",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78941"
+    ],
+    "manuscripts": [
+        {
+            "id": 46127,
+            "shelfmark": "3529",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51840,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Tristan)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43951,
+                "name": "Exeter Cathedral. Library",
+                "alternative_names": [],
+                "viaf": "126643108.000000",
+                "isni": "000000010682632X",
+                "settlement": {
+                    "id": 43705,
+                    "name": "Exeter",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-3.52751 50.7236)",
+                    "geonames_id": 2649808
+                }
+            }
+        }
+    ]
+}
