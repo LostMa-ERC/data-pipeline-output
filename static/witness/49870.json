@@ -20,20 +20,20 @@
     ],
     "manuscripts": [
         {
-            "id": 49406,
-            "shelfmark": "Royal MS 15 E V",
+            "id": 49405,
+            "shelfmark": "Royal MS 19 E II",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 49871,
-                    "part_order": 1,
-                    "volume_number": "1",
-                    "lines_are_incomplete": "No",
+                    "id": 49873,
+                    "part_order": 3,
+                    "volume_number": "3",
+                    "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1-440"
+                        "1-304"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -116,20 +116,20 @@
             }
         },
         {
-            "id": 49405,
-            "shelfmark": "Royal MS 19 E II",
+            "id": 49406,
+            "shelfmark": "Royal MS 15 E V",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 49873,
-                    "part_order": 3,
-                    "volume_number": "3",
-                    "lines_are_incomplete": "unknown",
+                    "id": 49871,
+                    "part_order": 1,
+                    "volume_number": "1",
+                    "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "1-304"
+                        "1-440"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

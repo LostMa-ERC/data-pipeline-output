@@ -72,6 +72,57 @@
             }
         },
         {
+            "id": 48035,
+            "shelfmark": "Ms. IV 209 / 10",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48041,
+                    "part_order": 3,
+                    "number_of_verses": 30,
+                    "number_of_lines": 30,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43904,
+                "name": "Bibliothèque royale de Belgique",
+                "alternative_names": [
+                    "Bélgica., Koninklijke Bibliotheek van België",
+                    "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR) Bruxelles; Brussel (B-Br)",
+                    "Biblioteka Królewska Belgii",
+                    "Bibliothèque royale Albert Ier",
+                    "Bibliothèque royale de Belgique (Bruxelles)",
+                    "Bibliothèque royale Albert Ier (Bruxelles, Belgique)",
+                    "Royal Library of Belgium"
+                ],
+                "viaf": "312739455.000000",
+                "isni": "0000000122714686",
+                "settlement": {
+                    "id": 43150,
+                    "name": "Brussels",
+                    "country": "Belgium",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(4.34878 50.85045)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2800866
+                }
+            }
+        },
+        {
             "id": 48033,
             "shelfmark": "1647",
             "old_shelfmarks": [],
@@ -146,57 +197,6 @@
                     "decoration_is_unknown": false
                 }
             ]
-        },
-        {
-            "id": 48035,
-            "shelfmark": "Ms. IV 209 / 10",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 48041,
-                    "part_order": 3,
-                    "number_of_verses": 30,
-                    "number_of_lines": 30,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43904,
-                "name": "Bibliothèque royale de Belgique",
-                "alternative_names": [
-                    "Bélgica., Koninklijke Bibliotheek van België",
-                    "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR) Bruxelles; Brussel (B-Br)",
-                    "Biblioteka Królewska Belgii",
-                    "Bibliothèque royale Albert Ier",
-                    "Bibliothèque royale de Belgique (Bruxelles)",
-                    "Bibliothèque royale Albert Ier (Bruxelles, Belgique)",
-                    "Royal Library of Belgium"
-                ],
-                "viaf": "312739455.000000",
-                "isni": "0000000122714686",
-                "settlement": {
-                    "id": 43150,
-                    "name": "Brussels",
-                    "country": "Belgium",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(4.34878 50.85045)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2800866
-                }
-            }
         }
     ]
 }

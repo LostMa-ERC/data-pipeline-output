@@ -72,54 +72,6 @@
             }
         },
         {
-            "id": 48206,
-            "shelfmark": "A 45",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/24630"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48211,
-                    "part_order": 3,
-                    "number_of_verses": 384,
-                    "number_of_lines": 384,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-2v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 48426,
-                "name": "Historisches Archiv der Stadt Köln",
-                "alternative_names": [
-                    "Cologne Allemagne, Historisches Archiv",
-                    "Cologne Historisches Archiv"
-                ],
-                "viaf": "143699716.000000",
-                "settlement": {
-                    "id": 47379,
-                    "name": "Köln",
-                    "region": "North Rhine-Westphalia",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(6.95 50.93333)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2886242
-                }
-            }
-        },
-        {
             "id": 48209,
             "shelfmark": "Ms. II 572",
             "old_shelfmarks": [],
@@ -169,6 +121,54 @@
                     "location_mappable": "POINT(4.34878 50.85045)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 2800866
+                }
+            }
+        },
+        {
+            "id": 48206,
+            "shelfmark": "A 45",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/24630"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48211,
+                    "part_order": 3,
+                    "number_of_verses": 384,
+                    "number_of_lines": 384,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48426,
+                "name": "Historisches Archiv der Stadt Köln",
+                "alternative_names": [
+                    "Cologne Allemagne, Historisches Archiv",
+                    "Cologne Historisches Archiv"
+                ],
+                "viaf": "143699716.000000",
+                "settlement": {
+                    "id": 47379,
+                    "name": "Köln",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(6.95 50.93333)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2886242
                 }
             }
         }

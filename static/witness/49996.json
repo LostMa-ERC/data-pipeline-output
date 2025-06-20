@@ -14,7 +14,7 @@
     ],
     "manuscripts": [
         {
-            "id": 49992,
+            "id": 46165,
             "old_shelfmarks": [
                 "Cheltenham Phillipps 3630",
                 "Cheltenham Phillipps 1045",
@@ -28,12 +28,12 @@
             ],
             "witness_parts": [
                 {
-                    "id": 49998,
-                    "part_order": 2,
-                    "volume_number": "3",
+                    "id": 49997,
+                    "part_order": 1,
+                    "volume_number": "2",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "1-104v"
+                        "36v-233"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -95,37 +95,6 @@
             }
         },
         {
-            "id": 46165,
-            "old_shelfmarks": [
-                "Cheltenham Phillipps 3630",
-                "Cheltenham Phillipps 1045",
-                "Cheltenham Phillipps 1047",
-                "Bibliotheca Philosophica Hermetica 1"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "http://jonas.irht.cnrs.fr/manuscrit/74587"
-            ],
-            "witness_parts": [
-                {
-                    "id": 49997,
-                    "part_order": 1,
-                    "volume_number": "2",
-                    "lines_are_incomplete": "No",
-                    "page_ranges": [
-                        "36v-233"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ]
-        },
-        {
             "id": 45430,
             "shelfmark": "1",
             "old_shelfmarks": [],
@@ -170,6 +139,37 @@
                     "geonames_id": 2643123
                 }
             }
+        },
+        {
+            "id": 49992,
+            "old_shelfmarks": [
+                "Cheltenham Phillipps 3630",
+                "Cheltenham Phillipps 1045",
+                "Cheltenham Phillipps 1047",
+                "Bibliotheca Philosophica Hermetica 1"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/74587"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49998,
+                    "part_order": 2,
+                    "volume_number": "3",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1-104v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
         }
     ]
 }

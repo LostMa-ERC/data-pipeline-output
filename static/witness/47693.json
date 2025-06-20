@@ -21,24 +21,22 @@
     },
     "manuscripts": [
         {
-            "id": 47691,
-            "shelfmark": "691",
+            "id": 47689,
+            "shelfmark": "Néerlandais 126",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/23545"
-            ],
+            "urls": [],
             "witness_parts": [
                 {
-                    "id": 47696,
-                    "part_order": 3,
-                    "number_of_verses": 86,
-                    "number_of_lines": 86,
+                    "id": 47694,
+                    "part_order": 2,
+                    "number_of_verses": 144,
+                    "number_of_lines": 144,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-2v"
+                        "1r-1v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -49,25 +47,24 @@
                 }
             ],
             "repository": {
-                "id": 43787,
-                "name": "Rijksuniversiteit te Gent. Bibliotheek",
+                "id": 43932,
+                "name": "Bibliothèque nationale de France",
                 "alternative_names": [
-                    "Universiteitsbibliotheek Gand, Belgique",
-                    "Rijksuniversiteit Gent. Bibliothek",
-                    "Universiteitsbibliotheek UGent",
-                    "Universiteitsbibliotheek Gent (B-Gu)",
-                    "Rijksuniversiteit (Gandawa). Bibliotheek.",
-                    "Universiteitsbibliotheek Gent"
+                    "França., Bibliothèque Nationale",
+                    "Национальная библиотека. (Париж)",
+                    "Bibliotheque nationale de France (Paris)",
+                    "הספרייה הלאומית של צרפת",
+                    "باريس. المكتبة الوطنية"
                 ],
-                "viaf": "139553481.000000",
-                "isni": "0000000123484448",
+                "viaf": "137156173.000000",
+                "isni": "0000000123531945",
                 "settlement": {
-                    "id": 43690,
-                    "name": "Ghent",
-                    "region": "Flanders",
-                    "country": "Belgium",
-                    "location_mappable": "POINT(3.71667 51.05)",
-                    "geonames_id": 2797656
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
                 }
             }
         },
@@ -123,22 +120,24 @@
             }
         },
         {
-            "id": 47689,
-            "shelfmark": "Néerlandais 126",
+            "id": 47691,
+            "shelfmark": "691",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
-            "urls": [],
+            "urls": [
+                "https://www.handschriftencensus.de/23545"
+            ],
             "witness_parts": [
                 {
-                    "id": 47694,
-                    "part_order": 2,
-                    "number_of_verses": 144,
-                    "number_of_lines": 144,
+                    "id": 47696,
+                    "part_order": 3,
+                    "number_of_verses": 86,
+                    "number_of_lines": 86,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-1v"
+                        "1r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -149,24 +148,25 @@
                 }
             ],
             "repository": {
-                "id": 43932,
-                "name": "Bibliothèque nationale de France",
+                "id": 43787,
+                "name": "Rijksuniversiteit te Gent. Bibliotheek",
                 "alternative_names": [
-                    "França., Bibliothèque Nationale",
-                    "Национальная библиотека. (Париж)",
-                    "Bibliotheque nationale de France (Paris)",
-                    "הספרייה הלאומית של צרפת",
-                    "باريس. المكتبة الوطنية"
+                    "Universiteitsbibliotheek Gand, Belgique",
+                    "Rijksuniversiteit Gent. Bibliothek",
+                    "Universiteitsbibliotheek UGent",
+                    "Universiteitsbibliotheek Gent (B-Gu)",
+                    "Rijksuniversiteit (Gandawa). Bibliotheek.",
+                    "Universiteitsbibliotheek Gent"
                 ],
-                "viaf": "137156173.000000",
-                "isni": "0000000123531945",
+                "viaf": "139553481.000000",
+                "isni": "0000000123484448",
                 "settlement": {
-                    "id": 43675,
-                    "name": "Paris",
-                    "region": "Île-de-France",
-                    "country": "France",
-                    "location_mappable": "POINT(2.3488 48.85341)",
-                    "geonames_id": 2988507
+                    "id": 43690,
+                    "name": "Ghent",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(3.71667 51.05)",
+                    "geonames_id": 2797656
                 }
             }
         }
