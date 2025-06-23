@@ -21,20 +21,21 @@
     },
     "manuscripts": [
         {
-            "id": 47585,
-            "shelfmark": "96 C 4",
-            "old_shelfmarks": [
-                "14 D 26"
-            ],
+            "id": 48658,
+            "shelfmark": "F 69",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
-            "urls": [],
+            "urls": [
+                "https://www.handschriftencensus.de/15893"
+            ],
             "witness_parts": [
                 {
-                    "id": 47588,
-                    "part_order": 1,
-                    "number_of_verses": 251,
-                    "number_of_lines": 251,
+                    "id": 48659,
+                    "part_order": 3,
+                    "number_of_verses": 264,
+                    "part_of_text": "Duijvestijn (1989), p. 134-140",
+                    "number_of_lines": 264,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
@@ -50,17 +51,21 @@
                 }
             ],
             "repository": {
-                "id": 47361,
-                "name": "Gemeentebibliotheek Rotterdam",
-                "alternative_names": [],
-                "viaf": "153684222.000000",
+                "id": 49782,
+                "name": "Stiftsbibliothek",
+                "alternative_names": [
+                    "Stiftsbibliothek Heiligenkreuz"
+                ],
+                "viaf": "172753276.000000",
                 "settlement": {
-                    "id": 43364,
-                    "name": "Rotterdam",
-                    "region": "South Holland",
-                    "country": "Netherlands",
-                    "location_mappable": "POINT(4.28784 51.88246)",
-                    "geonames_id": 2747890
+                    "id": 49783,
+                    "name": "Heiligenkreuz",
+                    "region": "Lower Austria",
+                    "country": "Austria",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(16.15292 48.04261)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 7871707
                 }
             }
         },
@@ -113,21 +118,20 @@
             }
         },
         {
-            "id": 48658,
-            "shelfmark": "F 69",
-            "old_shelfmarks": [],
+            "id": 47585,
+            "shelfmark": "96 C 4",
+            "old_shelfmarks": [
+                "14 D 26"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/15893"
-            ],
+            "urls": [],
             "witness_parts": [
                 {
-                    "id": 48659,
-                    "part_order": 3,
-                    "number_of_verses": 264,
-                    "part_of_text": "Duijvestijn (1989), p. 134-140",
-                    "number_of_lines": 264,
+                    "id": 47588,
+                    "part_order": 1,
+                    "number_of_verses": 251,
+                    "number_of_lines": 251,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
@@ -143,21 +147,17 @@
                 }
             ],
             "repository": {
-                "id": 49782,
-                "name": "Stiftsbibliothek",
-                "alternative_names": [
-                    "Stiftsbibliothek Heiligenkreuz"
-                ],
-                "viaf": "172753276.000000",
+                "id": 47361,
+                "name": "Gemeentebibliotheek Rotterdam",
+                "alternative_names": [],
+                "viaf": "153684222.000000",
                 "settlement": {
-                    "id": 49783,
-                    "name": "Heiligenkreuz",
-                    "region": "Lower Austria",
-                    "country": "Austria",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(16.15292 48.04261)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 7871707
+                    "id": 43364,
+                    "name": "Rotterdam",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.28784 51.88246)",
+                    "geonames_id": 2747890
                 }
             }
         }

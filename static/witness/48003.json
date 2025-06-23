@@ -19,26 +19,21 @@
     },
     "manuscripts": [
         {
-            "id": 48000,
-            "shelfmark": "1804",
+            "id": 48001,
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 48004,
-                    "part_order": 1,
-                    "number_of_verses": 1030,
-                    "number_of_lines": 1030,
+                    "id": 48006,
+                    "part_order": 2,
+                    "number_of_verses": 110,
+                    "number_of_lines": 110,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1r-2v",
-                        "3r-4v",
-                        "5r-6v",
-                        "7r-8v",
-                        "9r-10v"
+                        "1r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -49,21 +44,19 @@
                 }
             ],
             "repository": {
-                "id": 48416,
-                "name": "Provinciale Bibliotheek van Friesland",
-                "alternative_names": [
-                    "Provinciale bibliotheek Frise"
-                ],
-                "viaf": "129907462.000000",
+                "id": 48447,
+                "name": "Stadsarchief gemeente 's-Hertogenbosch",
+                "alternative_names": [],
+                "viaf": "628167807404018106368.000000",
                 "settlement": {
-                    "id": 43354,
-                    "name": "Leeuwarden",
-                    "region": "Friesland",
+                    "id": 47368,
+                    "name": "'s-Hertogenbosch",
+                    "region": "North Brabant",
                     "country": "Netherlands",
                     "place_type": "Administrative.City",
-                    "location_mappable": "POINT(5.81111 53.18602)",
+                    "location_mappable": "POINT(5.30417 51.69917)",
                     "location_certainty": "1. High confidence",
-                    "geonames_id": 2751791
+                    "geonames_id": 2747351
                 }
             }
         },
@@ -114,21 +107,26 @@
             }
         },
         {
-            "id": 48001,
+            "id": 48000,
+            "shelfmark": "1804",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 48006,
-                    "part_order": 2,
-                    "number_of_verses": 110,
-                    "number_of_lines": 110,
+                    "id": 48004,
+                    "part_order": 1,
+                    "number_of_verses": 1030,
+                    "number_of_lines": 1030,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1r-2v"
+                        "1r-2v",
+                        "3r-4v",
+                        "5r-6v",
+                        "7r-8v",
+                        "9r-10v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -139,19 +137,21 @@
                 }
             ],
             "repository": {
-                "id": 48447,
-                "name": "Stadsarchief gemeente 's-Hertogenbosch",
-                "alternative_names": [],
-                "viaf": "628167807404018106368.000000",
+                "id": 48416,
+                "name": "Provinciale Bibliotheek van Friesland",
+                "alternative_names": [
+                    "Provinciale bibliotheek Frise"
+                ],
+                "viaf": "129907462.000000",
                 "settlement": {
-                    "id": 47368,
-                    "name": "'s-Hertogenbosch",
-                    "region": "North Brabant",
+                    "id": 43354,
+                    "name": "Leeuwarden",
+                    "region": "Friesland",
                     "country": "Netherlands",
                     "place_type": "Administrative.City",
-                    "location_mappable": "POINT(5.30417 51.69917)",
+                    "location_mappable": "POINT(5.81111 53.18602)",
                     "location_certainty": "1. High confidence",
-                    "geonames_id": 2747351
+                    "geonames_id": 2751791
                 }
             }
         }

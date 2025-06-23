@@ -15,22 +15,23 @@
     ],
     "manuscripts": [
         {
-            "id": 49446,
-            "shelfmark": "Busta I, n. 11",
+            "id": 49447,
+            "shelfmark": "Busta I, n. 3",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
-                "http://jonas.irht.cnrs.fr/manuscrit/80416",
-                "https://arca.irht.cnrs.fr/ark:/63955/md03cz30tb9w"
+                "https://arca.irht.cnrs.fr/ark:/63955/md90dv143k39",
+                "http://jonas.irht.cnrs.fr/manuscrit/80416"
             ],
             "witness_parts": [
                 {
-                    "id": 49452,
-                    "part_order": 1,
-                    "lines_are_incomplete": "unknown",
+                    "id": 49453,
+                    "part_order": 2,
+                    "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "?"
+                        "1r-1v",
+                        "2r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -62,23 +63,22 @@
             }
         },
         {
-            "id": 49447,
-            "shelfmark": "Busta I, n. 3",
+            "id": 49446,
+            "shelfmark": "Busta I, n. 11",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
-                "https://arca.irht.cnrs.fr/ark:/63955/md90dv143k39",
-                "http://jonas.irht.cnrs.fr/manuscrit/80416"
+                "http://jonas.irht.cnrs.fr/manuscrit/80416",
+                "https://arca.irht.cnrs.fr/ark:/63955/md03cz30tb9w"
             ],
             "witness_parts": [
                 {
-                    "id": 49453,
-                    "part_order": 2,
-                    "lines_are_incomplete": "No",
+                    "id": 49452,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1r-1v",
-                        "2r-2v"
+                        "?"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
