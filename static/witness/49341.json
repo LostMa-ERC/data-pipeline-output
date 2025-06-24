@@ -15,6 +15,56 @@
     ],
     "manuscripts": [
         {
+            "id": 49328,
+            "shelfmark": "Ms-3491-3492",
+            "old_shelfmarks": [],
+            "collection": "Arsenal",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://jonas.irht.cnrs.fr/manuscrit/75257"
+            ],
+            "ark": "ark:/12148/cc841565/cd0e205",
+            "witness_parts": [
+                {
+                    "id": 49346,
+                    "part_order": 5,
+                    "volume_number": "5",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43932,
+                "name": "Bibliothèque nationale de France",
+                "alternative_names": [
+                    "França., Bibliothèque Nationale",
+                    "Национальная библиотека. (Париж)",
+                    "Bibliotheque nationale de France (Paris)",
+                    "הספרייה הלאומית של צרפת",
+                    "باريس. المكتبة الوطنية"
+                ],
+                "viaf": "137156173.000000",
+                "isni": "0000000123531945",
+                "settlement": {
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
+                }
+            }
+        },
+        {
             "id": 49325,
             "shelfmark": "Ms-3485-3486",
             "old_shelfmarks": [],
@@ -30,6 +80,56 @@
                     "id": 49343,
                     "part_order": 2,
                     "volume_number": "2",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43932,
+                "name": "Bibliothèque nationale de France",
+                "alternative_names": [
+                    "França., Bibliothèque Nationale",
+                    "Национальная библиотека. (Париж)",
+                    "Bibliotheque nationale de France (Paris)",
+                    "הספרייה הלאומית של צרפת",
+                    "باريس. المكتبة الوطنية"
+                ],
+                "viaf": "137156173.000000",
+                "isni": "0000000123531945",
+                "settlement": {
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
+                }
+            }
+        },
+        {
+            "id": 49327,
+            "shelfmark": "Ms-3489-3490",
+            "old_shelfmarks": [],
+            "collection": "Arsenal",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://jonas.irht.cnrs.fr/manuscrit/75257"
+            ],
+            "ark": "ark:/12148/cc841565/cd0e190",
+            "witness_parts": [
+                {
+                    "id": 49345,
+                    "part_order": 4,
+                    "volume_number": "4",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
                         "?"
@@ -130,106 +230,6 @@
                     "id": 49347,
                     "part_order": 6,
                     "volume_number": "6",
-                    "lines_are_incomplete": "No",
-                    "page_ranges": [
-                        "?"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43932,
-                "name": "Bibliothèque nationale de France",
-                "alternative_names": [
-                    "França., Bibliothèque Nationale",
-                    "Национальная библиотека. (Париж)",
-                    "Bibliotheque nationale de France (Paris)",
-                    "הספרייה הלאומית של צרפת",
-                    "باريس. المكتبة الوطنية"
-                ],
-                "viaf": "137156173.000000",
-                "isni": "0000000123531945",
-                "settlement": {
-                    "id": 43675,
-                    "name": "Paris",
-                    "region": "Île-de-France",
-                    "country": "France",
-                    "location_mappable": "POINT(2.3488 48.85341)",
-                    "geonames_id": 2988507
-                }
-            }
-        },
-        {
-            "id": 49327,
-            "shelfmark": "Ms-3489-3490",
-            "old_shelfmarks": [],
-            "collection": "Arsenal",
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://jonas.irht.cnrs.fr/manuscrit/75257"
-            ],
-            "ark": "ark:/12148/cc841565/cd0e190",
-            "witness_parts": [
-                {
-                    "id": 49345,
-                    "part_order": 4,
-                    "volume_number": "4",
-                    "lines_are_incomplete": "No",
-                    "page_ranges": [
-                        "?"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43932,
-                "name": "Bibliothèque nationale de France",
-                "alternative_names": [
-                    "França., Bibliothèque Nationale",
-                    "Национальная библиотека. (Париж)",
-                    "Bibliotheque nationale de France (Paris)",
-                    "הספרייה הלאומית של צרפת",
-                    "باريس. المكتبة الوطنية"
-                ],
-                "viaf": "137156173.000000",
-                "isni": "0000000123531945",
-                "settlement": {
-                    "id": 43675,
-                    "name": "Paris",
-                    "region": "Île-de-France",
-                    "country": "France",
-                    "location_mappable": "POINT(2.3488 48.85341)",
-                    "geonames_id": 2988507
-                }
-            }
-        },
-        {
-            "id": 49328,
-            "shelfmark": "Ms-3491-3492",
-            "old_shelfmarks": [],
-            "collection": "Arsenal",
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://jonas.irht.cnrs.fr/manuscrit/75257"
-            ],
-            "ark": "ark:/12148/cc841565/cd0e205",
-            "witness_parts": [
-                {
-                    "id": 49346,
-                    "part_order": 5,
-                    "volume_number": "5",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
                         "?"

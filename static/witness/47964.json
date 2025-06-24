@@ -21,6 +21,51 @@
     },
     "manuscripts": [
         {
+            "id": 47962,
+            "old_shelfmarks": [],
+            "is_hypothetical": true,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47965,
+                    "part_order": 1,
+                    "number_of_verses": 816,
+                    "number_of_lines": 816,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43834,
+                "name": "Bibliothèque d'Arras",
+                "alternative_names": [
+                    "Bibliothèque Municipale",
+                    "Bibliothèque municipale d'Arras",
+                    "Bibliothèque municipale (Arras)"
+                ],
+                "viaf": "172428812.000000",
+                "isni": "0000000103579589",
+                "settlement": {
+                    "id": 43706,
+                    "name": "Arras",
+                    "region": "Hauts-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.78186 50.29301)",
+                    "geonames_id": 3036784
+                }
+            }
+        },
+        {
             "id": 47963,
             "shelfmark": "Ltk. 1024",
             "old_shelfmarks": [],
@@ -67,51 +112,6 @@
                     "country": "Netherlands",
                     "location_mappable": "POINT(4.49306 52.15833)",
                     "geonames_id": 2751773
-                }
-            }
-        },
-        {
-            "id": 47962,
-            "old_shelfmarks": [],
-            "is_hypothetical": true,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 47965,
-                    "part_order": 1,
-                    "number_of_verses": 816,
-                    "number_of_lines": 816,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-4v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43834,
-                "name": "Bibliothèque d'Arras",
-                "alternative_names": [
-                    "Bibliothèque Municipale",
-                    "Bibliothèque municipale d'Arras",
-                    "Bibliothèque municipale (Arras)"
-                ],
-                "viaf": "172428812.000000",
-                "isni": "0000000103579589",
-                "settlement": {
-                    "id": 43706,
-                    "name": "Arras",
-                    "region": "Hauts-de-France",
-                    "country": "France",
-                    "location_mappable": "POINT(2.78186 50.29301)",
-                    "geonames_id": 3036784
                 }
             }
         }

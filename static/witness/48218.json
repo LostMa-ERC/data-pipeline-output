@@ -21,54 +21,6 @@
     },
     "manuscripts": [
         {
-            "id": 48217,
-            "old_shelfmarks": [],
-            "is_hypothetical": true,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/15397"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48222,
-                    "part_order": 2,
-                    "number_of_verses": 318,
-                    "number_of_lines": 318,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v",
-                        "2r-2v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 48438,
-                "name": "Erzbischöfliche Diözesan- und Dombibliothek",
-                "alternative_names": [
-                    "Dombibliothek",
-                    "Erzbischöfliche Diözesan- und Dombibliothek Köln mit Bibliothek St. Albertus Magnus"
-                ],
-                "viaf": "126431685.000000",
-                "settlement": {
-                    "id": 47379,
-                    "name": "Köln",
-                    "region": "North Rhine-Westphalia",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(6.95 50.93333)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2886242
-                }
-            }
-        },
-        {
             "id": 48216,
             "shelfmark": "406",
             "old_shelfmarks": [],
@@ -158,6 +110,54 @@
                     "location_mappable": "POINT(11.5899 50.92878)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 2895044
+                }
+            }
+        },
+        {
+            "id": 48217,
+            "old_shelfmarks": [],
+            "is_hypothetical": true,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/15397"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48222,
+                    "part_order": 2,
+                    "number_of_verses": 318,
+                    "number_of_lines": 318,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v",
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48438,
+                "name": "Erzbischöfliche Diözesan- und Dombibliothek",
+                "alternative_names": [
+                    "Dombibliothek",
+                    "Erzbischöfliche Diözesan- und Dombibliothek Köln mit Bibliothek St. Albertus Magnus"
+                ],
+                "viaf": "126431685.000000",
+                "settlement": {
+                    "id": 47379,
+                    "name": "Köln",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(6.95 50.93333)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2886242
                 }
             }
         }
