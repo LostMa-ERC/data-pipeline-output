@@ -21,23 +21,27 @@
     },
     "manuscripts": [
         {
-            "id": 48100,
+            "id": 48101,
+            "shelfmark": "Best. 147 Hr. 1,1",
             "old_shelfmarks": [],
-            "is_hypothetical": true,
+            "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
                 "https://www.handschriftencensus.de/18433"
             ],
             "witness_parts": [
                 {
-                    "id": 48106,
+                    "id": 48107,
                     "part_order": 1,
-                    "number_of_verses": 208,
-                    "number_of_lines": 208,
+                    "number_of_verses": 5638,
+                    "number_of_lines": 5638,
                     "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "No",
+                    "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "6r-6v"
+                        "1r-5v",
+                        "7r-7v",
+                        "9r-20v",
+                        "22r-37v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -48,17 +52,17 @@
                 }
             ],
             "repository": {
-                "id": 48443,
-                "name": "Stadtarchiv Mengeringhausen",
+                "id": 48428,
+                "name": "Hessisches Staatsarchiv Marburg",
                 "alternative_names": [],
-                "viaf": "154825970.000000",
+                "viaf": "155417613.000000",
                 "settlement": {
-                    "id": 48444,
-                    "name": "Mengeringhausen",
+                    "id": 48429,
+                    "name": "Marburg an der Lahn",
                     "region": "Hesse",
                     "country": "Germany",
                     "place_type": "Administrative.City",
-                    "location_mappable": "POINT(8.98845 51.36701)",
+                    "location_mappable": "POINT(8.77069 50.80904)",
                     "location_certainty": "1. High confidence"
                 }
             }
@@ -158,27 +162,23 @@
             }
         },
         {
-            "id": 48101,
-            "shelfmark": "Best. 147 Hr. 1,1",
+            "id": 48100,
             "old_shelfmarks": [],
-            "is_hypothetical": false,
+            "is_hypothetical": true,
             "collection_of_fragments": "No",
             "urls": [
                 "https://www.handschriftencensus.de/18433"
             ],
             "witness_parts": [
                 {
-                    "id": 48107,
+                    "id": 48106,
                     "part_order": 1,
-                    "number_of_verses": 5638,
-                    "number_of_lines": 5638,
+                    "number_of_verses": 208,
+                    "number_of_lines": 208,
                     "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
+                    "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "1r-5v",
-                        "7r-7v",
-                        "9r-20v",
-                        "22r-37v"
+                        "6r-6v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -189,17 +189,17 @@
                 }
             ],
             "repository": {
-                "id": 48428,
-                "name": "Hessisches Staatsarchiv Marburg",
+                "id": 48443,
+                "name": "Stadtarchiv Mengeringhausen",
                 "alternative_names": [],
-                "viaf": "155417613.000000",
+                "viaf": "154825970.000000",
                 "settlement": {
-                    "id": 48429,
-                    "name": "Marburg an der Lahn",
+                    "id": 48444,
+                    "name": "Mengeringhausen",
                     "region": "Hesse",
                     "country": "Germany",
                     "place_type": "Administrative.City",
-                    "location_mappable": "POINT(8.77069 50.80904)",
+                    "location_mappable": "POINT(8.98845 51.36701)",
                     "location_certainty": "1. High confidence"
                 }
             }

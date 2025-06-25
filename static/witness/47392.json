@@ -19,50 +19,6 @@
     },
     "manuscripts": [
         {
-            "id": 47391,
-            "shelfmark": "7 bis b",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 47393,
-                    "part_order": 1,
-                    "number_of_verses": 424,
-                    "number_of_lines": 424,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "No",
-                    "page_ranges": [
-                        "1r-1v",
-                        "2r-2v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 47350,
-                "name": "Koninklijke academie voor Nederlandse taal en letteren",
-                "alternative_names": [
-                    "Koninklijke vlaamse academie voor taal- en letterkunde"
-                ],
-                "viaf": "219233094.000000",
-                "settlement": {
-                    "id": 43690,
-                    "name": "Ghent",
-                    "region": "Flanders",
-                    "country": "Belgium",
-                    "location_mappable": "POINT(3.71667 51.05)",
-                    "geonames_id": 2797656
-                }
-            }
-        },
-        {
             "id": 47401,
             "shelfmark": "41",
             "old_shelfmarks": [],
@@ -103,6 +59,50 @@
                     "location_mappable": "POINT(6.45297 51.65877)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 2805385
+                }
+            }
+        },
+        {
+            "id": 47391,
+            "shelfmark": "7 bis b",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47393,
+                    "part_order": 1,
+                    "number_of_verses": 424,
+                    "number_of_lines": 424,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-1v",
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47350,
+                "name": "Koninklijke academie voor Nederlandse taal en letteren",
+                "alternative_names": [
+                    "Koninklijke vlaamse academie voor taal- en letterkunde"
+                ],
+                "viaf": "219233094.000000",
+                "settlement": {
+                    "id": 43690,
+                    "name": "Ghent",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(3.71667 51.05)",
+                    "geonames_id": 2797656
                 }
             }
         },

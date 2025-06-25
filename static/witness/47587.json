@@ -21,50 +21,6 @@
     },
     "manuscripts": [
         {
-            "id": 47585,
-            "shelfmark": "96 C 4",
-            "old_shelfmarks": [
-                "14 D 26"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 47588,
-                    "part_order": 1,
-                    "number_of_verses": 251,
-                    "number_of_lines": 251,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v",
-                        "2r-2v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 47361,
-                "name": "Gemeentebibliotheek Rotterdam",
-                "alternative_names": [],
-                "viaf": "153684222.000000",
-                "settlement": {
-                    "id": 43364,
-                    "name": "Rotterdam",
-                    "region": "South Holland",
-                    "country": "Netherlands",
-                    "location_mappable": "POINT(4.28784 51.88246)",
-                    "geonames_id": 2747890
-                }
-            }
-        },
-        {
             "id": 47586,
             "shelfmark": "K 2: F 45",
             "old_shelfmarks": [],
@@ -158,6 +114,50 @@
                     "location_mappable": "POINT(16.15292 48.04261)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 7871707
+                }
+            }
+        },
+        {
+            "id": 47585,
+            "shelfmark": "96 C 4",
+            "old_shelfmarks": [
+                "14 D 26"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47588,
+                    "part_order": 1,
+                    "number_of_verses": 251,
+                    "number_of_lines": 251,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v",
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47361,
+                "name": "Gemeentebibliotheek Rotterdam",
+                "alternative_names": [],
+                "viaf": "153684222.000000",
+                "settlement": {
+                    "id": 43364,
+                    "name": "Rotterdam",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.28784 51.88246)",
+                    "geonames_id": 2747890
                 }
             }
         }

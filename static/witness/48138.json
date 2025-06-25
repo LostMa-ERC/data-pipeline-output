@@ -21,6 +21,51 @@
     },
     "manuscripts": [
         {
+            "id": 48135,
+            "shelfmark": "Ms. germ. fol. 1385",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/9024"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48146,
+                    "part_order": 2,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43889,
+                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
+                "alternative_names": [
+                    "Staatsbibliothek zu Berlin.",
+                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
+                    "Staatsbibliothek Berlin"
+                ],
+                "viaf": "157207056.000000",
+                "isni": "0000000123699481",
+                "settlement": {
+                    "id": 43580,
+                    "name": "Berlin",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
+                }
+            }
+        },
+        {
             "id": 48130,
             "shelfmark": "22.219",
             "old_shelfmarks": [],
@@ -58,6 +103,49 @@
                     "country": "Germany",
                     "location_mappable": "POINT(11.0768 49.4541)",
                     "geonames_id": 6556832
+                }
+            }
+        },
+        {
+            "id": 48136,
+            "shelfmark": "4o Ms. poet. et roman. 29",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/9024"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48147,
+                    "part_order": 3,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48422,
+                "name": "Gesamthochschul-Bibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek.",
+                "alternative_names": [],
+                "viaf": "172673709.000000",
+                "settlement": {
+                    "id": 48423,
+                    "name": "Kassel",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(9.49974058 51.31602217)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2892518
                 }
             }
         },
@@ -110,136 +198,6 @@
             }
         },
         {
-            "id": 48136,
-            "shelfmark": "4o Ms. poet. et roman. 29",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/9024"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48147,
-                    "part_order": 3,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 48422,
-                "name": "Gesamthochschul-Bibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek.",
-                "alternative_names": [],
-                "viaf": "172673709.000000",
-                "settlement": {
-                    "id": 48423,
-                    "name": "Kassel",
-                    "region": "Hesse",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(9.49974058 51.31602217)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2892518
-                }
-            }
-        },
-        {
-            "id": 48135,
-            "shelfmark": "Ms. germ. fol. 1385",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/9024"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48146,
-                    "part_order": 2,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43889,
-                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
-                "alternative_names": [
-                    "Staatsbibliothek zu Berlin.",
-                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
-                    "Staatsbibliothek Berlin"
-                ],
-                "viaf": "157207056.000000",
-                "isni": "0000000123699481",
-                "settlement": {
-                    "id": 43580,
-                    "name": "Berlin",
-                    "country": "Germany",
-                    "location_mappable": "POINT(13.41053 52.52437)",
-                    "geonames_id": 2950159
-                }
-            }
-        },
-        {
-            "id": 48127,
-            "shelfmark": "2o MS 638",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/9024"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48139,
-                    "part_order": 4,
-                    "number_of_verses": 9800,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-2v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 48418,
-                "name": "Universitätsbibliothek Greifswald",
-                "alternative_names": [],
-                "viaf": "142485406.000000",
-                "settlement": {
-                    "id": 42798,
-                    "name": "Greifswald",
-                    "region": "Mecklenburg-Vorpommern",
-                    "country": "Germany",
-                    "location_mappable": "POINT(13.38756 54.08809)",
-                    "geonames_id": 6551180
-                }
-            }
-        },
-        {
             "id": 48131,
             "shelfmark": "Cod.misc. 4o 30d, XIV",
             "old_shelfmarks": [],
@@ -277,52 +235,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(9.1775 48.77667)",
                     "geonames_id": 6690189
-                }
-            }
-        },
-        {
-            "id": 48128,
-            "shelfmark": "98",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/9024"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48141,
-                    "part_order": 1,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "1r-19v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43869,
-                "name": "Universitätsbibliothek Gießen",
-                "alternative_names": [
-                    "Universitätsbibliothek Giessen (Alemania)",
-                    "Universitätsbibliothek Gießen, Allemagne",
-                    "Justus-Liebig-Universität, Universitätsbibliothek Gießen (D-GI)"
-                ],
-                "viaf": "154192976.000000",
-                "isni": "0000000123593820",
-                "settlement": {
-                    "id": 43621,
-                    "name": "Giessen",
-                    "region": "Hesse",
-                    "country": "Germany",
-                    "location_mappable": "POINT(8.67554 50.58727)",
-                    "geonames_id": 2920512
                 }
             }
         },
@@ -376,6 +288,48 @@
             }
         },
         {
+            "id": 48127,
+            "shelfmark": "2o MS 638",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/9024"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48139,
+                    "part_order": 4,
+                    "number_of_verses": 9800,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48418,
+                "name": "Universitätsbibliothek Greifswald",
+                "alternative_names": [],
+                "viaf": "142485406.000000",
+                "settlement": {
+                    "id": 42798,
+                    "name": "Greifswald",
+                    "region": "Mecklenburg-Vorpommern",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.38756 54.08809)",
+                    "geonames_id": 6551180
+                }
+            }
+        },
+        {
             "id": 48137,
             "shelfmark": "ME IV 5",
             "old_shelfmarks": [],
@@ -415,6 +369,52 @@
                     "country": "Germany",
                     "location_mappable": "POINT(9.05222 48.52266)",
                     "geonames_id": 2820860
+                }
+            }
+        },
+        {
+            "id": 48128,
+            "shelfmark": "98",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/9024"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48141,
+                    "part_order": 1,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-19v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43869,
+                "name": "Universitätsbibliothek Gießen",
+                "alternative_names": [
+                    "Universitätsbibliothek Giessen (Alemania)",
+                    "Universitätsbibliothek Gießen, Allemagne",
+                    "Justus-Liebig-Universität, Universitätsbibliothek Gießen (D-GI)"
+                ],
+                "viaf": "154192976.000000",
+                "isni": "0000000123593820",
+                "settlement": {
+                    "id": 43621,
+                    "name": "Giessen",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.67554 50.58727)",
+                    "geonames_id": 2920512
                 }
             }
         }
