@@ -21,33 +21,6 @@
     },
     "manuscripts": [
         {
-            "id": 48036,
-            "old_shelfmarks": [],
-            "collection": "Coll.-J. Deschamps",
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 48042,
-                    "part_order": 4,
-                    "number_of_verses": 48,
-                    "number_of_lines": 48,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ]
-        },
-        {
             "id": 48035,
             "shelfmark": "Ms. IV 209 / 10",
             "old_shelfmarks": [],
@@ -99,18 +72,18 @@
             }
         },
         {
-            "id": 48033,
-            "shelfmark": "1647",
+            "id": 48036,
             "old_shelfmarks": [],
+            "collection": "Coll.-J. Deschamps",
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 48040,
-                    "part_order": 2,
-                    "number_of_verses": 30,
-                    "number_of_lines": 30,
+                    "id": 48042,
+                    "part_order": 4,
+                    "number_of_verses": 48,
+                    "number_of_lines": 48,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
@@ -123,29 +96,7 @@
                     "has_pictorial_designs": false,
                     "decoration_is_unknown": false
                 }
-            ],
-            "repository": {
-                "id": 43787,
-                "name": "Rijksuniversiteit te Gent. Bibliotheek",
-                "alternative_names": [
-                    "Universiteitsbibliotheek Gand, Belgique",
-                    "Rijksuniversiteit Gent. Bibliothek",
-                    "Universiteitsbibliotheek UGent",
-                    "Universiteitsbibliotheek Gent (B-Gu)",
-                    "Rijksuniversiteit (Gandawa). Bibliotheek.",
-                    "Universiteitsbibliotheek Gent"
-                ],
-                "viaf": "139553481.000000",
-                "isni": "0000000123484448",
-                "settlement": {
-                    "id": 43690,
-                    "name": "Ghent",
-                    "region": "Flanders",
-                    "country": "Belgium",
-                    "location_mappable": "POINT(3.71667 51.05)",
-                    "geonames_id": 2797656
-                }
-            }
+            ]
         },
         {
             "id": 48032,
@@ -195,6 +146,55 @@
                     "country": "Austria",
                     "location_mappable": "POINT(16.37208 48.20849)",
                     "geonames_id": 2761369
+                }
+            }
+        },
+        {
+            "id": 48033,
+            "shelfmark": "1647",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48040,
+                    "part_order": 2,
+                    "number_of_verses": 30,
+                    "number_of_lines": 30,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43787,
+                "name": "Rijksuniversiteit te Gent. Bibliotheek",
+                "alternative_names": [
+                    "Universiteitsbibliotheek Gand, Belgique",
+                    "Rijksuniversiteit Gent. Bibliothek",
+                    "Universiteitsbibliotheek UGent",
+                    "Universiteitsbibliotheek Gent (B-Gu)",
+                    "Rijksuniversiteit (Gandawa). Bibliotheek.",
+                    "Universiteitsbibliotheek Gent"
+                ],
+                "viaf": "139553481.000000",
+                "isni": "0000000123484448",
+                "settlement": {
+                    "id": 43690,
+                    "name": "Ghent",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(3.71667 51.05)",
+                    "geonames_id": 2797656
                 }
             }
         }

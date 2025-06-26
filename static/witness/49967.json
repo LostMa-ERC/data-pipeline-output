@@ -15,10 +15,10 @@
     ],
     "manuscripts": [
         {
-            "id": 49549,
-            "shelfmark": "RF 5271",
+            "id": 49548,
+            "shelfmark": "RF 4143",
             "old_shelfmarks": [],
-            "collection": "Cabinet des dessins",
+            "collection": "Département des Arts graphiques",
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
@@ -26,8 +26,8 @@
             ],
             "witness_parts": [
                 {
-                    "id": 49969,
-                    "part_order": 2,
+                    "id": 49968,
+                    "part_order": 1,
                     "lines_are_incomplete": "No",
                     "page_ranges": [
                         "1r-1v"
@@ -56,10 +56,10 @@
             }
         },
         {
-            "id": 49548,
-            "shelfmark": "RF 4143",
+            "id": 49549,
+            "shelfmark": "RF 5271",
             "old_shelfmarks": [],
-            "collection": "Département des Arts graphiques",
+            "collection": "Cabinet des dessins",
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
@@ -67,8 +67,8 @@
             ],
             "witness_parts": [
                 {
-                    "id": 49968,
-                    "part_order": 1,
+                    "id": 49969,
+                    "part_order": 2,
                     "lines_are_incomplete": "No",
                     "page_ranges": [
                         "1r-1v"

@@ -21,6 +21,56 @@
     },
     "manuscripts": [
         {
+            "id": 48192,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/9435"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48196,
+                    "part_order": 2,
+                    "number_of_verses": 85,
+                    "number_of_lines": 85,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43962,
+                "name": "Katholieke Universiteit te Leuven . Universiteitsbibliotheek",
+                "alternative_names": [
+                    "Bibliothèque universitaire KU Leuven",
+                    "Katholieke Universiteit te Leuven Universiteitsbibliotheek former owner of Philadelphia, Free Library, Lewis E 213",
+                    "Sint-Maartensdaal (Löwen) Bibliotheek",
+                    "Université catholique de Louvain 1435-1970, Bibliothèque",
+                    "Katholieke Universiteit te Leuven. Universiteitsbibliotheek",
+                    "Universiteitsbibliotheek-K.U. Leuven (Louvain)"
+                ],
+                "viaf": "273696433.000000",
+                "isni": "000000011940824X",
+                "settlement": {
+                    "id": 43676,
+                    "name": "Leuven",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(4.70093 50.87959)",
+                    "geonames_id": 2792482
+                }
+            }
+        },
+        {
             "id": 48191,
             "old_shelfmarks": [
                 "Germ. qu. 1895,4"
@@ -68,56 +118,6 @@
                     "country": "Poland",
                     "location_mappable": "POINT(19.93658 50.06143)",
                     "geonames_id": 3094802
-                }
-            }
-        },
-        {
-            "id": 48192,
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/9435"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48196,
-                    "part_order": 2,
-                    "number_of_verses": 85,
-                    "number_of_lines": 85,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43962,
-                "name": "Katholieke Universiteit te Leuven . Universiteitsbibliotheek",
-                "alternative_names": [
-                    "Bibliothèque universitaire KU Leuven",
-                    "Katholieke Universiteit te Leuven Universiteitsbibliotheek former owner of Philadelphia, Free Library, Lewis E 213",
-                    "Sint-Maartensdaal (Löwen) Bibliotheek",
-                    "Université catholique de Louvain 1435-1970, Bibliothèque",
-                    "Katholieke Universiteit te Leuven. Universiteitsbibliotheek",
-                    "Universiteitsbibliotheek-K.U. Leuven (Louvain)"
-                ],
-                "viaf": "273696433.000000",
-                "isni": "000000011940824X",
-                "settlement": {
-                    "id": 43676,
-                    "name": "Leuven",
-                    "region": "Flanders",
-                    "country": "Belgium",
-                    "location_mappable": "POINT(4.70093 50.87959)",
-                    "geonames_id": 2792482
                 }
             }
         }

@@ -21,20 +21,18 @@
     },
     "manuscripts": [
         {
-            "id": 47692,
-            "old_shelfmarks": [
-                "a"
-            ],
-            "collection": "Collectie J. M. de Smet",
+            "id": 47689,
+            "shelfmark": "Néerlandais 126",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 47698,
-                    "part_order": 1,
-                    "number_of_verses": 229,
-                    "number_of_lines": 229,
+                    "id": 47694,
+                    "part_order": 2,
+                    "number_of_verses": 144,
+                    "number_of_lines": 144,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
@@ -49,25 +47,24 @@
                 }
             ],
             "repository": {
-                "id": 43962,
-                "name": "Katholieke Universiteit te Leuven . Universiteitsbibliotheek",
+                "id": 43932,
+                "name": "Bibliothèque nationale de France",
                 "alternative_names": [
-                    "Bibliothèque universitaire KU Leuven",
-                    "Katholieke Universiteit te Leuven Universiteitsbibliotheek former owner of Philadelphia, Free Library, Lewis E 213",
-                    "Sint-Maartensdaal (Löwen) Bibliotheek",
-                    "Université catholique de Louvain 1435-1970, Bibliothèque",
-                    "Katholieke Universiteit te Leuven. Universiteitsbibliotheek",
-                    "Universiteitsbibliotheek-K.U. Leuven (Louvain)"
+                    "França., Bibliothèque Nationale",
+                    "Национальная библиотека. (Париж)",
+                    "Bibliotheque nationale de France (Paris)",
+                    "הספרייה הלאומית של צרפת",
+                    "باريس. المكتبة الوطنية"
                 ],
-                "viaf": "273696433.000000",
-                "isni": "000000011940824X",
+                "viaf": "137156173.000000",
+                "isni": "0000000123531945",
                 "settlement": {
-                    "id": 43676,
-                    "name": "Leuven",
-                    "region": "Flanders",
-                    "country": "Belgium",
-                    "location_mappable": "POINT(4.70093 50.87959)",
-                    "geonames_id": 2792482
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
                 }
             }
         },
@@ -123,18 +120,20 @@
             }
         },
         {
-            "id": 47689,
-            "shelfmark": "Néerlandais 126",
-            "old_shelfmarks": [],
+            "id": 47692,
+            "old_shelfmarks": [
+                "a"
+            ],
+            "collection": "Collectie J. M. de Smet",
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 47694,
-                    "part_order": 2,
-                    "number_of_verses": 144,
-                    "number_of_lines": 144,
+                    "id": 47698,
+                    "part_order": 1,
+                    "number_of_verses": 229,
+                    "number_of_lines": 229,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
@@ -149,24 +148,25 @@
                 }
             ],
             "repository": {
-                "id": 43932,
-                "name": "Bibliothèque nationale de France",
+                "id": 43962,
+                "name": "Katholieke Universiteit te Leuven . Universiteitsbibliotheek",
                 "alternative_names": [
-                    "França., Bibliothèque Nationale",
-                    "Национальная библиотека. (Париж)",
-                    "Bibliotheque nationale de France (Paris)",
-                    "הספרייה הלאומית של צרפת",
-                    "باريس. المكتبة الوطنية"
+                    "Bibliothèque universitaire KU Leuven",
+                    "Katholieke Universiteit te Leuven Universiteitsbibliotheek former owner of Philadelphia, Free Library, Lewis E 213",
+                    "Sint-Maartensdaal (Löwen) Bibliotheek",
+                    "Université catholique de Louvain 1435-1970, Bibliothèque",
+                    "Katholieke Universiteit te Leuven. Universiteitsbibliotheek",
+                    "Universiteitsbibliotheek-K.U. Leuven (Louvain)"
                 ],
-                "viaf": "137156173.000000",
-                "isni": "0000000123531945",
+                "viaf": "273696433.000000",
+                "isni": "000000011940824X",
                 "settlement": {
-                    "id": 43675,
-                    "name": "Paris",
-                    "region": "Île-de-France",
-                    "country": "France",
-                    "location_mappable": "POINT(2.3488 48.85341)",
-                    "geonames_id": 2988507
+                    "id": 43676,
+                    "name": "Leuven",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(4.70093 50.87959)",
+                    "geonames_id": 2792482
                 }
             }
         }

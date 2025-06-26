@@ -72,8 +72,9 @@
         },
         {
             "id": 47962,
+            "shelfmark": "z.s.",
             "old_shelfmarks": [],
-            "is_hypothetical": true,
+            "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [

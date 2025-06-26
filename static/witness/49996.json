@@ -14,83 +14,6 @@
     ],
     "manuscripts": [
         {
-            "id": 45430,
-            "shelfmark": "1",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "unknown",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 50000,
-                    "part_order": 4,
-                    "volume_number": "5",
-                    "lines_are_incomplete": "No",
-                    "page_ranges": [
-                        "1r - 181v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43885,
-                "name": "John Rylands Library",
-                "alternative_names": [
-                    "John Rylands library Manchester, GB",
-                    "Llyfrgell John Rylands",
-                    "John Rylands University Library Manchester (GB-Mr)",
-                    "John Rylands Library (Manchester)",
-                    "John Rylands library (Manchester, GB) (1900-1972)"
-                ],
-                "viaf": "312795145.000000",
-                "isni": "0000000119411238",
-                "settlement": {
-                    "id": 43401,
-                    "name": "Manchester",
-                    "region": "England",
-                    "country": "United Kingdom",
-                    "location_mappable": "POINT(-2.23743 53.48095)",
-                    "geonames_id": 2643123
-                }
-            }
-        },
-        {
-            "id": 49992,
-            "old_shelfmarks": [
-                "Cheltenham Phillipps 3630",
-                "Cheltenham Phillipps 1045",
-                "Cheltenham Phillipps 1047",
-                "Bibliotheca Philosophica Hermetica 1"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "http://jonas.irht.cnrs.fr/manuscrit/74587"
-            ],
-            "witness_parts": [
-                {
-                    "id": 49998,
-                    "part_order": 2,
-                    "volume_number": "3",
-                    "lines_are_incomplete": "No",
-                    "page_ranges": [
-                        "1-104v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ]
-        },
-        {
             "id": 45351,
             "shelfmark": "MS. Douce 215",
             "old_shelfmarks": [],
@@ -137,6 +60,83 @@
                     "country": "United Kingdom",
                     "location_mappable": "POINT(-1.25596 51.75222)",
                     "geonames_id": 2640729
+                }
+            }
+        },
+        {
+            "id": 49992,
+            "old_shelfmarks": [
+                "Cheltenham Phillipps 3630",
+                "Cheltenham Phillipps 1045",
+                "Cheltenham Phillipps 1047",
+                "Bibliotheca Philosophica Hermetica 1"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/74587"
+            ],
+            "witness_parts": [
+                {
+                    "id": 49998,
+                    "part_order": 2,
+                    "volume_number": "3",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1-104v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        },
+        {
+            "id": 45430,
+            "shelfmark": "1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 50000,
+                    "part_order": 4,
+                    "volume_number": "5",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r - 181v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43885,
+                "name": "John Rylands Library",
+                "alternative_names": [
+                    "John Rylands library Manchester, GB",
+                    "Llyfrgell John Rylands",
+                    "John Rylands University Library Manchester (GB-Mr)",
+                    "John Rylands Library (Manchester)",
+                    "John Rylands library (Manchester, GB) (1900-1972)"
+                ],
+                "viaf": "312795145.000000",
+                "isni": "0000000119411238",
+                "settlement": {
+                    "id": 43401,
+                    "name": "Manchester",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-2.23743 53.48095)",
+                    "geonames_id": 2643123
                 }
             }
         },
