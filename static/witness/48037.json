@@ -21,16 +21,16 @@
     },
     "manuscripts": [
         {
-            "id": 48035,
-            "shelfmark": "Ms. IV 209 / 10",
+            "id": 48033,
+            "shelfmark": "1647",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 48041,
-                    "part_order": 3,
+                    "id": 48040,
+                    "part_order": 2,
                     "number_of_verses": 30,
                     "number_of_lines": 30,
                     "verses_per_line": "one verse per line",
@@ -47,27 +47,25 @@
                 }
             ],
             "repository": {
-                "id": 43904,
-                "name": "Bibliothèque royale de Belgique",
+                "id": 43787,
+                "name": "Rijksuniversiteit te Gent. Bibliotheek",
                 "alternative_names": [
-                    "Bélgica., Koninklijke Bibliotheek van België",
-                    "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR) Bruxelles; Brussel (B-Br)",
-                    "Biblioteka Królewska Belgii",
-                    "Bibliothèque royale Albert Ier",
-                    "Bibliothèque royale de Belgique (Bruxelles)",
-                    "Bibliothèque royale Albert Ier (Bruxelles, Belgique)",
-                    "Royal Library of Belgium"
+                    "Universiteitsbibliotheek Gand, Belgique",
+                    "Rijksuniversiteit Gent. Bibliothek",
+                    "Universiteitsbibliotheek UGent",
+                    "Universiteitsbibliotheek Gent (B-Gu)",
+                    "Rijksuniversiteit (Gandawa). Bibliotheek.",
+                    "Universiteitsbibliotheek Gent"
                 ],
-                "viaf": "312739455.000000",
-                "isni": "0000000122714686",
+                "viaf": "139553481.000000",
+                "isni": "0000000123484448",
                 "settlement": {
-                    "id": 43150,
-                    "name": "Brussels",
+                    "id": 43690,
+                    "name": "Ghent",
+                    "region": "Flanders",
                     "country": "Belgium",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(4.34878 50.85045)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2800866
+                    "location_mappable": "POINT(3.71667 51.05)",
+                    "geonames_id": 2797656
                 }
             }
         },
@@ -150,16 +148,16 @@
             }
         },
         {
-            "id": 48033,
-            "shelfmark": "1647",
+            "id": 48035,
+            "shelfmark": "Ms. IV 209 / 10",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 48040,
-                    "part_order": 2,
+                    "id": 48041,
+                    "part_order": 3,
                     "number_of_verses": 30,
                     "number_of_lines": 30,
                     "verses_per_line": "one verse per line",
@@ -176,25 +174,27 @@
                 }
             ],
             "repository": {
-                "id": 43787,
-                "name": "Rijksuniversiteit te Gent. Bibliotheek",
+                "id": 43904,
+                "name": "Bibliothèque royale de Belgique",
                 "alternative_names": [
-                    "Universiteitsbibliotheek Gand, Belgique",
-                    "Rijksuniversiteit Gent. Bibliothek",
-                    "Universiteitsbibliotheek UGent",
-                    "Universiteitsbibliotheek Gent (B-Gu)",
-                    "Rijksuniversiteit (Gandawa). Bibliotheek.",
-                    "Universiteitsbibliotheek Gent"
+                    "Bélgica., Koninklijke Bibliotheek van België",
+                    "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR) Bruxelles; Brussel (B-Br)",
+                    "Biblioteka Królewska Belgii",
+                    "Bibliothèque royale Albert Ier",
+                    "Bibliothèque royale de Belgique (Bruxelles)",
+                    "Bibliothèque royale Albert Ier (Bruxelles, Belgique)",
+                    "Royal Library of Belgium"
                 ],
-                "viaf": "139553481.000000",
-                "isni": "0000000123484448",
+                "viaf": "312739455.000000",
+                "isni": "0000000122714686",
                 "settlement": {
-                    "id": 43690,
-                    "name": "Ghent",
-                    "region": "Flanders",
+                    "id": 43150,
+                    "name": "Brussels",
                     "country": "Belgium",
-                    "location_mappable": "POINT(3.71667 51.05)",
-                    "geonames_id": 2797656
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(4.34878 50.85045)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2800866
                 }
             }
         }

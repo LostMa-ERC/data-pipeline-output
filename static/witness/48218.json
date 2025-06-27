@@ -21,25 +21,24 @@
     },
     "manuscripts": [
         {
-            "id": 48215,
-            "shelfmark": "Prov. f.155",
+            "id": 48216,
+            "shelfmark": "406",
             "old_shelfmarks": [],
             "is_hypothetical": false,
-            "collection_of_fragments": "Yes",
+            "collection_of_fragments": "No",
             "urls": [
                 "https://www.handschriftencensus.de/15397"
             ],
             "witness_parts": [
                 {
-                    "id": 48219,
-                    "part_order": 3,
-                    "number_of_verses": 2477,
-                    "number_of_lines": 2477,
+                    "id": 48221,
+                    "part_order": 1,
+                    "number_of_verses": 710,
+                    "number_of_lines": 710,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-12v",
-                        "1r-2v"
+                        "1r-4v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -50,19 +49,21 @@
                 }
             ],
             "repository": {
-                "id": 48437,
-                "name": "Thüringer Universitäts- und Landesbibliothek Jena",
-                "alternative_names": [],
-                "viaf": "125779981.000000",
+                "id": 48421,
+                "name": "Rijksuniversiteit Groningen. Universiteitsbibliotheek",
+                "alternative_names": [
+                    "University of Groningen Library"
+                ],
+                "viaf": "155670113.000000",
                 "settlement": {
-                    "id": 47380,
-                    "name": "Jena",
-                    "region": "Thuringia",
-                    "country": "Germany",
+                    "id": 43352,
+                    "name": "Groningen",
+                    "region": "Groningen",
+                    "country": "Netherlands",
                     "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.5899 50.92878)",
+                    "location_mappable": "POINT(6.56479 53.22369)",
                     "location_certainty": "1. High confidence",
-                    "geonames_id": 2895044
+                    "geonames_id": 2755250
                 }
             }
         },
@@ -115,24 +116,25 @@
             }
         },
         {
-            "id": 48216,
-            "shelfmark": "406",
+            "id": 48215,
+            "shelfmark": "Prov. f.155",
             "old_shelfmarks": [],
             "is_hypothetical": false,
-            "collection_of_fragments": "No",
+            "collection_of_fragments": "Yes",
             "urls": [
                 "https://www.handschriftencensus.de/15397"
             ],
             "witness_parts": [
                 {
-                    "id": 48221,
-                    "part_order": 1,
-                    "number_of_verses": 710,
-                    "number_of_lines": 710,
+                    "id": 48219,
+                    "part_order": 3,
+                    "number_of_verses": 2477,
+                    "number_of_lines": 2477,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-4v"
+                        "1r-12v",
+                        "1r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -143,21 +145,19 @@
                 }
             ],
             "repository": {
-                "id": 48421,
-                "name": "Rijksuniversiteit Groningen. Universiteitsbibliotheek",
-                "alternative_names": [
-                    "University of Groningen Library"
-                ],
-                "viaf": "155670113.000000",
+                "id": 48437,
+                "name": "Thüringer Universitäts- und Landesbibliothek Jena",
+                "alternative_names": [],
+                "viaf": "125779981.000000",
                 "settlement": {
-                    "id": 43352,
-                    "name": "Groningen",
-                    "region": "Groningen",
-                    "country": "Netherlands",
+                    "id": 47380,
+                    "name": "Jena",
+                    "region": "Thuringia",
+                    "country": "Germany",
                     "place_type": "Administrative.City",
-                    "location_mappable": "POINT(6.56479 53.22369)",
+                    "location_mappable": "POINT(11.5899 50.92878)",
                     "location_certainty": "1. High confidence",
-                    "geonames_id": 2755250
+                    "geonames_id": 2895044
                 }
             }
         }

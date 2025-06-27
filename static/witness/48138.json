@@ -21,8 +21,8 @@
     },
     "manuscripts": [
         {
-            "id": 48127,
-            "shelfmark": "2o MS 638",
+            "id": 48130,
+            "shelfmark": "22.219",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -31,13 +31,12 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48139,
-                    "part_order": 4,
-                    "number_of_verses": 9800,
+                    "id": 48143,
+                    "part_order": 8,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-2v"
+                        "1r-1v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -48,17 +47,17 @@
                 }
             ],
             "repository": {
-                "id": 48418,
-                "name": "Universitätsbibliothek Greifswald",
+                "id": 46307,
+                "name": "Bibliothek des Germanischen Nationalmuseums",
                 "alternative_names": [],
-                "viaf": "142485406.000000",
+                "viaf": "131883509.000000",
                 "settlement": {
-                    "id": 42798,
-                    "name": "Greifswald",
-                    "region": "Mecklenburg-Vorpommern",
+                    "id": 42881,
+                    "name": "Nürnberg",
+                    "region": "Bavaria",
                     "country": "Germany",
-                    "location_mappable": "POINT(13.38756 54.08809)",
-                    "geonames_id": 6551180
+                    "location_mappable": "POINT(11.0768 49.4541)",
+                    "geonames_id": 6556832
                 }
             }
         },
@@ -106,8 +105,8 @@
             }
         },
         {
-            "id": 48136,
-            "shelfmark": "4o Ms. poet. et roman. 29",
+            "id": 48131,
+            "shelfmark": "Cod.misc. 4o 30d, XIV",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -116,12 +115,12 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48147,
-                    "part_order": 3,
+                    "id": 48144,
+                    "part_order": 5,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-1v"
+                        "1r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -132,109 +131,17 @@
                 }
             ],
             "repository": {
-                "id": 48422,
-                "name": "Gesamthochschul-Bibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek.",
+                "id": 48430,
+                "name": "Württembergische Landesbibliothek",
                 "alternative_names": [],
-                "viaf": "172673709.000000",
+                "viaf": "164844730.000000",
                 "settlement": {
-                    "id": 48423,
-                    "name": "Kassel",
-                    "region": "Hesse",
+                    "id": 42911,
+                    "name": "Stuttgart",
+                    "region": "Baden-Wurttemberg",
                     "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(9.49974058 51.31602217)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2892518
-                }
-            }
-        },
-        {
-            "id": 48132,
-            "shelfmark": "Allemand 118, f.3",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/9024"
-            ],
-            "ark": "ark:/12148/cc256130",
-            "witness_parts": [
-                {
-                    "id": 48145,
-                    "part_order": 6,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "No",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43932,
-                "name": "Bibliothèque nationale de France",
-                "alternative_names": [
-                    "França., Bibliothèque Nationale",
-                    "Национальная библиотека. (Париж)",
-                    "Bibliotheque nationale de France (Paris)",
-                    "הספרייה הלאומית של צרפת",
-                    "باريس. المكتبة الوطنية"
-                ],
-                "viaf": "137156173.000000",
-                "isni": "0000000123531945",
-                "settlement": {
-                    "id": 43675,
-                    "name": "Paris",
-                    "region": "Île-de-France",
-                    "country": "France",
-                    "location_mappable": "POINT(2.3488 48.85341)",
-                    "geonames_id": 2988507
-                }
-            }
-        },
-        {
-            "id": 48130,
-            "shelfmark": "22.219",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/9024"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48143,
-                    "part_order": 8,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 46307,
-                "name": "Bibliothek des Germanischen Nationalmuseums",
-                "alternative_names": [],
-                "viaf": "131883509.000000",
-                "settlement": {
-                    "id": 42881,
-                    "name": "Nürnberg",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(11.0768 49.4541)",
-                    "geonames_id": 6556832
+                    "location_mappable": "POINT(9.1775 48.77667)",
+                    "geonames_id": 6690189
                 }
             }
         },
@@ -284,6 +191,49 @@
             }
         },
         {
+            "id": 48136,
+            "shelfmark": "4o Ms. poet. et roman. 29",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/9024"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48147,
+                    "part_order": 3,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48422,
+                "name": "Gesamthochschul-Bibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek.",
+                "alternative_names": [],
+                "viaf": "172673709.000000",
+                "settlement": {
+                    "id": 48423,
+                    "name": "Kassel",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(9.49974058 51.31602217)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2892518
+                }
+            }
+        },
+        {
             "id": 48128,
             "shelfmark": "98",
             "old_shelfmarks": [],
@@ -326,6 +276,48 @@
                     "country": "Germany",
                     "location_mappable": "POINT(8.67554 50.58727)",
                     "geonames_id": 2920512
+                }
+            }
+        },
+        {
+            "id": 48127,
+            "shelfmark": "2o MS 638",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/9024"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48139,
+                    "part_order": 4,
+                    "number_of_verses": 9800,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48418,
+                "name": "Universitätsbibliothek Greifswald",
+                "alternative_names": [],
+                "viaf": "142485406.000000",
+                "settlement": {
+                    "id": 42798,
+                    "name": "Greifswald",
+                    "region": "Mecklenburg-Vorpommern",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.38756 54.08809)",
+                    "geonames_id": 6551180
                 }
             }
         },
@@ -378,22 +370,23 @@
             }
         },
         {
-            "id": 48131,
-            "shelfmark": "Cod.misc. 4o 30d, XIV",
+            "id": 48132,
+            "shelfmark": "Allemand 118, f.3",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
                 "https://www.handschriftencensus.de/9024"
             ],
+            "ark": "ark:/12148/cc256130",
             "witness_parts": [
                 {
-                    "id": 48144,
-                    "part_order": 5,
+                    "id": 48145,
+                    "part_order": 6,
                     "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
+                    "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "1r-2v"
+                        "1r-1v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -404,17 +397,24 @@
                 }
             ],
             "repository": {
-                "id": 48430,
-                "name": "Württembergische Landesbibliothek",
-                "alternative_names": [],
-                "viaf": "164844730.000000",
+                "id": 43932,
+                "name": "Bibliothèque nationale de France",
+                "alternative_names": [
+                    "França., Bibliothèque Nationale",
+                    "Национальная библиотека. (Париж)",
+                    "Bibliotheque nationale de France (Paris)",
+                    "הספרייה הלאומית של צרפת",
+                    "باريس. المكتبة الوطنية"
+                ],
+                "viaf": "137156173.000000",
+                "isni": "0000000123531945",
                 "settlement": {
-                    "id": 42911,
-                    "name": "Stuttgart",
-                    "region": "Baden-Wurttemberg",
-                    "country": "Germany",
-                    "location_mappable": "POINT(9.1775 48.77667)",
-                    "geonames_id": 6690189
+                    "id": 43675,
+                    "name": "Paris",
+                    "region": "Île-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.3488 48.85341)",
+                    "geonames_id": 2988507
                 }
             }
         }

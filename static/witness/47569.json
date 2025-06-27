@@ -21,8 +21,8 @@
     },
     "manuscripts": [
         {
-            "id": 47563,
-            "shelfmark": "Ltk. 202",
+            "id": 47567,
+            "shelfmark": "Ltk. 203",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -31,15 +31,15 @@
             ],
             "witness_parts": [
                 {
-                    "id": 47570,
-                    "part_order": 1,
-                    "number_of_verses": 537,
-                    "number_of_lines": 537,
+                    "id": 47572,
+                    "part_order": 2,
+                    "number_of_verses": 120,
+                    "number_of_lines": 120,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-2v",
-                        "3r-4v"
+                        "1r-1v",
+                        "2r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -73,8 +73,8 @@
             }
         },
         {
-            "id": 47567,
-            "shelfmark": "Ltk. 203",
+            "id": 47563,
+            "shelfmark": "Ltk. 202",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -83,15 +83,15 @@
             ],
             "witness_parts": [
                 {
-                    "id": 47572,
-                    "part_order": 2,
-                    "number_of_verses": 120,
-                    "number_of_lines": 120,
+                    "id": 47570,
+                    "part_order": 1,
+                    "number_of_verses": 537,
+                    "number_of_lines": 537,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-1v",
-                        "2r-2v"
+                        "1r-2v",
+                        "3r-4v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

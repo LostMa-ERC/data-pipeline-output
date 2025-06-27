@@ -113,23 +113,23 @@
             }
         },
         {
-            "id": 49356,
-            "shelfmark": "Français 348",
+            "id": 49355,
+            "shelfmark": "Français 347",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
                 "http://jonas.irht.cnrs.fr/manuscrit/75256"
             ],
-            "ark": "ark:/12148/cc49924q/ca19859833",
+            "ark": "ark:/12148/cc49924q/ca19859827",
             "witness_parts": [
                 {
-                    "id": 49361,
-                    "part_order": 4,
-                    "volume_number": "4",
+                    "id": 49360,
+                    "part_order": 3,
+                    "volume_number": "3",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "1r-341v"
+                        "1r-416v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -162,23 +162,23 @@
             }
         },
         {
-            "id": 49355,
-            "shelfmark": "Français 347",
+            "id": 49356,
+            "shelfmark": "Français 348",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
                 "http://jonas.irht.cnrs.fr/manuscrit/75256"
             ],
-            "ark": "ark:/12148/cc49924q/ca19859827",
+            "ark": "ark:/12148/cc49924q/ca19859833",
             "witness_parts": [
                 {
-                    "id": 49360,
-                    "part_order": 3,
-                    "volume_number": "3",
+                    "id": 49361,
+                    "part_order": 4,
+                    "volume_number": "4",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "1r-416v"
+                        "1r-341v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
