@@ -19,47 +19,6 @@
     },
     "manuscripts": [
         {
-            "id": 47668,
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 47671,
-                    "part_order": 2,
-                    "number_of_verses": 668,
-                    "number_of_lines": 668,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "1r-2v",
-                        "3r-4v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 48432,
-                "name": "Stadsarchief te Gent",
-                "alternative_names": [],
-                "viaf": "151414770.000000",
-                "settlement": {
-                    "id": 43690,
-                    "name": "Ghent",
-                    "region": "Flanders",
-                    "country": "Belgium",
-                    "location_mappable": "POINT(3.71667 51.05)",
-                    "geonames_id": 2797656
-                }
-            }
-        },
-        {
             "id": 47669,
             "shelfmark": "96 B 6: 3",
             "old_shelfmarks": [],
@@ -97,6 +56,47 @@
                     "country": "Netherlands",
                     "location_mappable": "POINT(4.28784 51.88246)",
                     "geonames_id": 2747890
+                }
+            }
+        },
+        {
+            "id": 47668,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47671,
+                    "part_order": 2,
+                    "number_of_verses": 668,
+                    "number_of_lines": 668,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-2v",
+                        "3r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48432,
+                "name": "Stadsarchief te Gent",
+                "alternative_names": [],
+                "viaf": "151414770.000000",
+                "settlement": {
+                    "id": 43690,
+                    "name": "Ghent",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(3.71667 51.05)",
+                    "geonames_id": 2797656
                 }
             }
         }
