@@ -61,7 +61,9 @@
         },
         {
             "id": 47668,
+            "shelfmark": "Fragm. 7",
             "old_shelfmarks": [],
+            "collection": "Bisschoppelijk archief Gent",
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
@@ -84,21 +86,7 @@
                     "has_pictorial_designs": false,
                     "decoration_is_unknown": false
                 }
-            ],
-            "repository": {
-                "id": 48432,
-                "name": "Stadsarchief te Gent",
-                "alternative_names": [],
-                "viaf": "151414770.000000",
-                "settlement": {
-                    "id": 43690,
-                    "name": "Ghent",
-                    "region": "Flanders",
-                    "country": "Belgium",
-                    "location_mappable": "POINT(3.71667 51.05)",
-                    "geonames_id": 2797656
-                }
-            }
+            ]
         }
     ]
 }

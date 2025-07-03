@@ -21,54 +21,6 @@
     },
     "manuscripts": [
         {
-            "id": 47586,
-            "shelfmark": "K 2: F 45",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/15893"
-            ],
-            "witness_parts": [
-                {
-                    "id": 47590,
-                    "part_order": 2,
-                    "number_of_verses": 269,
-                    "number_of_lines": 269,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v",
-                        "2r-2v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43807,
-                "name": "Universitäts- und Landesbibliothek Düsseldorf",
-                "alternative_names": [
-                    "Universitäts-und Landesbibliothek Düsseldorf, Allemagne",
-                    "Heinrich-Heine-Universität, Universitäts- und Landesbibliothek Düsseldorf (D-DÜl)"
-                ],
-                "viaf": "125646738.000000",
-                "isni": "0000000109410725",
-                "settlement": {
-                    "id": 42782,
-                    "name": "Düsseldorf",
-                    "region": "North Rhine-Westphalia",
-                    "country": "Germany",
-                    "location_mappable": "POINT(6.77616 51.22172)",
-                    "geonames_id": 2934246
-                }
-            }
-        },
-        {
             "id": 48658,
             "shelfmark": "F 69",
             "old_shelfmarks": [],
@@ -158,6 +110,54 @@
                     "country": "Netherlands",
                     "location_mappable": "POINT(4.28784 51.88246)",
                     "geonames_id": 2747890
+                }
+            }
+        },
+        {
+            "id": 47586,
+            "shelfmark": "K 2: F 45",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/15893"
+            ],
+            "witness_parts": [
+                {
+                    "id": 47590,
+                    "part_order": 2,
+                    "number_of_verses": 269,
+                    "number_of_lines": 269,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v",
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43807,
+                "name": "Universitäts- und Landesbibliothek Düsseldorf",
+                "alternative_names": [
+                    "Universitäts-und Landesbibliothek Düsseldorf, Allemagne",
+                    "Heinrich-Heine-Universität, Universitäts- und Landesbibliothek Düsseldorf (D-DÜl)"
+                ],
+                "viaf": "125646738.000000",
+                "isni": "0000000109410725",
+                "settlement": {
+                    "id": 42782,
+                    "name": "Düsseldorf",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(6.77616 51.22172)",
+                    "geonames_id": 2934246
                 }
             }
         }
