@@ -19,35 +19,6 @@
     },
     "manuscripts": [
         {
-            "id": 48232,
-            "old_shelfmarks": [],
-            "collection": "mevr. B. Buchholz",
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 48236,
-                    "part_order": 1,
-                    "number_of_verses": 166,
-                    "number_of_lines": 166,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-2v",
-                        "3r-4v",
-                        "5r-6v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ]
-        },
-        {
             "id": 48231,
             "shelfmark": "W. 4o 322*",
             "old_shelfmarks": [],
@@ -93,6 +64,35 @@
                     "geonames_id": 2886242
                 }
             }
+        },
+        {
+            "id": 48232,
+            "old_shelfmarks": [],
+            "collection": "mevr. B. Buchholz",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48236,
+                    "part_order": 1,
+                    "number_of_verses": 166,
+                    "number_of_lines": 166,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v",
+                        "3r-4v",
+                        "5r-6v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
         }
     ]
 }
