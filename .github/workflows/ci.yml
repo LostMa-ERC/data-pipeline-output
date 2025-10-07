@@ -1,10 +1,11 @@
 name: Test
 
 on:
-  issue_comment
-  # schedule:
+  issue_comment:
+    types: [created]
+  schedule:
     # Run at 8:00 UTC (9:00 CET) on weekdays
-    # - cron: "00 8 * * 1-5"
+    - cron: "00 8 * * 1-5"
 
 jobs:
   update:
