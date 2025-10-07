@@ -1,0 +1,64 @@
+{
+    "type": "witness",
+    "id": 55669,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Am",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1462-01-01",
+    "creation_date_max": "1470-12-31",
+    "creation_date_text": "Milieu XVe siècle",
+    "urls": [
+        "Enluminure de 1468 à 1470",
+        "Jonas"
+    ],
+    "manuscripts": [
+        {
+            "id": 49887,
+            "shelfmark": "Cod.gall. 7",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/43039"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50942,
+                    "part_order": 5,
+                    "volume_number": "5",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        }
+    ]
+}

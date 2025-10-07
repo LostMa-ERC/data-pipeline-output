@@ -3,7 +3,7 @@
     "id": 55278,
     "is_unobserved": false,
     "is_excerpt": false,
-    "siglum": "Brussel IV 1275, 2",
+    "siglum": "Brussel, IV 1275, 2",
     "alternative_sigla": [],
     "status": "fragmentary",
     "creation_date_min": "1316-01-01",
@@ -21,6 +21,24 @@
             "urls": [],
             "witness_parts": [
                 {
+                    "id": 55835,
+                    "part_order": 1,
+                    "number_of_verses": 64,
+                    "part_of_text": "IV 1240-56, 1285-1301, 1327-1342, 1372-1385",
+                    "number_of_lines": 64,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
                     "id": 55279,
                     "part_order": 1,
                     "number_of_verses": 64,
@@ -29,7 +47,7 @@
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-1v, 2r-2v"
+                        "1r-1v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

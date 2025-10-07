@@ -1,0 +1,52 @@
+{
+    "type": "witness",
+    "id": 55703,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Canterbury Dean and Chapter Libr. Roll 70365",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "14es.",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 55629,
+            "shelfmark": "Roll 70365",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 55628,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Sept Sages de Rome, version A)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 55630,
+                "name": "Dean & Chapter of Canterbury",
+                "alternative_names": [],
+                "settlement": {
+                    "id": 43378,
+                    "name": "Canterbury",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(1.07992 51.27904)",
+                    "geonames_id": 2653877
+                }
+            }
+        }
+    ]
+}

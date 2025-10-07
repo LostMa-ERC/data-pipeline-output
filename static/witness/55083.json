@@ -3,14 +3,20 @@
     "id": 55083,
     "is_unobserved": false,
     "is_excerpt": false,
+    "siglum": "Ch",
     "alternative_sigla": [],
     "status": "fragmentary",
-    "creation_date_min": "1201-01-01",
+    "creation_date_min": "1281-01-01",
     "creation_date_max": "1300-12-31",
-    "creation_date_text": "Jonas",
     "urls": [
         "http://jonas.irht.cnrs.fr/manuscrit/81633"
     ],
+    "scripta": {
+        "id": 48698,
+        "name": "Nord-Est",
+        "description": "Wallonie, Lorraine (septentrionale)",
+        "urls": []
+    },
     "manuscripts": [
         {
             "id": 45237,

@@ -1,0 +1,76 @@
+{
+    "type": "witness",
+    "id": 55720,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Namur, Archives de l'Etat, Arch. Eccl. 1664",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "Deuxième moitié du XIIIe siècle",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/82151"
+    ],
+    "manuscripts": [
+        {
+            "id": 45377,
+            "shelfmark": "1664",
+            "old_shelfmarks": [],
+            "collection": "Arch. Eccl.",
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 51431,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "4"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 51430,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43853,
+                "name": "Archives de l'État à Namur",
+                "alternative_names": [
+                    "Archives de l'État (Namur)",
+                    "Archives de l'Etat (Belgique ; Namur)",
+                    "Belgique. Archives de l'État à Namur",
+                    "Archives de l'Etat Namur (B-Naet)"
+                ],
+                "viaf": "148424799.000000",
+                "isni": "0000000109445936",
+                "settlement": {
+                    "id": 43716,
+                    "name": "Namur",
+                    "region": "Wallonia",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(4.86746 50.4669)",
+                    "geonames_id": 2790471
+                }
+            }
+        }
+    ]
+}

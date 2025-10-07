@@ -1,0 +1,64 @@
+{
+    "type": "witness",
+    "id": 55656,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "F, F2",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1267-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "dernier tiers du 13e s",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/81306"
+    ],
+    "manuscripts": [
+        {
+            "id": 49585,
+            "shelfmark": "MS 1629",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/81306"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50930,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43927,
+                "name": "Bibliothèque-médiathèque",
+                "alternative_names": [
+                    "Bibliothèque municipale (Metz)",
+                    "Bibliothèque municipale de Metz",
+                    "Médiathèque Verlaine Metz (F-ME)",
+                    "Bibliothèque-médiathèque",
+                    "Bibliothèque-médiathèque (Metz, Moselle)"
+                ],
+                "viaf": "125874503.000000",
+                "isni": "0000000121523546",
+                "settlement": {
+                    "id": 42694,
+                    "name": "Metz",
+                    "region": "Grand Est",
+                    "country": "France",
+                    "location_mappable": "POINT(6.17269 49.11911)",
+                    "geonames_id": 2994160
+                }
+            }
+        }
+    ]
+}

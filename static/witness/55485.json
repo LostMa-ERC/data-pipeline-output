@@ -1,0 +1,53 @@
+{
+    "type": "witness",
+    "id": 55485,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1881",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1441-01-01",
+    "creation_date_max": "1485-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'1450-1475'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/81",
+        "https://www.medievalscribes.com/index.php?navtype=manuscripts&navlocation=Oxford&navlibrary=Corpus+Christi+College&browse=manuscripts&id=505"
+    ],
+    "scripta": {
+        "id": 48834,
+        "name": "London",
+        "description": "Dialect spoken in the south east Brittain region.",
+        "urls": [
+            "https://en.wikipedia.org/wiki/London"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 55484,
+            "shelfmark": "MS 325/1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 55486,
+                    "part_order": 1,
+                    "part_of_text": "Full text",
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "98r-129v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

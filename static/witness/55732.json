@@ -1,0 +1,75 @@
+{
+    "type": "witness",
+    "id": 55732,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "C3",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-12-31",
+    "creation_date_text": "XIVe siècle",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/80616"
+    ],
+    "manuscripts": [
+        {
+            "id": 45736,
+            "shelfmark": "Ms 35",
+            "old_shelfmarks": [
+                "37"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52861,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "55r-56v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 52860,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "garde fin"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43748,
+                "name": "Bibliothèque municipale",
+                "alternative_names": [
+                    "Bibliothèque municipale (Châlons-sur-Marne)",
+                    "Châlons-en-Champagne, Bibliothèques municipales",
+                    "Bibliothèque municipale de Châlons-en-Champagne"
+                ],
+                "viaf": "146436947.000000",
+                "settlement": {
+                    "id": 43671,
+                    "name": "Châlons-en-Champagne",
+                    "region": "Grand Est",
+                    "country": "France",
+                    "location_mappable": "POINT(4.36724 48.95393)",
+                    "geonames_id": 3027487
+                }
+            }
+        }
+    ]
+}

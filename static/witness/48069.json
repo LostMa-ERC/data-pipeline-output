@@ -27,6 +27,24 @@
             "urls": [],
             "witness_parts": [
                 {
+                    "id": 55799,
+                    "part_order": 1,
+                    "number_of_verses": 500,
+                    "part_of_text": "Prologue",
+                    "number_of_lines": 500,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "3r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
                     "id": 48070,
                     "part_order": 1,
                     "number_of_verses": 500,
@@ -35,8 +53,7 @@
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-2v",
-                        "3r-4v"
+                        "1r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

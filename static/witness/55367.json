@@ -1,34 +1,38 @@
 {
     "type": "witness",
-    "id": 54130,
+    "id": 55367,
     "is_unobserved": false,
     "is_excerpt": false,
+    "siglum": "1895",
     "alternative_sigla": [],
     "status": "fragmentary",
-    "creation_date_min": "1201-01-01",
-    "creation_date_max": "1300-12-31",
-    "creation_date_text": "Jonas",
+    "creation_date_min": "1411-01-01",
+    "creation_date_max": "1460-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'1420-50'",
     "urls": [
-        "http://jonas.irht.cnrs.fr/manuscrit/78629",
-        "https://arlima.net/no/8011"
+        "https://www.middleenglishromance.org.uk/mer/52"
     ],
     "manuscripts": [
         {
-            "id": 45274,
-            "shelfmark": "MS Add. 5964/39",
+            "id": 49029,
+            "shelfmark": "MS Ff.2.38",
             "old_shelfmarks": [],
             "is_hypothetical": false,
-            "collection_of_fragments": "unknown",
+            "collection_of_fragments": "No",
             "urls": [
-                "https://data.biblissima.fr/w/Item:Q269854"
+                "https://www.middleenglishromance.org.uk/mer/18"
             ],
             "witness_parts": [
                 {
-                    "id": 52322,
+                    "id": 55368,
                     "part_order": 1,
-                    "lines_are_incomplete": "unknown",
+                    "number_of_verses": 602,
+                    "number_of_lines": 602,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "? (Girbert de Metz)"
+                        "257v-261v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

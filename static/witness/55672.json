@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 55672,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Pm",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1462-01-01",
+    "creation_date_text": "1462 (deux mss donnent cette date)",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/78881"
+    ],
+    "manuscripts": [
+        {
+            "id": 49893,
+            "shelfmark": "Cod. 312",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/78881",
+                "https://data.biblissima.fr/w/Item:Q276575"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50945,
+                    "part_order": 2,
+                    "volume_number": "2",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49890,
+                "name": "Gräflich Schönbornsche Bibliothek",
+                "alternative_names": [
+                    "Graf-von-Schönborn'sche Schlossbibliothek"
+                ],
+                "viaf": "1094154380956330229760.000000",
+                "settlement": {
+                    "id": 49891,
+                    "name": "Pommersfelden",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(10.81667 49.76667)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2852757
+                }
+            }
+        }
+    ]
+}

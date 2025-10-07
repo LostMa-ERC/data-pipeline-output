@@ -1,0 +1,57 @@
+{
+    "type": "witness",
+    "id": 55652,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Reims cuttings",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1326-01-01",
+    "creation_date_max": "1350-12-31",
+    "creation_date_text": "2nd quart du 14e s",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/82670"
+    ],
+    "manuscripts": [
+        {
+            "id": 49734,
+            "shelfmark": "978.28393",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/82670"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50927,
+                    "part_order": 3,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 49731,
+                "name": "Musée Saint-Rémi",
+                "alternative_names": [],
+                "viaf": "126221993.000000",
+                "settlement": {
+                    "id": 42723,
+                    "name": "Reims",
+                    "region": "Grand Est",
+                    "country": "France",
+                    "location_mappable": "POINT(4.02853 49.26526)",
+                    "geonames_id": 2984114
+                }
+            }
+        }
+    ]
+}

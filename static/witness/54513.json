@@ -8,10 +8,10 @@
     "status": "defective",
     "creation_date_min": "1281-01-01",
     "creation_date_max": "1290-12-31",
-    "creation_date_text": "Jonas",
+    "creation_date_text": "1281-1290",
     "urls": [
-        "http://jonas.irht.cnrs.fr/manuscrit/74722",
-        "https://arlima.net/no/4443"
+        "https://arlima.net/no/4443",
+        "http://jonas.irht.cnrs.fr/manuscrit/74722"
     ],
     "manuscripts": [
         {

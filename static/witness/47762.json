@@ -29,6 +29,23 @@
             "urls": [],
             "witness_parts": [
                 {
+                    "id": 55786,
+                    "part_order": 1,
+                    "number_of_verses": 501,
+                    "number_of_lines": 501,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "2r-3v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
                     "id": 47763,
                     "part_order": 1,
                     "number_of_verses": 501,
@@ -36,8 +53,7 @@
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-1v",
-                        "2r-3v"
+                        "1r-1v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

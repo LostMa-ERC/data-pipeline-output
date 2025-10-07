@@ -3,16 +3,21 @@
     "id": 55088,
     "is_unobserved": false,
     "is_excerpt": false,
-    "siglum": "L",
+    "siglum": "B",
     "alternative_sigla": [],
     "status": "complete",
     "creation_date_min": "1301-01-01",
-    "creation_date_max": "1320-12-31",
-    "creation_date_text": "Allen",
+    "creation_date_max": "1340-12-31",
     "urls": [
         "http://jonas.irht.cnrs.fr/manuscrit/45910",
         "https://arlima.net/no/2437"
     ],
+    "scripta": {
+        "id": 47640,
+        "name": "pic.",
+        "description": "picard (general)",
+        "urls": []
+    },
     "manuscripts": [
         {
             "id": 45877,

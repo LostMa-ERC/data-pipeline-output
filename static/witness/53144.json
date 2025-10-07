@@ -31,6 +31,23 @@
             ],
             "witness_parts": [
                 {
+                    "id": 55834,
+                    "part_order": 1,
+                    "number_of_verses": 1263,
+                    "part_of_text": "v. 1-292, 370-1341",
+                    "number_of_lines": 1263,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "55r-66r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
                     "id": 53145,
                     "part_order": 1,
                     "number_of_verses": 1263,
@@ -38,7 +55,7 @@
                     "number_of_lines": 1263,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "50r-53v, 55r-66r"
+                        "50r-53v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

@@ -1,0 +1,66 @@
+{
+    "type": "witness",
+    "id": 55663,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "VA & Reims",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1326-01-01",
+    "creation_date_max": "1350-12-31",
+    "creation_date_text": "2nd quart du 14e s",
+    "urls": [
+        "https://jonas.irht.cnrs.fr/manuscrit/82670"
+    ],
+    "manuscripts": [
+        {
+            "id": 46128,
+            "shelfmark": "Manuscript Cuttings, 814-1894",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 50937,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43953,
+                "name": "Victoria and Albert Museum",
+                "alternative_names": [
+                    "Victoria and Albert Museum (Dundee)",
+                    "Amgueddfa Victoria ac Albert",
+                    "Victoria and Albert Museum London",
+                    "Victoria and Albert Museum (Londýn, Veľká Británia)",
+                    "Victoria and Albert Museum (Londres, Angleterre)",
+                    "Victoria and Albert museum (Londres, Royaume-Uni)",
+                    "Reino Unido., Victoria and Albert Museum",
+                    "Victoria and Albert museum Londres",
+                    "ヴィクトリアアンドアルバート美術館"
+                ],
+                "viaf": "128776887.000000",
+                "isni": "000000045904354X",
+                "settlement": {
+                    "id": 43399,
+                    "name": "London",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.12574 51.50853)",
+                    "geonames_id": 2643743
+                }
+            }
+        }
+    ]
+}

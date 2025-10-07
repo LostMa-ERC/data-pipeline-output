@@ -1,0 +1,77 @@
+{
+    "type": "witness",
+    "id": 55387,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1888",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1444-01-01",
+    "creation_date_max": "1510-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'1453-1500'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/55",
+        "https://www.library.wales/discover-learn/digital-exhibitions/manuscripts/the-middle-ages/a-middle-english-miscellany"
+    ],
+    "scripta": {
+        "id": 48780,
+        "name": "West Midlands",
+        "description": "Dialect spaken in the western part of central England (midlands), surrounding present day Birmingham.",
+        "urls": [
+            "https://en.wikipedia.org/wiki/West_Midlands_(region)"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 55385,
+            "shelfmark": "MS Brogyntyn MS ii.1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 55388,
+                    "part_order": 1,
+                    "number_of_verses": 660,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 660,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "12r-26v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43900,
+                "name": "National library of Wales",
+                "alternative_names": [
+                    "Llyfrgell Genedlaethol Cymru Aberystwyth (GB-AB)",
+                    "Leabharlann Nàiseanta na Cuimrigh",
+                    "Llyfrgell Genedlaethol Cymru",
+                    "LLyfrgell Genedlaethol Cymru (Aberystwyth)",
+                    "National Library of Wales (Aberystwyth)"
+                ],
+                "viaf": "139269948.000000",
+                "isni": "0000000406057171",
+                "website": "https://archives.library.wales/index.php",
+                "settlement": {
+                    "id": 43636,
+                    "name": "Aberystwyth",
+                    "region": "Wales",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-4.08292 52.41548)",
+                    "geonames_id": 2657782
+                }
+            }
+        }
+    ]
+}

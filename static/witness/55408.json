@@ -1,0 +1,46 @@
+{
+    "type": "witness",
+    "id": 55408,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "1184",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1316-01-01",
+    "creation_date_max": "1385-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "creation_date_text": "'Mid 14th century'",
+    "urls": [
+        "https://www.middleenglishromance.org.uk/mer/58"
+    ],
+    "manuscripts": [
+        {
+            "id": 55406,
+            "shelfmark": "MS 20",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 55409,
+                    "part_order": 1,
+                    "number_of_verses": 104,
+                    "part_of_text": "v. 216-308",
+                    "number_of_lines": 104,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "228r-228v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

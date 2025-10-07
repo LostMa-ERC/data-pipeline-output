@@ -1,0 +1,65 @@
+{
+    "type": "witness",
+    "id": 55649,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Chantilly 646-647",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1480-01-01",
+    "creation_date_text": "1480 (voir Avril et Reynaud, 1993)",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/14888"
+    ],
+    "manuscripts": [
+        {
+            "id": 49374,
+            "shelfmark": "Ms 647",
+            "old_shelfmarks": [
+                "Ms 317"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arca.irht.cnrs.fr/ark:/63955/md27mp48sh2p",
+                "https://jonas.irht.cnrs.fr/manuscrit/14888"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50924,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43840,
+                "name": "Musée Condé, Château de Chantilly",
+                "alternative_names": [
+                    "Musée Condé Chantilly, Oise",
+                    "Bibliothèque du Musée Condé Chantilly (F-CH)",
+                    "Musée Condé (Chantilly)",
+                    "Musée Condé (Chantilly, Francia)"
+                ],
+                "viaf": "139676854.000000",
+                "isni": "0000000123148954",
+                "settlement": {
+                    "id": 43711,
+                    "name": "Chantilly",
+                    "region": "Hauts-de-France",
+                    "country": "France",
+                    "location_mappable": "POINT(2.47124 49.19461)",
+                    "geonames_id": 3026827
+                }
+            }
+        }
+    ]
+}

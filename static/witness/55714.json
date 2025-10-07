@@ -1,0 +1,78 @@
+{
+    "type": "witness",
+    "id": 55714,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Mar",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1271-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_text": "fin du XIIIe siècle - ca. 1275-1280 (Il Ciclo…)",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/34169",
+        "https://arlima.net/no/9763"
+    ],
+    "manuscripts": [
+        {
+            "id": 45262,
+            "shelfmark": "1106",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/34169"
+            ],
+            "witness_parts": [
+                {
+                    "id": 52171,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 52172,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "10r-269v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43808,
+                "name": "Bibliothèque municipale",
+                "alternative_names": [
+                    "Bibliothèque municipale Marseille (F-Mm)",
+                    "Bibliothèque Municipale Saint-Charles (Marseille)",
+                    "Bibliothèque municipale",
+                    "Bibliothèque municipale de Marseille"
+                ],
+                "viaf": "168603372.000000",
+                "isni": "0000000122046745",
+                "settlement": {
+                    "id": 42692,
+                    "name": "Marseille",
+                    "region": "Provence-Alpes-Côte d'Azur",
+                    "country": "France",
+                    "location_mappable": "POINT(5.38107 43.29695)",
+                    "geonames_id": 2995469
+                }
+            }
+        }
+    ]
+}

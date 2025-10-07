@@ -3,7 +3,7 @@
     "id": 47938,
     "is_unobserved": false,
     "is_excerpt": false,
-    "siglum": "Teplá MS. Fragm. 44",
+    "siglum": "Praag, Teplá MS. Fragm. 44",
     "alternative_sigla": [
         "H133"
     ],
@@ -26,6 +26,23 @@
             ],
             "witness_parts": [
                 {
+                    "id": 55789,
+                    "part_order": 1,
+                    "number_of_verses": 178,
+                    "number_of_lines": 178,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
                     "id": 47939,
                     "part_order": 1,
                     "number_of_verses": 178,
@@ -33,8 +50,7 @@
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-1v",
-                        "2r-2v"
+                        "1r-1v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

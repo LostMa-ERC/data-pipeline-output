@@ -34,7 +34,25 @@
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1r-88v, 197r-198v"
+                        "1r-88v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 55821,
+                    "part_order": 1,
+                    "number_of_verses": 23922,
+                    "part_of_text": "Full text, except opening",
+                    "number_of_lines": 23922,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "197r-198v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

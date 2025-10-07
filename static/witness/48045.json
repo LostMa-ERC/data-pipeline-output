@@ -3,7 +3,7 @@
     "id": 48045,
     "is_unobserved": false,
     "is_excerpt": false,
-    "siglum": "Hs. 28",
+    "siglum": "Steinfurt, B 37, f. 1r-15r",
     "alternative_sigla": [],
     "status": "complete",
     "creation_date_min": "1413-01-01",
@@ -36,13 +36,13 @@
                 {
                     "id": 48046,
                     "part_order": 1,
-                    "number_of_verses": 10092,
+                    "number_of_verses": 1607,
                     "part_of_text": "Full text",
-                    "number_of_lines": 10092,
+                    "number_of_lines": 1607,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "1r-62v"
+                        "1r-15r"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

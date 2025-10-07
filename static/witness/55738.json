@@ -1,0 +1,76 @@
+{
+    "type": "witness",
+    "id": 55738,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "fragment",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_text": "XVe siècle",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/39459",
+        "https://arlima.net/no/6464"
+    ],
+    "manuscripts": [
+        {
+            "id": 45230,
+            "shelfmark": "466",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 50980,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "82v-137r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 50979,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-82r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43793,
+                "name": "Bibliothèque municipale",
+                "alternative_names": [
+                    "Orléans (France). Bibliothèque municipale",
+                    "Bibliothèques d'Orléans",
+                    "Bibliothèque municipale Orléans (F-O)",
+                    "Bibliothèque municipale d'Orléans"
+                ],
+                "viaf": "150025322.000000",
+                "isni": "0000000122487356",
+                "settlement": {
+                    "id": 42711,
+                    "name": "Orléans",
+                    "region": "Centre-Val de Loire",
+                    "country": "France",
+                    "location_mappable": "POINT(1.90389 47.90289)",
+                    "geonames_id": 2989317
+                }
+            }
+        }
+    ]
+}

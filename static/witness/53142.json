@@ -33,6 +33,23 @@
             ],
             "witness_parts": [
                 {
+                    "id": 55833,
+                    "part_order": 1,
+                    "number_of_verses": 1258,
+                    "part_of_text": "v. 1-166, 249-1341",
+                    "number_of_lines": 1258,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "113r-125v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
                     "id": 53143,
                     "part_order": 1,
                     "number_of_verses": 1258,
@@ -40,7 +57,7 @@
                     "number_of_lines": 1258,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "111r-112v, 113r-125v"
+                        "111r-112v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

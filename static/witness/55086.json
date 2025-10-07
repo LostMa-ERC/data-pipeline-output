@@ -3,7 +3,7 @@
     "id": 55086,
     "is_unobserved": false,
     "is_excerpt": false,
-    "siglum": "A/D",
+    "siglum": "A",
     "alternative_sigla": [],
     "status": "complete",
     "creation_date_min": "1301-01-01",
@@ -12,6 +12,12 @@
         "http://jonas.irht.cnrs.fr/manuscrit/31259",
         "https://arlima.net/no/3776"
     ],
+    "scripta": {
+        "id": 47640,
+        "name": "pic.",
+        "description": "picard (general)",
+        "urls": []
+    },
     "manuscripts": [
         {
             "id": 45613,

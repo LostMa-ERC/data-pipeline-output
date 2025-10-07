@@ -1,0 +1,44 @@
+{
+    "type": "witness",
+    "id": 55682,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "L",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1436-01-01",
+    "creation_date_max": "1445-12-31",
+    "creation_date_text": "Vers 1440",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/82034"
+    ],
+    "manuscripts": [
+        {
+            "id": 49955,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/82034",
+                "https://www.sothebys.com/en/auctions/ecatalogue/2014/medieval-renaissance-manuscripts-l14240/lot.17.html",
+                "https://data.biblissima.fr/w/Item:Q279329"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50954,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "?"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
+}

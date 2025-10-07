@@ -7,6 +7,7 @@
     "status": "complete",
     "creation_date_min": "1301-01-01",
     "creation_date_max": "1350-12-31",
+    "creation_date_text": "Première moitié du XIVe siècle",
     "urls": [
         "http://jonas.irht.cnrs.fr/manuscrit/72986",
         "https://arlima.net/no/2405"
@@ -25,7 +26,20 @@
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1ra-7rb",
+                        "1ra-7rb"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 55832,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
                         "16vb-31ra"
                     ],
                     "has_initials": false,

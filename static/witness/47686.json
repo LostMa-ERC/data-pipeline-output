@@ -20,7 +20,7 @@
     "manuscripts": [
         {
             "id": 47685,
-            "shelfmark": "1",
+            "shelfmark": "4957",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -45,12 +45,18 @@
                 }
             ],
             "repository": {
-                "id": 47350,
-                "name": "Koninklijke academie voor Nederlandse taal en letteren",
+                "id": 43787,
+                "name": "Rijksuniversiteit te Gent. Bibliotheek",
                 "alternative_names": [
-                    "Koninklijke vlaamse academie voor taal- en letterkunde"
+                    "Universiteitsbibliotheek Gand, Belgique",
+                    "Rijksuniversiteit Gent. Bibliothek",
+                    "Universiteitsbibliotheek UGent",
+                    "Universiteitsbibliotheek Gent (B-Gu)",
+                    "Rijksuniversiteit (Gandawa). Bibliotheek.",
+                    "Universiteitsbibliotheek Gent"
                 ],
-                "viaf": "219233094.000000",
+                "viaf": "139553481.000000",
+                "isni": "0000000123484448",
                 "settlement": {
                     "id": 43690,
                     "name": "Ghent",

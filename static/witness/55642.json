@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 55642,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Michelstadt, Nicolaus-Matz-Bibliothek (Kirchenbibliothek), C 294",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1381-01-01",
+    "creation_date_max": "1420-12-31",
+    "creation_date_text": "Fin du XIVe-début du XVe siècle",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/74815"
+    ],
+    "manuscripts": [
+        {
+            "id": 45329,
+            "shelfmark": "C 294",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 52698,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "Garde début 1-2"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43841,
+                "name": "Nicolaus-Matz-Bibliothek Michelstadt",
+                "alternative_names": [
+                    "Nicolaus-Matz-Bibliothek Michelstadt, Allemagne",
+                    "Nicolaus-Matz-Bibliothek"
+                ],
+                "viaf": "153705244.000000",
+                "isni": "0000000122304206",
+                "settlement": {
+                    "id": 43712,
+                    "name": "Michelstadt",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.00373 49.67569)",
+                    "geonames_id": 2871284
+                }
+            }
+        }
+    ]
+}

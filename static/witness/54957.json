@@ -3,16 +3,22 @@
     "id": 54957,
     "is_unobserved": false,
     "is_excerpt": false,
-    "siglum": "Maz new system",
+    "siglum": "Maz",
     "alternative_sigla": [],
     "status": "fragmentary",
     "creation_date_min": "1201-01-01",
     "creation_date_max": "1300-12-31",
-    "creation_date_text": "Jonas",
+    "creation_date_text": "XIIIe siècle",
     "urls": [
         "http://jonas.irht.cnrs.fr/manuscrit/44749",
         "https://arlima.net/no/8099"
     ],
+    "scripta": {
+        "id": 47640,
+        "name": "pic.",
+        "description": "picard (general)",
+        "urls": []
+    },
     "manuscripts": [
         {
             "id": 45802,
