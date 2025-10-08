@@ -14,11 +14,9 @@
     ],
     "manuscripts": [
         {
-            "id": 45281,
-            "shelfmark": "MS 646",
-            "old_shelfmarks": [
-                "T. q. 1"
-            ],
+            "id": 45270,
+            "shelfmark": "MS 637",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
@@ -26,9 +24,9 @@
             ],
             "witness_parts": [
                 {
-                    "id": 49975,
-                    "part_order": 2,
-                    "volume_number": "2",
+                    "id": 49974,
+                    "part_order": 1,
+                    "volume_number": "1",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
                         "?"
@@ -109,9 +107,11 @@
             }
         },
         {
-            "id": 45270,
-            "shelfmark": "MS 637",
-            "old_shelfmarks": [],
+            "id": 45281,
+            "shelfmark": "MS 646",
+            "old_shelfmarks": [
+                "T. q. 1"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
@@ -119,9 +119,9 @@
             ],
             "witness_parts": [
                 {
-                    "id": 49974,
-                    "part_order": 1,
-                    "volume_number": "1",
+                    "id": 49975,
+                    "part_order": 2,
+                    "volume_number": "2",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
                         "?"
