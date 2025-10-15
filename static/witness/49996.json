@@ -14,22 +14,20 @@
     ],
     "manuscripts": [
         {
-            "id": 45351,
-            "shelfmark": "MS. Douce 215",
+            "id": 45430,
+            "shelfmark": "1",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
-            "urls": [
-                "https://data.biblissima.fr/w/Item:Q211633"
-            ],
+            "urls": [],
             "witness_parts": [
                 {
-                    "id": 49999,
-                    "part_order": 3,
-                    "volume_number": "4",
+                    "id": 50000,
+                    "part_order": 4,
+                    "volume_number": "5",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "1-8v"
+                        "1r - 181v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -40,26 +38,24 @@
                 }
             ],
             "repository": {
-                "id": 43847,
-                "name": "Bodleian Library",
+                "id": 43885,
+                "name": "John Rylands Library",
                 "alternative_names": [
-                    "ספריית בודליאנה",
-                    "Бодлеянская библиотека",
-                    "Biblioteka Bodlejańska",
-                    "Bodleian Library (Oxford)",
-                    "University of Oxford., Bodleian Library",
-                    "Bodleian library Oxford, GB",
-                    "Llyfrgell Bodley"
+                    "John Rylands library Manchester, GB",
+                    "Llyfrgell John Rylands",
+                    "John Rylands University Library Manchester (GB-Mr)",
+                    "John Rylands Library (Manchester)",
+                    "John Rylands library (Manchester, GB) (1900-1972)"
                 ],
-                "viaf": "129788129.000000",
-                "isni": "0000000123029752",
+                "viaf": "312795145.000000",
+                "isni": "0000000119411238",
                 "settlement": {
-                    "id": 43407,
-                    "name": "Oxford",
+                    "id": 43401,
+                    "name": "Manchester",
                     "region": "England",
                     "country": "United Kingdom",
-                    "location_mappable": "POINT(-1.25596 51.75222)",
-                    "geonames_id": 2640729
+                    "location_mappable": "POINT(-2.23743 53.48095)",
+                    "geonames_id": 2643123
                 }
             }
         },
@@ -126,20 +122,22 @@
             ]
         },
         {
-            "id": 45430,
-            "shelfmark": "1",
+            "id": 45351,
+            "shelfmark": "MS. Douce 215",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
-            "urls": [],
+            "urls": [
+                "https://data.biblissima.fr/w/Item:Q211633"
+            ],
             "witness_parts": [
                 {
-                    "id": 50000,
-                    "part_order": 4,
-                    "volume_number": "5",
+                    "id": 49999,
+                    "part_order": 3,
+                    "volume_number": "4",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "1r - 181v"
+                        "1-8v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -150,24 +148,26 @@
                 }
             ],
             "repository": {
-                "id": 43885,
-                "name": "John Rylands Library",
+                "id": 43847,
+                "name": "Bodleian Library",
                 "alternative_names": [
-                    "John Rylands library Manchester, GB",
-                    "Llyfrgell John Rylands",
-                    "John Rylands University Library Manchester (GB-Mr)",
-                    "John Rylands Library (Manchester)",
-                    "John Rylands library (Manchester, GB) (1900-1972)"
+                    "ספריית בודליאנה",
+                    "Бодлеянская библиотека",
+                    "Biblioteka Bodlejańska",
+                    "Bodleian Library (Oxford)",
+                    "University of Oxford., Bodleian Library",
+                    "Bodleian library Oxford, GB",
+                    "Llyfrgell Bodley"
                 ],
-                "viaf": "312795145.000000",
-                "isni": "0000000119411238",
+                "viaf": "129788129.000000",
+                "isni": "0000000123029752",
                 "settlement": {
-                    "id": 43401,
-                    "name": "Manchester",
+                    "id": 43407,
+                    "name": "Oxford",
                     "region": "England",
                     "country": "United Kingdom",
-                    "location_mappable": "POINT(-2.23743 53.48095)",
-                    "geonames_id": 2643123
+                    "location_mappable": "POINT(-1.25596 51.75222)",
+                    "geonames_id": 2640729
                 }
             }
         }
