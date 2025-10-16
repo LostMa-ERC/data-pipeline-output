@@ -24,11 +24,11 @@
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 52861,
+                    "id": 52860,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "55r-56v"
+                        "garde fin"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -38,11 +38,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 52860,
+                    "id": 52861,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "garde fin"
+                        "55r-56v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
