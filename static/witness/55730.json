@@ -14,6 +14,94 @@
     ],
     "manuscripts": [
         {
+            "id": 49610,
+            "shelfmark": "14 (T. o. 03)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://initiale.irht.cnrs.fr/codex/4020",
+                "http://jonas.irht.cnrs.fr/manuscrit/75781"
+            ],
+            "witness_parts": [
+                {
+                    "id": 55559,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Aspremont)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43978,
+                "name": "Bibliothèque de l'Evêché",
+                "alternative_names": [
+                    "Bibliothèque diocésaine Mgr Jean Bertaut"
+                ],
+                "settlement": {
+                    "id": 43980,
+                    "name": "Sées",
+                    "region": "Normandy",
+                    "country": "France",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(0.17244 48.60403)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2975340
+                }
+            }
+        },
+        {
+            "id": 49611,
+            "shelfmark": "19 (T. q. 12)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://initiale.irht.cnrs.fr/codex/4025",
+                "http://jonas.irht.cnrs.fr/manuscrit/75781"
+            ],
+            "witness_parts": [
+                {
+                    "id": 55561,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Aspremont)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43978,
+                "name": "Bibliothèque de l'Evêché",
+                "alternative_names": [
+                    "Bibliothèque diocésaine Mgr Jean Bertaut"
+                ],
+                "settlement": {
+                    "id": 43980,
+                    "name": "Sées",
+                    "region": "Normandy",
+                    "country": "France",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(0.17244 48.60403)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2975340
+                }
+            }
+        },
+        {
             "id": 46426,
             "shelfmark": "17 (T. q. 10)",
             "old_shelfmarks": [],
@@ -59,50 +147,6 @@
             }
         },
         {
-            "id": 49610,
-            "shelfmark": "14 (T. o. 03)",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://initiale.irht.cnrs.fr/codex/4020",
-                "http://jonas.irht.cnrs.fr/manuscrit/75781"
-            ],
-            "witness_parts": [
-                {
-                    "id": 55559,
-                    "part_order": 1,
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "? (Aspremont)"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43978,
-                "name": "Bibliothèque de l'Evêché",
-                "alternative_names": [
-                    "Bibliothèque diocésaine Mgr Jean Bertaut"
-                ],
-                "settlement": {
-                    "id": 43980,
-                    "name": "Sées",
-                    "region": "Normandy",
-                    "country": "France",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(0.17244 48.60403)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2975340
-                }
-            }
-        },
-        {
             "id": 49612,
             "shelfmark": "22 (T. f. 27)",
             "old_shelfmarks": [],
@@ -115,50 +159,6 @@
             "witness_parts": [
                 {
                     "id": 55562,
-                    "part_order": 1,
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "? (Aspremont)"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43978,
-                "name": "Bibliothèque de l'Evêché",
-                "alternative_names": [
-                    "Bibliothèque diocésaine Mgr Jean Bertaut"
-                ],
-                "settlement": {
-                    "id": 43980,
-                    "name": "Sées",
-                    "region": "Normandy",
-                    "country": "France",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(0.17244 48.60403)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2975340
-                }
-            }
-        },
-        {
-            "id": 49611,
-            "shelfmark": "19 (T. q. 12)",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://initiale.irht.cnrs.fr/codex/4025",
-                "http://jonas.irht.cnrs.fr/manuscrit/75781"
-            ],
-            "witness_parts": [
-                {
-                    "id": 55561,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
