@@ -21,8 +21,8 @@
     },
     "manuscripts": [
         {
-            "id": 48131,
-            "shelfmark": "Cod.misc. 4o 30d, XIV",
+            "id": 48130,
+            "shelfmark": "22.219",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -31,12 +31,12 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48144,
-                    "part_order": 5,
+                    "id": 48143,
+                    "part_order": 8,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-2v"
+                        "1r-1v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -47,17 +47,17 @@
                 }
             ],
             "repository": {
-                "id": 48430,
-                "name": "Württembergische Landesbibliothek",
+                "id": 46307,
+                "name": "Bibliothek des Germanischen Nationalmuseums",
                 "alternative_names": [],
-                "viaf": "164844730.000000",
+                "viaf": "131883509.000000",
                 "settlement": {
-                    "id": 42911,
-                    "name": "Stuttgart",
-                    "region": "Baden-Wurttemberg",
+                    "id": 42881,
+                    "name": "Nürnberg",
+                    "region": "Bavaria",
                     "country": "Germany",
-                    "location_mappable": "POINT(9.1775 48.77667)",
-                    "geonames_id": 6690189
+                    "location_mappable": "POINT(11.0768 49.4541)",
+                    "geonames_id": 6556832
                 }
             }
         },
@@ -154,8 +154,8 @@
             }
         },
         {
-            "id": 48128,
-            "shelfmark": "98",
+            "id": 48131,
+            "shelfmark": "Cod.misc. 4o 30d, XIV",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -164,12 +164,12 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48141,
-                    "part_order": 1,
+                    "id": 48144,
+                    "part_order": 5,
                     "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "unknown",
+                    "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-19v"
+                        "1r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -180,28 +180,23 @@
                 }
             ],
             "repository": {
-                "id": 43869,
-                "name": "Universitätsbibliothek Gießen",
-                "alternative_names": [
-                    "Universitätsbibliothek Giessen (Alemania)",
-                    "Universitätsbibliothek Gießen, Allemagne",
-                    "Justus-Liebig-Universität, Universitätsbibliothek Gießen (D-GI)"
-                ],
-                "viaf": "154192976.000000",
-                "isni": "0000000123593820",
+                "id": 48430,
+                "name": "Württembergische Landesbibliothek",
+                "alternative_names": [],
+                "viaf": "164844730.000000",
                 "settlement": {
-                    "id": 43621,
-                    "name": "Giessen",
-                    "region": "Hesse",
+                    "id": 42911,
+                    "name": "Stuttgart",
+                    "region": "Baden-Wurttemberg",
                     "country": "Germany",
-                    "location_mappable": "POINT(8.67554 50.58727)",
-                    "geonames_id": 2920512
+                    "location_mappable": "POINT(9.1775 48.77667)",
+                    "geonames_id": 6690189
                 }
             }
         },
         {
-            "id": 48130,
-            "shelfmark": "22.219",
+            "id": 48127,
+            "shelfmark": "2o MS 638",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -210,12 +205,13 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48143,
-                    "part_order": 8,
+                    "id": 48139,
+                    "part_order": 4,
+                    "number_of_verses": 9800,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-1v"
+                        "1r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -226,17 +222,17 @@
                 }
             ],
             "repository": {
-                "id": 46307,
-                "name": "Bibliothek des Germanischen Nationalmuseums",
+                "id": 48418,
+                "name": "Universitätsbibliothek Greifswald",
                 "alternative_names": [],
-                "viaf": "131883509.000000",
+                "viaf": "142485406.000000",
                 "settlement": {
-                    "id": 42881,
-                    "name": "Nürnberg",
-                    "region": "Bavaria",
+                    "id": 42798,
+                    "name": "Greifswald",
+                    "region": "Mecklenburg-Vorpommern",
                     "country": "Germany",
-                    "location_mappable": "POINT(11.0768 49.4541)",
-                    "geonames_id": 6556832
+                    "location_mappable": "POINT(13.38756 54.08809)",
+                    "geonames_id": 6551180
                 }
             }
         },
@@ -329,8 +325,8 @@
             }
         },
         {
-            "id": 48127,
-            "shelfmark": "2o MS 638",
+            "id": 48128,
+            "shelfmark": "98",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -339,13 +335,12 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48139,
-                    "part_order": 4,
-                    "number_of_verses": 9800,
+                    "id": 48141,
+                    "part_order": 1,
                     "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
+                    "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1r-2v"
+                        "1r-19v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -356,17 +351,22 @@
                 }
             ],
             "repository": {
-                "id": 48418,
-                "name": "Universitätsbibliothek Greifswald",
-                "alternative_names": [],
-                "viaf": "142485406.000000",
+                "id": 43869,
+                "name": "Universitätsbibliothek Gießen",
+                "alternative_names": [
+                    "Universitätsbibliothek Giessen (Alemania)",
+                    "Universitätsbibliothek Gießen, Allemagne",
+                    "Justus-Liebig-Universität, Universitätsbibliothek Gießen (D-GI)"
+                ],
+                "viaf": "154192976.000000",
+                "isni": "0000000123593820",
                 "settlement": {
-                    "id": 42798,
-                    "name": "Greifswald",
-                    "region": "Mecklenburg-Vorpommern",
+                    "id": 43621,
+                    "name": "Giessen",
+                    "region": "Hesse",
                     "country": "Germany",
-                    "location_mappable": "POINT(13.38756 54.08809)",
-                    "geonames_id": 6551180
+                    "location_mappable": "POINT(8.67554 50.58727)",
+                    "geonames_id": 2920512
                 }
             }
         },
