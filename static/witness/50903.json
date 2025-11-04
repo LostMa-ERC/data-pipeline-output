@@ -23,11 +23,11 @@
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 55759,
+                    "id": 55760,
                     "part_order": 1,
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "88-89"
+                        "90-91"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -93,25 +93,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55761,
+                    "id": 55759,
                     "part_order": 1,
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "86-87"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
-                    "id": 55760,
-                    "part_order": 1,
-                    "lines_are_incomplete": "No",
-                    "page_ranges": [
-                        "90-91"
+                        "88-89"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -126,6 +112,20 @@
                     "lines_are_incomplete": "No",
                     "page_ranges": [
                         "92-103"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 55761,
+                    "part_order": 1,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "86-87"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
