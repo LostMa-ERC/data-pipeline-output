@@ -65,11 +65,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 52260,
+                    "id": 52263,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "17-18"
+                        "25-26"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -79,11 +79,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 52263,
+                    "id": 52260,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "25-26"
+                        "17-18"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
