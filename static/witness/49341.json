@@ -65,8 +65,8 @@
             }
         },
         {
-            "id": 49326,
-            "shelfmark": "Ms-3487-3488",
+            "id": 49325,
+            "shelfmark": "Ms-3485-3486",
             "old_shelfmarks": [],
             "collection": "Arsenal",
             "is_hypothetical": false,
@@ -74,12 +74,12 @@
             "urls": [
                 "https://jonas.irht.cnrs.fr/manuscrit/75257"
             ],
-            "ark": "ark:/12148/cc841565/cd0e175",
+            "ark": "ark:/12148/cc841565/cd0e160",
             "witness_parts": [
                 {
-                    "id": 49344,
-                    "part_order": 3,
-                    "volume_number": "3",
+                    "id": 49343,
+                    "part_order": 2,
+                    "volume_number": "2",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
                         "?"
@@ -165,8 +165,8 @@
             }
         },
         {
-            "id": 49325,
-            "shelfmark": "Ms-3485-3486",
+            "id": 49326,
+            "shelfmark": "Ms-3487-3488",
             "old_shelfmarks": [],
             "collection": "Arsenal",
             "is_hypothetical": false,
@@ -174,12 +174,12 @@
             "urls": [
                 "https://jonas.irht.cnrs.fr/manuscrit/75257"
             ],
-            "ark": "ark:/12148/cc841565/cd0e160",
+            "ark": "ark:/12148/cc841565/cd0e175",
             "witness_parts": [
                 {
-                    "id": 49343,
-                    "part_order": 2,
-                    "volume_number": "2",
+                    "id": 49344,
+                    "part_order": 3,
+                    "volume_number": "3",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
                         "?"
