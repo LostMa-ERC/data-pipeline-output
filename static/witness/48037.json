@@ -29,14 +29,31 @@
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 55745,
+                    "id": 55797,
                     "part_order": 1,
                     "number_of_verses": 124,
                     "number_of_lines": 124,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "3r-3v"
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 48038,
+                    "part_order": 1,
+                    "number_of_verses": 124,
+                    "number_of_lines": 124,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -63,31 +80,14 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55797,
+                    "id": 55745,
                     "part_order": 1,
                     "number_of_verses": 124,
                     "number_of_lines": 124,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "2r-2v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
-                    "id": 48038,
-                    "part_order": 1,
-                    "number_of_verses": 124,
-                    "number_of_lines": 124,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
+                        "3r-3v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -169,33 +169,6 @@
             }
         },
         {
-            "id": 48036,
-            "old_shelfmarks": [],
-            "collection": "Coll.-J. Deschamps",
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 48042,
-                    "part_order": 4,
-                    "number_of_verses": 48,
-                    "number_of_lines": 48,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ]
-        },
-        {
             "id": 48035,
             "shelfmark": "Ms. IV 209 / 10",
             "old_shelfmarks": [],
@@ -245,6 +218,33 @@
                     "geonames_id": 2800866
                 }
             }
+        },
+        {
+            "id": 48036,
+            "old_shelfmarks": [],
+            "collection": "Coll.-J. Deschamps",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48042,
+                    "part_order": 4,
+                    "number_of_verses": 48,
+                    "number_of_lines": 48,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
         }
     ]
 }
