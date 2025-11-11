@@ -21,8 +21,8 @@
     },
     "manuscripts": [
         {
-            "id": 48658,
-            "shelfmark": "F 69",
+            "id": 47586,
+            "shelfmark": "K 2: F 45",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -31,29 +31,10 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48659,
-                    "part_order": 3,
-                    "number_of_verses": 264,
-                    "part_of_text": "Duijvestijn (1989), p. 134-140",
-                    "number_of_lines": 264,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
-                    "id": 55819,
-                    "part_order": 3,
-                    "number_of_verses": 264,
-                    "part_of_text": "Duijvestijn (1989), p. 134-140",
-                    "number_of_lines": 264,
+                    "id": 55776,
+                    "part_order": 2,
+                    "number_of_verses": 269,
+                    "number_of_lines": 269,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
@@ -65,24 +46,41 @@
                     "has_no_decoration": false,
                     "has_pictorial_designs": false,
                     "decoration_is_unknown": false
+                },
+                {
+                    "id": 47590,
+                    "part_order": 2,
+                    "number_of_verses": 269,
+                    "number_of_lines": 269,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
                 }
             ],
             "repository": {
-                "id": 49782,
-                "name": "Stiftsbibliothek",
+                "id": 43807,
+                "name": "Universitäts- und Landesbibliothek Düsseldorf",
                 "alternative_names": [
-                    "Stiftsbibliothek Heiligenkreuz"
+                    "Universitäts-und Landesbibliothek Düsseldorf, Allemagne",
+                    "Heinrich-Heine-Universität, Universitäts- und Landesbibliothek Düsseldorf (D-DÜl)"
                 ],
-                "viaf": "172753276.000000",
+                "viaf": "125646738.000000",
+                "isni": "0000000109410725",
                 "settlement": {
-                    "id": 49783,
-                    "name": "Heiligenkreuz",
-                    "region": "Lower Austria",
-                    "country": "Austria",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(16.15292 48.04261)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 7871707
+                    "id": 42782,
+                    "name": "Düsseldorf",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(6.77616 51.22172)",
+                    "geonames_id": 2934246
                 }
             }
         },
@@ -147,8 +145,8 @@
             }
         },
         {
-            "id": 47586,
-            "shelfmark": "K 2: F 45",
+            "id": 48658,
+            "shelfmark": "F 69",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -157,10 +155,11 @@
             ],
             "witness_parts": [
                 {
-                    "id": 47590,
-                    "part_order": 2,
-                    "number_of_verses": 269,
-                    "number_of_lines": 269,
+                    "id": 48659,
+                    "part_order": 3,
+                    "number_of_verses": 264,
+                    "part_of_text": "Duijvestijn (1989), p. 134-140",
+                    "number_of_lines": 264,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
@@ -174,10 +173,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55776,
-                    "part_order": 2,
-                    "number_of_verses": 269,
-                    "number_of_lines": 269,
+                    "id": 55819,
+                    "part_order": 3,
+                    "number_of_verses": 264,
+                    "part_of_text": "Duijvestijn (1989), p. 134-140",
+                    "number_of_lines": 264,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
@@ -192,21 +192,21 @@
                 }
             ],
             "repository": {
-                "id": 43807,
-                "name": "Universitäts- und Landesbibliothek Düsseldorf",
+                "id": 49782,
+                "name": "Stiftsbibliothek",
                 "alternative_names": [
-                    "Universitäts-und Landesbibliothek Düsseldorf, Allemagne",
-                    "Heinrich-Heine-Universität, Universitäts- und Landesbibliothek Düsseldorf (D-DÜl)"
+                    "Stiftsbibliothek Heiligenkreuz"
                 ],
-                "viaf": "125646738.000000",
-                "isni": "0000000109410725",
+                "viaf": "172753276.000000",
                 "settlement": {
-                    "id": 42782,
-                    "name": "Düsseldorf",
-                    "region": "North Rhine-Westphalia",
-                    "country": "Germany",
-                    "location_mappable": "POINT(6.77616 51.22172)",
-                    "geonames_id": 2934246
+                    "id": 49783,
+                    "name": "Heiligenkreuz",
+                    "region": "Lower Austria",
+                    "country": "Austria",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(16.15292 48.04261)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 7871707
                 }
             }
         }

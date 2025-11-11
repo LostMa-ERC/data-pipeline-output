@@ -14,53 +14,6 @@
     ],
     "manuscripts": [
         {
-            "id": 49475,
-            "shelfmark": "Busta II, n. 10",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "http://jonas.irht.cnrs.fr/manuscrit/80406",
-                "https://arca.irht.cnrs.fr/ark:/63955/md977s75j52p"
-            ],
-            "witness_parts": [
-                {
-                    "id": 55591,
-                    "part_order": 1,
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "? (Meliadus)"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43963,
-                "name": "Archivio di stato di Bologna",
-                "alternative_names": [
-                    "Archivio di Stato (Bolonia).",
-                    "Archivio di Stato",
-                    "Archivio di stato (Bologna)",
-                    "Italie. Archivio di Stato (Bologne)"
-                ],
-                "viaf": "154202136.000000",
-                "isni": "000000012297076X",
-                "settlement": {
-                    "id": 43635,
-                    "name": "Bologna",
-                    "region": "Emilia-Romagna",
-                    "country": "Italy",
-                    "location_mappable": "POINT(11.33875 44.49381)",
-                    "geonames_id": 3181928
-                }
-            }
-        },
-        {
             "id": 49476,
             "shelfmark": "Busta II, n. 9",
             "old_shelfmarks": [],
@@ -118,6 +71,53 @@
             "witness_parts": [
                 {
                     "id": 55589,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "? (Meliadus)"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43963,
+                "name": "Archivio di stato di Bologna",
+                "alternative_names": [
+                    "Archivio di Stato (Bolonia).",
+                    "Archivio di Stato",
+                    "Archivio di stato (Bologna)",
+                    "Italie. Archivio di Stato (Bologne)"
+                ],
+                "viaf": "154202136.000000",
+                "isni": "000000012297076X",
+                "settlement": {
+                    "id": 43635,
+                    "name": "Bologna",
+                    "region": "Emilia-Romagna",
+                    "country": "Italy",
+                    "location_mappable": "POINT(11.33875 44.49381)",
+                    "geonames_id": 3181928
+                }
+            }
+        },
+        {
+            "id": 49475,
+            "shelfmark": "Busta II, n. 10",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "http://jonas.irht.cnrs.fr/manuscrit/80406",
+                "https://arca.irht.cnrs.fr/ark:/63955/md977s75j52p"
+            ],
+            "witness_parts": [
+                {
+                    "id": 55591,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
