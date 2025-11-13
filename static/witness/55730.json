@@ -14,18 +14,18 @@
     ],
     "manuscripts": [
         {
-            "id": 49612,
-            "shelfmark": "22 (T. f. 27)",
+            "id": 49610,
+            "shelfmark": "14 (T. o. 03)",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
-                "https://arca.irht.cnrs.fr/ark:/63955/md84zg64x94q",
+                "https://initiale.irht.cnrs.fr/codex/4020",
                 "http://jonas.irht.cnrs.fr/manuscrit/75781"
             ],
             "witness_parts": [
                 {
-                    "id": 55562,
+                    "id": 55559,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
@@ -58,18 +58,18 @@
             }
         },
         {
-            "id": 49610,
-            "shelfmark": "14 (T. o. 03)",
+            "id": 49611,
+            "shelfmark": "19 (T. q. 12)",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
-                "https://initiale.irht.cnrs.fr/codex/4020",
+                "https://initiale.irht.cnrs.fr/codex/4025",
                 "http://jonas.irht.cnrs.fr/manuscrit/75781"
             ],
             "witness_parts": [
                 {
-                    "id": 55559,
+                    "id": 55561,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
@@ -147,18 +147,18 @@
             }
         },
         {
-            "id": 49611,
-            "shelfmark": "19 (T. q. 12)",
+            "id": 49612,
+            "shelfmark": "22 (T. f. 27)",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
-                "https://initiale.irht.cnrs.fr/codex/4025",
+                "https://arca.irht.cnrs.fr/ark:/63955/md84zg64x94q",
                 "http://jonas.irht.cnrs.fr/manuscrit/75781"
             ],
             "witness_parts": [
                 {
-                    "id": 55561,
+                    "id": 55562,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
