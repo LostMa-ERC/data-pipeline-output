@@ -19,51 +19,6 @@
     },
     "manuscripts": [
         {
-            "id": 47668,
-            "shelfmark": "Fragm. 7",
-            "old_shelfmarks": [],
-            "collection": "Bisschoppelijk archief Gent",
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 55781,
-                    "part_order": 2,
-                    "number_of_verses": 668,
-                    "number_of_lines": 668,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "3r-4v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
-                    "id": 47671,
-                    "part_order": 2,
-                    "number_of_verses": 668,
-                    "number_of_lines": 668,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "1r-2v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ]
-        },
-        {
             "id": 47669,
             "shelfmark": "96 B 6: 3",
             "old_shelfmarks": [],
@@ -103,6 +58,51 @@
                     "geonames_id": 2747890
                 }
             }
+        },
+        {
+            "id": 47668,
+            "shelfmark": "Fragm. 7",
+            "old_shelfmarks": [],
+            "collection": "Bisschoppelijk archief Gent",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 47671,
+                    "part_order": 2,
+                    "number_of_verses": 668,
+                    "number_of_lines": 668,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 55781,
+                    "part_order": 2,
+                    "number_of_verses": 668,
+                    "number_of_lines": 668,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "3r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
         }
     ]
 }
