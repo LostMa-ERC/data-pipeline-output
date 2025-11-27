@@ -60,16 +60,16 @@
             }
         },
         {
-            "id": 45785,
-            "shelfmark": "Français 363",
+            "id": 45929,
+            "shelfmark": "Français 358",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
             "urls": [],
-            "ark": "ark:/12148/cc500280/ca19823334",
+            "ark": "ark:/12148/cc500280/ca19823327",
             "witness_parts": [
                 {
-                    "id": 55601,
+                    "id": 55596,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
@@ -152,16 +152,16 @@
             }
         },
         {
-            "id": 45787,
-            "shelfmark": "Français 359",
+            "id": 45785,
+            "shelfmark": "Français 363",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
             "urls": [],
-            "ark": "ark:/12148/cc500280/ca19823329",
+            "ark": "ark:/12148/cc500280/ca19823334",
             "witness_parts": [
                 {
-                    "id": 55597,
+                    "id": 55601,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
@@ -244,16 +244,16 @@
             }
         },
         {
-            "id": 45929,
-            "shelfmark": "Français 358",
+            "id": 45787,
+            "shelfmark": "Français 359",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
             "urls": [],
-            "ark": "ark:/12148/cc500280/ca19823327",
+            "ark": "ark:/12148/cc500280/ca19823329",
             "witness_parts": [
                 {
-                    "id": 55596,
+                    "id": 55597,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [

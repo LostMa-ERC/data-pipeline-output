@@ -21,84 +21,6 @@
     },
     "manuscripts": [
         {
-            "id": 48035,
-            "shelfmark": "Ms. IV 209 / 10",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 48041,
-                    "part_order": 3,
-                    "number_of_verses": 30,
-                    "number_of_lines": 30,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43904,
-                "name": "Bibliothèque royale de Belgique",
-                "alternative_names": [
-                    "Bélgica., Koninklijke Bibliotheek van België",
-                    "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR) Bruxelles; Brussel (B-Br)",
-                    "Biblioteka Królewska Belgii",
-                    "Bibliothèque royale Albert Ier",
-                    "Bibliothèque royale de Belgique (Bruxelles)",
-                    "Bibliothèque royale Albert Ier (Bruxelles, Belgique)",
-                    "Royal Library of Belgium"
-                ],
-                "viaf": "312739455.000000",
-                "isni": "0000000122714686",
-                "settlement": {
-                    "id": 43150,
-                    "name": "Brussels",
-                    "country": "Belgium",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(4.34878 50.85045)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2800866
-                }
-            }
-        },
-        {
-            "id": 48036,
-            "old_shelfmarks": [],
-            "collection": "Coll.-J. Deschamps",
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 48042,
-                    "part_order": 4,
-                    "number_of_verses": 48,
-                    "number_of_lines": 48,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ]
-        },
-        {
             "id": 48032,
             "shelfmark": "15.393",
             "old_shelfmarks": [],
@@ -106,23 +28,6 @@
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
-                {
-                    "id": 55797,
-                    "part_order": 1,
-                    "number_of_verses": 124,
-                    "number_of_lines": 124,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "2r-2v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
                 {
                     "id": 48038,
                     "part_order": 1,
@@ -132,6 +37,23 @@
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
                         "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 55797,
+                    "part_order": 1,
+                    "number_of_verses": 124,
+                    "number_of_lines": 124,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "2r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -245,6 +167,84 @@
                     "geonames_id": 2797656
                 }
             }
+        },
+        {
+            "id": 48035,
+            "shelfmark": "Ms. IV 209 / 10",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48041,
+                    "part_order": 3,
+                    "number_of_verses": 30,
+                    "number_of_lines": 30,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43904,
+                "name": "Bibliothèque royale de Belgique",
+                "alternative_names": [
+                    "Bélgica., Koninklijke Bibliotheek van België",
+                    "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR) Bruxelles; Brussel (B-Br)",
+                    "Biblioteka Królewska Belgii",
+                    "Bibliothèque royale Albert Ier",
+                    "Bibliothèque royale de Belgique (Bruxelles)",
+                    "Bibliothèque royale Albert Ier (Bruxelles, Belgique)",
+                    "Royal Library of Belgium"
+                ],
+                "viaf": "312739455.000000",
+                "isni": "0000000122714686",
+                "settlement": {
+                    "id": 43150,
+                    "name": "Brussels",
+                    "country": "Belgium",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(4.34878 50.85045)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2800866
+                }
+            }
+        },
+        {
+            "id": 48036,
+            "old_shelfmarks": [],
+            "collection": "Coll.-J. Deschamps",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48042,
+                    "part_order": 4,
+                    "number_of_verses": 48,
+                    "number_of_lines": 48,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
         }
     ]
 }
