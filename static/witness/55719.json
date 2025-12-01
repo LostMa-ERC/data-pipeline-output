@@ -14,18 +14,19 @@
     ],
     "manuscripts": [
         {
-            "id": 49611,
-            "shelfmark": "19 (T. q. 12)",
+            "id": 46426,
+            "shelfmark": "17 (T. q. 10)",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
-                "https://initiale.irht.cnrs.fr/codex/4025",
-                "http://jonas.irht.cnrs.fr/manuscrit/75781"
+                "https://arca.irht.cnrs.fr/ark:/63955/md36tx31t42f",
+                "https://jonas.irht.cnrs.fr/manuscrit/75781",
+                "https://initiale.irht.cnrs.fr/codex/4023"
             ],
             "witness_parts": [
                 {
-                    "id": 55557,
+                    "id": 55556,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
@@ -58,18 +59,18 @@
             }
         },
         {
-            "id": 49610,
-            "shelfmark": "14 (T. o. 03)",
+            "id": 49611,
+            "shelfmark": "19 (T. q. 12)",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
-                "https://initiale.irht.cnrs.fr/codex/4020",
+                "https://initiale.irht.cnrs.fr/codex/4025",
                 "http://jonas.irht.cnrs.fr/manuscrit/75781"
             ],
             "witness_parts": [
                 {
-                    "id": 55555,
+                    "id": 55557,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
@@ -146,19 +147,18 @@
             }
         },
         {
-            "id": 46426,
-            "shelfmark": "17 (T. q. 10)",
+            "id": 49610,
+            "shelfmark": "14 (T. o. 03)",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
-                "https://arca.irht.cnrs.fr/ark:/63955/md36tx31t42f",
-                "https://jonas.irht.cnrs.fr/manuscrit/75781",
-                "https://initiale.irht.cnrs.fr/codex/4023"
+                "https://initiale.irht.cnrs.fr/codex/4020",
+                "http://jonas.irht.cnrs.fr/manuscrit/75781"
             ],
             "witness_parts": [
                 {
-                    "id": 55556,
+                    "id": 55555,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
