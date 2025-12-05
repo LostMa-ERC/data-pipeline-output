@@ -19,6 +19,52 @@
     },
     "manuscripts": [
         {
+            "id": 46346,
+            "shelfmark": "B.P.L. 1049",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 46373,
+                    "part_order": 1,
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "15 fragments"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43873,
+                "name": "Universitaire Bibliotheken Leiden",
+                "alternative_names": [
+                    "Rijksuniversiteit te Leiden., Bibliotheek",
+                    "Leiden University Library",
+                    "Bibliotheek der Rijksuniversiteit Leiden",
+                    "Universiteitsbibliotheek (Lejda).",
+                    "Universiteitsbibliotheek (Leyde, Pays-Bas)",
+                    "Rijksuniversiteit Leiden Bibliotheek"
+                ],
+                "viaf": "133132602.000000",
+                "isni": "0000000122932800",
+                "settlement": {
+                    "id": 43362,
+                    "name": "Leiden",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.49306 52.15833)",
+                    "geonames_id": 2751773
+                }
+            }
+        },
+        {
             "id": 46354,
             "shelfmark": "Ms. IV 816 / 1-6",
             "old_shelfmarks": [],
@@ -63,52 +109,6 @@
                     "location_mappable": "POINT(4.34878 50.85045)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 2800866
-                }
-            }
-        },
-        {
-            "id": 46346,
-            "shelfmark": "B.P.L. 1049",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 46373,
-                    "part_order": 1,
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "15 fragments"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43873,
-                "name": "Universitaire Bibliotheken Leiden",
-                "alternative_names": [
-                    "Rijksuniversiteit te Leiden., Bibliotheek",
-                    "Leiden University Library",
-                    "Bibliotheek der Rijksuniversiteit Leiden",
-                    "Universiteitsbibliotheek (Lejda).",
-                    "Universiteitsbibliotheek (Leyde, Pays-Bas)",
-                    "Rijksuniversiteit Leiden Bibliotheek"
-                ],
-                "viaf": "133132602.000000",
-                "isni": "0000000122932800",
-                "settlement": {
-                    "id": 43362,
-                    "name": "Leiden",
-                    "region": "South Holland",
-                    "country": "Netherlands",
-                    "location_mappable": "POINT(4.49306 52.15833)",
-                    "geonames_id": 2751773
                 }
             }
         }
