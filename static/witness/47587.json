@@ -31,24 +31,6 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48659,
-                    "part_order": 3,
-                    "number_of_verses": 264,
-                    "part_of_text": "Duijvestijn (1989), p. 134-140",
-                    "number_of_lines": 264,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
                     "id": 55819,
                     "part_order": 3,
                     "number_of_verses": 264,
@@ -58,6 +40,24 @@
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
                         "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 48659,
+                    "part_order": 3,
+                    "number_of_verses": 264,
+                    "part_of_text": "Duijvestijn (1989), p. 134-140",
+                    "number_of_lines": 264,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -157,14 +157,14 @@
             ],
             "witness_parts": [
                 {
-                    "id": 47590,
+                    "id": 55776,
                     "part_order": 2,
                     "number_of_verses": 269,
                     "number_of_lines": 269,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-1v"
+                        "2r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -174,14 +174,14 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55776,
+                    "id": 47590,
                     "part_order": 2,
                     "number_of_verses": 269,
                     "number_of_lines": 269,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "2r-2v"
+                        "1r-1v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
