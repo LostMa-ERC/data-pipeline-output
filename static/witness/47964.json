@@ -21,6 +21,72 @@
     },
     "manuscripts": [
         {
+            "id": 47963,
+            "shelfmark": "Ltk. 1024",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 55790,
+                    "part_order": 2,
+                    "number_of_verses": 2469,
+                    "number_of_lines": 2469,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "89r-96v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 47967,
+                    "part_order": 2,
+                    "number_of_verses": 2469,
+                    "number_of_lines": 2469,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "83r-86v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43873,
+                "name": "Universitaire Bibliotheken Leiden",
+                "alternative_names": [
+                    "Rijksuniversiteit te Leiden., Bibliotheek",
+                    "Leiden University Library",
+                    "Bibliotheek der Rijksuniversiteit Leiden",
+                    "Universiteitsbibliotheek (Lejda).",
+                    "Universiteitsbibliotheek (Leyde, Pays-Bas)",
+                    "Rijksuniversiteit Leiden Bibliotheek"
+                ],
+                "viaf": "133132602.000000",
+                "isni": "0000000122932800",
+                "settlement": {
+                    "id": 43362,
+                    "name": "Leiden",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.49306 52.15833)",
+                    "geonames_id": 2751773
+                }
+            }
+        },
+        {
             "id": 47962,
             "shelfmark": "z.s.",
             "old_shelfmarks": [],
@@ -63,72 +129,6 @@
                     "country": "France",
                     "location_mappable": "POINT(2.78186 50.29301)",
                     "geonames_id": 3036784
-                }
-            }
-        },
-        {
-            "id": 47963,
-            "shelfmark": "Ltk. 1024",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 47967,
-                    "part_order": 2,
-                    "number_of_verses": 2469,
-                    "number_of_lines": 2469,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "83r-86v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
-                    "id": 55790,
-                    "part_order": 2,
-                    "number_of_verses": 2469,
-                    "number_of_lines": 2469,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "89r-96v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43873,
-                "name": "Universitaire Bibliotheken Leiden",
-                "alternative_names": [
-                    "Rijksuniversiteit te Leiden., Bibliotheek",
-                    "Leiden University Library",
-                    "Bibliotheek der Rijksuniversiteit Leiden",
-                    "Universiteitsbibliotheek (Lejda).",
-                    "Universiteitsbibliotheek (Leyde, Pays-Bas)",
-                    "Rijksuniversiteit Leiden Bibliotheek"
-                ],
-                "viaf": "133132602.000000",
-                "isni": "0000000122932800",
-                "settlement": {
-                    "id": 43362,
-                    "name": "Leiden",
-                    "region": "South Holland",
-                    "country": "Netherlands",
-                    "location_mappable": "POINT(4.49306 52.15833)",
-                    "geonames_id": 2751773
                 }
             }
         }
