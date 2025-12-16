@@ -62,20 +62,19 @@
             }
         },
         {
-            "id": 45292,
-            "shelfmark": "MS 647",
+            "id": 45270,
+            "shelfmark": "MS 637",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
-                "https://initiale.irht.cnrs.fr/codex/196",
                 "http://jonas.irht.cnrs.fr/manuscrit/946"
             ],
             "witness_parts": [
                 {
-                    "id": 49976,
-                    "part_order": 3,
-                    "volume_number": "3",
+                    "id": 49974,
+                    "part_order": 1,
+                    "volume_number": "1",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
                         "?"
@@ -109,19 +108,20 @@
             }
         },
         {
-            "id": 45270,
-            "shelfmark": "MS 637",
+            "id": 45292,
+            "shelfmark": "MS 647",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
+                "https://initiale.irht.cnrs.fr/codex/196",
                 "http://jonas.irht.cnrs.fr/manuscrit/946"
             ],
             "witness_parts": [
                 {
-                    "id": 49974,
-                    "part_order": 1,
-                    "volume_number": "1",
+                    "id": 49976,
+                    "part_order": 3,
+                    "volume_number": "3",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
                         "?"

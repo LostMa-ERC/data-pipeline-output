@@ -21,8 +21,7 @@
     },
     "manuscripts": [
         {
-            "id": 48098,
-            "shelfmark": "Ltk. 1752",
+            "id": 48099,
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -31,14 +30,31 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48103,
+                    "id": 48105,
                     "part_order": 1,
-                    "number_of_verses": 43,
-                    "number_of_lines": 43,
+                    "number_of_verses": 184,
+                    "number_of_lines": 184,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "21r-21v"
+                        "8r-8v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 55800,
+                    "part_order": 1,
+                    "number_of_verses": 184,
+                    "number_of_lines": 184,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "38r-38v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -49,25 +65,17 @@
                 }
             ],
             "repository": {
-                "id": 43873,
-                "name": "Universitaire Bibliotheken Leiden",
-                "alternative_names": [
-                    "Rijksuniversiteit te Leiden., Bibliotheek",
-                    "Leiden University Library",
-                    "Bibliotheek der Rijksuniversiteit Leiden",
-                    "Universiteitsbibliotheek (Lejda).",
-                    "Universiteitsbibliotheek (Leyde, Pays-Bas)",
-                    "Rijksuniversiteit Leiden Bibliotheek"
-                ],
-                "viaf": "133132602.000000",
-                "isni": "0000000122932800",
+                "id": 48442,
+                "name": "Studien- und Zentralbibliothek der Franziskaner",
+                "alternative_names": [],
+                "viaf": "133110271.000000",
                 "settlement": {
-                    "id": 43362,
-                    "name": "Leiden",
-                    "region": "South Holland",
-                    "country": "Netherlands",
-                    "location_mappable": "POINT(4.49306 52.15833)",
-                    "geonames_id": 2751773
+                    "id": 43615,
+                    "name": "Münster",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.62571 51.96236)",
+                    "geonames_id": 2867543
                 }
             }
         },
@@ -125,14 +133,14 @@
             ],
             "witness_parts": [
                 {
-                    "id": 55748,
+                    "id": 48107,
                     "part_order": 1,
                     "number_of_verses": 5638,
                     "number_of_lines": 5638,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "22r-37v"
+                        "1r-5v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -142,14 +150,14 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 48107,
+                    "id": 55748,
                     "part_order": 1,
                     "number_of_verses": 5638,
                     "number_of_lines": 5638,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-5v"
+                        "22r-37v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -210,7 +218,8 @@
             }
         },
         {
-            "id": 48099,
+            "id": 48098,
+            "shelfmark": "Ltk. 1752",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -219,31 +228,14 @@
             ],
             "witness_parts": [
                 {
-                    "id": 55800,
+                    "id": 48103,
                     "part_order": 1,
-                    "number_of_verses": 184,
-                    "number_of_lines": 184,
+                    "number_of_verses": 43,
+                    "number_of_lines": 43,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "38r-38v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
-                    "id": 48105,
-                    "part_order": 1,
-                    "number_of_verses": 184,
-                    "number_of_lines": 184,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "8r-8v"
+                        "21r-21v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -254,17 +246,25 @@
                 }
             ],
             "repository": {
-                "id": 48442,
-                "name": "Studien- und Zentralbibliothek der Franziskaner",
-                "alternative_names": [],
-                "viaf": "133110271.000000",
+                "id": 43873,
+                "name": "Universitaire Bibliotheken Leiden",
+                "alternative_names": [
+                    "Rijksuniversiteit te Leiden., Bibliotheek",
+                    "Leiden University Library",
+                    "Bibliotheek der Rijksuniversiteit Leiden",
+                    "Universiteitsbibliotheek (Lejda).",
+                    "Universiteitsbibliotheek (Leyde, Pays-Bas)",
+                    "Rijksuniversiteit Leiden Bibliotheek"
+                ],
+                "viaf": "133132602.000000",
+                "isni": "0000000122932800",
                 "settlement": {
-                    "id": 43615,
-                    "name": "Münster",
-                    "region": "North Rhine-Westphalia",
-                    "country": "Germany",
-                    "location_mappable": "POINT(7.62571 51.96236)",
-                    "geonames_id": 2867543
+                    "id": 43362,
+                    "name": "Leiden",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.49306 52.15833)",
+                    "geonames_id": 2751773
                 }
             }
         }
