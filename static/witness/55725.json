@@ -14,15 +14,15 @@
     ],
     "manuscripts": [
         {
-            "id": 55608,
-            "shelfmark": "Busta III, n. 18a",
+            "id": 55604,
+            "shelfmark": "Busta II, n. 7",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 55607,
+                    "id": 55603,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
@@ -104,15 +104,15 @@
             }
         },
         {
-            "id": 55606,
-            "shelfmark": "Busta I, n. 6a",
+            "id": 55608,
+            "shelfmark": "Busta III, n. 18a",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 55605,
+                    "id": 55607,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
@@ -148,15 +148,15 @@
             }
         },
         {
-            "id": 55604,
-            "shelfmark": "Busta II, n. 7",
+            "id": 55606,
+            "shelfmark": "Busta I, n. 6a",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 55603,
+                    "id": 55605,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
