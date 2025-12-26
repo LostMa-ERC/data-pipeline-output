@@ -21,24 +21,6 @@
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 47739,
-                    "part_order": 1,
-                    "number_of_verses": 65,
-                    "part_of_text": "2957-64, 2974-5, 3007-17, 3028-31, 3034-40, 3059-70, 3080-3, 3086-90, 3117-22, 3134-7 (Wissense codex)",
-                    "number_of_lines": 65,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
                     "id": 55784,
                     "part_order": 1,
                     "number_of_verses": 65,
@@ -75,24 +57,6 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55854,
-                    "part_order": 1,
-                    "number_of_verses": 65,
-                    "part_of_text": "2957-64, 2974-5, 3007-17, 3028-31, 3034-40, 3059-70, 3080-3, 3086-90, 3117-22, 3134-7 (Wissense codex)",
-                    "number_of_lines": 65,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "5r-5v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
                     "id": 55853,
                     "part_order": 1,
                     "number_of_verses": 65,
@@ -102,6 +66,42 @@
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
                         "4r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 47739,
+                    "part_order": 1,
+                    "number_of_verses": 65,
+                    "part_of_text": "2957-64, 2974-5, 3007-17, 3028-31, 3034-40, 3059-70, 3080-3, 3086-90, 3117-22, 3134-7 (Wissense codex)",
+                    "number_of_lines": 65,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 55854,
+                    "part_order": 1,
+                    "number_of_verses": 65,
+                    "part_of_text": "2957-64, 2974-5, 3007-17, 3028-31, 3034-40, 3059-70, 3080-3, 3086-90, 3117-22, 3134-7 (Wissense codex)",
+                    "number_of_lines": 65,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "5r-5v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
