@@ -143,14 +143,14 @@
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 47667,
+                    "id": 55780,
                     "part_order": 4,
                     "number_of_verses": 1444,
                     "number_of_lines": 1444,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-2v"
+                        "3r-4v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -160,14 +160,14 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55780,
+                    "id": 47667,
                     "part_order": 4,
                     "number_of_verses": 1444,
                     "number_of_lines": 1444,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "3r-4v"
+                        "1r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
