@@ -21,20 +21,18 @@
     },
     "manuscripts": [
         {
-            "id": 48200,
-            "shelfmark": "5 P 64",
+            "id": 48198,
+            "shelfmark": "Mappe IV, Deutsche Fragm., 3",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/8729"
-            ],
+            "urls": [],
             "witness_parts": [
                 {
-                    "id": 55807,
-                    "part_order": 3,
-                    "number_of_verses": 379,
-                    "number_of_lines": 379,
+                    "id": 55806,
+                    "part_order": 2,
+                    "number_of_verses": 148,
+                    "number_of_lines": 148,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
@@ -48,10 +46,10 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 48205,
-                    "part_order": 3,
-                    "number_of_verses": 379,
-                    "number_of_lines": 379,
+                    "id": 48202,
+                    "part_order": 2,
+                    "number_of_verses": 148,
+                    "number_of_lines": 148,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
@@ -63,39 +61,24 @@
                     "has_no_decoration": false,
                     "has_pictorial_designs": false,
                     "decoration_is_unknown": false
-                },
-                {
-                    "id": 55749,
-                    "part_order": 3,
-                    "number_of_verses": 379,
-                    "number_of_lines": 379,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "No",
-                    "page_ranges": [
-                        "3r-3v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
                 }
             ],
             "repository": {
-                "id": 48424,
-                "name": "Universitäts- und Stadtbibliothek Köln",
-                "alternative_names": [],
-                "viaf": "121635017.000000",
+                "id": 43817,
+                "name": "Stadtbibliothek Trier",
+                "alternative_names": [
+                    "Stadtbibliothek Trèves, Allemagne",
+                    "Stadtbibliothek Trier, Deutschland"
+                ],
+                "viaf": "156462269.000000",
+                "isni": "0000000123697101",
                 "settlement": {
-                    "id": 47379,
-                    "name": "Köln",
-                    "region": "North Rhine-Westphalia",
+                    "id": 43701,
+                    "name": "Trier",
+                    "region": "Rheinland-Pfalz",
                     "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(6.95 50.93333)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2886242
+                    "location_mappable": "POINT(6.63935 49.75565)",
+                    "geonames_id": 2821164
                 }
             }
         },
@@ -147,18 +130,20 @@
             }
         },
         {
-            "id": 48198,
-            "shelfmark": "Mappe IV, Deutsche Fragm., 3",
+            "id": 48200,
+            "shelfmark": "5 P 64",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
-            "urls": [],
+            "urls": [
+                "https://www.handschriftencensus.de/8729"
+            ],
             "witness_parts": [
                 {
-                    "id": 48202,
-                    "part_order": 2,
-                    "number_of_verses": 148,
-                    "number_of_lines": 148,
+                    "id": 48205,
+                    "part_order": 3,
+                    "number_of_verses": 379,
+                    "number_of_lines": 379,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
@@ -172,10 +157,10 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55806,
-                    "part_order": 2,
-                    "number_of_verses": 148,
-                    "number_of_lines": 148,
+                    "id": 55807,
+                    "part_order": 3,
+                    "number_of_verses": 379,
+                    "number_of_lines": 379,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
@@ -187,24 +172,39 @@
                     "has_no_decoration": false,
                     "has_pictorial_designs": false,
                     "decoration_is_unknown": false
+                },
+                {
+                    "id": 55749,
+                    "part_order": 3,
+                    "number_of_verses": 379,
+                    "number_of_lines": 379,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "3r-3v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
                 }
             ],
             "repository": {
-                "id": 43817,
-                "name": "Stadtbibliothek Trier",
-                "alternative_names": [
-                    "Stadtbibliothek Trèves, Allemagne",
-                    "Stadtbibliothek Trier, Deutschland"
-                ],
-                "viaf": "156462269.000000",
-                "isni": "0000000123697101",
+                "id": 48424,
+                "name": "Universitäts- und Stadtbibliothek Köln",
+                "alternative_names": [],
+                "viaf": "121635017.000000",
                 "settlement": {
-                    "id": 43701,
-                    "name": "Trier",
-                    "region": "Rheinland-Pfalz",
+                    "id": 47379,
+                    "name": "Köln",
+                    "region": "North Rhine-Westphalia",
                     "country": "Germany",
-                    "location_mappable": "POINT(6.63935 49.75565)",
-                    "geonames_id": 2821164
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(6.95 50.93333)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2886242
                 }
             }
         }
