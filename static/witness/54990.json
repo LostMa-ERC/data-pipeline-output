@@ -4,7 +4,9 @@
     "is_unobserved": false,
     "is_excerpt": false,
     "siglum": "f",
-    "alternative_sigla": [],
+    "alternative_sigla": [
+        "F (Segre)?"
+    ],
     "status": "fragmentary",
     "creation_date_min": "1201-01-01",
     "creation_date_max": "1400-12-31",

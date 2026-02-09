@@ -4,7 +4,9 @@
     "is_unobserved": false,
     "is_excerpt": false,
     "siglum": "D",
-    "alternative_sigla": [],
+    "alternative_sigla": [
+        "C (Demaison)"
+    ],
     "status": "complete",
     "creation_date_min": "1241-01-01",
     "creation_date_max": "1260-12-31",
