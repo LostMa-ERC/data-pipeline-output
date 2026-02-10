@@ -4,7 +4,9 @@
     "is_unobserved": false,
     "is_excerpt": false,
     "siglum": "B",
-    "alternative_sigla": [],
+    "alternative_sigla": [
+        "C (Bogdanow 1960)"
+    ],
     "status": "complete",
     "creation_date_min": "1301-01-01",
     "creation_date_max": "1320-12-31",

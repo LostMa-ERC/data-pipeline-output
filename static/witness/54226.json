@@ -3,8 +3,10 @@
     "id": 54226,
     "is_unobserved": false,
     "is_excerpt": false,
-    "siglum": "B1",
-    "alternative_sigla": [],
+    "siglum": "D (Melander)",
+    "alternative_sigla": [
+        "B1"
+    ],
     "status": "complete",
     "creation_date_min": "1301-01-01",
     "creation_date_max": "1350-12-31",

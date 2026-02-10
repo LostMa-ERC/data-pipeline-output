@@ -15,8 +15,8 @@
     ],
     "manuscripts": [
         {
-            "id": 49326,
-            "shelfmark": "Ms-3487-3488",
+            "id": 49328,
+            "shelfmark": "Ms-3491-3492",
             "old_shelfmarks": [],
             "collection": "Arsenal",
             "is_hypothetical": false,
@@ -24,12 +24,12 @@
             "urls": [
                 "https://jonas.irht.cnrs.fr/manuscrit/75257"
             ],
-            "ark": "ark:/12148/cc841565/cd0e175",
+            "ark": "ark:/12148/cc841565/cd0e205",
             "witness_parts": [
                 {
-                    "id": 49344,
-                    "part_order": 3,
-                    "volume_number": "3",
+                    "id": 49346,
+                    "part_order": 5,
+                    "volume_number": "5",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
                         "?"
@@ -115,8 +115,8 @@
             }
         },
         {
-            "id": 49325,
-            "shelfmark": "Ms-3485-3486",
+            "id": 49326,
+            "shelfmark": "Ms-3487-3488",
             "old_shelfmarks": [],
             "collection": "Arsenal",
             "is_hypothetical": false,
@@ -124,12 +124,12 @@
             "urls": [
                 "https://jonas.irht.cnrs.fr/manuscrit/75257"
             ],
-            "ark": "ark:/12148/cc841565/cd0e160",
+            "ark": "ark:/12148/cc841565/cd0e175",
             "witness_parts": [
                 {
-                    "id": 49343,
-                    "part_order": 2,
-                    "volume_number": "2",
+                    "id": 49344,
+                    "part_order": 3,
+                    "volume_number": "3",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
                         "?"
@@ -165,24 +165,24 @@
             }
         },
         {
-            "id": 49324,
-            "shelfmark": "Ms-3483-3484",
+            "id": 49325,
+            "shelfmark": "Ms-3485-3486",
             "old_shelfmarks": [],
             "collection": "Arsenal",
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
-                "http://jonas.irht.cnrs.fr/manuscrit/75257"
+                "https://jonas.irht.cnrs.fr/manuscrit/75257"
             ],
-            "ark": "ark:/12148/cc841565/cd0e143",
+            "ark": "ark:/12148/cc841565/cd0e160",
             "witness_parts": [
                 {
-                    "id": 49342,
-                    "part_order": 1,
-                    "volume_number": "1",
+                    "id": 49343,
+                    "part_order": 2,
+                    "volume_number": "2",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "1-283"
+                        "?"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -265,24 +265,24 @@
             }
         },
         {
-            "id": 49328,
-            "shelfmark": "Ms-3491-3492",
+            "id": 49324,
+            "shelfmark": "Ms-3483-3484",
             "old_shelfmarks": [],
             "collection": "Arsenal",
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
-                "https://jonas.irht.cnrs.fr/manuscrit/75257"
+                "http://jonas.irht.cnrs.fr/manuscrit/75257"
             ],
-            "ark": "ark:/12148/cc841565/cd0e205",
+            "ark": "ark:/12148/cc841565/cd0e143",
             "witness_parts": [
                 {
-                    "id": 49346,
-                    "part_order": 5,
-                    "volume_number": "5",
+                    "id": 49342,
+                    "part_order": 1,
+                    "volume_number": "1",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "?"
+                        "1-283"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
