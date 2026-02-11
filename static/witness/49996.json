@@ -14,26 +14,22 @@
     ],
     "manuscripts": [
         {
-            "id": 49992,
-            "old_shelfmarks": [
-                "Cheltenham Phillipps 3630",
-                "Cheltenham Phillipps 1045",
-                "Cheltenham Phillipps 1047",
-                "Bibliotheca Philosophica Hermetica 1"
-            ],
+            "id": 45351,
+            "shelfmark": "MS. Douce 215",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
-            "collection_of_fragments": "No",
+            "collection_of_fragments": "unknown",
             "urls": [
-                "http://jonas.irht.cnrs.fr/manuscrit/74587"
+                "https://data.biblissima.fr/w/Item:Q211633"
             ],
             "witness_parts": [
                 {
-                    "id": 49998,
-                    "part_order": 2,
-                    "volume_number": "3",
+                    "id": 49999,
+                    "part_order": 3,
+                    "volume_number": "4",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "1-104v"
+                        "1-8v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -42,7 +38,30 @@
                     "has_pictorial_designs": false,
                     "decoration_is_unknown": false
                 }
-            ]
+            ],
+            "repository": {
+                "id": 43847,
+                "name": "Bodleian Library",
+                "alternative_names": [
+                    "ספריית בודליאנה",
+                    "Бодлеянская библиотека",
+                    "Biblioteka Bodlejańska",
+                    "Bodleian Library (Oxford)",
+                    "University of Oxford., Bodleian Library",
+                    "Bodleian library Oxford, GB",
+                    "Llyfrgell Bodley"
+                ],
+                "viaf": "129788129.000000",
+                "isni": "0000000123029752",
+                "settlement": {
+                    "id": 43407,
+                    "name": "Oxford",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-1.25596 51.75222)",
+                    "geonames_id": 2640729
+                }
+            }
         },
         {
             "id": 45430,
@@ -122,22 +141,26 @@
             ]
         },
         {
-            "id": 45351,
-            "shelfmark": "MS. Douce 215",
-            "old_shelfmarks": [],
+            "id": 49992,
+            "old_shelfmarks": [
+                "Cheltenham Phillipps 3630",
+                "Cheltenham Phillipps 1045",
+                "Cheltenham Phillipps 1047",
+                "Bibliotheca Philosophica Hermetica 1"
+            ],
             "is_hypothetical": false,
-            "collection_of_fragments": "unknown",
+            "collection_of_fragments": "No",
             "urls": [
-                "https://data.biblissima.fr/w/Item:Q211633"
+                "http://jonas.irht.cnrs.fr/manuscrit/74587"
             ],
             "witness_parts": [
                 {
-                    "id": 49999,
-                    "part_order": 3,
-                    "volume_number": "4",
+                    "id": 49998,
+                    "part_order": 2,
+                    "volume_number": "3",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "1-8v"
+                        "1-104v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -146,30 +169,7 @@
                     "has_pictorial_designs": false,
                     "decoration_is_unknown": false
                 }
-            ],
-            "repository": {
-                "id": 43847,
-                "name": "Bodleian Library",
-                "alternative_names": [
-                    "ספריית בודליאנה",
-                    "Бодлеянская библиотека",
-                    "Biblioteka Bodlejańska",
-                    "Bodleian Library (Oxford)",
-                    "University of Oxford., Bodleian Library",
-                    "Bodleian library Oxford, GB",
-                    "Llyfrgell Bodley"
-                ],
-                "viaf": "129788129.000000",
-                "isni": "0000000123029752",
-                "settlement": {
-                    "id": 43407,
-                    "name": "Oxford",
-                    "region": "England",
-                    "country": "United Kingdom",
-                    "location_mappable": "POINT(-1.25596 51.75222)",
-                    "geonames_id": 2640729
-                }
-            }
+            ]
         }
     ]
 }
