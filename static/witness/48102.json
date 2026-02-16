@@ -150,14 +150,14 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55748,
+                    "id": 55801,
                     "part_order": 1,
                     "number_of_verses": 5638,
                     "number_of_lines": 5638,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "22r-37v"
+                        "7r-7v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -167,14 +167,14 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55801,
+                    "id": 55748,
                     "part_order": 1,
                     "number_of_verses": 5638,
                     "number_of_lines": 5638,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "7r-7v"
+                        "22r-37v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

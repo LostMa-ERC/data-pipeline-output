@@ -23,11 +23,11 @@
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 52262,
+                    "id": 52260,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "23"
+                        "17-18"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -79,11 +79,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 52260,
+                    "id": 52262,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "17-18"
+                        "23"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
