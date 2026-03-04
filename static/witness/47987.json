@@ -45,7 +45,7 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55856,
+                    "id": 55855,
                     "part_order": 1,
                     "number_of_verses": 1794,
                     "part_of_text": "First third",
@@ -53,7 +53,7 @@
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "7r-8v"
+                        "5r-6v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -63,7 +63,7 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 47988,
+                    "id": 55856,
                     "part_order": 1,
                     "number_of_verses": 1794,
                     "part_of_text": "First third",
@@ -71,7 +71,7 @@
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-2v"
+                        "7r-8v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -99,7 +99,7 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55855,
+                    "id": 47988,
                     "part_order": 1,
                     "number_of_verses": 1794,
                     "part_of_text": "First third",
@@ -107,7 +107,7 @@
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "5r-6v"
+                        "1r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
