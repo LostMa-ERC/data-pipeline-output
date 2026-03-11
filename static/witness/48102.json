@@ -21,6 +21,65 @@
     },
     "manuscripts": [
         {
+            "id": 48099,
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/18433"
+            ],
+            "witness_parts": [
+                {
+                    "id": 55800,
+                    "part_order": 1,
+                    "number_of_verses": 184,
+                    "number_of_lines": 184,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "38r-38v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 48105,
+                    "part_order": 1,
+                    "number_of_verses": 184,
+                    "number_of_lines": 184,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "8r-8v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48442,
+                "name": "Studien- und Zentralbibliothek der Franziskaner",
+                "alternative_names": [],
+                "viaf": "133110271.000000",
+                "settlement": {
+                    "id": 43615,
+                    "name": "Münster",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.62571 51.96236)",
+                    "geonames_id": 2867543
+                }
+            }
+        },
+        {
             "id": 48101,
             "shelfmark": "Best. 147 Hr. 1,1",
             "old_shelfmarks": [],
@@ -31,14 +90,14 @@
             ],
             "witness_parts": [
                 {
-                    "id": 55747,
+                    "id": 55801,
                     "part_order": 1,
                     "number_of_verses": 5638,
                     "number_of_lines": 5638,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "9r-20v"
+                        "7r-7v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -82,14 +141,14 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55801,
+                    "id": 55747,
                     "part_order": 1,
                     "number_of_verses": 5638,
                     "number_of_lines": 5638,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "7r-7v"
+                        "9r-20v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -112,65 +171,6 @@
                     "place_type": "Administrative.City",
                     "location_mappable": "POINT(8.77069 50.80904)",
                     "location_certainty": "1. High confidence"
-                }
-            }
-        },
-        {
-            "id": 48099,
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/18433"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48105,
-                    "part_order": 1,
-                    "number_of_verses": 184,
-                    "number_of_lines": 184,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "8r-8v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
-                    "id": 55800,
-                    "part_order": 1,
-                    "number_of_verses": 184,
-                    "number_of_lines": 184,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "38r-38v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 48442,
-                "name": "Studien- und Zentralbibliothek der Franziskaner",
-                "alternative_names": [],
-                "viaf": "133110271.000000",
-                "settlement": {
-                    "id": 43615,
-                    "name": "Münster",
-                    "region": "North Rhine-Westphalia",
-                    "country": "Germany",
-                    "location_mappable": "POINT(7.62571 51.96236)",
-                    "geonames_id": 2867543
                 }
             }
         },
