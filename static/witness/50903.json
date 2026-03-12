@@ -23,20 +23,6 @@
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 55760,
-                    "part_order": 1,
-                    "lines_are_incomplete": "No",
-                    "page_ranges": [
-                        "90-91"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
                     "id": 50003,
                     "part_order": 1,
                     "lines_are_incomplete": "No",
@@ -79,11 +65,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55761,
+                    "id": 55758,
                     "part_order": 1,
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "86-87"
+                        "84-85"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -121,11 +107,25 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55758,
+                    "id": 55761,
                     "part_order": 1,
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "84-85"
+                        "86-87"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 55760,
+                    "part_order": 1,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "90-91"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
