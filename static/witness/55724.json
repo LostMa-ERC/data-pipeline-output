@@ -60,16 +60,16 @@
             }
         },
         {
-            "id": 45786,
-            "shelfmark": "Français 360",
+            "id": 45959,
+            "shelfmark": "Français 362",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
             "urls": [],
-            "ark": "ark:/12148/cc500280/ca19823330",
+            "ark": "ark:/12148/cc500280/ca19823333",
             "witness_parts": [
                 {
-                    "id": 55598,
+                    "id": 55600,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
@@ -106,16 +106,16 @@
             }
         },
         {
-            "id": 45959,
-            "shelfmark": "Français 362",
+            "id": 45786,
+            "shelfmark": "Français 360",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
             "urls": [],
-            "ark": "ark:/12148/cc500280/ca19823333",
+            "ark": "ark:/12148/cc500280/ca19823330",
             "witness_parts": [
                 {
-                    "id": 55600,
+                    "id": 55598,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
