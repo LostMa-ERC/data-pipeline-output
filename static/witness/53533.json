@@ -3,6 +3,7 @@
     "id": 53533,
     "is_unobserved": false,
     "is_excerpt": false,
+    "siglum": "no sigl.",
     "alternative_sigla": [],
     "status": "fragmentary",
     "creation_date_min": "1281-01-01",
@@ -12,6 +13,12 @@
         "http://jonas.irht.cnrs.fr/manuscrit/21964",
         "https://arlima.net/no/12110"
     ],
+    "scripta": {
+        "id": 57452,
+        "name": "poit.-saint.",
+        "description": "poitevin-saintongeais",
+        "urls": []
+    },
     "manuscripts": [
         {
             "id": 45209,

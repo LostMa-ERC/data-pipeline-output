@@ -3,11 +3,12 @@
     "id": 54388,
     "is_unobserved": false,
     "is_excerpt": false,
+    "siglum": "no sigl.",
     "alternative_sigla": [],
     "status": "defective",
-    "creation_date_min": "1111-01-01",
-    "creation_date_max": "1149-12-31",
-    "creation_date_text": "Entre 1111 et 1149",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1250-12-31",
+    "creation_date_text": "Entre 1111 et 1149 (source?); 1ère moitié du 13e siècle (Jonas); 2e qu. 13e s.; (DOM)",
     "urls": [
         "http://jonas.irht.cnrs.fr/manuscrit/32841"
     ],
