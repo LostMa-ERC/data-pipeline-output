@@ -62,9 +62,11 @@
             }
         },
         {
-            "id": 48137,
-            "shelfmark": "ME IV 5",
-            "old_shelfmarks": [],
+            "id": 48129,
+            "shelfmark": "Cgm 198",
+            "old_shelfmarks": [
+                "Cod. germ. 198"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
@@ -72,8 +74,8 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48148,
-                    "part_order": 5,
+                    "id": 48142,
+                    "part_order": 7,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
@@ -88,19 +90,22 @@
                 }
             ],
             "repository": {
-                "id": 43836,
-                "name": "Wilhelmsstift. Bibliothek",
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
                 "alternative_names": [
-                    "Konviktsbibliothek Wilhelmsstift"
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
                 ],
-                "viaf": "152590686.000000",
+                "viaf": "129557156.000000",
                 "settlement": {
-                    "id": 43709,
-                    "name": "Tübingen",
-                    "region": "Baden-Wurttemberg",
+                    "id": 47346,
+                    "name": "Munich",
                     "country": "Germany",
-                    "location_mappable": "POINT(9.05222 48.52266)",
-                    "geonames_id": 2820860
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
                 }
             }
         },
@@ -193,8 +198,8 @@
             }
         },
         {
-            "id": 48130,
-            "shelfmark": "22.219",
+            "id": 48137,
+            "shelfmark": "ME IV 5",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -203,8 +208,8 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48143,
-                    "part_order": 8,
+                    "id": 48148,
+                    "part_order": 5,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
@@ -219,17 +224,61 @@
                 }
             ],
             "repository": {
-                "id": 46307,
-                "name": "Bibliothek des Germanischen Nationalmuseums",
-                "alternative_names": [],
-                "viaf": "131883509.000000",
+                "id": 43836,
+                "name": "Wilhelmsstift. Bibliothek",
+                "alternative_names": [
+                    "Konviktsbibliothek Wilhelmsstift"
+                ],
+                "viaf": "152590686.000000",
                 "settlement": {
-                    "id": 42881,
-                    "name": "Nürnberg",
-                    "region": "Bavaria",
+                    "id": 43709,
+                    "name": "Tübingen",
+                    "region": "Baden-Wurttemberg",
                     "country": "Germany",
-                    "location_mappable": "POINT(11.0768 49.4541)",
-                    "geonames_id": 6556832
+                    "location_mappable": "POINT(9.05222 48.52266)",
+                    "geonames_id": 2820860
+                }
+            }
+        },
+        {
+            "id": 48127,
+            "shelfmark": "2o MS 638",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/9024"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48139,
+                    "part_order": 4,
+                    "number_of_verses": 9800,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48418,
+                "name": "Universitätsbibliothek Greifswald",
+                "alternative_names": [],
+                "viaf": "142485406.000000",
+                "settlement": {
+                    "id": 42798,
+                    "name": "Greifswald",
+                    "region": "Mecklenburg-Vorpommern",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.38756 54.08809)",
+                    "geonames_id": 6551180
                 }
             }
         },
@@ -283,8 +332,8 @@
             }
         },
         {
-            "id": 48127,
-            "shelfmark": "2o MS 638",
+            "id": 48130,
+            "shelfmark": "22.219",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -293,13 +342,12 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48139,
-                    "part_order": 4,
-                    "number_of_verses": 9800,
+                    "id": 48143,
+                    "part_order": 8,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-2v"
+                        "1r-1v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -310,17 +358,17 @@
                 }
             ],
             "repository": {
-                "id": 48418,
-                "name": "Universitätsbibliothek Greifswald",
+                "id": 46307,
+                "name": "Bibliothek des Germanischen Nationalmuseums",
                 "alternative_names": [],
-                "viaf": "142485406.000000",
+                "viaf": "131883509.000000",
                 "settlement": {
-                    "id": 42798,
-                    "name": "Greifswald",
-                    "region": "Mecklenburg-Vorpommern",
+                    "id": 42881,
+                    "name": "Nürnberg",
+                    "region": "Bavaria",
                     "country": "Germany",
-                    "location_mappable": "POINT(13.38756 54.08809)",
-                    "geonames_id": 6551180
+                    "location_mappable": "POINT(11.0768 49.4541)",
+                    "geonames_id": 6556832
                 }
             }
         },
@@ -367,54 +415,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(8.67554 50.58727)",
                     "geonames_id": 2920512
-                }
-            }
-        },
-        {
-            "id": 48129,
-            "shelfmark": "Cgm 198",
-            "old_shelfmarks": [
-                "Cod. germ. 198"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/9024"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48142,
-                    "part_order": 7,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 47347,
-                "name": "Bayerische Staatsbibliothek",
-                "alternative_names": [
-                    "Bayerische Staatsbibliothek (München)",
-                    "Bawarska Biblioteka Państwowa",
-                    "Bayerische Staatsbibliothek München (D-Mbs)"
-                ],
-                "viaf": "129557156.000000",
-                "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
                 }
             }
         }
