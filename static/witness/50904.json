@@ -31,25 +31,11 @@
             ],
             "witness_parts": [
                 {
-                    "id": 49986,
+                    "id": 55755,
                     "part_order": 2,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "118r-133r"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
-                    "id": 55753,
-                    "part_order": 2,
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "166r-181r"
+                        "208r-214r"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -73,11 +59,25 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55755,
+                    "id": 49986,
                     "part_order": 2,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "208r-214r"
+                        "118r-133r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 55753,
+                    "part_order": 2,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "166r-181r"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

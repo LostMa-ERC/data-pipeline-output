@@ -20,7 +20,7 @@
     "manuscripts": [
         {
             "id": 47675,
-            "shelfmark": "88 C 6",
+            "shelfmark": "OLV 88 C 6",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -45,10 +45,9 @@
                 }
             ],
             "repository": {
-                "id": 48425,
-                "name": "Onze-Lieve-Vrouwecollege",
+                "id": 47358,
+                "name": "Ruusbroecgenootschap Universiteit Antwerpen - Bibliotheek",
                 "alternative_names": [],
-                "viaf": "141657691.000000",
                 "settlement": {
                     "id": 43652,
                     "name": "Antwerp",
