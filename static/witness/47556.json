@@ -29,23 +29,6 @@
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 55770,
-                    "part_order": 1,
-                    "number_of_verses": 441,
-                    "number_of_lines": 441,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "3r-4v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
                     "id": 55845,
                     "part_order": 1,
                     "number_of_verses": 441,
@@ -63,14 +46,14 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55846,
+                    "id": 55770,
                     "part_order": 1,
                     "number_of_verses": 441,
                     "number_of_lines": 441,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "7r-8v"
+                        "3r-4v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -88,6 +71,23 @@
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
                         "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 55846,
+                    "part_order": 1,
+                    "number_of_verses": 441,
+                    "number_of_lines": 441,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "7r-8v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
