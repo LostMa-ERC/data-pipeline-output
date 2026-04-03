@@ -31,24 +31,6 @@
             ],
             "witness_parts": [
                 {
-                    "id": 55769,
-                    "part_order": 1,
-                    "number_of_verses": 910,
-                    "part_of_text": "Parts of book IX and X",
-                    "number_of_lines": 910,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "3r-4v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
                     "id": 55843,
                     "part_order": 1,
                     "number_of_verses": 910,
@@ -67,24 +49,6 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55844,
-                    "part_order": 1,
-                    "number_of_verses": 910,
-                    "part_of_text": "Parts of book IX and X",
-                    "number_of_lines": 910,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "7r-8v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
                     "id": 47515,
                     "part_order": 1,
                     "number_of_verses": 910,
@@ -94,6 +58,42 @@
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
                         "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 55769,
+                    "part_order": 1,
+                    "number_of_verses": 910,
+                    "part_of_text": "Parts of book IX and X",
+                    "number_of_lines": 910,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "3r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 55844,
+                    "part_order": 1,
+                    "number_of_verses": 910,
+                    "part_of_text": "Parts of book IX and X",
+                    "number_of_lines": 910,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "7r-8v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
