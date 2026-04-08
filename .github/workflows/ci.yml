@@ -30,6 +30,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip setuptools wheel
           pip install git+https://github.com/LostMa-ERC/data-pipeline.git
+          pip install --upgrade "git+https://github.com/LostMa-ERC/heurist-api.git"
 
       - name: Download data
         run: lostma build full
