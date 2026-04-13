@@ -21,90 +21,6 @@
     },
     "manuscripts": [
         {
-            "id": 48136,
-            "shelfmark": "4o Ms. poet. et roman. 29",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/9024"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48147,
-                    "part_order": 3,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 48422,
-                "name": "Gesamthochschul-Bibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek.",
-                "alternative_names": [],
-                "viaf": "172673709.000000",
-                "settlement": {
-                    "id": 48423,
-                    "name": "Kassel",
-                    "region": "Hesse",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(9.49974058 51.31602217)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2892518
-                }
-            }
-        },
-        {
-            "id": 48131,
-            "shelfmark": "Cod.misc. 4o 30d, XIV",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/9024"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48144,
-                    "part_order": 5,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-2v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 48430,
-                "name": "Württembergische Landesbibliothek",
-                "alternative_names": [],
-                "viaf": "164844730.000000",
-                "settlement": {
-                    "id": 42911,
-                    "name": "Stuttgart",
-                    "region": "Baden-Wurttemberg",
-                    "country": "Germany",
-                    "location_mappable": "POINT(9.1775 48.77667)",
-                    "geonames_id": 6690189
-                }
-            }
-        },
-        {
             "id": 48135,
             "shelfmark": "Ms. germ. fol. 1385",
             "old_shelfmarks": [],
@@ -146,6 +62,49 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
+                }
+            }
+        },
+        {
+            "id": 48136,
+            "shelfmark": "4o Ms. poet. et roman. 29",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/9024"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48147,
+                    "part_order": 3,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48422,
+                "name": "Gesamthochschul-Bibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek.",
+                "alternative_names": [],
+                "viaf": "172673709.000000",
+                "settlement": {
+                    "id": 48423,
+                    "name": "Kassel",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(9.49974058 51.31602217)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2892518
                 }
             }
         },
@@ -192,6 +151,49 @@
             }
         },
         {
+            "id": 48137,
+            "shelfmark": "ME IV 5",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/9024"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48148,
+                    "part_order": 5,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43836,
+                "name": "Wilhelmsstift. Bibliothek",
+                "alternative_names": [
+                    "Konviktsbibliothek Wilhelmsstift"
+                ],
+                "viaf": "152590686.000000",
+                "settlement": {
+                    "id": 43709,
+                    "name": "Tübingen",
+                    "region": "Baden-Wurttemberg",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.05222 48.52266)",
+                    "geonames_id": 2820860
+                }
+            }
+        },
+        {
             "id": 48128,
             "shelfmark": "98",
             "old_shelfmarks": [],
@@ -234,6 +236,47 @@
                     "country": "Germany",
                     "location_mappable": "POINT(8.67554 50.58727)",
                     "geonames_id": 2920512
+                }
+            }
+        },
+        {
+            "id": 48130,
+            "shelfmark": "22.219",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/9024"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48143,
+                    "part_order": 8,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46307,
+                "name": "Bibliothek des Germanischen Nationalmuseums",
+                "alternative_names": [],
+                "viaf": "131883509.000000",
+                "settlement": {
+                    "id": 42881,
+                    "name": "Nürnberg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.0768 49.4541)",
+                    "geonames_id": 6556832
                 }
             }
         },
@@ -335,8 +378,8 @@
             }
         },
         {
-            "id": 48137,
-            "shelfmark": "ME IV 5",
+            "id": 48131,
+            "shelfmark": "Cod.misc. 4o 30d, XIV",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -345,12 +388,12 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48148,
+                    "id": 48144,
                     "part_order": 5,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-1v"
+                        "1r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -361,60 +404,17 @@
                 }
             ],
             "repository": {
-                "id": 43836,
-                "name": "Wilhelmsstift. Bibliothek",
-                "alternative_names": [
-                    "Konviktsbibliothek Wilhelmsstift"
-                ],
-                "viaf": "152590686.000000",
+                "id": 48430,
+                "name": "Württembergische Landesbibliothek",
+                "alternative_names": [],
+                "viaf": "164844730.000000",
                 "settlement": {
-                    "id": 43709,
-                    "name": "Tübingen",
+                    "id": 42911,
+                    "name": "Stuttgart",
                     "region": "Baden-Wurttemberg",
                     "country": "Germany",
-                    "location_mappable": "POINT(9.05222 48.52266)",
-                    "geonames_id": 2820860
-                }
-            }
-        },
-        {
-            "id": 48130,
-            "shelfmark": "22.219",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/9024"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48143,
-                    "part_order": 8,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 46307,
-                "name": "Bibliothek des Germanischen Nationalmuseums",
-                "alternative_names": [],
-                "viaf": "131883509.000000",
-                "settlement": {
-                    "id": 42881,
-                    "name": "Nürnberg",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(11.0768 49.4541)",
-                    "geonames_id": 6556832
+                    "location_mappable": "POINT(9.1775 48.77667)",
+                    "geonames_id": 6690189
                 }
             }
         }
