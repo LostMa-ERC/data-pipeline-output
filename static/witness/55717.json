@@ -14,8 +14,8 @@
     ],
     "manuscripts": [
         {
-            "id": 49477,
-            "shelfmark": "Busta II, n. 8",
+            "id": 49476,
+            "shelfmark": "Busta II, n. 9",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -24,7 +24,7 @@
             ],
             "witness_parts": [
                 {
-                    "id": 55589,
+                    "id": 55590,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
@@ -107,8 +107,8 @@
             }
         },
         {
-            "id": 49476,
-            "shelfmark": "Busta II, n. 9",
+            "id": 49478,
+            "shelfmark": "Busta II, n. 11",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -117,7 +117,7 @@
             ],
             "witness_parts": [
                 {
-                    "id": 55590,
+                    "id": 55592,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
@@ -153,8 +153,8 @@
             }
         },
         {
-            "id": 49478,
-            "shelfmark": "Busta II, n. 11",
+            "id": 49477,
+            "shelfmark": "Busta II, n. 8",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -163,7 +163,7 @@
             ],
             "witness_parts": [
                 {
-                    "id": 55592,
+                    "id": 55589,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
