@@ -6,7 +6,8 @@
     "siglum": "G",
     "alternative_sigla": [],
     "status": "complete",
-    "creation_date_year": "1268-01-01",
+    "creation_date_min": "1268-01-01",
+    "creation_date_max": "1268-01-01",
     "creation_date_text": "1268",
     "urls": [
         "http://jonas.irht.cnrs.fr/manuscrit/42940",
