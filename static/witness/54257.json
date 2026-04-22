@@ -2,7 +2,7 @@
     "type": "witness",
     "id": 54257,
     "is_unobserved": false,
-    "is_excerpt": false,
+    "is_excerpt": true,
     "siglum": "Fr 796",
     "alternative_sigla": [],
     "status": "citation",

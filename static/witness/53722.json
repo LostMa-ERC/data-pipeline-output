@@ -2,7 +2,7 @@
     "type": "witness",
     "id": 53722,
     "is_unobserved": false,
-    "is_excerpt": false,
+    "is_excerpt": true,
     "siglum": "M",
     "alternative_sigla": [],
     "status": "citation",
