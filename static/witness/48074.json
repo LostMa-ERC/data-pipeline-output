@@ -10,7 +10,9 @@
     "creation_date_max": "1360-12-31",
     "creation_date_certainty": "2. Probable (33%-66%)",
     "creation_date_text": "'< 1350'",
-    "urls": [],
+    "urls": [
+        "https://www.dbnl.org/tekst/_tij003200401_01/_tij003200401_01_0019.php"
+    ],
     "scripta": {
         "id": 46305,
         "name": "Vlaams",
@@ -18,6 +20,52 @@
         "urls": []
     },
     "manuscripts": [
+        {
+            "id": 58158,
+            "shelfmark": "SB 6250 L 29",
+            "old_shelfmarks": [
+                "SB 37 C 49"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 58157,
+                    "part_order": 2,
+                    "number_of_verses": 228,
+                    "part_of_text": "Correspondeert met Fr. Jourdain 2126-2268",
+                    "number_of_lines": 228,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-4v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 58155,
+                "name": "Stadsbibliotheek Maastricht",
+                "alternative_names": [],
+                "viaf": "144952677.000000",
+                "isni": "0000000097906407",
+                "website": "https://bibliotheek.centreceramique.nl/",
+                "settlement": {
+                    "id": 43718,
+                    "name": "Maastricht",
+                    "region": "Limburg",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(5.68889 50.84833)",
+                    "geonames_id": 2751283
+                }
+            }
+        },
         {
             "id": 48073,
             "shelfmark": "Ltk. 2159",
