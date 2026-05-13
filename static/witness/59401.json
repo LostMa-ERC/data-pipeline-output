@@ -1,0 +1,68 @@
+{
+    "type": "witness",
+    "id": 59401,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Ms. 20, Vor- und Nachsatzblatt",
+    "alternative_sigla": [],
+    "status": "fragmentary",
+    "creation_date_min": "1291-01-01",
+    "creation_date_max": "1310-12-31",
+    "creation_date_certainty": "2. Probable (33%-66%)",
+    "urls": [
+        "https://www.handschriftencensus.de/1322"
+    ],
+    "scripta": {
+        "id": 48048,
+        "name": "Westfalen",
+        "description": "German-Dutch dialect located at the middle west side of current Germany.",
+        "urls": [
+            "https://nl.wikipedia.org/wiki/Westfalen_(streek)"
+        ]
+    },
+    "manuscripts": [
+        {
+            "id": 59400,
+            "shelfmark": "Ms. 20, Vor- und Nachsatzblatt",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/1322"
+            ],
+            "witness_parts": [
+                {
+                    "id": 59402,
+                    "part_order": 1,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 59398,
+                "name": "Klosterbibliothek Loccum",
+                "alternative_names": [],
+                "viaf": "244310179.000000",
+                "settlement": {
+                    "id": 59397,
+                    "name": "Rehburg-Loccum",
+                    "region": "Lower Saxony",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(9.20787 52.4508)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 6558438
+                }
+            }
+        }
+    ]
+}
