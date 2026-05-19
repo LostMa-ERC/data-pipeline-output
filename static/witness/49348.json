@@ -14,8 +14,8 @@
     ],
     "manuscripts": [
         {
-            "id": 49333,
-            "shelfmark": "Français 109",
+            "id": 49332,
+            "shelfmark": "Français 108",
             "old_shelfmarks": [
                 "Anc. 6778-6781"
             ],
@@ -24,12 +24,12 @@
             "urls": [
                 "http://jonas.irht.cnrs.fr/manuscrit/75314"
             ],
-            "ark": "ark:/12148/cc42139s/ca19858276",
+            "ark": "ark:/12148/cc42139s/ca19858275",
             "witness_parts": [
                 {
-                    "id": 49352,
-                    "part_order": 4,
-                    "volume_number": "4",
+                    "id": 49351,
+                    "part_order": 3,
+                    "volume_number": "3",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
                         "?"
@@ -116,8 +116,8 @@
             }
         },
         {
-            "id": 49332,
-            "shelfmark": "Français 108",
+            "id": 49333,
+            "shelfmark": "Français 109",
             "old_shelfmarks": [
                 "Anc. 6778-6781"
             ],
@@ -126,12 +126,12 @@
             "urls": [
                 "http://jonas.irht.cnrs.fr/manuscrit/75314"
             ],
-            "ark": "ark:/12148/cc42139s/ca19858275",
+            "ark": "ark:/12148/cc42139s/ca19858276",
             "witness_parts": [
                 {
-                    "id": 49351,
-                    "part_order": 3,
-                    "volume_number": "3",
+                    "id": 49352,
+                    "part_order": 4,
+                    "volume_number": "4",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
                         "?"
