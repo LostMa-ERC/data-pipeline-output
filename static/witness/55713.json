@@ -26,11 +26,11 @@
             ],
             "witness_parts": [
                 {
-                    "id": 52168,
+                    "id": 52169,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "2"
+                        "3"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -54,11 +54,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 52170,
+                    "id": 52168,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "4"
+                        "2"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -68,11 +68,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 52169,
+                    "id": 52170,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "3"
+                        "4"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
