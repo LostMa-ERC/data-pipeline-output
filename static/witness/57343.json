@@ -5,8 +5,47 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1500-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/3046"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58244,
+            "shelfmark": "Fragm. Cart. 1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59617,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57816,
+                "name": "Klosterbibliothek Metten",
+                "alternative_names": [],
+                "viaf": "244278678.000000",
+                "website": "https://www.kloster-metten.com/?page_id=74",
+                "settlement": {
+                    "id": 57693,
+                    "name": "Metten",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(12.9167 48.8667)",
+                    "geonames_id": 6558831
+                }
+            }
+        }
+    ]
 }

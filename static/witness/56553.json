@@ -5,8 +5,47 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1376-01-01",
+    "creation_date_max": "1400-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2176"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58628,
+            "shelfmark": "B 4450",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60001,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57870,
+                "name": "Stadtarchiv Goslar",
+                "alternative_names": [],
+                "viaf": "142173647.000000",
+                "isni": "0000000123246159",
+                "settlement": {
+                    "id": 42794,
+                    "name": "Goslar",
+                    "region": "Lower Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.42897 51.90641)",
+                    "geonames_id": 10942643
+                }
+            }
+        }
+    ]
 }

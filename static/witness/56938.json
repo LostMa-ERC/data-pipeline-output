@@ -6,8 +6,46 @@
     "siglum": "(D)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1326-01-01",
+    "creation_date_max": "1400-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2142"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59365,
+            "shelfmark": "8° Manuscr. 1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60738,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57773,
+                "name": "Franziskanerkloster Dietfurt",
+                "alternative_names": [],
+                "viaf": "234397286.000000",
+                "settlement": {
+                    "id": 57647,
+                    "name": "Dietfurt a.d. Altmühl",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.5839 49.0375)",
+                    "geonames_id": 6558949
+                }
+            }
+        }
+    ]
 }

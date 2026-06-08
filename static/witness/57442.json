@@ -5,8 +5,49 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1376-01-01",
+    "creation_date_max": "1400-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/21834"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58713,
+            "shelfmark": "MS 78 [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60086,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57759,
+                "name": "Openbare en Gelderse Wetenschappelijke Bibliotheek",
+                "alternative_names": [
+                    "Arnhem Public and Gelderland Scientific Library Foundation"
+                ],
+                "viaf": "123221897.000000",
+                "isni": "0000000107890657",
+                "settlement": {
+                    "id": 57679,
+                    "name": "Arnhem",
+                    "region": "Gelderland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(5.91111 51.98)",
+                    "geonames_id": 2759661
+                }
+            }
+        }
+    ]
 }

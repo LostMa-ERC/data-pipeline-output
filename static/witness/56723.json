@@ -5,8 +5,82 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1376-01-01",
+    "creation_date_max": "1400-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2061"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59160,
+            "shelfmark": "Bestand 41/217",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60533,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57777,
+                "name": "Stadtarchiv Duisburg",
+                "alternative_names": [],
+                "viaf": "145059970.000000",
+                "isni": "0000000123369060",
+                "settlement": {
+                    "id": 57652,
+                    "name": "Duisburg",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(6.76516 51.43247)",
+                    "geonames_id": 2934691
+                }
+            }
+        },
+        {
+            "id": 59161,
+            "shelfmark": "ohne Sign. (1) [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60534,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57777,
+                "name": "Stadtarchiv Duisburg",
+                "alternative_names": [],
+                "viaf": "145059970.000000",
+                "isni": "0000000123369060",
+                "settlement": {
+                    "id": 57652,
+                    "name": "Duisburg",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(6.76516 51.43247)",
+                    "geonames_id": 2934691
+                }
+            }
+        }
+    ]
 }

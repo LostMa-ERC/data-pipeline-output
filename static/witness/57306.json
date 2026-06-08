@@ -5,8 +5,48 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1276-01-01",
+    "creation_date_max": "1325-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1128"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58856,
+            "shelfmark": "ohne Sign. (1)",
+            "old_shelfmarks": [
+                "früher Altenerding, Pfarrarchiv der kath. Pfarrei Mariae Verkündigung, ohne Sign."
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60229,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57946,
+                "name": "Dom zu Freising Bibliothek",
+                "alternative_names": [],
+                "viaf": "484159474354827689984.000000",
+                "settlement": {
+                    "id": 57662,
+                    "name": "Freising",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.74876 48.40351)",
+                    "geonames_id": 2925034
+                }
+            }
+        }
+    ]
 }

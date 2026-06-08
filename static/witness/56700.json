@@ -6,8 +6,46 @@
     "siglum": "(c)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1326-01-01",
+    "creation_date_max": "1375-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/5276"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58474,
+            "shelfmark": "Akten, Sch. Nr. 1227",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59847,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57957,
+                "name": "Stadtarchiv Wels",
+                "alternative_names": [],
+                "viaf": "23159032521001181184.000000",
+                "settlement": {
+                    "id": 57633,
+                    "name": "Wels",
+                    "region": "Upper Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(14.03333 48.16667)",
+                    "geonames_id": 2761524
+                }
+            }
+        }
+    ]
 }

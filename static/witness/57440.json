@@ -5,8 +5,66 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1325-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1051"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58306,
+            "shelfmark": "Auktionshaus Venator & Hanstein, Nr. 2008/104, 511 [Verbleib unbekannt]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59679,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        },
+        {
+            "id": 58305,
+            "shelfmark": "Membra disiecta Nr. 3",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59678,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57833,
+                "name": "Fürstlich Salm-Salmsches und Fürstlich Salm-Horstmarsches gemeinschaftliches Archiv",
+                "alternative_names": [],
+                "viaf": "236535334.000000",
+                "settlement": {
+                    "id": 57713,
+                    "name": "Isselburg",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(6.45613 51.83087)",
+                    "geonames_id": 6557575
+                }
+            }
+        }
+    ]
 }

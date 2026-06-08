@@ -5,8 +5,48 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1451-01-01",
+    "creation_date_max": "1470-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/4156"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58544,
+            "shelfmark": "Cod. G 29",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59917,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57913,
+                "name": "Knihovna pražské metropolitní kapituly",
+                "alternative_names": [
+                    "Library of the Metropolitan Chapter of Prague"
+                ],
+                "viaf": "126008889.000000",
+                "isni": "0000000121078307",
+                "settlement": {
+                    "id": 43579,
+                    "name": "Prague",
+                    "country": "Czechia",
+                    "location_mappable": "POINT(14.42076 50.08804)",
+                    "geonames_id": 3067696
+                }
+            }
+        }
+    ]
 }

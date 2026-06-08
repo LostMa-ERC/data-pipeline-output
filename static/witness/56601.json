@@ -6,8 +6,49 @@
     "siglum": "(V)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1351-01-01",
+    "creation_date_max": "1375-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2982"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58899,
+            "shelfmark": "Ständisches Archiv, Hs. 821",
+            "old_shelfmarks": [
+                "früher Wien, Landesarchiv, Hs. 821"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60272,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57935,
+                "name": "Niederösterreichische Landesbibliothek",
+                "alternative_names": [],
+                "viaf": "157771589.000000",
+                "isni": "000000012112879X",
+                "settlement": {
+                    "id": 43062,
+                    "name": "Sankt Pölten Stadt",
+                    "region": "Lower Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(15.61667 48.2)",
+                    "geonames_id": 2766426
+                }
+            }
+        }
+    ]
 }

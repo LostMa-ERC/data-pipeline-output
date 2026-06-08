@@ -5,8 +5,122 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "lost",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1325-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2056"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58395,
+            "shelfmark": "MS 486",
+            "old_shelfmarks": [
+                "früher Privatbesitz Antiquariat Hans P. Kraus, New York, Nr. 1962/100,10 ; davor Privatbesitz Antiquariat Hans P. Kraus, New York, Nr. 1958/88,12"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59768,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57904,
+                "name": "Yale University, Beinecke Rare Book and Manuscript Library",
+                "alternative_names": [],
+                "viaf": "146865135.000000",
+                "isni": "0000000121797790",
+                "settlement": {
+                    "id": 43496,
+                    "name": "New Haven",
+                    "region": "Connecticut",
+                    "country": "United States",
+                    "location_mappable": "POINT(-72.92816 41.30815)",
+                    "geonames_id": 4839366
+                }
+            }
+        },
+        {
+            "id": 58391,
+            "shelfmark": "4° Cod. ms. 889 (Cim. 34c), Fragm. II",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59764,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47356,
+                "name": "Universitätsbibliothek München",
+                "alternative_names": [
+                    "Ludwig-Maximilians-Universität München Universitätsbibliothek"
+                ],
+                "viaf": "146551110.000000",
+                "isni": "0000 0001 2342 2802",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        },
+        {
+            "id": 58396,
+            "shelfmark": "Jur.1379, Einbandmakulatur",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59769,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57916,
+                "name": "Staatliche Bibliothek Regensburg",
+                "alternative_names": [],
+                "viaf": "123786575.000000",
+                "isni": "0000000085671129",
+                "settlement": {
+                    "id": 42892,
+                    "name": "Regensburg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(12.09536 49.01681)",
+                    "geonames_id": 6556611
+                }
+            }
+        }
+    ]
 }

@@ -6,8 +6,49 @@
     "siglum": "(R)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1451-01-01",
+    "creation_date_max": "1500-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/7765"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58825,
+            "shelfmark": "Ms. I. 7",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60198,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57790,
+                "name": "Győri Egyházmegyei Könyvtár",
+                "alternative_names": [
+                    "Bibliothek des Priesterseminars"
+                ],
+                "viaf": "148640735.000000",
+                "isni": "0000000100025599",
+                "settlement": {
+                    "id": 57667,
+                    "name": "Győr",
+                    "region": "Győr-Moson-Sopron",
+                    "country": "Hungary",
+                    "location_mappable": "POINT(17.63512 47.68333)",
+                    "geonames_id": 3052009
+                }
+            }
+        }
+    ]
 }

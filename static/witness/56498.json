@@ -5,8 +5,48 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1325-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2165"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58451,
+            "shelfmark": "Fragm. K. 553",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59824,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57796,
+                "name": "Magyar tudományos akadémia, Könyvtár",
+                "alternative_names": [
+                    "Hungarian Academy of Sciences Library and Information Centre"
+                ],
+                "viaf": "146225608.000000",
+                "isni": "0000000121789790",
+                "settlement": {
+                    "id": 43585,
+                    "name": "Budapest",
+                    "country": "Hungary",
+                    "location_mappable": "POINT(19.04045 47.49835)",
+                    "geonames_id": 3054643
+                }
+            }
+        }
+    ]
 }

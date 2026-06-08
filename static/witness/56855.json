@@ -6,8 +6,47 @@
     "siglum": "(B)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1334-01-01",
+    "creation_date_max": "1366-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/23734"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59185,
+            "shelfmark": "VadSlg Ms. 462A, Fragment 1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60558,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57932,
+                "name": "Kantonsbibliothek St. Gallen Vadiana",
+                "alternative_names": [],
+                "viaf": "130861268.000000",
+                "isni": "0000000122859957",
+                "settlement": {
+                    "id": 43332,
+                    "name": "St. Gallen",
+                    "region": "Saint Gallen",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(9.37554 47.42214)",
+                    "geonames_id": 7287240
+                }
+            }
+        }
+    ]
 }

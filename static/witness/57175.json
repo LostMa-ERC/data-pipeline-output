@@ -5,8 +5,52 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1467-01-01",
+    "creation_date_max": "1471-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/7145"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58457,
+            "shelfmark": "AE.XIII.13",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59830,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43725,
+                "name": "Biblioteca nazionale braidense",
+                "alternative_names": [
+                    "Biblioteca Nazionale Braidense Milano (I-Mb)",
+                    "Biblioteca nazionale braidense (Μιλάνο, Ιταλία)",
+                    "Biblioteca nazionale braidense Milan, Italie",
+                    "Biblioteca nazionale Braidense (Milano)"
+                ],
+                "viaf": "131173916.000000",
+                "isni": "0000000417562018",
+                "settlement": {
+                    "id": 43625,
+                    "name": "Milan",
+                    "region": "Lombardy",
+                    "country": "Italy",
+                    "location_mappable": "POINT(9.18951 45.46427)",
+                    "geonames_id": 3173435
+                }
+            }
+        }
+    ]
 }

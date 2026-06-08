@@ -6,8 +6,48 @@
     "siglum": "(I)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_year": "1469-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/5906"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58676,
+            "shelfmark": "Ms. Ludwig XIII 2",
+            "old_shelfmarks": [
+                "früher Malibu, The J. Paul Getty-Museum, Ms. Ludwig XV 9davor Köln, Sammlung Ludwig, Cod. XV 9 ; davor Cologny-Genf, Bibl. Bodmeriana, ohne Sign. ; davor Privatbesitz Antiquariat Jacques Rosenthal, München, Nr. 1929/91,5 ; davor Wernigerode, Fürstl. Stolbergische Bibl., Cod. Zb 35"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60049,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57894,
+                "name": "J. Paul Getty Museum",
+                "alternative_names": [],
+                "viaf": "147804499.000000",
+                "isni": "0000000122957127",
+                "settlement": {
+                    "id": 43487,
+                    "name": "Los Angeles",
+                    "region": "California",
+                    "country": "United States",
+                    "location_mappable": "POINT(-118.24368 34.05223)",
+                    "geonames_id": 5368361
+                }
+            }
+        }
+    ]
 }

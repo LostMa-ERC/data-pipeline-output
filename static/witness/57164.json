@@ -6,8 +6,48 @@
     "siglum": "(L)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_year": "1466-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/5412"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58460,
+            "shelfmark": "Ms. Hist. C 2° 37",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59833,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57810,
+                "name": "Ratsbücherei Lüneburg",
+                "alternative_names": [
+                    "Ratsbücherei der Hansestadt Lüneburg"
+                ],
+                "viaf": "144545853.000000",
+                "isni": "0000000097654625",
+                "settlement": {
+                    "id": 57688,
+                    "name": "Lüneburg",
+                    "region": "Lower Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.41548 53.25122)",
+                    "geonames_id": 2875115
+                }
+            }
+        }
+    ]
 }

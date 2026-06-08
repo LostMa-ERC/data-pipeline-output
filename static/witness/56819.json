@@ -5,8 +5,48 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_year": "1417-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/5307"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58458,
+            "shelfmark": "Berol. Mgq 1497",
+            "old_shelfmarks": [
+                "früher Berlin, Staatsbibl., mgq 1497"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59831,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57886,
+                "name": "Biblioteka Jagiellońska",
+                "alternative_names": [],
+                "viaf": "148485690.000000",
+                "isni": "000000012375281X",
+                "settlement": {
+                    "id": 43136,
+                    "name": "Krakow",
+                    "region": "Lesser Poland",
+                    "country": "Poland",
+                    "location_mappable": "POINT(19.93658 50.06143)",
+                    "geonames_id": 3094802
+                }
+            }
+        }
+    ]
 }

@@ -5,8 +5,47 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1226-01-01",
+    "creation_date_max": "1275-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1203"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58299,
+            "shelfmark": "ohne Sign. [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59672,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47527,
+                "name": "Országos Széchényi Könyvtár",
+                "alternative_names": [
+                    "National Széchényi Library"
+                ],
+                "viaf": "147133105.000000",
+                "settlement": {
+                    "id": 43585,
+                    "name": "Budapest",
+                    "country": "Hungary",
+                    "location_mappable": "POINT(19.04045 47.49835)",
+                    "geonames_id": 3054643
+                }
+            }
+        }
+    ]
 }

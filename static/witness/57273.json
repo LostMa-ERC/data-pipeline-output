@@ -5,8 +5,45 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1276-01-01",
+    "creation_date_max": "1325-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1668"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59206,
+            "shelfmark": "ohne Sign. (1)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60579,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48440,
+                "name": "Univerzita Karlova. Katedra pomocných věd historických a archivního studia",
+                "alternative_names": [],
+                "viaf": "150288598.000000",
+                "settlement": {
+                    "id": 43579,
+                    "name": "Prague",
+                    "country": "Czechia",
+                    "location_mappable": "POINT(14.42076 50.08804)",
+                    "geonames_id": 3067696
+                }
+            }
+        }
+    ]
 }

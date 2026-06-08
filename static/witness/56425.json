@@ -5,8 +5,50 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_year": "1334-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/7509"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58597,
+            "shelfmark": "2° Ms. poet. et roman. 1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59970,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57881,
+                "name": "Universitätsbibliothek Kassel – Landesbibliothek und Murhardsche Bibliothek der Stadt Kassel",
+                "alternative_names": [
+                    "Murhardsche Bibliothek der Stadt Kassel und Landesbibliothek"
+                ],
+                "viaf": "132387234.000000",
+                "isni": "0000000122847147",
+                "settlement": {
+                    "id": 48423,
+                    "name": "Kassel",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(9.49974058 51.31602217)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2892518
+                }
+            }
+        }
+    ]
 }

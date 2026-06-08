@@ -5,8 +5,48 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/27021"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58292,
+            "shelfmark": "0157 Marken in de provincie Overijssel, inv.nr. 654, Makulatur",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59665,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57753,
+                "name": "Historisch Centrum Overijssel Zwolle",
+                "alternative_names": [
+                    "Collectie Overijssel"
+                ],
+                "viaf": "144502123.000000",
+                "settlement": {
+                    "id": 43365,
+                    "name": "Zwolle",
+                    "region": "Overijssel",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(6.09444 52.5125)",
+                    "geonames_id": 2743477
+                }
+            }
+        }
+    ]
 }

@@ -5,8 +5,49 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1376-01-01",
+    "creation_date_max": "1400-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1795"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59280,
+            "shelfmark": "Hss.-Hauptabt. P 3a.b",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60653,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57791,
+                "name": "Franckesche Stiftungen, Archiv",
+                "alternative_names": [
+                    "Archiv der Franckeschen Stiftungen"
+                ],
+                "viaf": "145132982.000000",
+                "isni": "0000000121112683",
+                "settlement": {
+                    "id": 57669,
+                    "name": "Halle (Saale)",
+                    "region": "Saxony-Anhalt",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.97202 51.48298)",
+                    "geonames_id": 6551220
+                }
+            }
+        }
+    ]
 }

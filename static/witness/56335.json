@@ -5,8 +5,51 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1226-01-01",
+    "creation_date_max": "1275-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1036"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58407,
+            "shelfmark": "Cgm 194/III",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59780,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        }
+    ]
 }

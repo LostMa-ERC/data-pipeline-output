@@ -5,8 +5,82 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1266-01-01",
+    "creation_date_max": "1301-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1113"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58252,
+            "shelfmark": "ohne Sign. (3b)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59625,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57954,
+                "name": "Churburger Archiv",
+                "alternative_names": [],
+                "viaf": "8206159248364504350720.000000",
+                "settlement": {
+                    "id": 57714,
+                    "name": "Schluderns",
+                    "region": "South Tyrol",
+                    "country": "Italy",
+                    "location_mappable": "POINT(10.58345 46.66524)",
+                    "geonames_id": 3166474
+                }
+            }
+        },
+        {
+            "id": 58251,
+            "shelfmark": "Inv. Nr. 700711",
+            "old_shelfmarks": [
+                "früher Schloss Churburg bei Schluderns, Archiv der Grafen von Trapp, ohne Sign. (3a)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59624,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57850,
+                "name": "Südtiroler Landesmuseum für Kultur- und Landesgeschichte",
+                "alternative_names": [],
+                "viaf": "149931947.000000",
+                "settlement": {
+                    "id": 57730,
+                    "name": "Tirol",
+                    "region": "South Tyrol",
+                    "country": "Italy",
+                    "location_mappable": "POINT(11.15427 46.69102)",
+                    "geonames_id": 6534790
+                }
+            }
+        }
+    ]
 }

@@ -5,8 +5,47 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1476-01-01",
+    "creation_date_max": "1525-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/24472"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58335,
+            "shelfmark": "Ernest. Gesamtarchiv, Reg. O, 157",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59708,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57855,
+                "name": "Hauptstaatsarchiv Weimar",
+                "alternative_names": [],
+                "viaf": "157197637.000000",
+                "isni": "0000000089824460",
+                "settlement": {
+                    "id": 57632,
+                    "name": "Weimar",
+                    "region": "Thuringia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.32903 50.9803)",
+                    "geonames_id": 2812482
+                }
+            }
+        }
+    ]
 }

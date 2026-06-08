@@ -6,8 +6,53 @@
     "siglum": "(E)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1351-01-01",
+    "creation_date_max": "1375-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2814"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58827,
+            "shelfmark": "Cod. Bodm. 83",
+            "old_shelfmarks": [
+                "früher Eybach, Bibl. der Grafen von Degenfeld-Schonburg, ohne Sign."
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60200,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43773,
+                "name": "Fondation Martin Bodmer",
+                "alternative_names": [
+                    "Fondation Martin Bodmer (Cologny)",
+                    "Foundation Martin Bodmer",
+                    "Fondation Martin Bodmer (Cologny, Suisse)"
+                ],
+                "viaf": "134321830.000000",
+                "isni": "0000000121621672",
+                "settlement": {
+                    "id": 43685,
+                    "name": "Cologny",
+                    "region": "Geneva",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(6.18041 46.21672)",
+                    "geonames_id": 6691492
+                }
+            }
+        }
+    ]
 }

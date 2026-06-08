@@ -5,8 +5,86 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1226-01-01",
+    "creation_date_max": "1275-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1266"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59103,
+            "shelfmark": "Deutsche Fragmente 2",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60476,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57863,
+                "name": "Bistumsarchiv Erfurt",
+                "alternative_names": [],
+                "viaf": "238784025.000000",
+                "settlement": {
+                    "id": 43998,
+                    "name": "Erfurt",
+                    "region": "Thuringia",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.03283 50.9787)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2929670
+                }
+            }
+        },
+        {
+            "id": 59105,
+            "shelfmark": "Deutsche Fragmente 28",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60478,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43796,
+                "name": "Universitätsbibliothek Leipzig",
+                "alternative_names": [
+                    "Universität Leipzig (Alemania). Bibliothek",
+                    "Universitätsbibliothek der Universität Leipzig"
+                ],
+                "viaf": "142483245.000000",
+                "isni": "0000000123092970",
+                "settlement": {
+                    "id": 42855,
+                    "name": "Leipzig",
+                    "region": "Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(12.37129 51.33962)",
+                    "geonames_id": 2879139
+                }
+            }
+        }
+    ]
 }

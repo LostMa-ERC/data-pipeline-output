@@ -6,8 +6,50 @@
     "siglum": "(M)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1276-01-01",
+    "creation_date_max": "1325-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1043"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58316,
+            "shelfmark": "8° Cod. ms. 154 (Cim. 80b), Fragm. II",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59689,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47356,
+                "name": "Universitätsbibliothek München",
+                "alternative_names": [
+                    "Ludwig-Maximilians-Universität München Universitätsbibliothek"
+                ],
+                "viaf": "146551110.000000",
+                "isni": "0000 0001 2342 2802",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        }
+    ]
 }

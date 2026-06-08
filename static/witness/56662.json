@@ -6,8 +6,49 @@
     "siglum": "(b)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1441-01-01",
+    "creation_date_max": "1490-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/3909"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59249,
+            "shelfmark": "Cod. Chart. A 689",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60622,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43754,
+                "name": "Forschungsbibliothek Gotha",
+                "alternative_names": [
+                    "Landesbibliothek Gotha."
+                ],
+                "viaf": "148396150.000000",
+                "isni": "0000000107030008",
+                "settlement": {
+                    "id": 43677,
+                    "name": "Gotha",
+                    "region": "Thuringia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.70193 50.94823)",
+                    "geonames_id": 2918752
+                }
+            }
+        }
+    ]
 }

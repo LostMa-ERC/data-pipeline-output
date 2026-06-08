@@ -5,8 +5,90 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1226-01-01",
+    "creation_date_max": "1275-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1011"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59043,
+            "shelfmark": "Cod. 12780",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60416,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43792,
+                "name": "Österreichische Nationalbibliothek",
+                "alternative_names": [
+                    "كتابخانهى ملى اتريش",
+                    "Áustria., Österreichische Nationalbibliothek",
+                    "הספרייה הלאומית של אוסטריה",
+                    "Austriacka Biblioteka Narodowa",
+                    "Österreichische Nationalbibliothek (Viedeň, Rakúsko)",
+                    "Österreichische Nationalbibliothek (Wien)"
+                ],
+                "viaf": "136765452.000000",
+                "isni": "0000000123064881",
+                "settlement": {
+                    "id": 43576,
+                    "name": "Vienna",
+                    "country": "Austria",
+                    "location_mappable": "POINT(16.37208 48.20849)",
+                    "geonames_id": 2761369
+                }
+            }
+        },
+        {
+            "id": 59044,
+            "shelfmark": "Hds. 168",
+            "old_shelfmarks": [
+                "früher Privatbesitz Ehrenfeld, Wien"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60417,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57776,
+                "name": "Stadt- und Landesbibliothek Dortmund",
+                "alternative_names": [],
+                "viaf": "137222644.000000",
+                "isni": "0000000123367057",
+                "settlement": {
+                    "id": 57650,
+                    "name": "Dortmund",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.466 51.51494)",
+                    "geonames_id": 2935517
+                }
+            }
+        }
+    ]
 }

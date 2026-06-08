@@ -5,8 +5,49 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1106"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59305,
+            "shelfmark": "Depositum Gräfl. Erbachsches Gesamthausarchiv, ohne sign.",
+            "old_shelfmarks": [
+                "früher Erbach, Gräfl. Erbachsches Gesamthausarchiv, ohne Sign."
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60678,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57856,
+                "name": "Hessisches Staatsarchiv Darmstadt",
+                "alternative_names": [],
+                "viaf": "133663765.000000",
+                "isni": "0000000123642047",
+                "settlement": {
+                    "id": 43696,
+                    "name": "Darmstadt",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.65027 49.87167)",
+                    "geonames_id": 2938913
+                }
+            }
+        }
+    ]
 }

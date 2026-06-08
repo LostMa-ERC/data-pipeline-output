@@ -5,8 +5,49 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "lost",
+    "creation_date_min": "1276-01-01",
+    "creation_date_max": "1350-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1315"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58280,
+            "shelfmark": "ohne Sign. (1) [verbrannt]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59653,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43856,
+                "name": "Universitäts- und Landesbibliothek Münster",
+                "alternative_names": [
+                    "Universitäts- und Landesbibliothek Münster (D-MÜu)"
+                ],
+                "viaf": "130353592.000000",
+                "isni": "0000000121573156",
+                "settlement": {
+                    "id": 43615,
+                    "name": "Münster",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.62571 51.96236)",
+                    "geonames_id": 2867543
+                }
+            }
+        }
+    ]
 }

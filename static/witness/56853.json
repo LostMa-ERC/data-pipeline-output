@@ -5,8 +5,85 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/3619"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58629,
+            "shelfmark": "2° Cod. ms. 754 (Cim. 80a)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60002,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47356,
+                "name": "Universitätsbibliothek München",
+                "alternative_names": [
+                    "Ludwig-Maximilians-Universität München Universitätsbibliothek"
+                ],
+                "viaf": "146551110.000000",
+                "isni": "0000 0001 2342 2802",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        },
+        {
+            "id": 58630,
+            "shelfmark": "Patr.454, Einbandmakulatur",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60003,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57916,
+                "name": "Staatliche Bibliothek Regensburg",
+                "alternative_names": [],
+                "viaf": "123786575.000000",
+                "isni": "0000000085671129",
+                "settlement": {
+                    "id": 42892,
+                    "name": "Regensburg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(12.09536 49.01681)",
+                    "geonames_id": 6556611
+                }
+            }
+        }
+    ]
 }

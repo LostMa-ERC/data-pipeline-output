@@ -5,8 +5,53 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1724"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58178,
+            "shelfmark": "ms. 150 HS ltr. F",
+            "old_shelfmarks": [
+                "früher Hs. 150 Nr. 1"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59551,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57888,
+                "name": "Tresoar",
+                "alternative_names": [
+                    "Fries Historisch en Letterkundig Centrum"
+                ],
+                "viaf": "158092123.000000",
+                "isni": "0000000105485797",
+                "settlement": {
+                    "id": 43354,
+                    "name": "Leeuwarden",
+                    "region": "Friesland",
+                    "country": "Netherlands",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(5.81111 53.18602)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2751791
+                }
+            }
+        }
+    ]
 }

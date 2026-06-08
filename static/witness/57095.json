@@ -5,8 +5,46 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1226-01-01",
+    "creation_date_max": "1275-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1275"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58415,
+            "shelfmark": "Cod. a VI 56",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59788,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57922,
+                "name": "Stiftsbibliothek Sankt Peter Salzburg",
+                "alternative_names": [],
+                "viaf": "157960631.000000",
+                "settlement": {
+                    "id": 43623,
+                    "name": "Salzburg",
+                    "region": "Salzburg",
+                    "country": "Austria",
+                    "location_mappable": "POINT(13.04399 47.79941)",
+                    "geonames_id": 2766824
+                }
+            }
+        }
+    ]
 }

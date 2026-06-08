@@ -6,8 +6,140 @@
     "siglum": "(Q)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1333-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/5448"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59360,
+            "shelfmark": "Hs, 511",
+            "old_shelfmarks": [
+                "früher Privatbesitz Franz Karl Grieshaber, Rastatt, (1)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60733,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43938,
+                "name": "Universitätsbibliothek Freiburg im Breisgau",
+                "alternative_names": [
+                    "Universität Freiburg im Breisgau. Bibliothek",
+                    "Universitätsbibliothek Freiburg",
+                    "Albert-Ludwigs-Universität Fribourg-en-Brisgau, Allemagne, Bibliothek",
+                    "Universitätsbibliothek (Freiburg im Breisgau, Allemagne)",
+                    "Universitätsbibliothek Freiburg im Breisgau (D-FRu)",
+                    "Universitätsbibliothek (Fryburg Bryzgowijski).",
+                    "Universitätsbibliothek Freiburg, Breisgau, Deutschland",
+                    "Universitätsbibliothek"
+                ],
+                "viaf": "143595522.000000",
+                "isni": "0000000123314799",
+                "settlement": {
+                    "id": 42791,
+                    "name": "Freiburg im Breisgau",
+                    "region": "Freiburg Region",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.85222 47.9959)",
+                    "geonames_id": 2925177
+                }
+            }
+        },
+        {
+            "id": 59361,
+            "shelfmark": "Fragm.-Slg. A II 1",
+            "old_shelfmarks": [
+                "früher München, Staatsarchiv, Fragm.-Slg. Nr. 2"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60734,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57901,
+                "name": "Staatsarchiv München",
+                "alternative_names": [],
+                "viaf": "136889424.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        },
+        {
+            "id": 59363,
+            "shelfmark": "Hs-g 1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "Yes",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60735,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 60736,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57830,
+                "name": "Stadtarchiv Rosenheim",
+                "alternative_names": [],
+                "viaf": "143721406.000000",
+                "isni": "000000010698060X",
+                "settlement": {
+                    "id": 57709,
+                    "name": "Rosenheim",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(12.12247 47.85637)",
+                    "geonames_id": 2844988
+                }
+            }
+        }
+    ]
 }

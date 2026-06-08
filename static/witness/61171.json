@@ -1,0 +1,76 @@
+{
+    "type": "witness",
+    "id": 61171,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "k",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1476-01-01",
+    "creation_date_max": "1500-12-31",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
+    "urls": [
+        "https://www.handschriftencensus.de/5289"
+    ],
+    "manuscripts": [
+        {
+            "id": 61170,
+            "shelfmark": "Cod. Thott. 423,2°",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/5289"
+            ],
+            "witness_parts": [
+                {
+                    "id": 61172,
+                    "part_order": 1,
+                    "part_of_text": "Full text",
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "102r-216v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43960,
+                "name": "Kongelige Bibliotek",
+                "alternative_names": [
+                    "Det Kongelige Bibliotek (Danmark)",
+                    "Bibliothèque royale (Copenhague)",
+                    "Kongelige Bibliotek (Dinamarca)",
+                    "Kongelige Bibliotek (Kopenhaga).",
+                    "Dinamarca., Kongelige Bibliotek",
+                    "Kongelige Bibliotek (Kobenhavn)",
+                    "Det Kongelige bibliotek (København)",
+                    "Kongelige Bibliotek (Dānija)",
+                    "Kongelige Bibliotek",
+                    "הספרייה המלכותית (דנמרק)",
+                    "Kongelige Bibliotek (Kaupmannahöfn)",
+                    "Det Kgl. Bibliotek",
+                    "Kongelige bibliotek Danemark",
+                    "Det ¤Kongelige Bibliotek",
+                    "Det Kongelige Bibliotek på Slotsholmen - Den Sorte Diamant København (DK-Kk)",
+                    "Kongelige Bibliotek (Dánsko)"
+                ],
+                "viaf": "138525910.000000",
+                "isni": "000000012308732X",
+                "settlement": {
+                    "id": 43659,
+                    "name": "Copenhagen",
+                    "country": "Denmark",
+                    "location_mappable": "POINT(12.56553 55.67594)",
+                    "geonames_id": 2618425
+                }
+            }
+        }
+    ]
+}

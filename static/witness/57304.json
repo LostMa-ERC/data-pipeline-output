@@ -5,8 +5,46 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1376-01-01",
+    "creation_date_max": "1400-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/23365"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58855,
+            "shelfmark": "Fragm. 5.1.2",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60228,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57784,
+                "name": "Stadtbibliothek Feldkirch",
+                "alternative_names": [],
+                "viaf": "137901321.000000",
+                "settlement": {
+                    "id": 57660,
+                    "name": "Feldkirch",
+                    "region": "Vorarlberg",
+                    "country": "Austria",
+                    "location_mappable": "POINT(9.59734 47.23645)",
+                    "geonames_id": 2779674
+                }
+            }
+        }
+    ]
 }

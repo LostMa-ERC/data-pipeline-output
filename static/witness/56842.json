@@ -5,8 +5,53 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1450-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/3615"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58325,
+            "shelfmark": "Cgm 8470",
+            "old_shelfmarks": [
+                "früher Cologny-Genf, Bibl. Bodmeriana, ohne Sign. ; davor Kreuzenstein bei Korneuburg (NÖ), Bibl. der Grafen Wilczek, Nr. 2001 ; davor Privatbesitz Kunstantiquariat Samuel Kende, Wien, Nr. 1896/237davor Privatbesitz Botschafter Ludwig von Paar ; davor Privatbesitz T. O. Weigel, Leipzig, Nr. 1874/42 ; davor Privatbesitz T. O. Weigel, Leipzig, Nr. 1864/18 ; davor Privatbesitz Carl Ritter von Kesaer, Wiendavor Nikolsburg, Fürstl. Dietrichsteinsche Bibl., ohne Sign."
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59698,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        }
+    ]
 }

@@ -5,8 +5,33 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_year": "1474-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/4864"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59081,
+            "shelfmark": "Philipp Fürst zu Stolberg-Wernigerode, Cod. Zb 17",
+            "old_shelfmarks": [
+                "früher Halle (Saale), Universitäts- und Landesbibl., Cod. Stolb.-Wernig. Zb 17 ; davor Wernigerode, Fürstl. Stolbergische Bibl., Cod. Zb 17"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60454,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
 }

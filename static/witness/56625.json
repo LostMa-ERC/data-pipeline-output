@@ -6,8 +6,54 @@
     "siglum": "(D)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1350-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2686"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58980,
+            "shelfmark": "Cod. B.R. 226",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 61067,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43801,
+                "name": "Biblioteca nazionale centrale di Firenze",
+                "alternative_names": [
+                    "Biblioteca nazionale centrale (Firenze)",
+                    "Itália Biblioteca Nazionale Centrale",
+                    "Biblioteca Nazionale Centrale (Florencja).",
+                    "Biblioteca nazionale centrale Florence, Italie",
+                    "Itália., Biblioteca Nazionale Centrale (Firenze)",
+                    "הספרייה הלאומית המרכזית של פירנצה"
+                ],
+                "viaf": "143744216.000000",
+                "isni": "0000000417559409",
+                "settlement": {
+                    "id": 43639,
+                    "name": "Florence",
+                    "region": "Tuscany",
+                    "country": "Italy",
+                    "location_mappable": "POINT(11.24626 43.77925)",
+                    "geonames_id": 3176959
+                }
+            }
+        }
+    ]
 }

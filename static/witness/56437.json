@@ -5,8 +5,50 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1350-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1817"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58872,
+            "shelfmark": "Dokumentensammlung Gustav Schmidt, Fonds 40/1, Nr. 41",
+            "old_shelfmarks": [
+                "früher Halberstadt, Bibl. des Domgymnasiums, ohne Sign. (2)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60245,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57896,
+                "name": "Московский государственный университет им. М.В. Ломоносова, Научная библиотека им. А.М. Горького",
+                "alternative_names": [
+                    "Scientific Library of Moscow State University"
+                ],
+                "viaf": "122726353.000000",
+                "isni": "0000000114627531",
+                "settlement": {
+                    "id": 43604,
+                    "name": "Moscow",
+                    "country": "Russia",
+                    "location_mappable": "POINT(37.61556 55.75222)",
+                    "geonames_id": 524901
+                }
+            }
+        }
+    ]
 }

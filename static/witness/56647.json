@@ -6,8 +6,47 @@
     "siglum": "(Y)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1250-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/26934"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58740,
+            "shelfmark": "Fragment 51",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60113,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57843,
+                "name": "Stiftsbibliothek Sankt Florian",
+                "alternative_names": [],
+                "viaf": "132969385.000000",
+                "isni": "0000000090980989",
+                "settlement": {
+                    "id": 57722,
+                    "name": "Sankt Florian",
+                    "region": "Upper Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(14.37724 48.20557)",
+                    "geonames_id": 7873165
+                }
+            }
+        }
+    ]
 }

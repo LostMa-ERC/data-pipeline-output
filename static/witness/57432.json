@@ -6,8 +6,47 @@
     "siglum": "(c)",
     "alternative_sigla": [],
     "status": "lost",
+    "creation_date_min": "1476-01-01",
+    "creation_date_max": "1479-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/5808"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58563,
+            "shelfmark": "Heldenbuch (ohne Sign.) [verbrannt]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59936,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57937,
+                "name": "Bibliothèque du Grand Séminaire de Strasbourg",
+                "alternative_names": [],
+                "viaf": "151073306.000000",
+                "isni": "000000012185007X",
+                "settlement": {
+                    "id": 42736,
+                    "name": "Strasbourg",
+                    "region": "Grand Est",
+                    "country": "France",
+                    "location_mappable": "POINT(7.74553 48.58392)",
+                    "geonames_id": 2973783
+                }
+            }
+        }
+    ]
 }

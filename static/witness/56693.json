@@ -6,8 +6,49 @@
     "siglum": "(K)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1226-01-01",
+    "creation_date_max": "1275-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1617"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58259,
+            "shelfmark": "ohne Sign. (2)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59632,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57803,
+                "name": "Státní oblastní archív Třeboň Pobočka Český Krumlov",
+                "alternative_names": [
+                    "Zweigstelle des Staatlisches Regionalarchivs Trebon-Wittingau"
+                ],
+                "viaf": "123205700.000000",
+                "isni": "0000000085290895",
+                "settlement": {
+                    "id": 57681,
+                    "name": "Český Krumlov",
+                    "region": "Jihočeský kraj",
+                    "country": "Czechia",
+                    "location_mappable": "POINT(14.31432 48.81347)",
+                    "geonames_id": 11921694
+                }
+            }
+        }
+    ]
 }

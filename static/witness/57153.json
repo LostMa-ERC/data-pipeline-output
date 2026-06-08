@@ -6,8 +6,45 @@
     "siglum": "(Z)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_year": "1464-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/3982"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58636,
+            "shelfmark": "ZAMs 21",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60009,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57806,
+                "name": "Fürstlich-Waldburg-Zeil'sches Gesamtarchiv Archiv (Trauchburg)",
+                "alternative_names": [],
+                "viaf": "153126997.000000",
+                "settlement": {
+                    "id": 57684,
+                    "name": "Leutkirch im Allgäu",
+                    "region": "Baden-Wurttemberg",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.9931 47.8184)",
+                    "geonames_id": 6558189
+                }
+            }
+        }
+    ]
 }

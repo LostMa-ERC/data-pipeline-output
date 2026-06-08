@@ -6,8 +6,45 @@
     "siglum": "(u)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_year": "1521-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/5366"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58988,
+            "shelfmark": "Cod. P II 61",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60361,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57949,
+                "name": "Ehemals Reichsstädtische Bibliothek Lindau",
+                "alternative_names": [],
+                "viaf": "3146635612541982208.000000",
+                "settlement": {
+                    "id": 57686,
+                    "name": "Lindau",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.68431 47.54612)",
+                    "geonames_id": 2877550
+                }
+            }
+        }
+    ]
 }

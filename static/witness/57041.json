@@ -5,8 +5,49 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1450-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/4066"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58505,
+            "shelfmark": "Rps 40/IV",
+            "old_shelfmarks": [
+                "früher Königsberg, Staats- und Universitätsbibl., Hs. 890b"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59878,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57849,
+                "name": "Biblioteka Uniwersytecka w Toruniu",
+                "alternative_names": [],
+                "viaf": "143617410.000000",
+                "isni": "0000000122988708",
+                "settlement": {
+                    "id": 43155,
+                    "name": "Toruń",
+                    "region": "Kujawsko-Pomorskie",
+                    "country": "Poland",
+                    "location_mappable": "POINT(18.60145 53.01449)",
+                    "geonames_id": 7530813
+                }
+            }
+        }
+    ]
 }

@@ -5,8 +5,46 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1400-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2086"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59126,
+            "shelfmark": "ohne Sign. [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60499,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57963,
+                "name": "Biblioteka Gimnazjum Brzeskiego",
+                "alternative_names": [],
+                "viaf": "2912167202596067999744.000000",
+                "settlement": {
+                    "id": 57642,
+                    "name": "Brzeg",
+                    "region": "Opole Voivodeship",
+                    "country": "Poland",
+                    "location_mappable": "POINT(17.4674 50.86079)",
+                    "geonames_id": 3102459
+                }
+            }
+        }
+    ]
 }

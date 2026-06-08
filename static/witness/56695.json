@@ -6,8 +6,130 @@
     "siglum": "(P)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1226-01-01",
+    "creation_date_max": "1250-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1146"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58349,
+            "shelfmark": "Cod. XXIV.C.37",
+            "old_shelfmarks": [
+                "früher Prag, Nationalbibl., Fragm. germ. 37"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59722,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47364,
+                "name": "National Library of the Czech Republic",
+                "alternative_names": [
+                    "Národní knihovna České republiky",
+                    "Национальная библиотека Чешской Республики",
+                    "Bibliothèque nationale de la République tchèque",
+                    "National Library of the Czech Republic"
+                ],
+                "viaf": "135195765.000000",
+                "settlement": {
+                    "id": 43579,
+                    "name": "Prague",
+                    "country": "Czechia",
+                    "location_mappable": "POINT(14.42076 50.08804)",
+                    "geonames_id": 3067696
+                }
+            }
+        },
+        {
+            "id": 58347,
+            "shelfmark": "Cod. XXIV.C.19",
+            "old_shelfmarks": [
+                "früher Prag, Nationalbibl., Fragm. germ. 19"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59720,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47364,
+                "name": "National Library of the Czech Republic",
+                "alternative_names": [
+                    "Národní knihovna České republiky",
+                    "Национальная библиотека Чешской Республики",
+                    "Bibliothèque nationale de la République tchèque",
+                    "National Library of the Czech Republic"
+                ],
+                "viaf": "135195765.000000",
+                "settlement": {
+                    "id": 43579,
+                    "name": "Prague",
+                    "country": "Czechia",
+                    "location_mappable": "POINT(14.42076 50.08804)",
+                    "geonames_id": 3067696
+                }
+            }
+        },
+        {
+            "id": 58346,
+            "shelfmark": "mgo 225",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59719,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43889,
+                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
+                "alternative_names": [
+                    "Staatsbibliothek zu Berlin.",
+                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
+                    "Staatsbibliothek Berlin"
+                ],
+                "viaf": "157207056.000000",
+                "isni": "0000000123699481",
+                "settlement": {
+                    "id": 43580,
+                    "name": "Berlin",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
+                }
+            }
+        }
+    ]
 }

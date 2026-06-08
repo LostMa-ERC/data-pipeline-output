@@ -5,8 +5,48 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2223"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59121,
+            "shelfmark": "Inv.-Nr. Do 63/1037",
+            "old_shelfmarks": [
+                "früher Privatbesitz Otto Könnecke, Strausberg bei Berlin, (2) ; davor Privatbesitz Gustav Könnecke, Marburg, (2)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60494,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57930,
+                "name": "Deutsches Historisches Museum",
+                "alternative_names": [],
+                "viaf": "124463260.000000",
+                "isni": "0000000107941012",
+                "settlement": {
+                    "id": 43580,
+                    "name": "Berlin",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
+                }
+            }
+        }
+    ]
 }

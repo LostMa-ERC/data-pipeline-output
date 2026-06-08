@@ -1,0 +1,68 @@
+{
+    "type": "witness",
+    "id": 61178,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "d",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1489-01-01",
+    "creation_date_max": "1489-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
+    "urls": [
+        "https://www.handschriftencensus.de/6797"
+    ],
+    "manuscripts": [
+        {
+            "id": 58815,
+            "shelfmark": "Mscr. M 56",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 61179,
+                    "part_order": 1,
+                    "part_of_text": "Full text",
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-188v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43809,
+                "name": "Sächsische Landesbibliothek",
+                "alternative_names": [
+                    "Sächsische Landesbibliothek (Drezno).",
+                    "Sächsische Landesbibliothek (Dresden, Alemanya)",
+                    "Sächsische Landesbibliothek Dresden",
+                    "SLUB",
+                    "Sächsische Landesbibliothek (Drēzdene, Vācija)",
+                    "Sachsische Landesbibliothek (Alemanha)",
+                    "Sächsische Landesbibliothek",
+                    "Sächsische Landesbibliothek (Drážďany, Německo)",
+                    "Sächsische Landesbibliothek (Dresde, Allemagne)"
+                ],
+                "viaf": "122203699.000000",
+                "isni": "0000000123081585",
+                "settlement": {
+                    "id": 43698,
+                    "name": "Dresden",
+                    "region": "Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.73832 51.05089)",
+                    "geonames_id": 2935022
+                }
+            }
+        }
+    ]
+}

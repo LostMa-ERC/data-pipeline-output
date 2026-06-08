@@ -6,8 +6,48 @@
     "siglum": "(K)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1840"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58210,
+            "shelfmark": "Cod. 452",
+            "old_shelfmarks": [
+                "früher Privatbesitz Anton Birlinger, Bonn, (2)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59583,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57927,
+                "name": "Fürstlich Hohenzollernsche Sammlungen und Hofbibliothek",
+                "alternative_names": [],
+                "viaf": "314863350.000000",
+                "settlement": {
+                    "id": 42905,
+                    "name": "Sigmaringen",
+                    "region": "Baden-Wurttemberg",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.21659 48.08327)",
+                    "geonames_id": 6558200
+                }
+            }
+        }
+    ]
 }

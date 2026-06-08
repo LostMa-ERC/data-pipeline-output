@@ -5,8 +5,47 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2134"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58709,
+            "shelfmark": "ohne Sign. [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60082,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57781,
+                "name": "Stiftsbibliothek Einsiedeln",
+                "alternative_names": [],
+                "viaf": "153093458.000000",
+                "isni": "0000000107275638",
+                "settlement": {
+                    "id": 57656,
+                    "name": "Einsiedeln",
+                    "region": "Schwyz",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(8.74735 47.12849)",
+                    "geonames_id": 2660925
+                }
+            }
+        }
+    ]
 }

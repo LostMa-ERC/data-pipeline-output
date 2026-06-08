@@ -6,8 +6,48 @@
     "siglum": "(F)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1226-01-01",
+    "creation_date_max": "1250-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1159"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58819,
+            "shelfmark": "Cod. III Bg",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60192,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57866,
+                "name": "Pfarrei St. Nikolaus Frauenfeld",
+                "alternative_names": [
+                    "Archiv der katholischen Kirchgemeinde"
+                ],
+                "viaf": "242759498.000000",
+                "settlement": {
+                    "id": 43290,
+                    "name": "Frauenfeld",
+                    "region": "Thurgau",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(8.89893 47.55776)",
+                    "geonames_id": 2660727
+                }
+            }
+        }
+    ]
 }

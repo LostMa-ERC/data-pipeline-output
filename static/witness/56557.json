@@ -6,8 +6,32 @@
     "siglum": "(h)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1300-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1221"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59242,
+            "shelfmark": "Antiquariat Ludwig Rosenthal, Nr. 1889/65, 491 [Verbleib unbekannt]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60615,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        }
+    ]
 }

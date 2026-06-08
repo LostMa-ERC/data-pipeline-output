@@ -5,8 +5,48 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1300-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1042"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58861,
+            "shelfmark": "ohne sign",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60234,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57944,
+                "name": "Kirchenbibliothek St. Andreas Eisleben",
+                "alternative_names": [
+                    "Turmbibliothek Sankt Andreas"
+                ],
+                "viaf": "247795963.000000",
+                "settlement": {
+                    "id": 57658,
+                    "name": "Eisleben, Lutherstadt",
+                    "region": "Saxony-Anhalt",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.5345 51.5258)",
+                    "geonames_id": 6549067
+                }
+            }
+        }
+    ]
 }

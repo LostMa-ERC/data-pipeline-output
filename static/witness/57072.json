@@ -6,8 +6,50 @@
     "siglum": "(g)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_year": "1433-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/4797"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58680,
+            "shelfmark": "Hs. 101",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60053,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43869,
+                "name": "Universitätsbibliothek Gießen",
+                "alternative_names": [
+                    "Universitätsbibliothek Giessen (Alemania)",
+                    "Universitätsbibliothek Gießen, Allemagne",
+                    "Justus-Liebig-Universität, Universitätsbibliothek Gießen (D-GI)"
+                ],
+                "viaf": "154192976.000000",
+                "isni": "0000000123593820",
+                "settlement": {
+                    "id": 43621,
+                    "name": "Giessen",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.67554 50.58727)",
+                    "geonames_id": 2920512
+                }
+            }
+        }
+    ]
 }

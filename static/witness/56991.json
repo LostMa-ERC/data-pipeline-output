@@ -5,8 +5,47 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1350-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1741"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58584,
+            "shelfmark": "WaF 235",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59957,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57740,
+                "name": "Aargauer Kantonsbibliothek",
+                "alternative_names": [],
+                "viaf": "144874877.000000",
+                "isni": "0000000404948405",
+                "settlement": {
+                    "id": 43269,
+                    "name": "Aarau",
+                    "region": "Aargau",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(8.04422 47.39254)",
+                    "geonames_id": 2661881
+                }
+            }
+        }
+    ]
 }

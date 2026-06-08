@@ -5,8 +5,47 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1351-01-01",
+    "creation_date_max": "1375-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2875"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59357,
+            "shelfmark": "Misc. 4° 126",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60730,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57792,
+                "name": "Universitäts- und Landesbibliothek Sachsen-Anhalt",
+                "alternative_names": [],
+                "viaf": "156588118.000000",
+                "isni": "0000000121923902",
+                "settlement": {
+                    "id": 57669,
+                    "name": "Halle (Saale)",
+                    "region": "Saxony-Anhalt",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.97202 51.48298)",
+                    "geonames_id": 6551220
+                }
+            }
+        }
+    ]
 }

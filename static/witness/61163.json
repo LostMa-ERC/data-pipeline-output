@@ -1,0 +1,62 @@
+{
+    "type": "witness",
+    "id": 61163,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "m",
+    "alternative_sigla": [],
+    "status": "lost",
+    "creation_date_min": "1326-01-01",
+    "creation_date_max": "1475-12-31",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
+    "urls": [
+        "https://www.handschriftencensus.de/6134"
+    ],
+    "manuscripts": [
+        {
+            "id": 58675,
+            "shelfmark": "Cgm 429 [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 61164,
+                    "part_order": 1,
+                    "part_of_text": "Full text",
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-144v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        }
+    ]
+}

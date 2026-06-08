@@ -5,8 +5,49 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1326-01-01",
+    "creation_date_max": "1375-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/3014"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58876,
+            "shelfmark": "APECESJ, Abt. 43, Nr. 54 (2)",
+            "old_shelfmarks": [
+                "früher München, Archiv der Deutschen Provinz der Jesuiten, Abt. 0 [AMSI], Nr. XXVIII,2 (2)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60249,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57958,
+                "name": "Jesuiten Zentraleuropäische Provinz Archiv",
+                "alternative_names": [],
+                "viaf": "3979164423003320614912.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        }
+    ]
 }

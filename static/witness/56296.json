@@ -5,8 +5,82 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1326-01-01",
+    "creation_date_max": "1375-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1719"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59060,
+            "shelfmark": "ohne Sign.",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60433,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57962,
+                "name": "Stadtarchiv Borken",
+                "alternative_names": [],
+                "viaf": "1051153363078937575424.000000",
+                "settlement": {
+                    "id": 57639,
+                    "name": "Borken",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(6.85774 51.84382)",
+                    "geonames_id": 2946228
+                }
+            }
+        },
+        {
+            "id": 59071,
+            "shelfmark": "Ms. 459",
+            "old_shelfmarks": [
+                "früher Arnsberg, Archiv"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60444,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57903,
+                "name": "LWL-Museum für Kunst und Kultur",
+                "alternative_names": [],
+                "viaf": "308203765.000000",
+                "settlement": {
+                    "id": 43615,
+                    "name": "Münster",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.62571 51.96236)",
+                    "geonames_id": 2867543
+                }
+            }
+        }
+    ]
 }

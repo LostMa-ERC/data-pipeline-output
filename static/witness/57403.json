@@ -5,8 +5,49 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1350-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1845"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58780,
+            "shelfmark": "Buchdeckelfunde Sch. 3, II/4c",
+            "old_shelfmarks": [
+                "früher Schloss Greinburg (OÖ), Herzogl. Coburg. Archiv, ohne Sign."
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60153,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57889,
+                "name": "Oberösterreichisches Landesarchiv",
+                "alternative_names": [],
+                "viaf": "158989654.000000",
+                "isni": "000000012375652X",
+                "settlement": {
+                    "id": 43051,
+                    "name": "Linz",
+                    "region": "Upper Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(14.28611 48.30639)",
+                    "geonames_id": 2772400
+                }
+            }
+        }
+    ]
 }

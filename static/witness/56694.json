@@ -6,8 +6,46 @@
     "siglum": "(S)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1275-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1459"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58994,
+            "shelfmark": "Cod. PB munk 4",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60367,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57840,
+                "name": "Skoklosters slott. Biblioteket",
+                "alternative_names": [],
+                "viaf": "134106491.000000",
+                "settlement": {
+                    "id": 57719,
+                    "name": "Håbo Municipality",
+                    "region": "Uppsala",
+                    "country": "Sweden",
+                    "location_mappable": "POINT(17.50701 59.64953)",
+                    "geonames_id": 2709491
+                }
+            }
+        }
+    ]
 }

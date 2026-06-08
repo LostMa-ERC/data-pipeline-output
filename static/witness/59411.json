@@ -5,8 +5,46 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/3640"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59226,
+            "shelfmark": "Bestand Heringen (Helme) Cod. XV.4, eingelegtes Blatt",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60599,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57905,
+                "name": "Kreisarchiv Nordhausen",
+                "alternative_names": [],
+                "viaf": "184531286.000000",
+                "settlement": {
+                    "id": 42879,
+                    "name": "Nordhausen",
+                    "region": "Thuringia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.79522 51.4918)",
+                    "geonames_id": 6550961
+                }
+            }
+        }
+    ]
 }

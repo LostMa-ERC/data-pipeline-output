@@ -5,8 +5,83 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1276-01-01",
+    "creation_date_max": "1300-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1269"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58878,
+            "shelfmark": "Fragm. aus KH 1840",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60251,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43836,
+                "name": "Wilhelmsstift. Bibliothek",
+                "alternative_names": [
+                    "Konviktsbibliothek Wilhelmsstift"
+                ],
+                "viaf": "152590686.000000",
+                "settlement": {
+                    "id": 43709,
+                    "name": "Tübingen",
+                    "region": "Baden-Wurttemberg",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.05222 48.52266)",
+                    "geonames_id": 2820860
+                }
+            }
+        },
+        {
+            "id": 58877,
+            "shelfmark": "Cod. Md 20",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60250,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57743,
+                "name": "Universitätsbibliothek Tübingen",
+                "alternative_names": [],
+                "viaf": "155434102.000000",
+                "isni": "0000000123646726",
+                "settlement": {
+                    "id": 43709,
+                    "name": "Tübingen",
+                    "region": "Baden-Wurttemberg",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.05222 48.52266)",
+                    "geonames_id": 2820860
+                }
+            }
+        }
+    ]
 }

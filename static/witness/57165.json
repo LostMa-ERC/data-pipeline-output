@@ -5,8 +5,115 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1325-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1773"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58379,
+            "shelfmark": "Cod. Germ. 61",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59752,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47527,
+                "name": "Országos Széchényi Könyvtár",
+                "alternative_names": [
+                    "National Széchényi Library"
+                ],
+                "viaf": "147133105.000000",
+                "settlement": {
+                    "id": 43585,
+                    "name": "Budapest",
+                    "country": "Hungary",
+                    "location_mappable": "POINT(19.04045 47.49835)",
+                    "geonames_id": 3054643
+                }
+            }
+        },
+        {
+            "id": 58378,
+            "shelfmark": "Nr. 5465 [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59751,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57787,
+                "name": "Gymnasialbibliothek Brno",
+                "alternative_names": [],
+                "settlement": {
+                    "id": 43461,
+                    "name": "Brno",
+                    "region": "South Moravian",
+                    "country": "Czechia",
+                    "location_mappable": "POINT(16.60796 49.19522)",
+                    "geonames_id": 3078610
+                }
+            }
+        },
+        {
+            "id": 58380,
+            "shelfmark": "Hs. 696",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59753,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57890,
+                "name": "Oberösterreichische Landesbibliothek",
+                "alternative_names": [],
+                "viaf": "150470881.000000",
+                "isni": "0000000101099880",
+                "settlement": {
+                    "id": 43051,
+                    "name": "Linz",
+                    "region": "Upper Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(14.28611 48.30639)",
+                    "geonames_id": 2772400
+                }
+            }
+        }
+    ]
 }

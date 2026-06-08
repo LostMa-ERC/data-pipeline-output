@@ -6,8 +6,48 @@
     "siglum": "(Q)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1350-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1834"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58739,
+            "shelfmark": "6050, V / 7 k, Nr. 3",
+            "old_shelfmarks": [
+                "früher Fulda, Provinzarchiv des Franziskanerklosters, Nachlaß P. Gallus Haselbeck, Nr. 3 ; davor angeblich Sigmaringen, Kapitelsbibl., ohne Sign."
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60112,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57911,
+                "name": "Archiv der Deutschen Franziskanerprovinz Paderborn",
+                "alternative_names": [],
+                "website": "https://ordensarchive.de/archive-der-priesterorden/archiv-der-deutschen-franziskanerordensprovinz/",
+                "settlement": {
+                    "id": 42886,
+                    "name": "Paderborn",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.75536 51.71364)",
+                    "geonames_id": 6557655
+                }
+            }
+        }
+    ]
 }

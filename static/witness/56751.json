@@ -6,8 +6,49 @@
     "siglum": "(B)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1261-01-01",
+    "creation_date_max": "1280-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1316"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58352,
+            "shelfmark": "Hs, 370",
+            "old_shelfmarks": [
+                "früher Stralsund, Stadtarchiv, Hs. II 142"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59725,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57848,
+                "name": "Stadtarchiv Stralsund",
+                "alternative_names": [],
+                "viaf": "142723026.000000",
+                "isni": "0000000123247100",
+                "settlement": {
+                    "id": 57727,
+                    "name": "Stralsund",
+                    "region": "Mecklenburg-Vorpommern",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.0818 54.30911)",
+                    "geonames_id": 2826287
+                }
+            }
+        }
+    ]
 }

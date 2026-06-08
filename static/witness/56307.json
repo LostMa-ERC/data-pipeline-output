@@ -5,8 +5,86 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1325-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1708"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58371,
+            "shelfmark": "Cod. Memb. I 130",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59744,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43754,
+                "name": "Forschungsbibliothek Gotha",
+                "alternative_names": [
+                    "Landesbibliothek Gotha."
+                ],
+                "viaf": "148396150.000000",
+                "isni": "0000000107030008",
+                "settlement": {
+                    "id": 43677,
+                    "name": "Gotha",
+                    "region": "Thuringia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.70193 50.94823)",
+                    "geonames_id": 2918752
+                }
+            }
+        },
+        {
+            "id": 58373,
+            "shelfmark": "Germ. Lit. 2",
+            "old_shelfmarks": [
+                "olim Hs.-Br.3 ; früher Arnstadt, Regierungsarchiv, ohne Sign. (2)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59746,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57841,
+                "name": "Schlossmuseum Sondershausen",
+                "alternative_names": [],
+                "viaf": "122029027.000000",
+                "isni": "0000000123750371",
+                "settlement": {
+                    "id": 57720,
+                    "name": "Sondershausen",
+                    "region": "Thuringia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.87011 51.36973)",
+                    "geonames_id": 2831276
+                }
+            }
+        }
+    ]
 }

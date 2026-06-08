@@ -6,8 +6,55 @@
     "siglum": "(N)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1451-01-01",
+    "creation_date_max": "1470-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/7002"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58202,
+            "shelfmark": "MS M.782",
+            "old_shelfmarks": [
+                "früher Privatbesitz Antiquariat Karl & Faber, München, Nr. 1934/9,73 ; davor Maihingen, Fürstl. Öttingen-Wallersteinsche Bibl., Cod. I.3.2° 6"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59575,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43763,
+                "name": "Pierpont Morgan Library",
+                "alternative_names": [
+                    "Morgan library & museum New York, N.Y.",
+                    "Pierpont Morgan Library New York, NY",
+                    "The Morgan Library & Museum New York City, NY (US-NYpm)",
+                    "Pierpont Morgan Library (Estados Unidos)",
+                    "Pierpont Morgan library (New York)"
+                ],
+                "viaf": "140782799.000000",
+                "isni": "0000000122929935",
+                "settlement": {
+                    "id": 43498,
+                    "name": "New York",
+                    "region": "New York",
+                    "country": "United States",
+                    "location_mappable": "POINT(-74.00597 40.71427)",
+                    "geonames_id": 5128581
+                }
+            }
+        }
+    ]
 }

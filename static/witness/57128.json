@@ -5,8 +5,48 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1476-01-01",
+    "creation_date_max": "1500-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/4148"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59243,
+            "shelfmark": "Ms. Cod. 1077",
+            "old_shelfmarks": [
+                "früher Ms. Ger. 6"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60616,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57959,
+                "name": "University of Pennsylvania, Kislak Center for Special Collections, Rare Books and Manuscripts",
+                "alternative_names": [],
+                "viaf": "525149719127911104512.000000",
+                "settlement": {
+                    "id": 42603,
+                    "name": "Philadelphia",
+                    "region": "Pennsylvania",
+                    "country": "United States",
+                    "location_mappable": "POINT(-75.16362 39.95238)",
+                    "geonames_id": 4560349
+                }
+            }
+        }
+    ]
 }

@@ -5,8 +5,49 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1325-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1815"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58411,
+            "shelfmark": "ohne sign.",
+            "old_shelfmarks": [
+                "früher Eltville, Freiherrl. Langwerth von Simmernsches Archiv, ohne Sign."
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59784,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57764,
+                "name": "Rittergut Wichtringhausen",
+                "alternative_names": [
+                    "Freiherrliches Langwerth von Simmernsches Archiv"
+                ],
+                "settlement": {
+                    "id": 57723,
+                    "name": "Barsinghausen",
+                    "region": "Lower Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.45 52.3)",
+                    "geonames_id": 2952406
+                }
+            }
+        }
+    ]
 }

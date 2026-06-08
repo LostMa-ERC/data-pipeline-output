@@ -6,8 +6,47 @@
     "siglum": "(t)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1226-01-01",
+    "creation_date_max": "1250-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1214"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59241,
+            "shelfmark": "Cod. Md 671",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60614,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57743,
+                "name": "Universitätsbibliothek Tübingen",
+                "alternative_names": [],
+                "viaf": "155434102.000000",
+                "isni": "0000000123646726",
+                "settlement": {
+                    "id": 43709,
+                    "name": "Tübingen",
+                    "region": "Baden-Wurttemberg",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.05222 48.52266)",
+                    "geonames_id": 2820860
+                }
+            }
+        }
+    ]
 }

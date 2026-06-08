@@ -6,8 +6,47 @@
     "siglum": "(M)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1451-01-01",
+    "creation_date_max": "1500-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/6050"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59029,
+            "shelfmark": "Best. 147 Hr 1 Nr. 8",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60402,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48428,
+                "name": "Hessisches Staatsarchiv Marburg",
+                "alternative_names": [],
+                "viaf": "155417613.000000",
+                "settlement": {
+                    "id": 48429,
+                    "name": "Marburg an der Lahn",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(8.77069 50.80904)",
+                    "location_certainty": "1. High confidence"
+                }
+            }
+        }
+    ]
 }

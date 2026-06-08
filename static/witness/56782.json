@@ -5,8 +5,49 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1267-01-01",
+    "creation_date_max": "1300-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1235"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58749,
+            "shelfmark": "ohne Sign",
+            "old_shelfmarks": [
+                "früher Basel, Universitätsbibl., Cod. N I 1, 81 ; davor Laufenburg (Schweiz), Kath. Pfarrarchiv, ohne Sign."
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60122,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57887,
+                "name": "Museum Schiff Laufenburg",
+                "alternative_names": [],
+                "viaf": "133800190.000000",
+                "isni": "0000000110111386",
+                "settlement": {
+                    "id": 43308,
+                    "name": "Laufenburg",
+                    "region": "Aargau",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(8.06316 47.55662)",
+                    "geonames_id": 7286278
+                }
+            }
+        }
+    ]
 }

@@ -5,8 +5,46 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1276-01-01",
+    "creation_date_max": "1325-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1118"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59000,
+            "shelfmark": "Nr. 7693.8866",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60373,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57834,
+                "name": "Fürstlich-Hatzfeldt-Wildenburg'sches Archiv",
+                "alternative_names": [],
+                "viaf": "239437272.000000",
+                "settlement": {
+                    "id": 57715,
+                    "name": "Wissen",
+                    "region": "Rhineland-Palatinate",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.743 50.78333)",
+                    "geonames_id": 6557854
+                }
+            }
+        }
+    ]
 }

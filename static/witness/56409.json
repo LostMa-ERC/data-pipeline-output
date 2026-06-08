@@ -3,10 +3,91 @@
     "id": 56409,
     "is_unobserved": false,
     "is_excerpt": false,
+    "siglum": "Fragm. 56",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1276-01-01",
+    "creation_date_max": "1300-12-31",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1122"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59046,
+            "shelfmark": "Fragm. aus D II 136",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60419,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57780,
+                "name": "Katholische Universität Eichstätt-Ingolstadt",
+                "alternative_names": [
+                    "Universitätsbibliothek Eichstätt-Ingolstadt"
+                ],
+                "viaf": "159005288.000000",
+                "isni": "0000000112455350",
+                "settlement": {
+                    "id": 57655,
+                    "name": "Eichstätt",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.19675 48.88854)",
+                    "geonames_id": 2932069
+                }
+            }
+        },
+        {
+            "id": 59047,
+            "shelfmark": "Cgm 5249/4f",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60420,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        }
+    ]
 }

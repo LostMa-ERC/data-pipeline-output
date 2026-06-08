@@ -5,8 +5,48 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1471-01-01",
+    "creation_date_max": "1475-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/4008"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58962,
+            "shelfmark": "Ms. B 325",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60335,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57752,
+                "name": "Zentralbibliothek Zürich",
+                "alternative_names": [],
+                "viaf": "138960171.000000",
+                "isni": "000000012308337X",
+                "settlement": {
+                    "id": 43987,
+                    "name": "Zurich",
+                    "country": "Switzerland",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(8.55 47.36667)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2657896
+                }
+            }
+        }
+    ]
 }

@@ -5,8 +5,51 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1311-01-01",
+    "creation_date_max": "1340-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/26791"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59379,
+            "shelfmark": "AvB1600108, Falze",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60752,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57876,
+                "name": "Abdij van Berne",
+                "alternative_names": [
+                    "Abtei des Prämonstratenserordens"
+                ],
+                "isni": "0000000405609624",
+                "website": "https://www.abdijvanberne.nl/",
+                "settlement": {
+                    "id": 47381,
+                    "name": "Heeswijk-Dinther",
+                    "region": "North Brabant",
+                    "country": "Netherlands",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(5.475 51.65083)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2754629
+                }
+            }
+        }
+    ]
 }

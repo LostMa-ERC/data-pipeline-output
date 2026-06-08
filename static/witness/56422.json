@@ -5,8 +5,46 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1600-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/5774"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59315,
+            "shelfmark": "Cod. 25, Hinterdeckel-Spiegel",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60688,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57832,
+                "name": "Stift Schlierbach",
+                "alternative_names": [],
+                "viaf": "122657741.000000",
+                "settlement": {
+                    "id": 57711,
+                    "name": "Schlierbach",
+                    "region": "Upper Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(14.12061 47.93624)",
+                    "geonames_id": 7872046
+                }
+            }
+        }
+    ]
 }

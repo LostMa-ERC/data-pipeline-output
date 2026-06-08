@@ -5,8 +5,49 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1350-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1733"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58359,
+            "shelfmark": "Cod. I.3.4* 1",
+            "old_shelfmarks": [
+                "früher Privatbesitz Antiquariat Karl & Faber, München, Nr. 1935/11,17"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59732,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57899,
+                "name": "Universitätsbibliothek Augsburg",
+                "alternative_names": [],
+                "viaf": "130770287.000000",
+                "isni": "0000000122645836",
+                "settlement": {
+                    "id": 42756,
+                    "name": "Augsburg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.89213 48.36733)",
+                    "geonames_id": 6557107
+                }
+            }
+        }
+    ]
 }

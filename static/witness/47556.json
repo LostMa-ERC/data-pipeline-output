@@ -46,14 +46,14 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55845,
+                    "id": 55770,
                     "part_order": 1,
                     "number_of_verses": 441,
                     "number_of_lines": 441,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "5r-6v"
+                        "3r-4v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -80,14 +80,14 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55770,
+                    "id": 55845,
                     "part_order": 1,
                     "number_of_verses": 441,
                     "number_of_lines": 441,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "3r-4v"
+                        "5r-6v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

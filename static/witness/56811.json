@@ -6,8 +6,45 @@
     "siglum": "(s)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_year": "1532-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/5770"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58485,
+            "shelfmark": "Cod. Gen. 37",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59858,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57925,
+                "name": "Stadtbibliothek Schaffhausen",
+                "alternative_names": [],
+                "viaf": "123740652.000000",
+                "isni": "0000000122383768",
+                "settlement": {
+                    "id": 42577,
+                    "name": "Schaffhausen",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(8.62473 47.72139)",
+                    "geonames_id": 7287070
+                }
+            }
+        }
+    ]
 }

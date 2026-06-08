@@ -5,8 +5,48 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1350-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2057"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58419,
+            "shelfmark": "Archiv 198",
+            "old_shelfmarks": [
+                "olim Sign. 1735"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59792,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57947,
+                "name": "Franziskanerkloster Güssing, Bibliothek",
+                "alternative_names": [],
+                "viaf": "8159032777401182208.000000",
+                "settlement": {
+                    "id": 57666,
+                    "name": "Güssing",
+                    "region": "Burgenland",
+                    "country": "Austria",
+                    "location_mappable": "POINT(16.32431 47.05936)",
+                    "geonames_id": 2777216
+                }
+            }
+        }
+    ]
 }

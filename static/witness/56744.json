@@ -6,8 +6,46 @@
     "siglum": "(W)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1476-01-01",
+    "creation_date_max": "1525-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/7166"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58188,
+            "shelfmark": "Cod. Zb 4m [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59561,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57858,
+                "name": "Fürst zu Stolberg Wernigerodesche Bibliothek",
+                "alternative_names": [],
+                "viaf": "158933429.000000",
+                "settlement": {
+                    "id": 57634,
+                    "name": "Wernigerode",
+                    "region": "Saxony-Anhalt",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.79082 51.83948)",
+                    "geonames_id": 6551149
+                }
+            }
+        }
+    ]
 }

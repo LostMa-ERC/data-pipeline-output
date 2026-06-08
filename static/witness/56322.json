@@ -6,8 +6,55 @@
     "siglum": "(K)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1325-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1685"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58336,
+            "shelfmark": "Frg. B 3",
+            "old_shelfmarks": [
+                "früher Schloss Kasten im Vinschgau (Südtirol)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59709,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43923,
+                "name": "Universitätsbibliothek Innsbruck",
+                "alternative_names": [
+                    "Universität Innsbruck. Universitätsbibliothek",
+                    "Bibliothek des Ferdinandeums",
+                    "Universitätsbibliothek (Innsbruck, Autriche)",
+                    "Universitäts- und Landesbibliothek Tirol",
+                    "Universitätsbibliothek"
+                ],
+                "viaf": "148337223.000000",
+                "isni": "0000000123589004",
+                "settlement": {
+                    "id": 43647,
+                    "name": "Innsbruck",
+                    "region": "Tyrol",
+                    "country": "Austria",
+                    "location_mappable": "POINT(11.39454 47.26266)",
+                    "geonames_id": 2775220
+                }
+            }
+        }
+    ]
 }

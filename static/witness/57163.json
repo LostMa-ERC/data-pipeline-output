@@ -6,8 +6,51 @@
     "siglum": "(h)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1325-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2485"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59198,
+            "shelfmark": "6243 III, S. 87-88",
+            "old_shelfmarks": [
+                "früher Privatbesitz W. von Ketrzynski, Lemberg, (1)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60571,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57762,
+                "name": "Polska Akademia Nauk. Oddział we Wrocławiu",
+                "alternative_names": [
+                    "Bibliothek der Polnischen Akademie der Wissenschaften, Wrocław"
+                ],
+                "viaf": "130224019.000000",
+                "isni": "0000000121097305",
+                "settlement": {
+                    "id": 43157,
+                    "name": "Wrocław",
+                    "region": "Lower Silesia",
+                    "country": "Poland",
+                    "location_mappable": "POINT(17.03859 51.1081)",
+                    "geonames_id": 7530801
+                }
+            }
+        }
+    ]
 }

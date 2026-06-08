@@ -5,8 +5,48 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_year": "1464-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/26699"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58269,
+            "shelfmark": "Ms. 115 Folio [Verbleib unbekannt]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59642,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57908,
+                "name": "Stadtbibliothek Nürnberg",
+                "alternative_names": [
+                    "Ebnersche Bibliothek"
+                ],
+                "viaf": "134343614.000000",
+                "isni": "0000000123421068",
+                "settlement": {
+                    "id": 42881,
+                    "name": "Nürnberg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.0768 49.4541)",
+                    "geonames_id": 6556832
+                }
+            }
+        }
+    ]
 }

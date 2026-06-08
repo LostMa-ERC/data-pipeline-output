@@ -6,8 +6,50 @@
     "siglum": "(K)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_year": "1437-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/5229"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58795,
+            "shelfmark": "Best. 7010 (W) 357",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60168,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48426,
+                "name": "Historisches Archiv der Stadt Köln",
+                "alternative_names": [
+                    "Cologne Allemagne, Historisches Archiv",
+                    "Cologne Historisches Archiv"
+                ],
+                "viaf": "143699716.000000",
+                "settlement": {
+                    "id": 47379,
+                    "name": "Köln",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(6.95 50.93333)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2886242
+                }
+            }
+        }
+    ]
 }

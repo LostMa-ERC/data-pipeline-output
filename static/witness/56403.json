@@ -5,8 +5,51 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1276-01-01",
+    "creation_date_max": "1325-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1119"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58521,
+            "shelfmark": "Cod. 756,40",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59894,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43744,
+                "name": "Bürgerbibliothek Bern",
+                "alternative_names": [
+                    "Burgerbibliothek (Berno).",
+                    "Bibliothèque de la Bourgeoisie Berne",
+                    "Bibliothèque de la Bourgeoisie de Berne",
+                    "Burgerbibliothek Bern (CH-BEb)"
+                ],
+                "viaf": "157880358.000000",
+                "isni": "0000000120977853",
+                "settlement": {
+                    "id": 43664,
+                    "name": "Bern",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(7.44744 46.94809)",
+                    "geonames_id": 2661552
+                }
+            }
+        }
+    ]
 }

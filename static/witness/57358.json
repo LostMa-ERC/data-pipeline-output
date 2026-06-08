@@ -5,8 +5,48 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/15403"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58944,
+            "shelfmark": "Ms. Prov. o. 70",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60317,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48437,
+                "name": "Thüringer Universitäts- und Landesbibliothek Jena",
+                "alternative_names": [],
+                "viaf": "125779981.000000",
+                "settlement": {
+                    "id": 47380,
+                    "name": "Jena",
+                    "region": "Thuringia",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.5899 50.92878)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2895044
+                }
+            }
+        }
+    ]
 }

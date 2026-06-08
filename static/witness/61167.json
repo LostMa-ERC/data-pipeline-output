@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 61167,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "h",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1464-01-01",
+    "creation_date_max": "1464-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
+    "urls": [
+        "https://www.handschriftencensus.de/4746"
+    ],
+    "manuscripts": [
+        {
+            "id": 61166,
+            "shelfmark": "Ms. germ. qu. 111",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 61168,
+                    "part_order": 1,
+                    "part_of_text": "Full text",
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "3ra-65rb"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57865,
+                "name": "Universitätsbibliothek Johann Christian Senckenberg",
+                "alternative_names": [],
+                "viaf": "123368197.000000",
+                "isni": "0000000123217358",
+                "settlement": {
+                    "id": 42789,
+                    "name": "Frankfurt am Main",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.66361 50.13083)",
+                    "geonames_id": 3220968
+                }
+            }
+        }
+    ]
+}

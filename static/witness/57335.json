@@ -5,8 +5,48 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1325-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2055"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59297,
+            "shelfmark": "ohne Sign.",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60670,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57789,
+                "name": "Pfarrei St. Stephanus Elsen",
+                "alternative_names": [
+                    "Katholische Pfarramt St. Stephanus"
+                ],
+                "viaf": "198184729.000000",
+                "settlement": {
+                    "id": 57665,
+                    "name": "Grevenbroich",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(6.5827 51.09102)",
+                    "geonames_id": 2917540
+                }
+            }
+        }
+    ]
 }

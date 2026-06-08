@@ -6,8 +6,48 @@
     "siglum": "(m)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1500-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/6056"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59274,
+            "shelfmark": "Hs. 27 [verschollen]",
+            "old_shelfmarks": [
+                "früher Hs. 48"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60647,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57952,
+                "name": "Meininger Hofbibliothek",
+                "alternative_names": [],
+                "viaf": "3318159337565412917248.000000",
+                "settlement": {
+                    "id": 42866,
+                    "name": "Meiningen",
+                    "region": "Thuringia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.40584 50.56633)",
+                    "geonames_id": 6551151
+                }
+            }
+        }
+    ]
 }

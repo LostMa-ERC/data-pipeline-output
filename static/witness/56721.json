@@ -5,8 +5,88 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1396-01-01",
+    "creation_date_max": "1397-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2064"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59157,
+            "shelfmark": "Akc 1949/143",
+            "old_shelfmarks": [
+                "früher Liegnitz / Legnica, Ritterakademie, ohne Sign."
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60530,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57779,
+                "name": "Uniwersytet Wrocławski Biblioteka",
+                "alternative_names": [],
+                "viaf": "124903538.000000",
+                "isni": "0000000121510753",
+                "settlement": {
+                    "id": 43157,
+                    "name": "Wrocław",
+                    "region": "Lower Silesia",
+                    "country": "Poland",
+                    "location_mappable": "POINT(17.03859 51.1081)",
+                    "geonames_id": 7530801
+                }
+            }
+        },
+        {
+            "id": 59158,
+            "shelfmark": "4° Ms. poet. et roman. 25[3",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60531,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57881,
+                "name": "Universitätsbibliothek Kassel – Landesbibliothek und Murhardsche Bibliothek der Stadt Kassel",
+                "alternative_names": [
+                    "Murhardsche Bibliothek der Stadt Kassel und Landesbibliothek"
+                ],
+                "viaf": "132387234.000000",
+                "isni": "0000000122847147",
+                "settlement": {
+                    "id": 48423,
+                    "name": "Kassel",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(9.49974058 51.31602217)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2892518
+                }
+            }
+        }
+    ]
 }

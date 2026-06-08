@@ -6,8 +6,47 @@
     "siglum": "(K)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1250-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1078"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59245,
+            "shelfmark": "Best. 701 Nr. 759, 14b",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60618,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57885,
+                "name": "Landeshauptarchiv Koblenz",
+                "alternative_names": [],
+                "viaf": "124407595.000000",
+                "isni": "0000000122427142",
+                "settlement": {
+                    "id": 42815,
+                    "name": "Koblenz",
+                    "region": "Rheinland-Pfalz",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.57883 50.35357)",
+                    "geonames_id": 2886946
+                }
+            }
+        }
+    ]
 }

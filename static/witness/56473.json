@@ -5,8 +5,49 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1400-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/3015"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59236,
+            "shelfmark": "ohne Sign. [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60609,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57945,
+                "name": "Benediktinerabtei St. Georgenberg-Fiecht, Bibliothek Vomp-Fiecht",
+                "alternative_names": [
+                    "Stift Fiecht"
+                ],
+                "viaf": "6533174413961108389888.000000",
+                "isni": "0000000114569060",
+                "settlement": {
+                    "id": 57661,
+                    "name": "Stans",
+                    "region": "Tyrol",
+                    "country": "Austria",
+                    "location_mappable": "POINT(11.71667 47.36667)",
+                    "geonames_id": 2764651
+                }
+            }
+        }
+    ]
 }

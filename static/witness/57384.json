@@ -5,8 +5,45 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_year": "1356-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/3051"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58506,
+            "shelfmark": "msb 0042",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59879,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57751,
+                "name": "Staats- und Universitätsbibliothek Bremen",
+                "alternative_names": [],
+                "viaf": "136044917.000000",
+                "isni": "0000000404768885",
+                "settlement": {
+                    "id": 43582,
+                    "name": "Bremen",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.80717 53.07582)",
+                    "geonames_id": 2944388
+                }
+            }
+        }
+    ]
 }

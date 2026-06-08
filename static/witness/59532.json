@@ -5,8 +5,86 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1325-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1708"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58374,
+            "shelfmark": "Handschriftenfragmente und Inkunabeln Nr. 10",
+            "old_shelfmarks": [
+                "früher Weimar, Hauptstaatsarchiv, Ernest. Gesamtarchiv, Reg. V, 1 ; davor Weimar, Herzogin Anna Amalia Bibl., Cod. Fol. 439a (13)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59747,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57855,
+                "name": "Hauptstaatsarchiv Weimar",
+                "alternative_names": [],
+                "viaf": "157197637.000000",
+                "isni": "0000000089824460",
+                "settlement": {
+                    "id": 57632,
+                    "name": "Weimar",
+                    "region": "Thuringia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.32903 50.9803)",
+                    "geonames_id": 2812482
+                }
+            }
+        },
+        {
+            "id": 58372,
+            "shelfmark": "Cod. Memb. I 133",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59745,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43754,
+                "name": "Forschungsbibliothek Gotha",
+                "alternative_names": [
+                    "Landesbibliothek Gotha."
+                ],
+                "viaf": "148396150.000000",
+                "isni": "0000000107030008",
+                "settlement": {
+                    "id": 43677,
+                    "name": "Gotha",
+                    "region": "Thuringia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.70193 50.94823)",
+                    "geonames_id": 2918752
+                }
+            }
+        }
+    ]
 }

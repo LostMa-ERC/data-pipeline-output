@@ -5,8 +5,48 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1300-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/23494"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59276,
+            "shelfmark": "Cod. 358, Falzstreifen",
+            "old_shelfmarks": [
+                "früher CLII"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60649,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57852,
+                "name": "Stiftsbibliothek Vorau",
+                "alternative_names": [],
+                "viaf": "141190040.000000",
+                "settlement": {
+                    "id": 57732,
+                    "name": "Vorau",
+                    "region": "Styria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(15.88754 47.40548)",
+                    "geonames_id": 2762299
+                }
+            }
+        }
+    ]
 }

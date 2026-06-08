@@ -6,8 +6,49 @@
     "siglum": "(z)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1464-01-01",
+    "creation_date_max": "1467-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/5579"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58539,
+            "shelfmark": "Cod. VI Fc 26",
+            "old_shelfmarks": [
+                "früher Prag, Nationalbibl., Cod. R VI Fc 26 ; davor Raudnitz / Roudnice, Lobkowitzsche Bibl., Cod. VI Fc 26"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59912,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57820,
+                "name": "Roudnická Lobkowiczká knihovna",
+                "alternative_names": [],
+                "viaf": "134561644.000000",
+                "isni": "0000000122891287",
+                "settlement": {
+                    "id": 57697,
+                    "name": "Nelahozeves",
+                    "region": "Central Bohemia",
+                    "country": "Czechia",
+                    "location_mappable": "POINT(14.2938 50.27044)",
+                    "geonames_id": 11920912
+                }
+            }
+        }
+    ]
 }

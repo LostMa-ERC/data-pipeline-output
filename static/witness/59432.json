@@ -3,10 +3,89 @@
     "id": 59432,
     "is_unobserved": false,
     "is_excerpt": false,
+    "siglum": "Fragm. 2",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1326-01-01",
+    "creation_date_max": "1375-12-31",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2104"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58702,
+            "shelfmark": "Cgm 5249/6",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60075,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        },
+        {
+            "id": 58705,
+            "shelfmark": "Bibl. des Hist. Vereins, Ms. Misc. 62, Fragm. germ. 2",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60078,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57917,
+                "name": "Stadtarchiv Regensburg",
+                "alternative_names": [],
+                "viaf": "124988994.000000",
+                "isni": "0000000123081956",
+                "settlement": {
+                    "id": 42892,
+                    "name": "Regensburg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(12.09536 49.01681)",
+                    "geonames_id": 6556611
+                }
+            }
+        }
+    ]
 }

@@ -5,8 +5,47 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1476-01-01",
+    "creation_date_max": "1500-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/7761"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58271,
+            "shelfmark": "Ms. 10 [Verbleib unbekannt]",
+            "old_shelfmarks": [
+                "früher Privatbesitz Antiquariat Gilhofer und Ranschburg, Wien, Nr. 1920/117,726 ; davor Privatbesitz Antiquariat Gilhofer und Ranschburg, Wien, Nr. 1919/114,319"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59644,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57829,
+                "name": "Library of Edward L. Stone",
+                "alternative_names": [],
+                "settlement": {
+                    "id": 57708,
+                    "name": "Roanoke",
+                    "region": "Virginia",
+                    "country": "United States",
+                    "location_mappable": "POINT(-79.94143 37.27097)",
+                    "geonames_id": 4782167
+                }
+            }
+        }
+    ]
 }

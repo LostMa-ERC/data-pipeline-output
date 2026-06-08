@@ -5,8 +5,47 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1326-01-01",
+    "creation_date_max": "1400-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/2322"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58455,
+            "shelfmark": "Rep. 2 Nr. 20 III",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59828,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57909,
+                "name": "Niedersächsisches Staatsarchiv Osnabrück",
+                "alternative_names": [],
+                "viaf": "312800100.000000",
+                "isni": "0000000113287213",
+                "settlement": {
+                    "id": 42885,
+                    "name": "Osnabrück",
+                    "region": "Lower Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.05213 52.27383)",
+                    "geonames_id": 6552851
+                }
+            }
+        }
+    ]
 }

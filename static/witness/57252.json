@@ -5,8 +5,59 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1350-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1789"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58437,
+            "shelfmark": "[Druck] 33.4.625, Vorsätze",
+            "old_shelfmarks": [
+                "früher Dresden, Bibl. des Gymnasiums zum Heiligen Kreuz, ohne Sign. (1)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59810,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43809,
+                "name": "Sächsische Landesbibliothek",
+                "alternative_names": [
+                    "Sächsische Landesbibliothek (Drezno).",
+                    "Sächsische Landesbibliothek (Dresden, Alemanya)",
+                    "Sächsische Landesbibliothek Dresden",
+                    "SLUB",
+                    "Sächsische Landesbibliothek (Drēzdene, Vācija)",
+                    "Sachsische Landesbibliothek (Alemanha)",
+                    "Sächsische Landesbibliothek",
+                    "Sächsische Landesbibliothek (Drážďany, Německo)",
+                    "Sächsische Landesbibliothek (Dresde, Allemagne)"
+                ],
+                "viaf": "122203699.000000",
+                "isni": "0000000123081585",
+                "settlement": {
+                    "id": 43698,
+                    "name": "Dresden",
+                    "region": "Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.73832 51.05089)",
+                    "geonames_id": 2935022
+                }
+            }
+        }
+    ]
 }

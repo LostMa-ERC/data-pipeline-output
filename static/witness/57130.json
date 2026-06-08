@@ -6,8 +6,46 @@
     "siglum": "(r)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_year": "1466-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/5613"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58258,
+            "shelfmark": "Cod. 821 (Standortnummer 44 A 6)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59631,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57920,
+                "name": "Biblioteca dell'Accademia Nazionale dei Lincei e Corsiniana",
+                "alternative_names": [],
+                "viaf": "168258922.000000",
+                "isni": "0000000122025055",
+                "settlement": {
+                    "id": 43070,
+                    "name": "Rome",
+                    "region": "Lazio",
+                    "country": "Italy",
+                    "location_mappable": "POINT(12.51133 41.89193)",
+                    "geonames_id": 3169070
+                }
+            }
+        }
+    ]
 }

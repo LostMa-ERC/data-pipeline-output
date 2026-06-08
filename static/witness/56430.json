@@ -5,8 +5,45 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1251-01-01",
+    "creation_date_max": "1300-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1202"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58250,
+            "shelfmark": "ohne Sign. [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59623,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57802,
+                "name": "Bibliothek des Trinitarierklosters, Krotoszyn",
+                "alternative_names": [],
+                "settlement": {
+                    "id": 57680,
+                    "name": "Krotoszyn",
+                    "region": "Greater Poland",
+                    "country": "Poland",
+                    "location_mappable": "POINT(17.43738 51.69868)",
+                    "geonames_id": 3094625
+                }
+            }
+        }
+    ]
 }

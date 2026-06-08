@@ -5,8 +5,83 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1326-01-01",
+    "creation_date_max": "1350-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1761"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59382,
+            "shelfmark": "Fragm. B 38a",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60755,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57754,
+                "name": "Stift Admont",
+                "alternative_names": [
+                    "Stiftsbibliothek Admont"
+                ],
+                "viaf": "128466393.000000",
+                "isni": "0000000088374939",
+                "settlement": {
+                    "id": 57629,
+                    "name": "Admont",
+                    "region": "Styria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(14.46075 47.57537)",
+                    "geonames_id": 2782979
+                }
+            }
+        },
+        {
+            "id": 59383,
+            "shelfmark": "Cod. a XII 25, Fragm. 39",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60756,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57922,
+                "name": "Stiftsbibliothek Sankt Peter Salzburg",
+                "alternative_names": [],
+                "viaf": "157960631.000000",
+                "settlement": {
+                    "id": 43623,
+                    "name": "Salzburg",
+                    "region": "Salzburg",
+                    "country": "Austria",
+                    "location_mappable": "POINT(13.04399 47.79941)",
+                    "geonames_id": 2766824
+                }
+            }
+        }
+    ]
 }

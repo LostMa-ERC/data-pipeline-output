@@ -6,8 +6,127 @@
     "siglum": "(R)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1225-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1207"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59064,
+            "shelfmark": "Cod. Donaueschingen 69",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60437,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43756,
+                "name": "Badische Landesbibliothek Karlsruhe",
+                "alternative_names": [
+                    "Badische Landesbibliothek.",
+                    "Badische Landesbibliothek (Karlsruhe, Allemagne)",
+                    "Badische Landesbibliothek, Musiksammlung Karlsruhe (D-KA)"
+                ],
+                "viaf": "156582730.000000",
+                "isni": "0000000405650782",
+                "settlement": {
+                    "id": 42811,
+                    "name": "Karlsruhe",
+                    "region": "Baden-Wurttemberg",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.40444 49.00937)",
+                    "geonames_id": 2892794
+                }
+            }
+        },
+        {
+            "id": 59066,
+            "shelfmark": "Fragm. I.5.1",
+            "old_shelfmarks": [
+                "früher Regensburg, Proske'sche Musiksammlung, ohne Sign. (1)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60439,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57915,
+                "name": "Bischöfliche Zentralbibliothek Regensburg",
+                "alternative_names": [],
+                "viaf": "144007598.000000",
+                "isni": "0000000406304515",
+                "settlement": {
+                    "id": 42892,
+                    "name": "Regensburg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(12.09536 49.01681)",
+                    "geonames_id": 6556611
+                }
+            }
+        },
+        {
+            "id": 59065,
+            "shelfmark": "Cgm 5249/31",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60438,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        }
+    ]
 }

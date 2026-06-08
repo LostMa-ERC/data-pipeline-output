@@ -5,8 +5,46 @@
     "is_excerpt": false,
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_year": "1474-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/4300"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59120,
+            "shelfmark": "2° Cod. 170",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60493,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57891,
+                "name": "Staats- und Stadtbibliothek Augsburg",
+                "alternative_names": [],
+                "viaf": "148564588.000000",
+                "isni": "0000000107031932",
+                "settlement": {
+                    "id": 42756,
+                    "name": "Augsburg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.89213 48.36733)",
+                    "geonames_id": 6557107
+                }
+            }
+        }
+    ]
 }

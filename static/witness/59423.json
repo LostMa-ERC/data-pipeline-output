@@ -3,10 +3,125 @@
     "id": 59423,
     "is_unobserved": false,
     "is_excerpt": false,
+    "siglum": "Fragm. 16",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1350-12-31",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1786"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58430,
+            "shelfmark": "Hdschr. 394",
+            "old_shelfmarks": [
+                "früher Tambach, Gräfl. Ortenburgische Bibl., ohne Sign. (Schmidt Nr. 4)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 61139,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43889,
+                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
+                "alternative_names": [
+                    "Staatsbibliothek zu Berlin.",
+                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
+                    "Staatsbibliothek Berlin"
+                ],
+                "viaf": "157207056.000000",
+                "isni": "0000000123699481",
+                "settlement": {
+                    "id": 43580,
+                    "name": "Berlin",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
+                }
+            }
+        },
+        {
+            "id": 58434,
+            "shelfmark": "Fragmentensammlung 191",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59807,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57900,
+                "name": "Bayerisches Hauptstaatsarchiv",
+                "alternative_names": [],
+                "viaf": "141957820.000000",
+                "isni": "0000000122385384",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        },
+        {
+            "id": 58432,
+            "shelfmark": "ohne Sign. (1)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59805,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57948,
+                "name": "Evangelisch-Lutherische St. Mang-Kirchengemeinde Kempten",
+                "alternative_names": [],
+                "viaf": "2248145856969522806784.000000",
+                "settlement": {
+                    "id": 57673,
+                    "name": "Kempten",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.31324 47.71843)",
+                    "geonames_id": 6559027
+                }
+            }
+        }
+    ]
 }

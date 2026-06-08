@@ -6,8 +6,46 @@
     "siglum": "(U)",
     "alternative_sigla": [],
     "status": "fragmentary",
+    "creation_date_min": "1226-01-01",
+    "creation_date_max": "1275-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/1073"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 59340,
+            "shelfmark": "Cod. 7/8",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60713,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57845,
+                "name": "Stiftsbibliothek St. Paul im Lavanttal",
+                "alternative_names": [],
+                "viaf": "137183674.000000",
+                "settlement": {
+                    "id": 57725,
+                    "name": "Sankt Paul im Lavanttal",
+                    "region": "Carinthia",
+                    "country": "Austria",
+                    "location_mappable": "POINT(14.84877 46.69869)",
+                    "geonames_id": 7871682
+                }
+            }
+        }
+    ]
 }

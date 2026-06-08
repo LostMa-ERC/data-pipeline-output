@@ -6,8 +6,48 @@
     "siglum": "(a)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_year": "1441-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/5468"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58744,
+            "shelfmark": "Bibliothek, Hs. 998",
+            "old_shelfmarks": [
+                "olim Hs. 998 + 5383 + 2285"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60117,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57907,
+                "name": "Germanisches Nationalmuseum",
+                "alternative_names": [],
+                "viaf": "131883509.000000",
+                "isni": "000000012161603X",
+                "settlement": {
+                    "id": 42881,
+                    "name": "Nürnberg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.0768 49.4541)",
+                    "geonames_id": 6556832
+                }
+            }
+        }
+    ]
 }

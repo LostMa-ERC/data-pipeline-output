@@ -6,8 +6,51 @@
     "siglum": "(K)",
     "alternative_sigla": [],
     "status": "complete",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1350-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
     "urls": [
         "https://www.handschriftencensus.de/4064"
     ],
-    "manuscripts": []
+    "manuscripts": [
+        {
+            "id": 58341,
+            "shelfmark": "Cod. 8097 III",
+            "old_shelfmarks": [
+                "früher Warschau, Nationalbibl., Akc. 8711 ; davor Thorn / Toruń, Universitätsbibl., Rps 28/III ; davor Königsberg, Staats- und Universitätsbibl., Hs. 898"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59714,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57744,
+                "name": "Biblioteka Narodowa",
+                "alternative_names": [
+                    "National Library of Poland"
+                ],
+                "viaf": "132112363.000000",
+                "isni": "0000000109428415",
+                "settlement": {
+                    "id": 43156,
+                    "name": "Warsaw",
+                    "region": "Mazovia",
+                    "country": "Poland",
+                    "location_mappable": "POINT(21.01178 52.22977)",
+                    "geonames_id": 756135
+                }
+            }
+        }
+    ]
 }

@@ -1,0 +1,58 @@
+{
+    "type": "witness",
+    "id": 61175,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "b",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1411-01-01",
+    "creation_date_max": "1430-12-31",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
+    "urls": [
+        "https://www.handschriftencensus.de/5303"
+    ],
+    "manuscripts": [
+        {
+            "id": 61174,
+            "shelfmark": "mgq 1340",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 61176,
+                    "part_order": 1,
+                    "part_of_text": "Full text",
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "49r-209v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57886,
+                "name": "Biblioteka Jagiellońska",
+                "alternative_names": [],
+                "viaf": "148485690.000000",
+                "isni": "000000012375281X",
+                "settlement": {
+                    "id": 43136,
+                    "name": "Krakow",
+                    "region": "Lesser Poland",
+                    "country": "Poland",
+                    "location_mappable": "POINT(19.93658 50.06143)",
+                    "geonames_id": 3094802
+                }
+            }
+        }
+    ]
+}
