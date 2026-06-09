@@ -14,6 +14,43 @@
     ],
     "manuscripts": [
         {
+            "id": 59361,
+            "shelfmark": "Fragm.-Slg. A II 1",
+            "old_shelfmarks": [
+                "früher München, Staatsarchiv, Fragm.-Slg. Nr. 2"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60734,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57901,
+                "name": "Staatsarchiv München",
+                "alternative_names": [],
+                "viaf": "136889424.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        },
+        {
             "id": 59360,
             "shelfmark": "Hs, 511",
             "old_shelfmarks": [
@@ -56,43 +93,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(7.85222 47.9959)",
                     "geonames_id": 2925177
-                }
-            }
-        },
-        {
-            "id": 59361,
-            "shelfmark": "Fragm.-Slg. A II 1",
-            "old_shelfmarks": [
-                "früher München, Staatsarchiv, Fragm.-Slg. Nr. 2"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60734,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57901,
-                "name": "Staatsarchiv München",
-                "alternative_names": [],
-                "viaf": "136889424.000000",
-                "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
                 }
             }
         },

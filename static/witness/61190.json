@@ -1,0 +1,68 @@
+{
+    "type": "witness",
+    "id": 61190,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Copie Boysset",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1372-01-01",
+    "creation_date_max": "1375-12-31",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
+    "creation_date_text": "Written between 1372 and 1375 by Bertran Boysset d'Arles",
+    "urls": [
+        "https://arlima.net/no/6488",
+        "http://jonas.irht.cnrs.fr/manuscrit/249"
+    ],
+    "scripta": {
+        "id": 48775,
+        "name": "prov.",
+        "description": "provençal",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 46138,
+            "shelfmark": "63",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 61191,
+                    "part_order": 1,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "30r-50v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43959,
+                "name": "Musée Paul Arbaud",
+                "alternative_names": [
+                    "Musée Arbaud",
+                    "Musée Arbaud (Aix-en-Provence)",
+                    "Musée Paul Arbaud Aix-en-Provence, Bouches-du-Rhône"
+                ],
+                "viaf": "127643535.000000",
+                "isni": "000000012154497X",
+                "settlement": {
+                    "id": 43633,
+                    "name": "Aix-en-Provence",
+                    "region": "Provence-Alpes-Côte d'Azur",
+                    "country": "France",
+                    "location_mappable": "POINT(5.44973 43.5283)",
+                    "geonames_id": 3038354
+                }
+            }
+        }
+    ]
+}

@@ -13,6 +13,41 @@
     ],
     "manuscripts": [
         {
+            "id": 59072,
+            "shelfmark": "Fragm. 36",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60445,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57769,
+                "name": "Stadtbibliothek Braunschweig",
+                "alternative_names": [],
+                "viaf": "146010086.000000",
+                "isni": "0000000106699658",
+                "settlement": {
+                    "id": 57641,
+                    "name": "Braunschweig",
+                    "region": "Lower Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.52673 52.26594)",
+                    "geonames_id": 2945024
+                }
+            }
+        },
+        {
             "id": 59073,
             "shelfmark": "4° Cod. Ms. philol. 184:VII",
             "old_shelfmarks": [],
@@ -46,41 +81,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(9.93228 51.53443)",
                     "geonames_id": 2918632
-                }
-            }
-        },
-        {
-            "id": 59072,
-            "shelfmark": "Fragm. 36",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60445,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57769,
-                "name": "Stadtbibliothek Braunschweig",
-                "alternative_names": [],
-                "viaf": "146010086.000000",
-                "isni": "0000000106699658",
-                "settlement": {
-                    "id": 57641,
-                    "name": "Braunschweig",
-                    "region": "Lower Saxony",
-                    "country": "Germany",
-                    "location_mappable": "POINT(10.52673 52.26594)",
-                    "geonames_id": 2945024
                 }
             }
         }
