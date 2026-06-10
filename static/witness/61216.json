@@ -1,0 +1,72 @@
+{
+    "type": "witness",
+    "id": 61216,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Madrid 9/4923",
+    "alternative_sigla": [],
+    "status": "defective",
+    "creation_date_min": "1301-01-01",
+    "creation_date_max": "1320-12-31",
+    "creation_date_text": "ms. déb. 14e s.; Navarre [Brunel 40; Oroz2 207] (DOM); 13e s. (Jonas)",
+    "urls": [
+        "http://jonas.irht.cnrs.fr/manuscrit/32844"
+    ],
+    "scripta": {
+        "id": 61195,
+        "name": "lang.",
+        "description": "languedocien",
+        "urls": []
+    },
+    "manuscripts": [
+        {
+            "id": 61219,
+            "shelfmark": "9/4923",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://portail.biblissima.fr/ark:/43093/mdata8b768a6b02926757263c7197d6b24ae0f889072a"
+            ],
+            "ark": "ark:/43093/mdata8b768a6b02926757263c7197d6b24ae0f889072a",
+            "witness_parts": [
+                {
+                    "id": 61218,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1-143"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43952,
+                "name": "Real Academia de la Historia. Biblioteca",
+                "alternative_names": [
+                    "Real Academia de la historia Madrid, Biblioteca",
+                    "Academia de la Historia, Madrid. Biblioteca",
+                    "Real Academia de la Historia (Španělsko). Biblioteca",
+                    "Real Academia de la Historia Biblioteca",
+                    "Real Academia de la Historia (Espanya). Biblioteca",
+                    "Biblioteca de la Real Academia de la Historia",
+                    "Real Academia de la Historia (España) Biblioteca"
+                ],
+                "viaf": "122074788.000000",
+                "isni": "000000012096936X",
+                "settlement": {
+                    "id": 43714,
+                    "name": "Madrid",
+                    "country": "Spain",
+                    "location_mappable": "POINT(-3.70256 40.4165)",
+                    "geonames_id": 3117735
+                }
+            }
+        }
+    ]
+}

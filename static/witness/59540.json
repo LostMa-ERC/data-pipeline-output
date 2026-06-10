@@ -13,15 +13,17 @@
     ],
     "manuscripts": [
         {
-            "id": 58770,
-            "shelfmark": "mgf 746, Bl. 4-8",
-            "old_shelfmarks": [],
+            "id": 58773,
+            "shelfmark": "Hdschr. 269",
+            "old_shelfmarks": [
+                "früher Privatbesitz Antiquariat Hauswedell & Nolte, Hamburg, Nr. 1987/269,4027 ; davor Privatbesitz Antiquariat Hauswedell & Nolte, Hamburg, Nr. 1978/225,931"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60143,
+                    "id": 60146,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -127,17 +129,15 @@
             }
         },
         {
-            "id": 58773,
-            "shelfmark": "Hdschr. 269",
-            "old_shelfmarks": [
-                "früher Privatbesitz Antiquariat Hauswedell & Nolte, Hamburg, Nr. 1987/269,4027 ; davor Privatbesitz Antiquariat Hauswedell & Nolte, Hamburg, Nr. 1978/225,931"
-            ],
+            "id": 58770,
+            "shelfmark": "mgf 746, Bl. 4-8",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60146,
+                    "id": 60143,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

@@ -10,8 +10,15 @@
     "creation_date_max": "1305-12-31",
     "creation_date_text": "Milieu ou troisième quart du XIIIe siècle (Jonas); 1em. 13es. ou Pächt 2eq. 13es., Licht et Frese 1erq. 13es., Careri ca. 1300 (DÉAF)",
     "urls": [
-        "http://jonas.irht.cnrs.fr/manuscrit/40120"
+        "http://jonas.irht.cnrs.fr/manuscrit/40120",
+        "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3628"
     ],
+    "scripta": {
+        "id": 57452,
+        "name": "poit.-saint.",
+        "description": "poitevin-saintongeais",
+        "urls": []
+    },
     "manuscripts": [
         {
             "id": 45341,

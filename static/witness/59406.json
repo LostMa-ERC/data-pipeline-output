@@ -13,6 +13,63 @@
     ],
     "manuscripts": [
         {
+            "id": 58429,
+            "shelfmark": "Wilhelm Wilmanns [verschollen]",
+            "old_shelfmarks": [
+                "früher Privatbesitz Antiquariat Lempertz (Hanstein), Bonn"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59802,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        },
+        {
+            "id": 58428,
+            "shelfmark": "Best. 701 Nr. 759, 14a",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59801,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57885,
+                "name": "Landeshauptarchiv Koblenz",
+                "alternative_names": [],
+                "viaf": "124407595.000000",
+                "isni": "0000000122427142",
+                "settlement": {
+                    "id": 42815,
+                    "name": "Koblenz",
+                    "region": "Rheinland-Pfalz",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.57883 50.35357)",
+                    "geonames_id": 2886946
+                }
+            }
+        },
+        {
             "id": 58422,
             "shelfmark": "Fragm. 342",
             "old_shelfmarks": [
@@ -89,63 +146,6 @@
                     "geonames_id": 2950159
                 }
             }
-        },
-        {
-            "id": 58428,
-            "shelfmark": "Best. 701 Nr. 759, 14a",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59801,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57885,
-                "name": "Landeshauptarchiv Koblenz",
-                "alternative_names": [],
-                "viaf": "124407595.000000",
-                "isni": "0000000122427142",
-                "settlement": {
-                    "id": 42815,
-                    "name": "Koblenz",
-                    "region": "Rheinland-Pfalz",
-                    "country": "Germany",
-                    "location_mappable": "POINT(7.57883 50.35357)",
-                    "geonames_id": 2886946
-                }
-            }
-        },
-        {
-            "id": 58429,
-            "shelfmark": "Wilhelm Wilmanns [verschollen]",
-            "old_shelfmarks": [
-                "früher Privatbesitz Antiquariat Lempertz (Hanstein), Bonn"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59802,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ]
         }
     ]
 }

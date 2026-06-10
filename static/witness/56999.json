@@ -13,15 +13,84 @@
     ],
     "manuscripts": [
         {
-            "id": 59124,
-            "shelfmark": "mgf 737, Bl. 19",
+            "id": 59127,
+            "shelfmark": "Cod. 92, Vorderer und hinterer Spiegel",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60497,
+                    "id": 60500,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57793,
+                "name": "Stiftsbibliothek Herzogenburg",
+                "alternative_names": [],
+                "viaf": "308189389.000000",
+                "settlement": {
+                    "id": 57670,
+                    "name": "Herzogenburg",
+                    "region": "Lower Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(15.69431 48.28137)",
+                    "geonames_id": 2776470
+                }
+            }
+        },
+        {
+            "id": 59125,
+            "shelfmark": "ohne Sign. [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60498,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57788,
+                "name": "Stiftsbibliothek Göttweig",
+                "alternative_names": [],
+                "viaf": "133188864.000000",
+                "isni": "0000000122695374",
+                "settlement": {
+                    "id": 57664,
+                    "name": "Furth bei Göttweig",
+                    "region": "Lower Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(15.61548 48.38146)",
+                    "geonames_id": 7872913
+                }
+            }
+        },
+        {
+            "id": 59123,
+            "shelfmark": "mgf 737, Bl. 16-18",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60496,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -92,15 +161,15 @@
             }
         },
         {
-            "id": 59123,
-            "shelfmark": "mgf 737, Bl. 16-18",
+            "id": 59124,
+            "shelfmark": "mgf 737, Bl. 19",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60496,
+                    "id": 60497,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -126,75 +195,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
-                }
-            }
-        },
-        {
-            "id": 59125,
-            "shelfmark": "ohne Sign. [verschollen]",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60498,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57788,
-                "name": "Stiftsbibliothek Göttweig",
-                "alternative_names": [],
-                "viaf": "133188864.000000",
-                "isni": "0000000122695374",
-                "settlement": {
-                    "id": 57664,
-                    "name": "Furth bei Göttweig",
-                    "region": "Lower Austria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(15.61548 48.38146)",
-                    "geonames_id": 7872913
-                }
-            }
-        },
-        {
-            "id": 59127,
-            "shelfmark": "Cod. 92, Vorderer und hinterer Spiegel",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60500,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57793,
-                "name": "Stiftsbibliothek Herzogenburg",
-                "alternative_names": [],
-                "viaf": "308189389.000000",
-                "settlement": {
-                    "id": 57670,
-                    "name": "Herzogenburg",
-                    "region": "Lower Austria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(15.69431 48.28137)",
-                    "geonames_id": 2776470
                 }
             }
         }

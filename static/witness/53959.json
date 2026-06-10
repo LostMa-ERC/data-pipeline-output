@@ -3,14 +3,22 @@
     "id": 53959,
     "is_unobserved": false,
     "is_excerpt": false,
+    "siglum": "gall. oct. 41",
     "alternative_sigla": [],
     "status": "complete",
-    "creation_date_min": "1216-01-01",
-    "creation_date_max": "1235-12-31",
-    "creation_date_text": "Première moitié du XIIIe siècle (vers 1220-1230 ?)",
+    "creation_date_min": "1201-01-01",
+    "creation_date_max": "1261-12-31",
+    "creation_date_text": "Première moitié du XIIIe siècle (vers 1220-1230 ?); Milieu du XIIIe siècle (Arlima); 13e (DOM, Jonas)",
     "urls": [
-        "http://jonas.irht.cnrs.fr/manuscrit/7292"
+        "http://jonas.irht.cnrs.fr/manuscrit/7292",
+        "https://arlima.net/no/7868"
     ],
+    "scripta": {
+        "id": 61212,
+        "name": "lang.: toul.",
+        "description": "languedocien: toulousain",
+        "urls": []
+    },
     "manuscripts": [
         {
             "id": 45442,
@@ -25,7 +33,7 @@
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "? (Fierabras)"
+                        "1r-71v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

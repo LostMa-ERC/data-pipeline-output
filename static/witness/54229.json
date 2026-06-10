@@ -3,15 +3,22 @@
     "id": 54229,
     "is_unobserved": false,
     "is_excerpt": false,
+    "siglum": "A",
     "alternative_sigla": [],
     "status": "complete",
     "creation_date_min": "1271-01-01",
     "creation_date_max": "1280-12-31",
-    "creation_date_text": "Vers 1275",
+    "creation_date_text": "Vers 1275 (Jonas, DOM)",
     "urls": [
         "http://jonas.irht.cnrs.fr/manuscrit/74424",
         "https://arlima.net/no/2948"
     ],
+    "scripta": {
+        "id": 61212,
+        "name": "lang.: toul.",
+        "description": "languedocien: toulousain",
+        "urls": []
+    },
     "manuscripts": [
         {
             "id": 45992,
@@ -27,7 +34,7 @@
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1-239"
+                        "1-70"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

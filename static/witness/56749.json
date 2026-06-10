@@ -13,6 +13,52 @@
     ],
     "manuscripts": [
         {
+            "id": 59172,
+            "shelfmark": "Hs. 1500, 24",
+            "old_shelfmarks": [
+                "olim Ms. Leuchte XXIV ; früher Privatsammlung, Leuchte, Berlin, Ms. XXIV ; davor Privatbesitz Hartmut Beckers, Münster ; davor Privatbesitz Beate Buchholz, Bonn, (3)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60545,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43938,
+                "name": "Universitätsbibliothek Freiburg im Breisgau",
+                "alternative_names": [
+                    "Universität Freiburg im Breisgau. Bibliothek",
+                    "Universitätsbibliothek Freiburg",
+                    "Albert-Ludwigs-Universität Fribourg-en-Brisgau, Allemagne, Bibliothek",
+                    "Universitätsbibliothek (Freiburg im Breisgau, Allemagne)",
+                    "Universitätsbibliothek Freiburg im Breisgau (D-FRu)",
+                    "Universitätsbibliothek (Fryburg Bryzgowijski).",
+                    "Universitätsbibliothek Freiburg, Breisgau, Deutschland",
+                    "Universitätsbibliothek"
+                ],
+                "viaf": "143595522.000000",
+                "isni": "0000000123314799",
+                "settlement": {
+                    "id": 42791,
+                    "name": "Freiburg im Breisgau",
+                    "region": "Freiburg Region",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.85222 47.9959)",
+                    "geonames_id": 2925177
+                }
+            }
+        },
+        {
             "id": 59169,
             "shelfmark": "Cod. 5 P 63",
             "old_shelfmarks": [],
@@ -93,52 +139,6 @@
                     "country": "Netherlands",
                     "location_mappable": "POINT(4.29861 52.07667)",
                     "geonames_id": 2747373
-                }
-            }
-        },
-        {
-            "id": 59172,
-            "shelfmark": "Hs. 1500, 24",
-            "old_shelfmarks": [
-                "olim Ms. Leuchte XXIV ; früher Privatsammlung, Leuchte, Berlin, Ms. XXIV ; davor Privatbesitz Hartmut Beckers, Münster ; davor Privatbesitz Beate Buchholz, Bonn, (3)"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60545,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43938,
-                "name": "Universitätsbibliothek Freiburg im Breisgau",
-                "alternative_names": [
-                    "Universität Freiburg im Breisgau. Bibliothek",
-                    "Universitätsbibliothek Freiburg",
-                    "Albert-Ludwigs-Universität Fribourg-en-Brisgau, Allemagne, Bibliothek",
-                    "Universitätsbibliothek (Freiburg im Breisgau, Allemagne)",
-                    "Universitätsbibliothek Freiburg im Breisgau (D-FRu)",
-                    "Universitätsbibliothek (Fryburg Bryzgowijski).",
-                    "Universitätsbibliothek Freiburg, Breisgau, Deutschland",
-                    "Universitätsbibliothek"
-                ],
-                "viaf": "143595522.000000",
-                "isni": "0000000123314799",
-                "settlement": {
-                    "id": 42791,
-                    "name": "Freiburg im Breisgau",
-                    "region": "Freiburg Region",
-                    "country": "Germany",
-                    "location_mappable": "POINT(7.85222 47.9959)",
-                    "geonames_id": 2925177
                 }
             }
         }

@@ -3,6 +3,7 @@
     "id": 53721,
     "is_unobserved": false,
     "is_excerpt": false,
+    "siglum": "NAF 4232",
     "alternative_sigla": [],
     "status": "defective",
     "creation_date_min": "1301-01-01",
@@ -12,6 +13,12 @@
         "http://jonas.irht.cnrs.fr/manuscrit/48097",
         "https://arlima.net/no/4988"
     ],
+    "scripta": {
+        "id": 61195,
+        "name": "lang.",
+        "description": "languedocien",
+        "urls": []
+    },
     "manuscripts": [
         {
             "id": 46074,
