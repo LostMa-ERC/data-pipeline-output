@@ -3,14 +3,21 @@
     "id": 54996,
     "is_unobserved": false,
     "is_excerpt": false,
+    "siglum": "fragm",
     "alternative_sigla": [],
     "status": "defective",
     "creation_date_min": "1373-01-01",
     "creation_date_max": "1403-12-31",
-    "creation_date_text": "minutier pour les années 1373-1403",
+    "creation_date_text": "minutier pour les années 1373-1403; 1398 (DOM)",
     "urls": [
         "http://jonas.irht.cnrs.fr/manuscrit/2525"
     ],
+    "scripta": {
+        "id": 48775,
+        "name": "prov.",
+        "description": "provençal",
+        "urls": []
+    },
     "manuscripts": [
         {
             "id": 45396,

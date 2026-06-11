@@ -3,6 +3,7 @@
     "id": 55011,
     "is_unobserved": false,
     "is_excerpt": false,
+    "siglum": "fragm",
     "alternative_sigla": [],
     "status": "defective",
     "creation_date_min": "1373-01-01",
@@ -11,6 +12,12 @@
     "urls": [
         "http://jonas.irht.cnrs.fr/manuscrit/2525"
     ],
+    "scripta": {
+        "id": 48775,
+        "name": "prov.",
+        "description": "provençal",
+        "urls": []
+    },
     "manuscripts": [
         {
             "id": 45396,

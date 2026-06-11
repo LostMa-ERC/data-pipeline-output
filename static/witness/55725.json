@@ -14,17 +14,15 @@
     ],
     "manuscripts": [
         {
-            "id": 49449,
-            "shelfmark": "Busta I, n. 7",
+            "id": 55606,
+            "shelfmark": "Busta I, n. 6a",
             "old_shelfmarks": [],
             "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://arca.irht.cnrs.fr/ark:/63955/md84mk61w68w"
-            ],
+            "collection_of_fragments": "unknown",
+            "urls": [],
             "witness_parts": [
                 {
-                    "id": 55602,
+                    "id": 55605,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
@@ -104,15 +102,17 @@
             }
         },
         {
-            "id": 55606,
-            "shelfmark": "Busta I, n. 6a",
+            "id": 49449,
+            "shelfmark": "Busta I, n. 7",
             "old_shelfmarks": [],
             "is_hypothetical": false,
-            "collection_of_fragments": "unknown",
-            "urls": [],
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://arca.irht.cnrs.fr/ark:/63955/md84mk61w68w"
+            ],
             "witness_parts": [
                 {
-                    "id": 55605,
+                    "id": 55602,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
