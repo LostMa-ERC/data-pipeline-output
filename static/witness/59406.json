@@ -13,6 +13,28 @@
     ],
     "manuscripts": [
         {
+            "id": 58429,
+            "shelfmark": "Wilhelm Wilmanns [verschollen]",
+            "old_shelfmarks": [
+                "früher Privatbesitz Antiquariat Lempertz (Hanstein), Bonn"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59802,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        },
+        {
             "id": 58424,
             "shelfmark": "mgf 923 Nr. 30",
             "old_shelfmarks": [],
@@ -89,28 +111,6 @@
                     "geonames_id": 2950159
                 }
             }
-        },
-        {
-            "id": 58429,
-            "shelfmark": "Wilhelm Wilmanns [verschollen]",
-            "old_shelfmarks": [
-                "früher Privatbesitz Antiquariat Lempertz (Hanstein), Bonn"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59802,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ]
         },
         {
             "id": 58428,

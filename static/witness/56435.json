@@ -47,6 +47,43 @@
             }
         },
         {
+            "id": 59137,
+            "shelfmark": "MS Frag. Germ. 1",
+            "old_shelfmarks": [
+                "früher Privatbesitz Theodor Bukounig, Enns"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60510,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57893,
+                "name": "University College London",
+                "alternative_names": [],
+                "viaf": "128428569.000000",
+                "isni": "0000000121901201",
+                "settlement": {
+                    "id": 43399,
+                    "name": "London",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.12574 51.50853)",
+                    "geonames_id": 2643743
+                }
+            }
+        },
+        {
             "id": 59159,
             "shelfmark": "Cod. 404.9 (10) Novi",
             "old_shelfmarks": [],
@@ -87,43 +124,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(10.54095 52.16442)",
                     "geonames_id": 2806914
-                }
-            }
-        },
-        {
-            "id": 59137,
-            "shelfmark": "MS Frag. Germ. 1",
-            "old_shelfmarks": [
-                "früher Privatbesitz Theodor Bukounig, Enns"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60510,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57893,
-                "name": "University College London",
-                "alternative_names": [],
-                "viaf": "128428569.000000",
-                "isni": "0000000121901201",
-                "settlement": {
-                    "id": 43399,
-                    "name": "London",
-                    "region": "England",
-                    "country": "United Kingdom",
-                    "location_mappable": "POINT(-0.12574 51.50853)",
-                    "geonames_id": 2643743
                 }
             }
         }

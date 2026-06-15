@@ -47,15 +47,15 @@
             }
         },
         {
-            "id": 58769,
-            "shelfmark": "mgf 746, Bl. 3",
+            "id": 58772,
+            "shelfmark": "mgf 923 Nr. 43",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60142,
+                    "id": 60145,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -85,15 +85,15 @@
             }
         },
         {
-            "id": 58772,
-            "shelfmark": "mgf 923 Nr. 43",
+            "id": 58769,
+            "shelfmark": "mgf 746, Bl. 3",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60145,
+                    "id": 60142,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
