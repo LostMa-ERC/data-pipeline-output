@@ -54,41 +54,6 @@
             }
         },
         {
-            "id": 58867,
-            "shelfmark": "Fragm. germ. 1a und 1b",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60240,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57814,
-                "name": "Stiftsbibliothek Melk",
-                "alternative_names": [],
-                "viaf": "126160062.000000",
-                "isni": "0000000087035724",
-                "settlement": {
-                    "id": 57691,
-                    "name": "Melk",
-                    "region": "Lower Austria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(15.33186 48.22737)",
-                    "geonames_id": 2771682
-                }
-            }
-        },
-        {
             "id": 58869,
             "shelfmark": "Cod. 12850",
             "old_shelfmarks": [],
@@ -126,6 +91,41 @@
                     "country": "Austria",
                     "location_mappable": "POINT(16.37208 48.20849)",
                     "geonames_id": 2761369
+                }
+            }
+        },
+        {
+            "id": 58867,
+            "shelfmark": "Fragm. germ. 1a und 1b",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60240,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57814,
+                "name": "Stiftsbibliothek Melk",
+                "alternative_names": [],
+                "viaf": "126160062.000000",
+                "isni": "0000000087035724",
+                "settlement": {
+                    "id": 57691,
+                    "name": "Melk",
+                    "region": "Lower Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(15.33186 48.22737)",
+                    "geonames_id": 2771682
                 }
             }
         },
