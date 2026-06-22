@@ -13,6 +13,43 @@
     ],
     "manuscripts": [
         {
+            "id": 59044,
+            "shelfmark": "Hds. 168",
+            "old_shelfmarks": [
+                "früher Privatbesitz Ehrenfeld, Wien"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60417,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57776,
+                "name": "Stadt- und Landesbibliothek Dortmund",
+                "alternative_names": [],
+                "viaf": "137222644.000000",
+                "isni": "0000000123367057",
+                "settlement": {
+                    "id": 57650,
+                    "name": "Dortmund",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.466 51.51494)",
+                    "geonames_id": 2935517
+                }
+            }
+        },
+        {
             "id": 59043,
             "shelfmark": "Cod. 12780",
             "old_shelfmarks": [],
@@ -50,43 +87,6 @@
                     "country": "Austria",
                     "location_mappable": "POINT(16.37208 48.20849)",
                     "geonames_id": 2761369
-                }
-            }
-        },
-        {
-            "id": 59044,
-            "shelfmark": "Hds. 168",
-            "old_shelfmarks": [
-                "früher Privatbesitz Ehrenfeld, Wien"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60417,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57776,
-                "name": "Stadt- und Landesbibliothek Dortmund",
-                "alternative_names": [],
-                "viaf": "137222644.000000",
-                "isni": "0000000123367057",
-                "settlement": {
-                    "id": 57650,
-                    "name": "Dortmund",
-                    "region": "North Rhine-Westphalia",
-                    "country": "Germany",
-                    "location_mappable": "POINT(7.466 51.51494)",
-                    "geonames_id": 2935517
                 }
             }
         }

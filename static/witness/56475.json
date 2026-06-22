@@ -14,15 +14,17 @@
     ],
     "manuscripts": [
         {
-            "id": 59065,
-            "shelfmark": "Cgm 5249/31",
-            "old_shelfmarks": [],
+            "id": 59066,
+            "shelfmark": "Fragm. I.5.1",
+            "old_shelfmarks": [
+                "früher Regensburg, Proske'sche Musiksammlung, ohne Sign. (1)"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60438,
+                    "id": 60439,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -33,22 +35,18 @@
                 }
             ],
             "repository": {
-                "id": 47347,
-                "name": "Bayerische Staatsbibliothek",
-                "alternative_names": [
-                    "Bayerische Staatsbibliothek (München)",
-                    "Bawarska Biblioteka Państwowa",
-                    "Bayerische Staatsbibliothek München (D-Mbs)"
-                ],
-                "viaf": "129557156.000000",
+                "id": 57915,
+                "name": "Bischöfliche Zentralbibliothek Regensburg",
+                "alternative_names": [],
+                "viaf": "144007598.000000",
+                "isni": "0000000406304515",
                 "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
+                    "id": 42892,
+                    "name": "Regensburg",
+                    "region": "Bavaria",
                     "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
+                    "location_mappable": "POINT(12.09536 49.01681)",
+                    "geonames_id": 6556611
                 }
             }
         },
@@ -92,17 +90,15 @@
             }
         },
         {
-            "id": 59066,
-            "shelfmark": "Fragm. I.5.1",
-            "old_shelfmarks": [
-                "früher Regensburg, Proske'sche Musiksammlung, ohne Sign. (1)"
-            ],
+            "id": 59065,
+            "shelfmark": "Cgm 5249/31",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60439,
+                    "id": 60438,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -113,18 +109,22 @@
                 }
             ],
             "repository": {
-                "id": 57915,
-                "name": "Bischöfliche Zentralbibliothek Regensburg",
-                "alternative_names": [],
-                "viaf": "144007598.000000",
-                "isni": "0000000406304515",
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
                 "settlement": {
-                    "id": 42892,
-                    "name": "Regensburg",
-                    "region": "Bavaria",
+                    "id": 47346,
+                    "name": "Munich",
                     "country": "Germany",
-                    "location_mappable": "POINT(12.09536 49.01681)",
-                    "geonames_id": 6556611
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
                 }
             }
         }

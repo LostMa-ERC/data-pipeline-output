@@ -14,40 +14,6 @@
     ],
     "manuscripts": [
         {
-            "id": 59007,
-            "shelfmark": "ohne Signatur",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60380,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57815,
-                "name": "Schlossarchiv Mespelbrunn, Grafen von Ingelheim",
-                "alternative_names": [],
-                "viaf": "239677917.000000",
-                "settlement": {
-                    "id": 57692,
-                    "name": "Mespelbrunn",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(9.29194 49.91444)",
-                    "geonames_id": 3274989
-                }
-            }
-        },
-        {
             "id": 59006,
             "shelfmark": "ohne Sign. (1)",
             "old_shelfmarks": [],
@@ -78,6 +44,40 @@
                     "country": "Germany",
                     "location_mappable": "POINT(9.2273 49.6431)",
                     "geonames_id": 6558387
+                }
+            }
+        },
+        {
+            "id": 59007,
+            "shelfmark": "ohne Signatur",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60380,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57815,
+                "name": "Schlossarchiv Mespelbrunn, Grafen von Ingelheim",
+                "alternative_names": [],
+                "viaf": "239677917.000000",
+                "settlement": {
+                    "id": 57692,
+                    "name": "Mespelbrunn",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.29194 49.91444)",
+                    "geonames_id": 3274989
                 }
             }
         }
