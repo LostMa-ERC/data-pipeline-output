@@ -14,15 +14,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58667,
-            "shelfmark": "Inc. 712, ausgelöstes Fragment und Leimabklatsch [z.T. verschollen]",
+            "id": 58668,
+            "shelfmark": "Fragm. germ. 1",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60040,
+                    "id": 60041,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -85,15 +85,15 @@
             }
         },
         {
-            "id": 58668,
-            "shelfmark": "Fragm. germ. 1",
+            "id": 58667,
+            "shelfmark": "Inc. 712, ausgelöstes Fragment und Leimabklatsch [z.T. verschollen]",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60041,
+                    "id": 60040,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

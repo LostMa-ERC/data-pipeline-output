@@ -13,17 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 59292,
-            "shelfmark": "Charles E. Young Research Libr., Rouse L. 17",
-            "old_shelfmarks": [
-                "früher Los Angeles, University of California, Charles E. Young Research Libr., Coll. Richard and Mary Rouse, L. 20 (on deposit)"
-            ],
+            "id": 59287,
+            "shelfmark": "Bibliothek, Hs. 42574",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60665,
+                    "id": 60660,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -34,73 +32,18 @@
                 }
             ],
             "repository": {
-                "id": 57895,
-                "name": "University of California",
+                "id": 57907,
+                "name": "Germanisches Nationalmuseum",
                 "alternative_names": [],
-                "viaf": "140513378.000000",
-                "isni": "0000000123480690",
+                "viaf": "131883509.000000",
+                "isni": "000000012161603X",
                 "settlement": {
-                    "id": 43487,
-                    "name": "Los Angeles",
-                    "region": "California",
-                    "country": "United States",
-                    "location_mappable": "POINT(-118.24368 34.05223)",
-                    "geonames_id": 5368361
-                }
-            }
-        },
-        {
-            "id": 59291,
-            "shelfmark": "Hs. 50",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60664,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ]
-        },
-        {
-            "id": 59288,
-            "shelfmark": "ohne Sign. [verschollen]",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60661,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57857,
-                "name": "Herzogin Anna Amalia Bibliothek",
-                "alternative_names": [],
-                "viaf": "159332499.000000",
-                "isni": "0000000121955357",
-                "settlement": {
-                    "id": 57632,
-                    "name": "Weimar",
-                    "region": "Thuringia",
+                    "id": 42881,
+                    "name": "Nürnberg",
+                    "region": "Bavaria",
                     "country": "Germany",
-                    "location_mappable": "POINT(11.32903 50.9803)",
-                    "geonames_id": 2812482
+                    "location_mappable": "POINT(11.0768 49.4541)",
+                    "geonames_id": 6556832
                 }
             }
         },
@@ -140,15 +83,15 @@
             }
         },
         {
-            "id": 59287,
-            "shelfmark": "Bibliothek, Hs. 42574",
+            "id": 59291,
+            "shelfmark": "Hs. 50",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60660,
+                    "id": 60664,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -157,35 +100,18 @@
                     "has_pictorial_designs": false,
                     "decoration_is_unknown": false
                 }
-            ],
-            "repository": {
-                "id": 57907,
-                "name": "Germanisches Nationalmuseum",
-                "alternative_names": [],
-                "viaf": "131883509.000000",
-                "isni": "000000012161603X",
-                "settlement": {
-                    "id": 42881,
-                    "name": "Nürnberg",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(11.0768 49.4541)",
-                    "geonames_id": 6556832
-                }
-            }
+            ]
         },
         {
-            "id": 59286,
-            "shelfmark": "Cgm 5249/7b,c,d,h,i",
-            "old_shelfmarks": [
-                "früher z.T. Privatbesitz, Herbert Thoma, München, (1)"
-            ],
+            "id": 59289,
+            "shelfmark": "Cod. Ser. nova 3872",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60659,
+                    "id": 60662,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -196,22 +122,24 @@
                 }
             ],
             "repository": {
-                "id": 47347,
-                "name": "Bayerische Staatsbibliothek",
+                "id": 43792,
+                "name": "Österreichische Nationalbibliothek",
                 "alternative_names": [
-                    "Bayerische Staatsbibliothek (München)",
-                    "Bawarska Biblioteka Państwowa",
-                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                    "كتابخانهى ملى اتريش",
+                    "Áustria., Österreichische Nationalbibliothek",
+                    "הספרייה הלאומית של אוסטריה",
+                    "Austriacka Biblioteka Narodowa",
+                    "Österreichische Nationalbibliothek (Viedeň, Rakúsko)",
+                    "Österreichische Nationalbibliothek (Wien)"
                 ],
-                "viaf": "129557156.000000",
+                "viaf": "136765452.000000",
+                "isni": "0000000123064881",
                 "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
+                    "id": 43576,
+                    "name": "Vienna",
+                    "country": "Austria",
+                    "location_mappable": "POINT(16.37208 48.20849)",
+                    "geonames_id": 2761369
                 }
             }
         },
@@ -257,6 +185,84 @@
             }
         },
         {
+            "id": 59292,
+            "shelfmark": "Charles E. Young Research Libr., Rouse L. 17",
+            "old_shelfmarks": [
+                "früher Los Angeles, University of California, Charles E. Young Research Libr., Coll. Richard and Mary Rouse, L. 20 (on deposit)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60665,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57895,
+                "name": "University of California",
+                "alternative_names": [],
+                "viaf": "140513378.000000",
+                "isni": "0000000123480690",
+                "settlement": {
+                    "id": 43487,
+                    "name": "Los Angeles",
+                    "region": "California",
+                    "country": "United States",
+                    "location_mappable": "POINT(-118.24368 34.05223)",
+                    "geonames_id": 5368361
+                }
+            }
+        },
+        {
+            "id": 59286,
+            "shelfmark": "Cgm 5249/7b,c,d,h,i",
+            "old_shelfmarks": [
+                "früher z.T. Privatbesitz, Herbert Thoma, München, (1)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60659,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        },
+        {
             "id": 59284,
             "shelfmark": "Ms. 1703 Nr. 134 Fr 01",
             "old_shelfmarks": [],
@@ -292,15 +298,15 @@
             }
         },
         {
-            "id": 59289,
-            "shelfmark": "Cod. Ser. nova 3872",
+            "id": 59288,
+            "shelfmark": "ohne Sign. [verschollen]",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60662,
+                    "id": 60661,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -311,24 +317,18 @@
                 }
             ],
             "repository": {
-                "id": 43792,
-                "name": "Österreichische Nationalbibliothek",
-                "alternative_names": [
-                    "كتابخانهى ملى اتريش",
-                    "Áustria., Österreichische Nationalbibliothek",
-                    "הספרייה הלאומית של אוסטריה",
-                    "Austriacka Biblioteka Narodowa",
-                    "Österreichische Nationalbibliothek (Viedeň, Rakúsko)",
-                    "Österreichische Nationalbibliothek (Wien)"
-                ],
-                "viaf": "136765452.000000",
-                "isni": "0000000123064881",
+                "id": 57857,
+                "name": "Herzogin Anna Amalia Bibliothek",
+                "alternative_names": [],
+                "viaf": "159332499.000000",
+                "isni": "0000000121955357",
                 "settlement": {
-                    "id": 43576,
-                    "name": "Vienna",
-                    "country": "Austria",
-                    "location_mappable": "POINT(16.37208 48.20849)",
-                    "geonames_id": 2761369
+                    "id": 57632,
+                    "name": "Weimar",
+                    "region": "Thuringia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.32903 50.9803)",
+                    "geonames_id": 2812482
                 }
             }
         }

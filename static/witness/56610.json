@@ -13,17 +13,17 @@
     ],
     "manuscripts": [
         {
-            "id": 58555,
-            "shelfmark": "Berol. Mgq 1533",
+            "id": 58554,
+            "shelfmark": "Berol. Mgq 1532",
             "old_shelfmarks": [
-                "früher Berlin, Staatsbibl., mgq 1533"
+                "früher Berlin, Staatsbibl., mgq 1532"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59928,
+                    "id": 59927,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -50,17 +50,17 @@
             }
         },
         {
-            "id": 58554,
-            "shelfmark": "Berol. Mgq 1532",
+            "id": 58555,
+            "shelfmark": "Berol. Mgq 1533",
             "old_shelfmarks": [
-                "früher Berlin, Staatsbibl., mgq 1532"
+                "früher Berlin, Staatsbibl., mgq 1533"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59927,
+                    "id": 59928,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

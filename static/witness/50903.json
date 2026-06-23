@@ -65,11 +65,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55761,
+                    "id": 55758,
                     "part_order": 1,
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "86-87"
+                        "84-85"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -79,11 +79,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55759,
+                    "id": 55761,
                     "part_order": 1,
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "88-89"
+                        "86-87"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -121,11 +121,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55758,
+                    "id": 55759,
                     "part_order": 1,
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "84-85"
+                        "88-89"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
