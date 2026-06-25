@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 59179,
-            "shelfmark": "Bibliothek, Hs. 4365a",
+            "id": 59178,
+            "shelfmark": "Bibliothek, Hs. 2841a",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60552,
+                    "id": 60551,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -48,15 +48,15 @@
             }
         },
         {
-            "id": 59178,
-            "shelfmark": "Bibliothek, Hs. 2841a",
+            "id": 59179,
+            "shelfmark": "Bibliothek, Hs. 4365a",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60551,
+                    "id": 60552,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

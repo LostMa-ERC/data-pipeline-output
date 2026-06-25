@@ -21,11 +21,9 @@
     },
     "manuscripts": [
         {
-            "id": 48129,
-            "shelfmark": "Cgm 198",
-            "old_shelfmarks": [
-                "Cod. germ. 198"
-            ],
+            "id": 48137,
+            "shelfmark": "ME IV 5",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
@@ -33,8 +31,8 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48142,
-                    "part_order": 7,
+                    "id": 48148,
+                    "part_order": 5,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
@@ -49,153 +47,19 @@
                 }
             ],
             "repository": {
-                "id": 47347,
-                "name": "Bayerische Staatsbibliothek",
+                "id": 43836,
+                "name": "Wilhelmsstift. Bibliothek",
                 "alternative_names": [
-                    "Bayerische Staatsbibliothek (München)",
-                    "Bawarska Biblioteka Państwowa",
-                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                    "Konviktsbibliothek Wilhelmsstift"
                 ],
-                "viaf": "129557156.000000",
+                "viaf": "152590686.000000",
                 "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
+                    "id": 43709,
+                    "name": "Tübingen",
+                    "region": "Baden-Wurttemberg",
                     "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
-                }
-            }
-        },
-        {
-            "id": 48136,
-            "shelfmark": "4o Ms. poet. et roman. 29",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/9024"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48147,
-                    "part_order": 3,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 48422,
-                "name": "Gesamthochschul-Bibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek.",
-                "alternative_names": [],
-                "viaf": "172673709.000000",
-                "settlement": {
-                    "id": 48423,
-                    "name": "Kassel",
-                    "region": "Hesse",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(9.49974058 51.31602217)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2892518
-                }
-            }
-        },
-        {
-            "id": 48128,
-            "shelfmark": "98",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/9024"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48141,
-                    "part_order": 1,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "1r-19v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43869,
-                "name": "Universitätsbibliothek Gießen",
-                "alternative_names": [
-                    "Universitätsbibliothek Giessen (Alemania)",
-                    "Universitätsbibliothek Gießen, Allemagne",
-                    "Justus-Liebig-Universität, Universitätsbibliothek Gießen (D-GI)"
-                ],
-                "viaf": "154192976.000000",
-                "isni": "0000000123593820",
-                "settlement": {
-                    "id": 43621,
-                    "name": "Giessen",
-                    "region": "Hesse",
-                    "country": "Germany",
-                    "location_mappable": "POINT(8.67554 50.58727)",
-                    "geonames_id": 2920512
-                }
-            }
-        },
-        {
-            "id": 48127,
-            "shelfmark": "2o MS 638",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/9024"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48139,
-                    "part_order": 4,
-                    "number_of_verses": 9800,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-2v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 48418,
-                "name": "Universitätsbibliothek Greifswald",
-                "alternative_names": [],
-                "viaf": "142485406.000000",
-                "settlement": {
-                    "id": 42798,
-                    "name": "Greifswald",
-                    "region": "Mecklenburg-Vorpommern",
-                    "country": "Germany",
-                    "location_mappable": "POINT(13.38756 54.08809)",
-                    "geonames_id": 6551180
+                    "location_mappable": "POINT(9.05222 48.52266)",
+                    "geonames_id": 2820860
                 }
             }
         },
@@ -290,9 +154,11 @@
             }
         },
         {
-            "id": 48137,
-            "shelfmark": "ME IV 5",
-            "old_shelfmarks": [],
+            "id": 48129,
+            "shelfmark": "Cgm 198",
+            "old_shelfmarks": [
+                "Cod. germ. 198"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [
@@ -300,8 +166,8 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48148,
-                    "part_order": 5,
+                    "id": 48142,
+                    "part_order": 7,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
@@ -316,19 +182,153 @@
                 }
             ],
             "repository": {
-                "id": 43836,
-                "name": "Wilhelmsstift. Bibliothek",
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
                 "alternative_names": [
-                    "Konviktsbibliothek Wilhelmsstift"
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
                 ],
-                "viaf": "152590686.000000",
+                "viaf": "129557156.000000",
                 "settlement": {
-                    "id": 43709,
-                    "name": "Tübingen",
-                    "region": "Baden-Wurttemberg",
+                    "id": 47346,
+                    "name": "Munich",
                     "country": "Germany",
-                    "location_mappable": "POINT(9.05222 48.52266)",
-                    "geonames_id": 2820860
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        },
+        {
+            "id": 48128,
+            "shelfmark": "98",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/9024"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48141,
+                    "part_order": 1,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-19v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43869,
+                "name": "Universitätsbibliothek Gießen",
+                "alternative_names": [
+                    "Universitätsbibliothek Giessen (Alemania)",
+                    "Universitätsbibliothek Gießen, Allemagne",
+                    "Justus-Liebig-Universität, Universitätsbibliothek Gießen (D-GI)"
+                ],
+                "viaf": "154192976.000000",
+                "isni": "0000000123593820",
+                "settlement": {
+                    "id": 43621,
+                    "name": "Giessen",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.67554 50.58727)",
+                    "geonames_id": 2920512
+                }
+            }
+        },
+        {
+            "id": 48136,
+            "shelfmark": "4o Ms. poet. et roman. 29",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/9024"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48147,
+                    "part_order": 3,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48422,
+                "name": "Gesamthochschul-Bibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek.",
+                "alternative_names": [],
+                "viaf": "172673709.000000",
+                "settlement": {
+                    "id": 48423,
+                    "name": "Kassel",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(9.49974058 51.31602217)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2892518
+                }
+            }
+        },
+        {
+            "id": 48127,
+            "shelfmark": "2o MS 638",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/9024"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48139,
+                    "part_order": 4,
+                    "number_of_verses": 9800,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48418,
+                "name": "Universitätsbibliothek Greifswald",
+                "alternative_names": [],
+                "viaf": "142485406.000000",
+                "settlement": {
+                    "id": 42798,
+                    "name": "Greifswald",
+                    "region": "Mecklenburg-Vorpommern",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.38756 54.08809)",
+                    "geonames_id": 6551180
                 }
             }
         },

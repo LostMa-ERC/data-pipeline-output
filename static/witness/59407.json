@@ -13,40 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58433,
-            "shelfmark": "ohne Sign. (2)",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59806,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57948,
-                "name": "Evangelisch-Lutherische St. Mang-Kirchengemeinde Kempten",
-                "alternative_names": [],
-                "viaf": "2248145856969522806784.000000",
-                "settlement": {
-                    "id": 57673,
-                    "name": "Kempten",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(10.31324 47.71843)",
-                    "geonames_id": 6559027
-                }
-            }
-        },
-        {
             "id": 58431,
             "shelfmark": "mgq 1730",
             "old_shelfmarks": [],
@@ -81,6 +47,48 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
+                }
+            }
+        },
+        {
+            "id": 58436,
+            "shelfmark": "ms. 2718",
+            "old_shelfmarks": [
+                "früher L germ. 620.4°"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59809,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43839,
+                "name": "Bibliothéque Nationale et Universitaire de Strasbourg",
+                "alternative_names": [
+                    "Bibliothèque nationale et universitaire (Strasburg)",
+                    "Bibliothèque nationale et universitaire Strasbourg (F-Sn)",
+                    "Bibliothèque nationale et universitaire (Strasbourg)",
+                    "bibliothèque nationale et universitaire"
+                ],
+                "viaf": "135553188.000000",
+                "isni": "0000000121631491",
+                "settlement": {
+                    "id": 42736,
+                    "name": "Strasbourg",
+                    "region": "Grand Est",
+                    "country": "France",
+                    "location_mappable": "POINT(7.74553 48.58392)",
+                    "geonames_id": 2973783
                 }
             }
         },
@@ -124,17 +132,15 @@
             }
         },
         {
-            "id": 58436,
-            "shelfmark": "ms. 2718",
-            "old_shelfmarks": [
-                "früher L germ. 620.4°"
-            ],
+            "id": 58433,
+            "shelfmark": "ohne Sign. (2)",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59809,
+                    "id": 59806,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -145,23 +151,17 @@
                 }
             ],
             "repository": {
-                "id": 43839,
-                "name": "Bibliothéque Nationale et Universitaire de Strasbourg",
-                "alternative_names": [
-                    "Bibliothèque nationale et universitaire (Strasburg)",
-                    "Bibliothèque nationale et universitaire Strasbourg (F-Sn)",
-                    "Bibliothèque nationale et universitaire (Strasbourg)",
-                    "bibliothèque nationale et universitaire"
-                ],
-                "viaf": "135553188.000000",
-                "isni": "0000000121631491",
+                "id": 57948,
+                "name": "Evangelisch-Lutherische St. Mang-Kirchengemeinde Kempten",
+                "alternative_names": [],
+                "viaf": "2248145856969522806784.000000",
                 "settlement": {
-                    "id": 42736,
-                    "name": "Strasbourg",
-                    "region": "Grand Est",
-                    "country": "France",
-                    "location_mappable": "POINT(7.74553 48.58392)",
-                    "geonames_id": 2973783
+                    "id": 57673,
+                    "name": "Kempten",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.31324 47.71843)",
+                    "geonames_id": 6559027
                 }
             }
         }

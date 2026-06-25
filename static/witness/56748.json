@@ -14,17 +14,15 @@
     ],
     "manuscripts": [
         {
-            "id": 59165,
-            "shelfmark": "Hs. 3234 Nr. 13",
-            "old_shelfmarks": [
-                "früher 3244 Nr. 13"
-            ],
+            "id": 59166,
+            "shelfmark": "Hs. 3250",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60538,
+                    "id": 60539,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -99,15 +97,17 @@
             }
         },
         {
-            "id": 59166,
-            "shelfmark": "Hs. 3250",
-            "old_shelfmarks": [],
+            "id": 59165,
+            "shelfmark": "Hs. 3234 Nr. 13",
+            "old_shelfmarks": [
+                "früher 3244 Nr. 13"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60539,
+                    "id": 60538,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

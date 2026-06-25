@@ -13,6 +13,45 @@
     ],
     "manuscripts": [
         {
+            "id": 58971,
+            "shelfmark": "ohne Sign",
+            "old_shelfmarks": [
+                "früher Aspersdorf, Pfarrarchiv"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60344,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57824,
+                "name": "Knabenseminar Hollabrunn",
+                "alternative_names": [
+                    "Erzbischöfliches Seminar Hollabrunn"
+                ],
+                "viaf": "235677171.000000",
+                "isni": "0000000121989071",
+                "settlement": {
+                    "id": 57702,
+                    "name": "Hollabrunn",
+                    "region": "Lower Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(16.08333 48.55)",
+                    "geonames_id": 2775636
+                }
+            }
+        },
+        {
             "id": 58960,
             "shelfmark": "mgf 923 Nr. 40",
             "old_shelfmarks": [],
@@ -120,45 +159,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
-                }
-            }
-        },
-        {
-            "id": 58971,
-            "shelfmark": "ohne Sign",
-            "old_shelfmarks": [
-                "früher Aspersdorf, Pfarrarchiv"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60344,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57824,
-                "name": "Knabenseminar Hollabrunn",
-                "alternative_names": [
-                    "Erzbischöfliches Seminar Hollabrunn"
-                ],
-                "viaf": "235677171.000000",
-                "isni": "0000000121989071",
-                "settlement": {
-                    "id": 57702,
-                    "name": "Hollabrunn",
-                    "region": "Lower Austria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(16.08333 48.55)",
-                    "geonames_id": 2775636
                 }
             }
         }
