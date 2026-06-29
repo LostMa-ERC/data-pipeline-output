@@ -25,20 +25,6 @@
             "ark": "ark:/12148/cc42531j",
             "witness_parts": [
                 {
-                    "id": 51529,
-                    "part_order": 1,
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "214va-220rb"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
                     "id": 51531,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
@@ -58,6 +44,20 @@
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
                         "240ra-275va"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 51529,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "214va-220rb"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

@@ -13,6 +13,78 @@
     ],
     "manuscripts": [
         {
+            "id": 58957,
+            "shelfmark": "ohne Sign. (1) [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60330,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57805,
+                "name": "Bibliothek des Dominikanerklosters, Lviv",
+                "alternative_names": [],
+                "settlement": {
+                    "id": 57683,
+                    "name": "Lviv",
+                    "region": "Lviv Oblast",
+                    "country": "Ukraine",
+                    "location_mappable": "POINT(24.02324 49.83826)",
+                    "geonames_id": 702550
+                }
+            }
+        },
+        {
+            "id": 58958,
+            "shelfmark": "Cgm 5249/4g",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60331,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        },
+        {
             "id": 58956,
             "shelfmark": "Fragm. in Ink. 593. 1406-1409",
             "old_shelfmarks": [],
@@ -44,39 +116,6 @@
                     "country": "Poland",
                     "location_mappable": "POINT(19.93658 50.06143)",
                     "geonames_id": 3094802
-                }
-            }
-        },
-        {
-            "id": 58957,
-            "shelfmark": "ohne Sign. (1) [verschollen]",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60330,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57805,
-                "name": "Bibliothek des Dominikanerklosters, Lviv",
-                "alternative_names": [],
-                "settlement": {
-                    "id": 57683,
-                    "name": "Lviv",
-                    "region": "Lviv Oblast",
-                    "country": "Ukraine",
-                    "location_mappable": "POINT(24.02324 49.83826)",
-                    "geonames_id": 702550
                 }
             }
         },
@@ -128,45 +167,6 @@
                     "country": "Russia",
                     "location_mappable": "POINT(30.31413 59.93863)",
                     "geonames_id": 498817
-                }
-            }
-        },
-        {
-            "id": 58958,
-            "shelfmark": "Cgm 5249/4g",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60331,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 47347,
-                "name": "Bayerische Staatsbibliothek",
-                "alternative_names": [
-                    "Bayerische Staatsbibliothek (München)",
-                    "Bawarska Biblioteka Państwowa",
-                    "Bayerische Staatsbibliothek München (D-Mbs)"
-                ],
-                "viaf": "129557156.000000",
-                "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
                 }
             }
         }

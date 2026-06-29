@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58417,
-            "shelfmark": "Cgs 2",
+            "id": 58418,
+            "shelfmark": "Rolf Schmidt, Fragm. germ. 1",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59790,
+                    "id": 59791,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -30,21 +30,7 @@
                     "has_pictorial_designs": false,
                     "decoration_is_unknown": false
                 }
-            ],
-            "repository": {
-                "id": 57956,
-                "name": "Johannes-Turmair-Gymnasium, Bibliothek",
-                "alternative_names": [],
-                "viaf": "1126174413941008760832.000000",
-                "settlement": {
-                    "id": 57728,
-                    "name": "Straubing",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(12.57385 48.88126)",
-                    "geonames_id": 2826099
-                }
-            }
+            ]
         },
         {
             "id": 58414,
@@ -121,15 +107,15 @@
             }
         },
         {
-            "id": 58418,
-            "shelfmark": "Rolf Schmidt, Fragm. germ. 1",
+            "id": 58417,
+            "shelfmark": "Cgs 2",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59791,
+                    "id": 59790,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -138,7 +124,21 @@
                     "has_pictorial_designs": false,
                     "decoration_is_unknown": false
                 }
-            ]
+            ],
+            "repository": {
+                "id": 57956,
+                "name": "Johannes-Turmair-Gymnasium, Bibliothek",
+                "alternative_names": [],
+                "viaf": "1126174413941008760832.000000",
+                "settlement": {
+                    "id": 57728,
+                    "name": "Straubing",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(12.57385 48.88126)",
+                    "geonames_id": 2826099
+                }
+            }
         }
     ]
 }
