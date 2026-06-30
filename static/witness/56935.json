@@ -14,17 +14,17 @@
     ],
     "manuscripts": [
         {
-            "id": 58842,
-            "shelfmark": "Fragm. 243",
+            "id": 58841,
+            "shelfmark": "Frg. 69A",
             "old_shelfmarks": [
-                "früher Stams, Stiftsarchiv, ohne Sign. (4)"
+                "früher Meran, Gerichtsarchiv, ohne Sign. (2)"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60215,
+                    "id": 60214,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -35,17 +35,24 @@
                 }
             ],
             "repository": {
-                "id": 57847,
-                "name": "Stiftsarchiv Stams",
-                "alternative_names": [],
-                "viaf": "242318571.000000",
+                "id": 43923,
+                "name": "Universitätsbibliothek Innsbruck",
+                "alternative_names": [
+                    "Universität Innsbruck. Universitätsbibliothek",
+                    "Bibliothek des Ferdinandeums",
+                    "Universitätsbibliothek (Innsbruck, Autriche)",
+                    "Universitäts- und Landesbibliothek Tirol",
+                    "Universitätsbibliothek"
+                ],
+                "viaf": "148337223.000000",
+                "isni": "0000000123589004",
                 "settlement": {
-                    "id": 57726,
-                    "name": "Stams",
-                    "region": "Styria",
+                    "id": 43647,
+                    "name": "Innsbruck",
+                    "region": "Tyrol",
                     "country": "Austria",
-                    "location_mappable": "POINT(10.98315 47.27603)",
-                    "geonames_id": 2764669
+                    "location_mappable": "POINT(11.39454 47.26266)",
+                    "geonames_id": 2775220
                 }
             }
         },
@@ -90,17 +97,17 @@
             }
         },
         {
-            "id": 58841,
-            "shelfmark": "Frg. 69A",
+            "id": 58842,
+            "shelfmark": "Fragm. 243",
             "old_shelfmarks": [
-                "früher Meran, Gerichtsarchiv, ohne Sign. (2)"
+                "früher Stams, Stiftsarchiv, ohne Sign. (4)"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60214,
+                    "id": 60215,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -111,24 +118,17 @@
                 }
             ],
             "repository": {
-                "id": 43923,
-                "name": "Universitätsbibliothek Innsbruck",
-                "alternative_names": [
-                    "Universität Innsbruck. Universitätsbibliothek",
-                    "Bibliothek des Ferdinandeums",
-                    "Universitätsbibliothek (Innsbruck, Autriche)",
-                    "Universitäts- und Landesbibliothek Tirol",
-                    "Universitätsbibliothek"
-                ],
-                "viaf": "148337223.000000",
-                "isni": "0000000123589004",
+                "id": 57847,
+                "name": "Stiftsarchiv Stams",
+                "alternative_names": [],
+                "viaf": "242318571.000000",
                 "settlement": {
-                    "id": 43647,
-                    "name": "Innsbruck",
-                    "region": "Tyrol",
+                    "id": 57726,
+                    "name": "Stams",
+                    "region": "Styria",
                     "country": "Austria",
-                    "location_mappable": "POINT(11.39454 47.26266)",
-                    "geonames_id": 2775220
+                    "location_mappable": "POINT(10.98315 47.27603)",
+                    "geonames_id": 2764669
                 }
             }
         }

@@ -13,43 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58395,
-            "shelfmark": "MS 486",
-            "old_shelfmarks": [
-                "früher Privatbesitz Antiquariat Hans P. Kraus, New York, Nr. 1962/100,10 ; davor Privatbesitz Antiquariat Hans P. Kraus, New York, Nr. 1958/88,12"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59768,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57904,
-                "name": "Yale University, Beinecke Rare Book and Manuscript Library",
-                "alternative_names": [],
-                "viaf": "146865135.000000",
-                "isni": "0000000121797790",
-                "settlement": {
-                    "id": 43496,
-                    "name": "New Haven",
-                    "region": "Connecticut",
-                    "country": "United States",
-                    "location_mappable": "POINT(-72.92816 41.30815)",
-                    "geonames_id": 4839366
-                }
-            }
-        },
-        {
             "id": 58391,
             "shelfmark": "4° Cod. ms. 889 (Cim. 34c), Fragm. II",
             "old_shelfmarks": [],
@@ -84,6 +47,43 @@
                     "location_mappable": "POINT(11.57549 48.13743)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 2867714
+                }
+            }
+        },
+        {
+            "id": 58395,
+            "shelfmark": "MS 486",
+            "old_shelfmarks": [
+                "früher Privatbesitz Antiquariat Hans P. Kraus, New York, Nr. 1962/100,10 ; davor Privatbesitz Antiquariat Hans P. Kraus, New York, Nr. 1958/88,12"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59768,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57904,
+                "name": "Yale University, Beinecke Rare Book and Manuscript Library",
+                "alternative_names": [],
+                "viaf": "146865135.000000",
+                "isni": "0000000121797790",
+                "settlement": {
+                    "id": 43496,
+                    "name": "New Haven",
+                    "region": "Connecticut",
+                    "country": "United States",
+                    "location_mappable": "POINT(-72.92816 41.30815)",
+                    "geonames_id": 4839366
                 }
             }
         },

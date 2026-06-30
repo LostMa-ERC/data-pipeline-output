@@ -50,6 +50,40 @@
             }
         },
         {
+            "id": 59048,
+            "shelfmark": "Lade O, Frag. germ. 2",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60421,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57955,
+                "name": "Ordo Fratrum Minorum Tiroler Franziskanerprovinz vom Heiligen Leopold Archiv",
+                "alternative_names": [],
+                "viaf": "2276145856887322836992.000000",
+                "settlement": {
+                    "id": 57717,
+                    "name": "Schwaz",
+                    "region": "Tyrol",
+                    "country": "Austria",
+                    "location_mappable": "POINT(11.71014 47.35169)",
+                    "geonames_id": 2765390
+                }
+            }
+        },
+        {
             "id": 59037,
             "shelfmark": "Cgm 194/II",
             "old_shelfmarks": [],
@@ -123,40 +157,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
-                }
-            }
-        },
-        {
-            "id": 59048,
-            "shelfmark": "Lade O, Frag. germ. 2",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60421,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57955,
-                "name": "Ordo Fratrum Minorum Tiroler Franziskanerprovinz vom Heiligen Leopold Archiv",
-                "alternative_names": [],
-                "viaf": "2276145856887322836992.000000",
-                "settlement": {
-                    "id": 57717,
-                    "name": "Schwaz",
-                    "region": "Tyrol",
-                    "country": "Austria",
-                    "location_mappable": "POINT(11.71014 47.35169)",
-                    "geonames_id": 2765390
                 }
             }
         }
