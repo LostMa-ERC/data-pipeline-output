@@ -13,41 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 59055,
-            "shelfmark": "Bestand J 522 A 708",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60428,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57939,
-                "name": "Hauptstaatsarchiv Stuttgart",
-                "alternative_names": [],
-                "viaf": "156425189.000000",
-                "isni": "0000000106742783",
-                "settlement": {
-                    "id": 42911,
-                    "name": "Stuttgart",
-                    "region": "Baden-Wurttemberg",
-                    "country": "Germany",
-                    "location_mappable": "POINT(9.1775 48.77667)",
-                    "geonames_id": 6690189
-                }
-            }
-        },
-        {
             "id": 59054,
             "shelfmark": "ms. 2236",
             "old_shelfmarks": [
@@ -86,6 +51,41 @@
                     "country": "France",
                     "location_mappable": "POINT(7.74553 48.58392)",
                     "geonames_id": 2973783
+                }
+            }
+        },
+        {
+            "id": 59055,
+            "shelfmark": "Bestand J 522 A 708",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60428,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57939,
+                "name": "Hauptstaatsarchiv Stuttgart",
+                "alternative_names": [],
+                "viaf": "156425189.000000",
+                "isni": "0000000106742783",
+                "settlement": {
+                    "id": 42911,
+                    "name": "Stuttgart",
+                    "region": "Baden-Wurttemberg",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.1775 48.77667)",
+                    "geonames_id": 6690189
                 }
             }
         }

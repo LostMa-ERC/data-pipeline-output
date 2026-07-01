@@ -13,6 +13,41 @@
     ],
     "manuscripts": [
         {
+            "id": 58380,
+            "shelfmark": "Hs. 696",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59753,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57890,
+                "name": "Oberösterreichische Landesbibliothek",
+                "alternative_names": [],
+                "viaf": "150470881.000000",
+                "isni": "0000000101099880",
+                "settlement": {
+                    "id": 43051,
+                    "name": "Linz",
+                    "region": "Upper Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(14.28611 48.30639)",
+                    "geonames_id": 2772400
+                }
+            }
+        },
+        {
             "id": 58378,
             "shelfmark": "Nr. 5465 [verschollen]",
             "old_shelfmarks": [],
@@ -77,41 +112,6 @@
                     "country": "Hungary",
                     "location_mappable": "POINT(19.04045 47.49835)",
                     "geonames_id": 3054643
-                }
-            }
-        },
-        {
-            "id": 58380,
-            "shelfmark": "Hs. 696",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59753,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57890,
-                "name": "Oberösterreichische Landesbibliothek",
-                "alternative_names": [],
-                "viaf": "150470881.000000",
-                "isni": "0000000101099880",
-                "settlement": {
-                    "id": 43051,
-                    "name": "Linz",
-                    "region": "Upper Austria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(14.28611 48.30639)",
-                    "geonames_id": 2772400
                 }
             }
         }
