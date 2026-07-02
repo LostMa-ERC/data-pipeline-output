@@ -83,6 +83,40 @@
             }
         },
         {
+            "id": 58668,
+            "shelfmark": "Fragm. germ. 1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60041,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57812,
+                "name": "Martinus-Bibliothek",
+                "alternative_names": [],
+                "viaf": "143986272.000000",
+                "settlement": {
+                    "id": 57689,
+                    "name": "Mainz",
+                    "region": "Rhineland-Palatinate",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.28008 49.98185)",
+                    "geonames_id": 2874225
+                }
+            }
+        },
+        {
             "id": 58666,
             "shelfmark": "Berol. Mgq 635",
             "old_shelfmarks": [
@@ -116,40 +150,6 @@
                     "country": "Poland",
                     "location_mappable": "POINT(19.93658 50.06143)",
                     "geonames_id": 3094802
-                }
-            }
-        },
-        {
-            "id": 58668,
-            "shelfmark": "Fragm. germ. 1",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60041,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57812,
-                "name": "Martinus-Bibliothek",
-                "alternative_names": [],
-                "viaf": "143986272.000000",
-                "settlement": {
-                    "id": 57689,
-                    "name": "Mainz",
-                    "region": "Rhineland-Palatinate",
-                    "country": "Germany",
-                    "location_mappable": "POINT(8.28008 49.98185)",
-                    "geonames_id": 2874225
                 }
             }
         }

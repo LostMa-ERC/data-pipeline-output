@@ -59,45 +59,6 @@
             }
         },
         {
-            "id": 58570,
-            "shelfmark": "Cod. N I 1, 73c.d",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59943,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43898,
-                "name": "Universitätsbibliothek Basel",
-                "alternative_names": [
-                    "Universitätsbibliothek Bâle, Suisse",
-                    "Bibliothèque universitaire de Bâle",
-                    "Öffentliche Bibliothek der Universität Basel"
-                ],
-                "viaf": "146140663.000000",
-                "isni": "0000000121861940",
-                "settlement": {
-                    "id": 43634,
-                    "name": "Basel",
-                    "region": "Basel-Stadt",
-                    "country": "Switzerland",
-                    "location_mappable": "POINT(7.57327 47.55839)",
-                    "geonames_id": 2661604
-                }
-            }
-        },
-        {
             "id": 58572,
             "shelfmark": "2* Ms. Poet. Et roman. 30 I3+4",
             "old_shelfmarks": [
@@ -135,6 +96,45 @@
                     "location_mappable": "POINT(9.49974058 51.31602217)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 2892518
+                }
+            }
+        },
+        {
+            "id": 58570,
+            "shelfmark": "Cod. N I 1, 73c.d",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59943,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43898,
+                "name": "Universitätsbibliothek Basel",
+                "alternative_names": [
+                    "Universitätsbibliothek Bâle, Suisse",
+                    "Bibliothèque universitaire de Bâle",
+                    "Öffentliche Bibliothek der Universität Basel"
+                ],
+                "viaf": "146140663.000000",
+                "isni": "0000000121861940",
+                "settlement": {
+                    "id": 43634,
+                    "name": "Basel",
+                    "region": "Basel-Stadt",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(7.57327 47.55839)",
+                    "geonames_id": 2661604
                 }
             }
         }

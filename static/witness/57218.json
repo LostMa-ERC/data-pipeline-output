@@ -14,6 +14,41 @@
     ],
     "manuscripts": [
         {
+            "id": 58591,
+            "shelfmark": "Cod. FB 1519/IV",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59964,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57879,
+                "name": "Tiroler Landesmuseum Ferdinandeum",
+                "alternative_names": [],
+                "viaf": "139431033.000000",
+                "isni": "0000000122914135",
+                "settlement": {
+                    "id": 43647,
+                    "name": "Innsbruck",
+                    "region": "Tyrol",
+                    "country": "Austria",
+                    "location_mappable": "POINT(11.39454 47.26266)",
+                    "geonames_id": 2775220
+                }
+            }
+        },
+        {
             "id": 58594,
             "shelfmark": "Fragm. germ. 2",
             "old_shelfmarks": [],
@@ -45,41 +80,6 @@
                     "country": "Austria",
                     "location_mappable": "POINT(15.33186 48.22737)",
                     "geonames_id": 2771682
-                }
-            }
-        },
-        {
-            "id": 58592,
-            "shelfmark": "Buchdeckelfunde Sch. 3, II/4b",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59965,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57889,
-                "name": "Oberösterreichisches Landesarchiv",
-                "alternative_names": [],
-                "viaf": "158989654.000000",
-                "isni": "000000012375652X",
-                "settlement": {
-                    "id": 43051,
-                    "name": "Linz",
-                    "region": "Upper Austria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(14.28611 48.30639)",
-                    "geonames_id": 2772400
                 }
             }
         },
@@ -118,15 +118,15 @@
             }
         },
         {
-            "id": 58591,
-            "shelfmark": "Cod. FB 1519/IV",
+            "id": 58592,
+            "shelfmark": "Buchdeckelfunde Sch. 3, II/4b",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59964,
+                    "id": 59965,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -137,18 +137,18 @@
                 }
             ],
             "repository": {
-                "id": 57879,
-                "name": "Tiroler Landesmuseum Ferdinandeum",
+                "id": 57889,
+                "name": "Oberösterreichisches Landesarchiv",
                 "alternative_names": [],
-                "viaf": "139431033.000000",
-                "isni": "0000000122914135",
+                "viaf": "158989654.000000",
+                "isni": "000000012375652X",
                 "settlement": {
-                    "id": 43647,
-                    "name": "Innsbruck",
-                    "region": "Tyrol",
+                    "id": 43051,
+                    "name": "Linz",
+                    "region": "Upper Austria",
                     "country": "Austria",
-                    "location_mappable": "POINT(11.39454 47.26266)",
-                    "geonames_id": 2775220
+                    "location_mappable": "POINT(14.28611 48.30639)",
+                    "geonames_id": 2772400
                 }
             }
         }
