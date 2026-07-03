@@ -13,39 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58378,
-            "shelfmark": "Nr. 5465 [verschollen]",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59751,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57787,
-                "name": "Gymnasialbibliothek Brno",
-                "alternative_names": [],
-                "settlement": {
-                    "id": 43461,
-                    "name": "Brno",
-                    "region": "South Moravian",
-                    "country": "Czechia",
-                    "location_mappable": "POINT(16.60796 49.19522)",
-                    "geonames_id": 3078610
-                }
-            }
-        },
-        {
             "id": 58380,
             "shelfmark": "Hs. 696",
             "old_shelfmarks": [],
@@ -112,6 +79,39 @@
                     "country": "Hungary",
                     "location_mappable": "POINT(19.04045 47.49835)",
                     "geonames_id": 3054643
+                }
+            }
+        },
+        {
+            "id": 58378,
+            "shelfmark": "Nr. 5465 [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59751,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57787,
+                "name": "Gymnasialbibliothek Brno",
+                "alternative_names": [],
+                "settlement": {
+                    "id": 43461,
+                    "name": "Brno",
+                    "region": "South Moravian",
+                    "country": "Czechia",
+                    "location_mappable": "POINT(16.60796 49.19522)",
+                    "geonames_id": 3078610
                 }
             }
         }

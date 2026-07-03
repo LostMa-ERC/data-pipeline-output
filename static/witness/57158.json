@@ -51,6 +51,41 @@
             }
         },
         {
+            "id": 58848,
+            "shelfmark": "Ms. germ. oct. 14",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60221,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57865,
+                "name": "Universitätsbibliothek Johann Christian Senckenberg",
+                "alternative_names": [],
+                "viaf": "123368197.000000",
+                "isni": "0000000123217358",
+                "settlement": {
+                    "id": 42789,
+                    "name": "Frankfurt am Main",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.66361 50.13083)",
+                    "geonames_id": 3220968
+                }
+            }
+        },
+        {
             "id": 58850,
             "shelfmark": "Cod. K 1452",
             "old_shelfmarks": [],
@@ -86,41 +121,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(8.40444 49.00937)",
                     "geonames_id": 2892794
-                }
-            }
-        },
-        {
-            "id": 58848,
-            "shelfmark": "Ms. germ. oct. 14",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60221,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57865,
-                "name": "Universitätsbibliothek Johann Christian Senckenberg",
-                "alternative_names": [],
-                "viaf": "123368197.000000",
-                "isni": "0000000123217358",
-                "settlement": {
-                    "id": 42789,
-                    "name": "Frankfurt am Main",
-                    "region": "Hesse",
-                    "country": "Germany",
-                    "location_mappable": "POINT(8.66361 50.13083)",
-                    "geonames_id": 3220968
                 }
             }
         }

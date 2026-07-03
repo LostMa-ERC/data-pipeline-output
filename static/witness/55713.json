@@ -40,11 +40,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 52168,
+                    "id": 52167,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "2"
+                        "1"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -54,11 +54,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 52167,
+                    "id": 52168,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1"
+                        "2"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
