@@ -22,7 +22,12 @@
             "witness_parts": [
                 {
                     "id": 60066,
-                    "page_ranges": [],
+                    "part_order": 1,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-158v"
+                    ],
                     "has_initials": false,
                     "has_rubrication": false,
                     "has_incomplete_decoration": false,

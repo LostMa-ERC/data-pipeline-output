@@ -13,40 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 59383,
-            "shelfmark": "Cod. a XII 25, Fragm. 39",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60756,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57922,
-                "name": "Stiftsbibliothek Sankt Peter Salzburg",
-                "alternative_names": [],
-                "viaf": "157960631.000000",
-                "settlement": {
-                    "id": 43623,
-                    "name": "Salzburg",
-                    "region": "Salzburg",
-                    "country": "Austria",
-                    "location_mappable": "POINT(13.04399 47.79941)",
-                    "geonames_id": 2766824
-                }
-            }
-        },
-        {
             "id": 59382,
             "shelfmark": "Fragm. B 38a",
             "old_shelfmarks": [],
@@ -80,6 +46,40 @@
                     "country": "Austria",
                     "location_mappable": "POINT(14.46075 47.57537)",
                     "geonames_id": 2782979
+                }
+            }
+        },
+        {
+            "id": 59383,
+            "shelfmark": "Cod. a XII 25, Fragm. 39",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60756,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57922,
+                "name": "Stiftsbibliothek Sankt Peter Salzburg",
+                "alternative_names": [],
+                "viaf": "157960631.000000",
+                "settlement": {
+                    "id": 43623,
+                    "name": "Salzburg",
+                    "region": "Salzburg",
+                    "country": "Austria",
+                    "location_mappable": "POINT(13.04399 47.79941)",
+                    "geonames_id": 2766824
                 }
             }
         }

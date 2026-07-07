@@ -22,7 +22,12 @@
             "witness_parts": [
                 {
                     "id": 59903,
-                    "page_ranges": [],
+                    "part_order": 1,
+                    "part_of_text": "Prologue in verse",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "105v-106v"
+                    ],
                     "has_initials": false,
                     "has_rubrication": false,
                     "has_incomplete_decoration": false,
