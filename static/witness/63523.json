@@ -1,0 +1,56 @@
+{
+    "type": "witness",
+    "id": 63523,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "Cambridge Trinity College R.14.48",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1459-01-01",
+    "creation_date_max": "1478-12-31",
+    "urls": [],
+    "manuscripts": [
+        {
+            "id": 62478,
+            "shelfmark": "Cambridge Trinity College R.14.48",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 62978,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43820,
+                "name": "Trinity College",
+                "alternative_names": [
+                    "University of Cambridge Trinity College",
+                    "Trinity College Cambridge",
+                    "Colaiste na Trianaide",
+                    "Trinity College Library Cambridge (GB-Ctc)",
+                    "Trinity College",
+                    "Trinity college Cambridge, GB"
+                ],
+                "viaf": "137201631.000000",
+                "isni": "0000000122431918",
+                "settlement": {
+                    "id": 43630,
+                    "name": "Cambridge",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(0.11667 52.2)",
+                    "geonames_id": 2653941
+                }
+            }
+        }
+    ]
+}

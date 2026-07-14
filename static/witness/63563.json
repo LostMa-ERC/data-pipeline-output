@@ -1,0 +1,49 @@
+{
+    "type": "witness",
+    "id": 63563,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "NLI MS G 4",
+    "alternative_sigla": [],
+    "status": "complete",
+    "urls": [
+        "https://www.isos.dias.ie/NLI/NLI_MS_G_4.html#20"
+    ],
+    "manuscripts": [
+        {
+            "id": 62488,
+            "shelfmark": "NLI MS G 4",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 63018,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 62463,
+                "name": "National Library of Ireland",
+                "alternative_names": [],
+                "viaf": "127467345.000000",
+                "isni": "0000000405134825",
+                "settlement": {
+                    "id": 42954,
+                    "name": "Dublin",
+                    "region": "Leinster",
+                    "country": "Ireland",
+                    "location_mappable": "POINT(-6.24889 53.33306)",
+                    "geonames_id": 2964574
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "type": "witness",
+    "id": 63175,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "BLec",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1425-12-31",
+    "urls": [
+        "https://www.isos.dias.ie/RIA/RIA_MS_23_P_2.html"
+    ],
+    "manuscripts": [
+        {
+            "id": 62504,
+            "shelfmark": "RIA MS 23 P 2",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 62630,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 62462,
+                "name": "Royal Irish Academy",
+                "alternative_names": [],
+                "viaf": "124808856.000000",
+                "isni": "0000000404886902",
+                "settlement": {
+                    "id": 42954,
+                    "name": "Dublin",
+                    "region": "Leinster",
+                    "country": "Ireland",
+                    "location_mappable": "POINT(-6.24889 53.33306)",
+                    "geonames_id": 2964574
+                }
+            }
+        }
+    ]
+}

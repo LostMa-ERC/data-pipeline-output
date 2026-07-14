@@ -1,0 +1,56 @@
+{
+    "type": "witness",
+    "id": 63592,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "NLS 72.1.40",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1401-01-01",
+    "creation_date_max": "1600-12-31",
+    "urls": [
+        "https://www.isos.dias.ie/NLS/NLS_Adv_MS_72_1_40.html"
+    ],
+    "manuscripts": [
+        {
+            "id": 62492,
+            "shelfmark": "NLS Advocates 72.1.40",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 63046,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43958,
+                "name": "National Library of Scotland",
+                "alternative_names": [
+                    "National library of Scotland (Édimbourg)",
+                    "Leabharlann Nàiseanta na h-Alba",
+                    "Escócia., National Library",
+                    "National Library of Scotland (Edinburgh)"
+                ],
+                "viaf": "132075128.000000",
+                "isni": "000000040606761X",
+                "settlement": {
+                    "id": 43637,
+                    "name": "Edinburgh",
+                    "region": "Scotland",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-3.19648 55.95206)",
+                    "geonames_id": 2650225
+                }
+            }
+        }
+    ]
+}
