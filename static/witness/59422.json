@@ -13,16 +13,16 @@
     ],
     "manuscripts": [
         {
-            "id": 58423,
-            "shelfmark": "Fragm. 343",
+            "id": 58425,
+            "shelfmark": "mgf 923 Nr. 32",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59796,
-                    "part_order": 2,
+                    "id": 59798,
+                    "part_order": 4,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
                         "1r-1v"
@@ -105,16 +105,16 @@
             }
         },
         {
-            "id": 58425,
-            "shelfmark": "mgf 923 Nr. 32",
+            "id": 58423,
+            "shelfmark": "Fragm. 343",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59798,
-                    "part_order": 4,
+                    "id": 59796,
+                    "part_order": 2,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
                         "1r-1v"
