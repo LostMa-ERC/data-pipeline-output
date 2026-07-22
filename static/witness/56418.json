@@ -13,47 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58868,
-            "shelfmark": "Cgm 5249/4a",
-            "old_shelfmarks": [
-                "olim Cgm 5249/7a"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60241,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 47347,
-                "name": "Bayerische Staatsbibliothek",
-                "alternative_names": [
-                    "Bayerische Staatsbibliothek (München)",
-                    "Bawarska Biblioteka Państwowa",
-                    "Bayerische Staatsbibliothek München (D-Mbs)"
-                ],
-                "viaf": "129557156.000000",
-                "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
-                }
-            }
-        },
-        {
             "id": 58866,
             "shelfmark": "A 1/40 Schuber VI",
             "old_shelfmarks": [
@@ -128,6 +87,47 @@
                     "country": "Austria",
                     "location_mappable": "POINT(16.37208 48.20849)",
                     "geonames_id": 2761369
+                }
+            }
+        },
+        {
+            "id": 58868,
+            "shelfmark": "Cgm 5249/4a",
+            "old_shelfmarks": [
+                "olim Cgm 5249/7a"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60241,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
                 }
             }
         },

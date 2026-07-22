@@ -13,6 +13,40 @@
     ],
     "manuscripts": [
         {
+            "id": 58176,
+            "shelfmark": "Handschriftenfragmente R 1.4.234 (1)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59549,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57929,
+                "name": "Staatsarchiv Solothurn",
+                "alternative_names": [],
+                "viaf": "155449632.000000",
+                "isni": "0000000107291216",
+                "settlement": {
+                    "id": 42578,
+                    "name": "Solothurn",
+                    "country": "Switzerland",
+                    "location_mappable": "POINT(7.53009 47.20838)",
+                    "geonames_id": 7287186
+                }
+            }
+        },
+        {
             "id": 58175,
             "shelfmark": "Ms. 850/1 (Kat.-Nr. 529/1)",
             "old_shelfmarks": [],
@@ -44,40 +78,6 @@
                     "country": "France",
                     "location_mappable": "POINT(7.355 48.08111)",
                     "geonames_id": 6455228
-                }
-            }
-        },
-        {
-            "id": 58176,
-            "shelfmark": "Handschriftenfragmente R 1.4.234 (1)",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59549,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57929,
-                "name": "Staatsarchiv Solothurn",
-                "alternative_names": [],
-                "viaf": "155449632.000000",
-                "isni": "0000000107291216",
-                "settlement": {
-                    "id": 42578,
-                    "name": "Solothurn",
-                    "country": "Switzerland",
-                    "location_mappable": "POINT(7.53009 47.20838)",
-                    "geonames_id": 7287186
                 }
             }
         }
