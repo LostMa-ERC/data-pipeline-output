@@ -14,17 +14,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58666,
-            "shelfmark": "Berol. Mgq 635",
-            "old_shelfmarks": [
-                "früher Berlin, Staatsbibl., mgq 635 ; davor z.T. Privatbesitz, Joseph Görresdavor Privatbesitz Karl Lachmann"
-            ],
+            "id": 58669,
+            "shelfmark": "StB-Ink. 1634, Leimabklatsch im vorderen und hinteren Spiegel",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60039,
+                    "id": 60042,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -35,18 +33,18 @@
                 }
             ],
             "repository": {
-                "id": 57886,
-                "name": "Biblioteka Jagiellońska",
+                "id": 57811,
+                "name": "Gutenberg-Museum",
                 "alternative_names": [],
-                "viaf": "148485690.000000",
-                "isni": "000000012375281X",
+                "viaf": "172753689.000000",
+                "isni": "0000000120970547",
                 "settlement": {
-                    "id": 43136,
-                    "name": "Krakow",
-                    "region": "Lesser Poland",
-                    "country": "Poland",
-                    "location_mappable": "POINT(19.93658 50.06143)",
-                    "geonames_id": 3094802
+                    "id": 57689,
+                    "name": "Mainz",
+                    "region": "Rhineland-Palatinate",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.28008 49.98185)",
+                    "geonames_id": 2874225
                 }
             }
         },
@@ -85,15 +83,17 @@
             }
         },
         {
-            "id": 58669,
-            "shelfmark": "StB-Ink. 1634, Leimabklatsch im vorderen und hinteren Spiegel",
-            "old_shelfmarks": [],
+            "id": 58666,
+            "shelfmark": "Berol. Mgq 635",
+            "old_shelfmarks": [
+                "früher Berlin, Staatsbibl., mgq 635 ; davor z.T. Privatbesitz, Joseph Görresdavor Privatbesitz Karl Lachmann"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60042,
+                    "id": 60039,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -104,18 +104,18 @@
                 }
             ],
             "repository": {
-                "id": 57811,
-                "name": "Gutenberg-Museum",
+                "id": 57886,
+                "name": "Biblioteka Jagiellońska",
                 "alternative_names": [],
-                "viaf": "172753689.000000",
-                "isni": "0000000120970547",
+                "viaf": "148485690.000000",
+                "isni": "000000012375281X",
                 "settlement": {
-                    "id": 57689,
-                    "name": "Mainz",
-                    "region": "Rhineland-Palatinate",
-                    "country": "Germany",
-                    "location_mappable": "POINT(8.28008 49.98185)",
-                    "geonames_id": 2874225
+                    "id": 43136,
+                    "name": "Krakow",
+                    "region": "Lesser Poland",
+                    "country": "Poland",
+                    "location_mappable": "POINT(19.93658 50.06143)",
+                    "geonames_id": 3094802
                 }
             }
         },

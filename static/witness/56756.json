@@ -13,41 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58566,
-            "shelfmark": "Charles E. Young Research Libr., MS 170/112",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59939,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57895,
-                "name": "University of California",
-                "alternative_names": [],
-                "viaf": "140513378.000000",
-                "isni": "0000000123480690",
-                "settlement": {
-                    "id": 43487,
-                    "name": "Los Angeles",
-                    "region": "California",
-                    "country": "United States",
-                    "location_mappable": "POINT(-118.24368 34.05223)",
-                    "geonames_id": 5368361
-                }
-            }
-        },
-        {
             "id": 58567,
             "shelfmark": "Cgm 8797",
             "old_shelfmarks": [
@@ -85,6 +50,41 @@
                     "location_mappable": "POINT(11.57549 48.13743)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 2867714
+                }
+            }
+        },
+        {
+            "id": 58566,
+            "shelfmark": "Charles E. Young Research Libr., MS 170/112",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59939,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57895,
+                "name": "University of California",
+                "alternative_names": [],
+                "viaf": "140513378.000000",
+                "isni": "0000000123480690",
+                "settlement": {
+                    "id": 43487,
+                    "name": "Los Angeles",
+                    "region": "California",
+                    "country": "United States",
+                    "location_mappable": "POINT(-118.24368 34.05223)",
+                    "geonames_id": 5368361
                 }
             }
         },
