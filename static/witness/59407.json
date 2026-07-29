@@ -55,40 +55,6 @@
             }
         },
         {
-            "id": 58433,
-            "shelfmark": "ohne Sign. (2)",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59806,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57948,
-                "name": "Evangelisch-Lutherische St. Mang-Kirchengemeinde Kempten",
-                "alternative_names": [],
-                "viaf": "2248145856969522806784.000000",
-                "settlement": {
-                    "id": 57673,
-                    "name": "Kempten",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(10.31324 47.71843)",
-                    "geonames_id": 6559027
-                }
-            }
-        },
-        {
             "id": 58435,
             "shelfmark": "Cgm 193/VI",
             "old_shelfmarks": [],
@@ -162,6 +128,40 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
+                }
+            }
+        },
+        {
+            "id": 58433,
+            "shelfmark": "ohne Sign. (2)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59806,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57948,
+                "name": "Evangelisch-Lutherische St. Mang-Kirchengemeinde Kempten",
+                "alternative_names": [],
+                "viaf": "2248145856969522806784.000000",
+                "settlement": {
+                    "id": 57673,
+                    "name": "Kempten",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.31324 47.71843)",
+                    "geonames_id": 6559027
                 }
             }
         }

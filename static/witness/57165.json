@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58380,
-            "shelfmark": "Hs. 696",
+            "id": 58379,
+            "shelfmark": "Cod. Germ. 61",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59753,
+                    "id": 59752,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -32,18 +32,18 @@
                 }
             ],
             "repository": {
-                "id": 57890,
-                "name": "Oberösterreichische Landesbibliothek",
-                "alternative_names": [],
-                "viaf": "150470881.000000",
-                "isni": "0000000101099880",
+                "id": 47527,
+                "name": "Országos Széchényi Könyvtár",
+                "alternative_names": [
+                    "National Széchényi Library"
+                ],
+                "viaf": "147133105.000000",
                 "settlement": {
-                    "id": 43051,
-                    "name": "Linz",
-                    "region": "Upper Austria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(14.28611 48.30639)",
-                    "geonames_id": 2772400
+                    "id": 43585,
+                    "name": "Budapest",
+                    "country": "Hungary",
+                    "location_mappable": "POINT(19.04045 47.49835)",
+                    "geonames_id": 3054643
                 }
             }
         },
@@ -81,15 +81,15 @@
             }
         },
         {
-            "id": 58379,
-            "shelfmark": "Cod. Germ. 61",
+            "id": 58380,
+            "shelfmark": "Hs. 696",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59752,
+                    "id": 59753,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -100,18 +100,18 @@
                 }
             ],
             "repository": {
-                "id": 47527,
-                "name": "Országos Széchényi Könyvtár",
-                "alternative_names": [
-                    "National Széchényi Library"
-                ],
-                "viaf": "147133105.000000",
+                "id": 57890,
+                "name": "Oberösterreichische Landesbibliothek",
+                "alternative_names": [],
+                "viaf": "150470881.000000",
+                "isni": "0000000101099880",
                 "settlement": {
-                    "id": 43585,
-                    "name": "Budapest",
-                    "country": "Hungary",
-                    "location_mappable": "POINT(19.04045 47.49835)",
-                    "geonames_id": 3054643
+                    "id": 43051,
+                    "name": "Linz",
+                    "region": "Upper Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(14.28611 48.30639)",
+                    "geonames_id": 2772400
                 }
             }
         }
