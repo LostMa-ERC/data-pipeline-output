@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58791,
-            "shelfmark": "4° Cod. Ms. philol. 184:V",
+            "id": 58792,
+            "shelfmark": "Msc. 26",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60164,
+                    "id": 60165,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -32,20 +32,17 @@
                 }
             ],
             "repository": {
-                "id": 43884,
-                "name": "Niedersächsische Staats- und Universitätsbibliothek Göttingen",
-                "alternative_names": [
-                    "Niedersächsische Staats- und Universitätsbibliothek Göttingen (D-Gs)"
-                ],
-                "viaf": "139495279.000000",
-                "isni": "0000000121695516",
+                "id": 57961,
+                "name": "Evangelisches Stift, Bibliothek Tübingen",
+                "alternative_names": [],
+                "viaf": "4440174413971408814080.000000",
                 "settlement": {
-                    "id": 42797,
-                    "name": "Göttingen",
-                    "region": "Lower Saxony",
+                    "id": 43709,
+                    "name": "Tübingen",
+                    "region": "Baden-Wurttemberg",
                     "country": "Germany",
-                    "location_mappable": "POINT(9.93228 51.53443)",
-                    "geonames_id": 2918632
+                    "location_mappable": "POINT(9.05222 48.52266)",
+                    "geonames_id": 2820860
                 }
             }
         },
@@ -85,15 +82,15 @@
             }
         },
         {
-            "id": 58792,
-            "shelfmark": "Msc. 26",
+            "id": 58791,
+            "shelfmark": "4° Cod. Ms. philol. 184:V",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60165,
+                    "id": 60164,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -104,17 +101,20 @@
                 }
             ],
             "repository": {
-                "id": 57961,
-                "name": "Evangelisches Stift, Bibliothek Tübingen",
-                "alternative_names": [],
-                "viaf": "4440174413971408814080.000000",
+                "id": 43884,
+                "name": "Niedersächsische Staats- und Universitätsbibliothek Göttingen",
+                "alternative_names": [
+                    "Niedersächsische Staats- und Universitätsbibliothek Göttingen (D-Gs)"
+                ],
+                "viaf": "139495279.000000",
+                "isni": "0000000121695516",
                 "settlement": {
-                    "id": 43709,
-                    "name": "Tübingen",
-                    "region": "Baden-Wurttemberg",
+                    "id": 42797,
+                    "name": "Göttingen",
+                    "region": "Lower Saxony",
                     "country": "Germany",
-                    "location_mappable": "POINT(9.05222 48.52266)",
-                    "geonames_id": 2820860
+                    "location_mappable": "POINT(9.93228 51.53443)",
+                    "geonames_id": 2918632
                 }
             }
         }
