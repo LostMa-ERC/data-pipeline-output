@@ -55,15 +55,15 @@
             }
         },
         {
-            "id": 58394,
-            "shelfmark": "Fragm. 127 [verbrannt]",
+            "id": 58390,
+            "shelfmark": "4° Cod. ms. 889 (Cim. 34c), Fragm. I",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59767,
+                    "id": 59763,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -93,15 +93,15 @@
             }
         },
         {
-            "id": 58390,
-            "shelfmark": "4° Cod. ms. 889 (Cim. 34c), Fragm. I",
+            "id": 58394,
+            "shelfmark": "Fragm. 127 [verbrannt]",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59763,
+                    "id": 59767,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
