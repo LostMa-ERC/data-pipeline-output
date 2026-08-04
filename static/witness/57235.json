@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58765,
-            "shelfmark": "Ms. Z XIV 12",
+            "id": 58764,
+            "shelfmark": "Cod. 27/8",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60138,
+                    "id": 60137,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -32,19 +32,17 @@
                 }
             ],
             "repository": {
-                "id": 57752,
-                "name": "Zentralbibliothek Zürich",
+                "id": 57845,
+                "name": "Stiftsbibliothek St. Paul im Lavanttal",
                 "alternative_names": [],
-                "viaf": "138960171.000000",
-                "isni": "000000012308337X",
+                "viaf": "137183674.000000",
                 "settlement": {
-                    "id": 43987,
-                    "name": "Zurich",
-                    "country": "Switzerland",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(8.55 47.36667)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2657896
+                    "id": 57725,
+                    "name": "Sankt Paul im Lavanttal",
+                    "region": "Carinthia",
+                    "country": "Austria",
+                    "location_mappable": "POINT(14.84877 46.69869)",
+                    "geonames_id": 7871682
                 }
             }
         },
@@ -83,15 +81,15 @@
             }
         },
         {
-            "id": 58764,
-            "shelfmark": "Cod. 27/8",
+            "id": 58765,
+            "shelfmark": "Ms. Z XIV 12",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60137,
+                    "id": 60138,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -102,17 +100,19 @@
                 }
             ],
             "repository": {
-                "id": 57845,
-                "name": "Stiftsbibliothek St. Paul im Lavanttal",
+                "id": 57752,
+                "name": "Zentralbibliothek Zürich",
                 "alternative_names": [],
-                "viaf": "137183674.000000",
+                "viaf": "138960171.000000",
+                "isni": "000000012308337X",
                 "settlement": {
-                    "id": 57725,
-                    "name": "Sankt Paul im Lavanttal",
-                    "region": "Carinthia",
-                    "country": "Austria",
-                    "location_mappable": "POINT(14.84877 46.69869)",
-                    "geonames_id": 7871682
+                    "id": 43987,
+                    "name": "Zurich",
+                    "country": "Switzerland",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(8.55 47.36667)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2657896
                 }
             }
         }

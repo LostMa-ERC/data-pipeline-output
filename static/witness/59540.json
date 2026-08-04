@@ -13,15 +13,17 @@
     ],
     "manuscripts": [
         {
-            "id": 58778,
-            "shelfmark": "M. p. misc. f. 34",
-            "old_shelfmarks": [],
+            "id": 58773,
+            "shelfmark": "Hdschr. 269",
+            "old_shelfmarks": [
+                "früher Privatbesitz Antiquariat Hauswedell & Nolte, Hamburg, Nr. 1987/269,4027 ; davor Privatbesitz Antiquariat Hauswedell & Nolte, Hamburg, Nr. 1978/225,931"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60151,
+                    "id": 60146,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -32,18 +34,21 @@
                 }
             ],
             "repository": {
-                "id": 57749,
-                "name": "Universitätsbibliothek Würzburg",
-                "alternative_names": [],
-                "viaf": "155945511.000000",
-                "isni": "0000000121914029",
+                "id": 43889,
+                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
+                "alternative_names": [
+                    "Staatsbibliothek zu Berlin.",
+                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
+                    "Staatsbibliothek Berlin"
+                ],
+                "viaf": "157207056.000000",
+                "isni": "0000000123699481",
                 "settlement": {
-                    "id": 42935,
-                    "name": "Würzburg",
-                    "region": "Bavaria",
+                    "id": 43580,
+                    "name": "Berlin",
                     "country": "Germany",
-                    "location_mappable": "POINT(9.93365 49.79708)",
-                    "geonames_id": 6556942
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
                 }
             }
         },
@@ -124,17 +129,17 @@
             }
         },
         {
-            "id": 58773,
-            "shelfmark": "Hdschr. 269",
+            "id": 58766,
+            "shelfmark": "D 3001, Rep. 3 – 1179",
             "old_shelfmarks": [
-                "früher Privatbesitz Antiquariat Hauswedell & Nolte, Hamburg, Nr. 1987/269,4027 ; davor Privatbesitz Antiquariat Hauswedell & Nolte, Hamburg, Nr. 1978/225,931"
+                "früher Bamberg, Hist. Verein im Stadtarchiv, Rep. III (Akten) Nr. 1179"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60146,
+                    "id": 60139,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -145,34 +150,31 @@
                 }
             ],
             "repository": {
-                "id": 43889,
-                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
-                "alternative_names": [
-                    "Staatsbibliothek zu Berlin.",
-                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
-                    "Staatsbibliothek Berlin"
-                ],
-                "viaf": "157207056.000000",
-                "isni": "0000000123699481",
+                "id": 57919,
+                "name": "Stadtarchiv Bamberg",
+                "alternative_names": [],
+                "viaf": "127940265.000000",
+                "isni": "0000000119642693",
                 "settlement": {
-                    "id": 43580,
-                    "name": "Berlin",
+                    "id": 42760,
+                    "name": "Bamberg",
+                    "region": "Bavaria",
                     "country": "Germany",
-                    "location_mappable": "POINT(13.41053 52.52437)",
-                    "geonames_id": 2950159
+                    "location_mappable": "POINT(10.89115 49.8934)",
+                    "geonames_id": 6556725
                 }
             }
         },
         {
-            "id": 58770,
-            "shelfmark": "mgf 746, Bl. 4-8",
+            "id": 58778,
+            "shelfmark": "M. p. misc. f. 34",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60143,
+                    "id": 60151,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -183,21 +185,18 @@
                 }
             ],
             "repository": {
-                "id": 43889,
-                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
-                "alternative_names": [
-                    "Staatsbibliothek zu Berlin.",
-                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
-                    "Staatsbibliothek Berlin"
-                ],
-                "viaf": "157207056.000000",
-                "isni": "0000000123699481",
+                "id": 57749,
+                "name": "Universitätsbibliothek Würzburg",
+                "alternative_names": [],
+                "viaf": "155945511.000000",
+                "isni": "0000000121914029",
                 "settlement": {
-                    "id": 43580,
-                    "name": "Berlin",
+                    "id": 42935,
+                    "name": "Würzburg",
+                    "region": "Bavaria",
                     "country": "Germany",
-                    "location_mappable": "POINT(13.41053 52.52437)",
-                    "geonames_id": 2950159
+                    "location_mappable": "POINT(9.93365 49.79708)",
+                    "geonames_id": 6556942
                 }
             }
         },
@@ -240,17 +239,15 @@
             }
         },
         {
-            "id": 58766,
-            "shelfmark": "D 3001, Rep. 3 – 1179",
-            "old_shelfmarks": [
-                "früher Bamberg, Hist. Verein im Stadtarchiv, Rep. III (Akten) Nr. 1179"
-            ],
+            "id": 58770,
+            "shelfmark": "mgf 746, Bl. 4-8",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60139,
+                    "id": 60143,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -261,18 +258,21 @@
                 }
             ],
             "repository": {
-                "id": 57919,
-                "name": "Stadtarchiv Bamberg",
-                "alternative_names": [],
-                "viaf": "127940265.000000",
-                "isni": "0000000119642693",
+                "id": 43889,
+                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
+                "alternative_names": [
+                    "Staatsbibliothek zu Berlin.",
+                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
+                    "Staatsbibliothek Berlin"
+                ],
+                "viaf": "157207056.000000",
+                "isni": "0000000123699481",
                 "settlement": {
-                    "id": 42760,
-                    "name": "Bamberg",
-                    "region": "Bavaria",
+                    "id": 43580,
+                    "name": "Berlin",
                     "country": "Germany",
-                    "location_mappable": "POINT(10.89115 49.8934)",
-                    "geonames_id": 6556725
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
                 }
             }
         }
