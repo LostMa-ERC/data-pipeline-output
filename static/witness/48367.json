@@ -19,60 +19,6 @@
     },
     "manuscripts": [
         {
-            "id": 48365,
-            "shelfmark": "96 A 7",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 48368,
-                    "part_order": 1,
-                    "number_of_lines": 382,
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
-                    "id": 55818,
-                    "part_order": 1,
-                    "number_of_lines": 382,
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "2r-2v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 47361,
-                "name": "Gemeentebibliotheek Rotterdam",
-                "alternative_names": [],
-                "viaf": "153684222.000000",
-                "settlement": {
-                    "id": 43364,
-                    "name": "Rotterdam",
-                    "region": "South Holland",
-                    "country": "Netherlands",
-                    "location_mappable": "POINT(4.28784 51.88246)",
-                    "geonames_id": 2747890
-                }
-            }
-        },
-        {
             "id": 48371,
             "shelfmark": "ms. IV 1331",
             "old_shelfmarks": [],
@@ -120,6 +66,60 @@
                     "location_mappable": "POINT(4.34878 50.85045)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 2800866
+                }
+            }
+        },
+        {
+            "id": 48365,
+            "shelfmark": "96 A 7",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 55818,
+                    "part_order": 1,
+                    "number_of_lines": 382,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 48368,
+                    "part_order": 1,
+                    "number_of_lines": 382,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47361,
+                "name": "Gemeentebibliotheek Rotterdam",
+                "alternative_names": [],
+                "viaf": "153684222.000000",
+                "settlement": {
+                    "id": 43364,
+                    "name": "Rotterdam",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.28784 51.88246)",
+                    "geonames_id": 2747890
                 }
             }
         }
