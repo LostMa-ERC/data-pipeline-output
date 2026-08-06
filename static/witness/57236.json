@@ -13,6 +13,42 @@
     ],
     "manuscripts": [
         {
+            "id": 58232,
+            "shelfmark": "HsF 1",
+            "old_shelfmarks": [
+                "früher Bad Kreuznach, Schlossparkmuseum, Slg. Fragm. mal. Perg., ohne Sign."
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59605,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57763,
+                "name": "Stadtarchiv Bad Kreuznach",
+                "alternative_names": [],
+                "viaf": "133392942.000000",
+                "settlement": {
+                    "id": 57712,
+                    "name": "Bad Kreuznach",
+                    "region": "Rhineland-Palatinate",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.86713 49.8414)",
+                    "geonames_id": 2953416
+                }
+            }
+        },
+        {
             "id": 58233,
             "shelfmark": "mgf 757, Bl. 8",
             "old_shelfmarks": [],
@@ -47,42 +83,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
-                }
-            }
-        },
-        {
-            "id": 58232,
-            "shelfmark": "HsF 1",
-            "old_shelfmarks": [
-                "früher Bad Kreuznach, Schlossparkmuseum, Slg. Fragm. mal. Perg., ohne Sign."
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59605,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57763,
-                "name": "Stadtarchiv Bad Kreuznach",
-                "alternative_names": [],
-                "viaf": "133392942.000000",
-                "settlement": {
-                    "id": 57712,
-                    "name": "Bad Kreuznach",
-                    "region": "Rhineland-Palatinate",
-                    "country": "Germany",
-                    "location_mappable": "POINT(7.86713 49.8414)",
-                    "geonames_id": 2953416
                 }
             }
         }
