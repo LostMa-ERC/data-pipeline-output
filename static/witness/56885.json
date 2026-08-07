@@ -14,40 +14,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58667,
-            "shelfmark": "Inc. 712, ausgelöstes Fragment und Leimabklatsch [z.T. verschollen]",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60040,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57812,
-                "name": "Martinus-Bibliothek",
-                "alternative_names": [],
-                "viaf": "143986272.000000",
-                "settlement": {
-                    "id": 57689,
-                    "name": "Mainz",
-                    "region": "Rhineland-Palatinate",
-                    "country": "Germany",
-                    "location_mappable": "POINT(8.28008 49.98185)",
-                    "geonames_id": 2874225
-                }
-            }
-        },
-        {
             "id": 58666,
             "shelfmark": "Berol. Mgq 635",
             "old_shelfmarks": [
@@ -94,6 +60,40 @@
             "witness_parts": [
                 {
                     "id": 60041,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57812,
+                "name": "Martinus-Bibliothek",
+                "alternative_names": [],
+                "viaf": "143986272.000000",
+                "settlement": {
+                    "id": 57689,
+                    "name": "Mainz",
+                    "region": "Rhineland-Palatinate",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.28008 49.98185)",
+                    "geonames_id": 2874225
+                }
+            }
+        },
+        {
+            "id": 58667,
+            "shelfmark": "Inc. 712, ausgelöstes Fragment und Leimabklatsch [z.T. verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60040,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

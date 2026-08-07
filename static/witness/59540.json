@@ -13,6 +13,82 @@
     ],
     "manuscripts": [
         {
+            "id": 58775,
+            "shelfmark": "Cgm 193/V",
+            "old_shelfmarks": [
+                "früher Teilfragm. München, Nationalmuseum, ohne Sign. (1)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60148,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        },
+        {
+            "id": 58778,
+            "shelfmark": "M. p. misc. f. 34",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60151,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57749,
+                "name": "Universitätsbibliothek Würzburg",
+                "alternative_names": [],
+                "viaf": "155945511.000000",
+                "isni": "0000000121914029",
+                "settlement": {
+                    "id": 42935,
+                    "name": "Würzburg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.93365 49.79708)",
+                    "geonames_id": 6556942
+                }
+            }
+        },
+        {
             "id": 58773,
             "shelfmark": "Hdschr. 269",
             "old_shelfmarks": [
@@ -49,43 +125,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
-                }
-            }
-        },
-        {
-            "id": 58766,
-            "shelfmark": "D 3001, Rep. 3 – 1179",
-            "old_shelfmarks": [
-                "früher Bamberg, Hist. Verein im Stadtarchiv, Rep. III (Akten) Nr. 1179"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60139,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57919,
-                "name": "Stadtarchiv Bamberg",
-                "alternative_names": [],
-                "viaf": "127940265.000000",
-                "isni": "0000000119642693",
-                "settlement": {
-                    "id": 42760,
-                    "name": "Bamberg",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(10.89115 49.8934)",
-                    "geonames_id": 6556725
                 }
             }
         },
@@ -201,17 +240,17 @@
             }
         },
         {
-            "id": 58775,
-            "shelfmark": "Cgm 193/V",
+            "id": 58766,
+            "shelfmark": "D 3001, Rep. 3 – 1179",
             "old_shelfmarks": [
-                "früher Teilfragm. München, Nationalmuseum, ohne Sign. (1)"
+                "früher Bamberg, Hist. Verein im Stadtarchiv, Rep. III (Akten) Nr. 1179"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60148,
+                    "id": 60139,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -222,57 +261,18 @@
                 }
             ],
             "repository": {
-                "id": 47347,
-                "name": "Bayerische Staatsbibliothek",
-                "alternative_names": [
-                    "Bayerische Staatsbibliothek (München)",
-                    "Bawarska Biblioteka Państwowa",
-                    "Bayerische Staatsbibliothek München (D-Mbs)"
-                ],
-                "viaf": "129557156.000000",
-                "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
-                }
-            }
-        },
-        {
-            "id": 58778,
-            "shelfmark": "M. p. misc. f. 34",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60151,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57749,
-                "name": "Universitätsbibliothek Würzburg",
+                "id": 57919,
+                "name": "Stadtarchiv Bamberg",
                 "alternative_names": [],
-                "viaf": "155945511.000000",
-                "isni": "0000000121914029",
+                "viaf": "127940265.000000",
+                "isni": "0000000119642693",
                 "settlement": {
-                    "id": 42935,
-                    "name": "Würzburg",
+                    "id": 42760,
+                    "name": "Bamberg",
                     "region": "Bavaria",
                     "country": "Germany",
-                    "location_mappable": "POINT(9.93365 49.79708)",
-                    "geonames_id": 6556942
+                    "location_mappable": "POINT(10.89115 49.8934)",
+                    "geonames_id": 6556725
                 }
             }
         }
