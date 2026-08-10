@@ -50,6 +50,48 @@
             }
         },
         {
+            "id": 58479,
+            "shelfmark": "ms. 2655",
+            "old_shelfmarks": [
+                "früher L germ. 582.4°"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59852,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43839,
+                "name": "Bibliothéque Nationale et Universitaire de Strasbourg",
+                "alternative_names": [
+                    "Bibliothèque nationale et universitaire (Strasburg)",
+                    "Bibliothèque nationale et universitaire Strasbourg (F-Sn)",
+                    "Bibliothèque nationale et universitaire (Strasbourg)",
+                    "bibliothèque nationale et universitaire"
+                ],
+                "viaf": "135553188.000000",
+                "isni": "0000000121631491",
+                "settlement": {
+                    "id": 42736,
+                    "name": "Strasbourg",
+                    "region": "Grand Est",
+                    "country": "France",
+                    "location_mappable": "POINT(7.74553 48.58392)",
+                    "geonames_id": 2973783
+                }
+            }
+        },
+        {
             "id": 58477,
             "shelfmark": "Cod. Memb. II 194",
             "old_shelfmarks": [],
@@ -121,48 +163,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
-                }
-            }
-        },
-        {
-            "id": 58479,
-            "shelfmark": "ms. 2655",
-            "old_shelfmarks": [
-                "früher L germ. 582.4°"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59852,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43839,
-                "name": "Bibliothéque Nationale et Universitaire de Strasbourg",
-                "alternative_names": [
-                    "Bibliothèque nationale et universitaire (Strasburg)",
-                    "Bibliothèque nationale et universitaire Strasbourg (F-Sn)",
-                    "Bibliothèque nationale et universitaire (Strasbourg)",
-                    "bibliothèque nationale et universitaire"
-                ],
-                "viaf": "135553188.000000",
-                "isni": "0000000121631491",
-                "settlement": {
-                    "id": 42736,
-                    "name": "Strasbourg",
-                    "region": "Grand Est",
-                    "country": "France",
-                    "location_mappable": "POINT(7.74553 48.58392)",
-                    "geonames_id": 2973783
                 }
             }
         }

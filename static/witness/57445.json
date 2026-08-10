@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 59211,
-            "shelfmark": "Cod. poet. et phil. 4° 89",
+            "id": 59210,
+            "shelfmark": "Bibliothek, Hs. 42520",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60584,
+                    "id": 60583,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -32,17 +32,18 @@
                 }
             ],
             "repository": {
-                "id": 48430,
-                "name": "Württembergische Landesbibliothek",
+                "id": 57907,
+                "name": "Germanisches Nationalmuseum",
                 "alternative_names": [],
-                "viaf": "164844730.000000",
+                "viaf": "131883509.000000",
+                "isni": "000000012161603X",
                 "settlement": {
-                    "id": 42911,
-                    "name": "Stuttgart",
-                    "region": "Baden-Wurttemberg",
+                    "id": 42881,
+                    "name": "Nürnberg",
+                    "region": "Bavaria",
                     "country": "Germany",
-                    "location_mappable": "POINT(9.1775 48.77667)",
-                    "geonames_id": 6690189
+                    "location_mappable": "POINT(11.0768 49.4541)",
+                    "geonames_id": 6556832
                 }
             }
         },
@@ -85,15 +86,15 @@
             }
         },
         {
-            "id": 59210,
-            "shelfmark": "Bibliothek, Hs. 42520",
+            "id": 59211,
+            "shelfmark": "Cod. poet. et phil. 4° 89",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60583,
+                    "id": 60584,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -104,18 +105,17 @@
                 }
             ],
             "repository": {
-                "id": 57907,
-                "name": "Germanisches Nationalmuseum",
+                "id": 48430,
+                "name": "Württembergische Landesbibliothek",
                 "alternative_names": [],
-                "viaf": "131883509.000000",
-                "isni": "000000012161603X",
+                "viaf": "164844730.000000",
                 "settlement": {
-                    "id": 42881,
-                    "name": "Nürnberg",
-                    "region": "Bavaria",
+                    "id": 42911,
+                    "name": "Stuttgart",
+                    "region": "Baden-Wurttemberg",
                     "country": "Germany",
-                    "location_mappable": "POINT(11.0768 49.4541)",
-                    "geonames_id": 6556832
+                    "location_mappable": "POINT(9.1775 48.77667)",
+                    "geonames_id": 6690189
                 }
             }
         }
