@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58792,
-            "shelfmark": "Msc. 26",
+            "id": 58794,
+            "shelfmark": "Cod. Fol. 439a (8)",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60165,
+                    "id": 60167,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -32,17 +32,18 @@
                 }
             ],
             "repository": {
-                "id": 57961,
-                "name": "Evangelisches Stift, Bibliothek Tübingen",
+                "id": 57857,
+                "name": "Herzogin Anna Amalia Bibliothek",
                 "alternative_names": [],
-                "viaf": "4440174413971408814080.000000",
+                "viaf": "159332499.000000",
+                "isni": "0000000121955357",
                 "settlement": {
-                    "id": 43709,
-                    "name": "Tübingen",
-                    "region": "Baden-Wurttemberg",
+                    "id": 57632,
+                    "name": "Weimar",
+                    "region": "Thuringia",
                     "country": "Germany",
-                    "location_mappable": "POINT(9.05222 48.52266)",
-                    "geonames_id": 2820860
+                    "location_mappable": "POINT(11.32903 50.9803)",
+                    "geonames_id": 2812482
                 }
             }
         },
@@ -84,15 +85,15 @@
             }
         },
         {
-            "id": 58794,
-            "shelfmark": "Cod. Fol. 439a (8)",
+            "id": 58792,
+            "shelfmark": "Msc. 26",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60167,
+                    "id": 60165,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -103,18 +104,17 @@
                 }
             ],
             "repository": {
-                "id": 57857,
-                "name": "Herzogin Anna Amalia Bibliothek",
+                "id": 57961,
+                "name": "Evangelisches Stift, Bibliothek Tübingen",
                 "alternative_names": [],
-                "viaf": "159332499.000000",
-                "isni": "0000000121955357",
+                "viaf": "4440174413971408814080.000000",
                 "settlement": {
-                    "id": 57632,
-                    "name": "Weimar",
-                    "region": "Thuringia",
+                    "id": 43709,
+                    "name": "Tübingen",
+                    "region": "Baden-Wurttemberg",
                     "country": "Germany",
-                    "location_mappable": "POINT(11.32903 50.9803)",
-                    "geonames_id": 2812482
+                    "location_mappable": "POINT(9.05222 48.52266)",
+                    "geonames_id": 2820860
                 }
             }
         }

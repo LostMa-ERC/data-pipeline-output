@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58958,
-            "shelfmark": "Cgm 5249/4g",
+            "id": 58959,
+            "shelfmark": "Nem. O. v. XIV.4",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60331,
+                    "id": 60332,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -32,22 +32,34 @@
                 }
             ],
             "repository": {
-                "id": 47347,
-                "name": "Bayerische Staatsbibliothek",
+                "id": 43737,
+                "name": "National Library of Russia",
                 "alternative_names": [
-                    "Bayerische Staatsbibliothek (München)",
-                    "Bawarska Biblioteka Państwowa",
-                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                    "Rossiĭskai︠a︡ nat︠s︡ional'nai︠a︡ biblioteka",
+                    "Rosyjska Biblioteka Narodowa (Petersburg)",
+                    "הספרייה הציבורית על שם סלטיקוב-שצ'דרין (פטרבורג)",
+                    "Rossijskaja nacionaľnaja biblioteka (Petrohrad, Rusko)",
+                    "Rossijskaâ nacional'naâ biblioteka (Saint-Pétersbourg, Russie)",
+                    "Российская Национальная библиотека (Санкт-Петербург)",
+                    "Rossijskaja nacional'naja biblioteka Sankt-Peterburg (RUS-SPsc)",
+                    "Rossijskaja nacional/ naja biblioteka",
+                    "Rússia., National Library",
+                    "Российская национальная библиотека",
+                    "Rossijskaâ nacional'naâ biblioteka.",
+                    "Государственная публичная библиотека им. Салтыкова-Щедрина, Отдел каталогизации",
+                    "Rossijskaja nacional'naja biblioteka Sankt-Peterburg",
+                    "ロシア国立図書館",
+                    "Rossijskaja nacional'naja biblioteka",
+                    "Bibliothèque nationale de Russie"
                 ],
-                "viaf": "129557156.000000",
+                "viaf": "127114742.000000",
+                "isni": "0000000122431029",
                 "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
+                    "id": 43666,
+                    "name": "St Petersburg",
+                    "country": "Russia",
+                    "location_mappable": "POINT(30.31413 59.93863)",
+                    "geonames_id": 498817
                 }
             }
         },
@@ -120,15 +132,15 @@
             }
         },
         {
-            "id": 58959,
-            "shelfmark": "Nem. O. v. XIV.4",
+            "id": 58958,
+            "shelfmark": "Cgm 5249/4g",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60332,
+                    "id": 60331,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -139,34 +151,22 @@
                 }
             ],
             "repository": {
-                "id": 43737,
-                "name": "National Library of Russia",
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
                 "alternative_names": [
-                    "Rossiĭskai︠a︡ nat︠s︡ional'nai︠a︡ biblioteka",
-                    "Rosyjska Biblioteka Narodowa (Petersburg)",
-                    "הספרייה הציבורית על שם סלטיקוב-שצ'דרין (פטרבורג)",
-                    "Rossijskaja nacionaľnaja biblioteka (Petrohrad, Rusko)",
-                    "Rossijskaâ nacional'naâ biblioteka (Saint-Pétersbourg, Russie)",
-                    "Российская Национальная библиотека (Санкт-Петербург)",
-                    "Rossijskaja nacional'naja biblioteka Sankt-Peterburg (RUS-SPsc)",
-                    "Rossijskaja nacional/ naja biblioteka",
-                    "Rússia., National Library",
-                    "Российская национальная библиотека",
-                    "Rossijskaâ nacional'naâ biblioteka.",
-                    "Государственная публичная библиотека им. Салтыкова-Щедрина, Отдел каталогизации",
-                    "Rossijskaja nacional'naja biblioteka Sankt-Peterburg",
-                    "ロシア国立図書館",
-                    "Rossijskaja nacional'naja biblioteka",
-                    "Bibliothèque nationale de Russie"
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
                 ],
-                "viaf": "127114742.000000",
-                "isni": "0000000122431029",
+                "viaf": "129557156.000000",
                 "settlement": {
-                    "id": 43666,
-                    "name": "St Petersburg",
-                    "country": "Russia",
-                    "location_mappable": "POINT(30.31413 59.93863)",
-                    "geonames_id": 498817
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
                 }
             }
         }

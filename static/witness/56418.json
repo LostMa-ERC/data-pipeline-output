@@ -13,47 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58868,
-            "shelfmark": "Cgm 5249/4a",
-            "old_shelfmarks": [
-                "olim Cgm 5249/7a"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60241,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 47347,
-                "name": "Bayerische Staatsbibliothek",
-                "alternative_names": [
-                    "Bayerische Staatsbibliothek (München)",
-                    "Bawarska Biblioteka Państwowa",
-                    "Bayerische Staatsbibliothek München (D-Mbs)"
-                ],
-                "viaf": "129557156.000000",
-                "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
-                }
-            }
-        },
-        {
             "id": 58869,
             "shelfmark": "Cod. 12850",
             "old_shelfmarks": [],
@@ -95,6 +54,43 @@
             }
         },
         {
+            "id": 58866,
+            "shelfmark": "A 1/40 Schuber VI",
+            "old_shelfmarks": [
+                "früher Graz, Zentralbibl. der Wiener Franziskanerprovinz, A 60/22, I + I*"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60239,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57873,
+                "name": "Zentralbibliothek der Wiener Franziskanerprovinz in Graz",
+                "alternative_names": [],
+                "viaf": "122132402.000000",
+                "isni": "000000012214875X",
+                "settlement": {
+                    "id": 43006,
+                    "name": "Graz Stadt",
+                    "region": "Styria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(15.43333 47.06667)",
+                    "geonames_id": 2778058
+                }
+            }
+        },
+        {
             "id": 58867,
             "shelfmark": "Fragm. germ. 1a und 1b",
             "old_shelfmarks": [],
@@ -130,17 +126,17 @@
             }
         },
         {
-            "id": 58866,
-            "shelfmark": "A 1/40 Schuber VI",
+            "id": 58868,
+            "shelfmark": "Cgm 5249/4a",
             "old_shelfmarks": [
-                "früher Graz, Zentralbibl. der Wiener Franziskanerprovinz, A 60/22, I + I*"
+                "olim Cgm 5249/7a"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60239,
+                    "id": 60241,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -151,18 +147,22 @@
                 }
             ],
             "repository": {
-                "id": 57873,
-                "name": "Zentralbibliothek der Wiener Franziskanerprovinz in Graz",
-                "alternative_names": [],
-                "viaf": "122132402.000000",
-                "isni": "000000012214875X",
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
                 "settlement": {
-                    "id": 43006,
-                    "name": "Graz Stadt",
-                    "region": "Styria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(15.43333 47.06667)",
-                    "geonames_id": 2778058
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
                 }
             }
         }
