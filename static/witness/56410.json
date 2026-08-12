@@ -50,15 +50,15 @@
             }
         },
         {
-            "id": 58418,
-            "shelfmark": "Rolf Schmidt, Fragm. germ. 1",
+            "id": 58414,
+            "shelfmark": "Fragm. aus D II 723",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59791,
+                    "id": 59787,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -67,7 +67,24 @@
                     "has_pictorial_designs": false,
                     "decoration_is_unknown": false
                 }
-            ]
+            ],
+            "repository": {
+                "id": 57780,
+                "name": "Katholische Universität Eichstätt-Ingolstadt",
+                "alternative_names": [
+                    "Universitätsbibliothek Eichstätt-Ingolstadt"
+                ],
+                "viaf": "159005288.000000",
+                "isni": "0000000112455350",
+                "settlement": {
+                    "id": 57655,
+                    "name": "Eichstätt",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.19675 48.88854)",
+                    "geonames_id": 2932069
+                }
+            }
         },
         {
             "id": 58417,
@@ -104,15 +121,15 @@
             }
         },
         {
-            "id": 58414,
-            "shelfmark": "Fragm. aus D II 723",
+            "id": 58418,
+            "shelfmark": "Rolf Schmidt, Fragm. germ. 1",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59787,
+                    "id": 59791,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -121,24 +138,7 @@
                     "has_pictorial_designs": false,
                     "decoration_is_unknown": false
                 }
-            ],
-            "repository": {
-                "id": 57780,
-                "name": "Katholische Universität Eichstätt-Ingolstadt",
-                "alternative_names": [
-                    "Universitätsbibliothek Eichstätt-Ingolstadt"
-                ],
-                "viaf": "159005288.000000",
-                "isni": "0000000112455350",
-                "settlement": {
-                    "id": 57655,
-                    "name": "Eichstätt",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(11.19675 48.88854)",
-                    "geonames_id": 2932069
-                }
-            }
+            ]
         }
     ]
 }

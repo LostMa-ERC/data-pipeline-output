@@ -13,17 +13,17 @@
     ],
     "manuscripts": [
         {
-            "id": 58573,
-            "shelfmark": "Cod. 326 Novissimi 8*",
+            "id": 58572,
+            "shelfmark": "2* Ms. Poet. Et roman. 30 I3+4",
             "old_shelfmarks": [
-                "früher Privatbesitz Antiquariat Dr. Jörn Günther, Hamburg, Nr. 2006/8,9 ; davor Privatbesitz Antiquariat Dr. Jörn Günther, Hamburg, Nr. 2004/8,4 ; davor Büdingen, Fürstl. Ysenburg- und Büdingensches Archiv, Ms. 54-57A/B"
+                "früher Marburg, Staatsarchiv, Fragm. 3+4"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59946,
+                    "id": 59945,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -34,27 +34,22 @@
                 }
             ],
             "repository": {
-                "id": 43727,
-                "name": "Herzog-August-Bibliothek",
+                "id": 57881,
+                "name": "Universitätsbibliothek Kassel – Landesbibliothek und Murhardsche Bibliothek der Stadt Kassel",
                 "alternative_names": [
-                    "Herzog August Bibliothek (Wolfenbüttel, Allemagne)",
-                    "Herzog August Bibliothek Wolfenbüttel, Deutschland",
-                    "Herzog August Bibliothek (Þýskaland)",
-                    "Herzog August Bibliothek (Wolfenbüttel, Nemecko)",
-                    "Herzog August Bibliothek (Wolfenbuettel)",
-                    "Herzog August Bibliothek (Alemania)",
-                    "Herzog August Bibliothek Wolfenbüttel (D-W)",
-                    "Herzog-August-Bibliothek (Wolfenbüttel)"
+                    "Murhardsche Bibliothek der Stadt Kassel und Landesbibliothek"
                 ],
-                "viaf": "125059269.000000",
-                "isni": "0000000121513727",
+                "viaf": "132387234.000000",
+                "isni": "0000000122847147",
                 "settlement": {
-                    "id": 43661,
-                    "name": "Wolfenbüttel",
-                    "region": "Lower Saxony",
+                    "id": 48423,
+                    "name": "Kassel",
+                    "region": "Hesse",
                     "country": "Germany",
-                    "location_mappable": "POINT(10.54095 52.16442)",
-                    "geonames_id": 2806914
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(9.49974058 51.31602217)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2892518
                 }
             }
         },
@@ -98,17 +93,17 @@
             }
         },
         {
-            "id": 58572,
-            "shelfmark": "2* Ms. Poet. Et roman. 30 I3+4",
+            "id": 58573,
+            "shelfmark": "Cod. 326 Novissimi 8*",
             "old_shelfmarks": [
-                "früher Marburg, Staatsarchiv, Fragm. 3+4"
+                "früher Privatbesitz Antiquariat Dr. Jörn Günther, Hamburg, Nr. 2006/8,9 ; davor Privatbesitz Antiquariat Dr. Jörn Günther, Hamburg, Nr. 2004/8,4 ; davor Büdingen, Fürstl. Ysenburg- und Büdingensches Archiv, Ms. 54-57A/B"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59945,
+                    "id": 59946,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -119,22 +114,27 @@
                 }
             ],
             "repository": {
-                "id": 57881,
-                "name": "Universitätsbibliothek Kassel – Landesbibliothek und Murhardsche Bibliothek der Stadt Kassel",
+                "id": 43727,
+                "name": "Herzog-August-Bibliothek",
                 "alternative_names": [
-                    "Murhardsche Bibliothek der Stadt Kassel und Landesbibliothek"
+                    "Herzog August Bibliothek (Wolfenbüttel, Allemagne)",
+                    "Herzog August Bibliothek Wolfenbüttel, Deutschland",
+                    "Herzog August Bibliothek (Þýskaland)",
+                    "Herzog August Bibliothek (Wolfenbüttel, Nemecko)",
+                    "Herzog August Bibliothek (Wolfenbuettel)",
+                    "Herzog August Bibliothek (Alemania)",
+                    "Herzog August Bibliothek Wolfenbüttel (D-W)",
+                    "Herzog-August-Bibliothek (Wolfenbüttel)"
                 ],
-                "viaf": "132387234.000000",
-                "isni": "0000000122847147",
+                "viaf": "125059269.000000",
+                "isni": "0000000121513727",
                 "settlement": {
-                    "id": 48423,
-                    "name": "Kassel",
-                    "region": "Hesse",
+                    "id": 43661,
+                    "name": "Wolfenbüttel",
+                    "region": "Lower Saxony",
                     "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(9.49974058 51.31602217)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2892518
+                    "location_mappable": "POINT(10.54095 52.16442)",
+                    "geonames_id": 2806914
                 }
             }
         }

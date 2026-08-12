@@ -45,20 +45,6 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55824,
-                    "part_order": 2,
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "150r-165r"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
                     "id": 55755,
                     "part_order": 2,
                     "lines_are_incomplete": "unknown",
@@ -78,6 +64,20 @@
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
                         "118r-133r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 55824,
+                    "part_order": 2,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "150r-165r"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
