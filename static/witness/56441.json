@@ -13,15 +13,17 @@
     ],
     "manuscripts": [
         {
-            "id": 58701,
-            "shelfmark": "Cgm 5249/4b",
-            "old_shelfmarks": [],
+            "id": 58706,
+            "shelfmark": "Fragmente MM 2/2",
+            "old_shelfmarks": [
+                "früher Seitenstetten, Stiftsbibl., Fragmentenschachtel, ohne Sign. (2)"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60074,
+                    "id": 60079,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -32,22 +34,22 @@
                 }
             ],
             "repository": {
-                "id": 47347,
-                "name": "Bayerische Staatsbibliothek",
+                "id": 43768,
+                "name": "Stiftsbibliothek Seitenstetten",
                 "alternative_names": [
-                    "Bayerische Staatsbibliothek (München)",
-                    "Bawarska Biblioteka Państwowa",
-                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                    "Benediktinerstift Seitenstetten. Bibliothek",
+                    "Benediktinerstift Seitenstetten. Stiftsbibliothek"
                 ],
-                "viaf": "129557156.000000",
+                "viaf": "169315054.000000",
                 "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
-                    "country": "Germany",
+                    "id": 43682,
+                    "name": "Seitenstetten",
+                    "region": "Lower Austria",
+                    "country": "Austria",
                     "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_mappable": "POINT(14.65 48.03333)",
                     "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
+                    "geonames_id": 2765196
                 }
             }
         },
@@ -87,17 +89,15 @@
             }
         },
         {
-            "id": 58706,
-            "shelfmark": "Fragmente MM 2/2",
-            "old_shelfmarks": [
-                "früher Seitenstetten, Stiftsbibl., Fragmentenschachtel, ohne Sign. (2)"
-            ],
+            "id": 58701,
+            "shelfmark": "Cgm 5249/4b",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60079,
+                    "id": 60074,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -108,22 +108,22 @@
                 }
             ],
             "repository": {
-                "id": 43768,
-                "name": "Stiftsbibliothek Seitenstetten",
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
                 "alternative_names": [
-                    "Benediktinerstift Seitenstetten. Bibliothek",
-                    "Benediktinerstift Seitenstetten. Stiftsbibliothek"
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
                 ],
-                "viaf": "169315054.000000",
+                "viaf": "129557156.000000",
                 "settlement": {
-                    "id": 43682,
-                    "name": "Seitenstetten",
-                    "region": "Lower Austria",
-                    "country": "Austria",
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
                     "place_type": "Administrative.City",
-                    "location_mappable": "POINT(14.65 48.03333)",
+                    "location_mappable": "POINT(11.57549 48.13743)",
                     "location_certainty": "1. High confidence",
-                    "geonames_id": 2765196
+                    "geonames_id": 2867714
                 }
             }
         }

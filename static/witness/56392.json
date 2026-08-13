@@ -13,15 +13,76 @@
     ],
     "manuscripts": [
         {
-            "id": 59343,
-            "shelfmark": "mgq 641",
+            "id": 59350,
+            "shelfmark": "Hs. 2",
+            "old_shelfmarks": [
+                "früher Privatbesitz Alois Bernt, Kaaden (Böhmen), ohne Sign. (2)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60723,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        },
+        {
+            "id": 59345,
+            "shelfmark": "Cgm 193/IV",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60716,
+                    "id": 60718,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        },
+        {
+            "id": 59341,
+            "shelfmark": "mgf 721 (b)",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60714,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -49,28 +110,6 @@
                     "geonames_id": 2950159
                 }
             }
-        },
-        {
-            "id": 59350,
-            "shelfmark": "Hs. 2",
-            "old_shelfmarks": [
-                "früher Privatbesitz Alois Bernt, Kaaden (Böhmen), ohne Sign. (2)"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60723,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ]
         },
         {
             "id": 59349,
@@ -201,45 +240,6 @@
             }
         },
         {
-            "id": 59345,
-            "shelfmark": "Cgm 193/IV",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60718,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 47347,
-                "name": "Bayerische Staatsbibliothek",
-                "alternative_names": [
-                    "Bayerische Staatsbibliothek (München)",
-                    "Bawarska Biblioteka Państwowa",
-                    "Bayerische Staatsbibliothek München (D-Mbs)"
-                ],
-                "viaf": "129557156.000000",
-                "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
-                }
-            }
-        },
-        {
             "id": 59344,
             "shelfmark": "Ms. B 3",
             "old_shelfmarks": [
@@ -277,15 +277,15 @@
             }
         },
         {
-            "id": 59341,
-            "shelfmark": "mgf 721 (b)",
+            "id": 59343,
+            "shelfmark": "mgq 641",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60714,
+                    "id": 60716,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
