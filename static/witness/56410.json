@@ -47,6 +47,26 @@
             }
         },
         {
+            "id": 58418,
+            "shelfmark": "Rolf Schmidt, Fragm. germ. 1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59791,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        },
+        {
             "id": 58416,
             "shelfmark": "APECESJ, Abt. 43, Nr. 54 (1)",
             "old_shelfmarks": [
@@ -82,26 +102,6 @@
                     "geonames_id": 2867714
                 }
             }
-        },
-        {
-            "id": 58418,
-            "shelfmark": "Rolf Schmidt, Fragm. germ. 1",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59791,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ]
         },
         {
             "id": 58414,

@@ -20,20 +20,20 @@
     ],
     "manuscripts": [
         {
-            "id": 49404,
-            "shelfmark": "Royal MS 19 E III",
+            "id": 49405,
+            "shelfmark": "Royal MS 19 E II",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 49872,
-                    "part_order": 2,
-                    "volume_number": "2",
-                    "lines_are_incomplete": "No",
+                    "id": 49873,
+                    "part_order": 3,
+                    "volume_number": "3",
+                    "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1-378"
+                        "1-304"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -68,20 +68,20 @@
             }
         },
         {
-            "id": 49405,
-            "shelfmark": "Royal MS 19 E II",
+            "id": 49404,
+            "shelfmark": "Royal MS 19 E III",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 49873,
-                    "part_order": 3,
-                    "volume_number": "3",
-                    "lines_are_incomplete": "unknown",
+                    "id": 49872,
+                    "part_order": 2,
+                    "volume_number": "2",
+                    "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "1-304"
+                        "1-378"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
