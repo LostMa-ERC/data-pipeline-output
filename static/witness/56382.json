@@ -13,6 +13,40 @@
     ],
     "manuscripts": [
         {
+            "id": 59302,
+            "shelfmark": "Bibliothek 60, 96",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60675,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57741,
+                "name": "Geheimes Staatsarchiv Preußischer Kulturbesitz",
+                "alternative_names": [],
+                "viaf": "127402076.000000",
+                "isni": "0000000122166501",
+                "settlement": {
+                    "id": 43580,
+                    "name": "Berlin",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
+                }
+            }
+        },
+        {
             "id": 59303,
             "shelfmark": "Fragm. K. 554",
             "old_shelfmarks": [],
@@ -45,40 +79,6 @@
                     "country": "Hungary",
                     "location_mappable": "POINT(19.04045 47.49835)",
                     "geonames_id": 3054643
-                }
-            }
-        },
-        {
-            "id": 59302,
-            "shelfmark": "Bibliothek 60, 96",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60675,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57741,
-                "name": "Geheimes Staatsarchiv Preußischer Kulturbesitz",
-                "alternative_names": [],
-                "viaf": "127402076.000000",
-                "isni": "0000000122166501",
-                "settlement": {
-                    "id": 43580,
-                    "name": "Berlin",
-                    "country": "Germany",
-                    "location_mappable": "POINT(13.41053 52.52437)",
-                    "geonames_id": 2950159
                 }
             }
         }
