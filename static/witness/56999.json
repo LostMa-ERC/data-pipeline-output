@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 59128,
-            "shelfmark": "Cod. 15336",
+            "id": 59124,
+            "shelfmark": "mgf 737, Bl. 19",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60501,
+                    "id": 60497,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -32,58 +32,21 @@
                 }
             ],
             "repository": {
-                "id": 43792,
-                "name": "Österreichische Nationalbibliothek",
+                "id": 43889,
+                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
                 "alternative_names": [
-                    "كتابخانهى ملى اتريش",
-                    "Áustria., Österreichische Nationalbibliothek",
-                    "הספרייה הלאומית של אוסטריה",
-                    "Austriacka Biblioteka Narodowa",
-                    "Österreichische Nationalbibliothek (Viedeň, Rakúsko)",
-                    "Österreichische Nationalbibliothek (Wien)"
+                    "Staatsbibliothek zu Berlin.",
+                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
+                    "Staatsbibliothek Berlin"
                 ],
-                "viaf": "136765452.000000",
-                "isni": "0000000123064881",
+                "viaf": "157207056.000000",
+                "isni": "0000000123699481",
                 "settlement": {
-                    "id": 43576,
-                    "name": "Vienna",
-                    "country": "Austria",
-                    "location_mappable": "POINT(16.37208 48.20849)",
-                    "geonames_id": 2761369
-                }
-            }
-        },
-        {
-            "id": 59127,
-            "shelfmark": "Cod. 92, Vorderer und hinterer Spiegel",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60500,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57793,
-                "name": "Stiftsbibliothek Herzogenburg",
-                "alternative_names": [],
-                "viaf": "308189389.000000",
-                "settlement": {
-                    "id": 57670,
-                    "name": "Herzogenburg",
-                    "region": "Lower Austria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(15.69431 48.28137)",
-                    "geonames_id": 2776470
+                    "id": 43580,
+                    "name": "Berlin",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
                 }
             }
         },
@@ -126,6 +89,47 @@
             }
         },
         {
+            "id": 59128,
+            "shelfmark": "Cod. 15336",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60501,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43792,
+                "name": "Österreichische Nationalbibliothek",
+                "alternative_names": [
+                    "كتابخانهى ملى اتريش",
+                    "Áustria., Österreichische Nationalbibliothek",
+                    "הספרייה הלאומית של אוסטריה",
+                    "Austriacka Biblioteka Narodowa",
+                    "Österreichische Nationalbibliothek (Viedeň, Rakúsko)",
+                    "Österreichische Nationalbibliothek (Wien)"
+                ],
+                "viaf": "136765452.000000",
+                "isni": "0000000123064881",
+                "settlement": {
+                    "id": 43576,
+                    "name": "Vienna",
+                    "country": "Austria",
+                    "location_mappable": "POINT(16.37208 48.20849)",
+                    "geonames_id": 2761369
+                }
+            }
+        },
+        {
             "id": 59125,
             "shelfmark": "ohne Sign. [verschollen]",
             "old_shelfmarks": [],
@@ -161,15 +165,15 @@
             }
         },
         {
-            "id": 59124,
-            "shelfmark": "mgf 737, Bl. 19",
+            "id": 59127,
+            "shelfmark": "Cod. 92, Vorderer und hinterer Spiegel",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60497,
+                    "id": 60500,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -180,21 +184,17 @@
                 }
             ],
             "repository": {
-                "id": 43889,
-                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
-                "alternative_names": [
-                    "Staatsbibliothek zu Berlin.",
-                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
-                    "Staatsbibliothek Berlin"
-                ],
-                "viaf": "157207056.000000",
-                "isni": "0000000123699481",
+                "id": 57793,
+                "name": "Stiftsbibliothek Herzogenburg",
+                "alternative_names": [],
+                "viaf": "308189389.000000",
                 "settlement": {
-                    "id": 43580,
-                    "name": "Berlin",
-                    "country": "Germany",
-                    "location_mappable": "POINT(13.41053 52.52437)",
-                    "geonames_id": 2950159
+                    "id": 57670,
+                    "name": "Herzogenburg",
+                    "region": "Lower Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(15.69431 48.28137)",
+                    "geonames_id": 2776470
                 }
             }
         }
