@@ -13,43 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58866,
-            "shelfmark": "A 1/40 Schuber VI",
-            "old_shelfmarks": [
-                "früher Graz, Zentralbibl. der Wiener Franziskanerprovinz, A 60/22, I + I*"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60239,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57873,
-                "name": "Zentralbibliothek der Wiener Franziskanerprovinz in Graz",
-                "alternative_names": [],
-                "viaf": "122132402.000000",
-                "isni": "000000012214875X",
-                "settlement": {
-                    "id": 43006,
-                    "name": "Graz Stadt",
-                    "region": "Styria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(15.43333 47.06667)",
-                    "geonames_id": 2778058
-                }
-            }
-        },
-        {
             "id": 58867,
             "shelfmark": "Fragm. germ. 1a und 1b",
             "old_shelfmarks": [],
@@ -163,6 +126,43 @@
                     "country": "Austria",
                     "location_mappable": "POINT(16.37208 48.20849)",
                     "geonames_id": 2761369
+                }
+            }
+        },
+        {
+            "id": 58866,
+            "shelfmark": "A 1/40 Schuber VI",
+            "old_shelfmarks": [
+                "früher Graz, Zentralbibl. der Wiener Franziskanerprovinz, A 60/22, I + I*"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60239,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57873,
+                "name": "Zentralbibliothek der Wiener Franziskanerprovinz in Graz",
+                "alternative_names": [],
+                "viaf": "122132402.000000",
+                "isni": "000000012214875X",
+                "settlement": {
+                    "id": 43006,
+                    "name": "Graz Stadt",
+                    "region": "Styria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(15.43333 47.06667)",
+                    "geonames_id": 2778058
                 }
             }
         }

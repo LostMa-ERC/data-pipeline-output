@@ -13,41 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58396,
-            "shelfmark": "Jur.1379, Einbandmakulatur",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59769,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57916,
-                "name": "Staatliche Bibliothek Regensburg",
-                "alternative_names": [],
-                "viaf": "123786575.000000",
-                "isni": "0000000085671129",
-                "settlement": {
-                    "id": 42892,
-                    "name": "Regensburg",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(12.09536 49.01681)",
-                    "geonames_id": 6556611
-                }
-            }
-        },
-        {
             "id": 58395,
             "shelfmark": "MS 486",
             "old_shelfmarks": [
@@ -81,6 +46,41 @@
                     "country": "United States",
                     "location_mappable": "POINT(-72.92816 41.30815)",
                     "geonames_id": 4839366
+                }
+            }
+        },
+        {
+            "id": 58396,
+            "shelfmark": "Jur.1379, Einbandmakulatur",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59769,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57916,
+                "name": "Staatliche Bibliothek Regensburg",
+                "alternative_names": [],
+                "viaf": "123786575.000000",
+                "isni": "0000000085671129",
+                "settlement": {
+                    "id": 42892,
+                    "name": "Regensburg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(12.09536 49.01681)",
+                    "geonames_id": 6556611
                 }
             }
         },
