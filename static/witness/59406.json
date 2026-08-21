@@ -13,32 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58429,
-            "shelfmark": "Wilhelm Wilmanns [verschollen]",
-            "old_shelfmarks": [
-                "früher Privatbesitz Antiquariat Lempertz (Hanstein), Bonn"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59802,
-                    "part_order": 7,
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "1r-1v. 2r-2v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ]
-        },
-        {
             "id": 58424,
             "shelfmark": "mgf 923 Nr. 30",
             "old_shelfmarks": [],
@@ -52,50 +26,6 @@
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
                         "1r-2v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43889,
-                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
-                "alternative_names": [
-                    "Staatsbibliothek zu Berlin.",
-                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
-                    "Staatsbibliothek Berlin"
-                ],
-                "viaf": "157207056.000000",
-                "isni": "0000000123699481",
-                "settlement": {
-                    "id": 43580,
-                    "name": "Berlin",
-                    "country": "Germany",
-                    "location_mappable": "POINT(13.41053 52.52437)",
-                    "geonames_id": 2950159
-                }
-            }
-        },
-        {
-            "id": 58422,
-            "shelfmark": "Fragm. 342",
-            "old_shelfmarks": [
-                "früher Privatbesitz N. N., (2)"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59795,
-                    "part_order": 1,
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "1r-1v, 2r-2v, 3r-3v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -160,6 +90,76 @@
                     "country": "Germany",
                     "location_mappable": "POINT(7.57883 50.35357)",
                     "geonames_id": 2886946
+                }
+            }
+        },
+        {
+            "id": 58429,
+            "shelfmark": "Wilhelm Wilmanns [verschollen]",
+            "old_shelfmarks": [
+                "früher Privatbesitz Antiquariat Lempertz (Hanstein), Bonn"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59802,
+                    "part_order": 7,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v. 2r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        },
+        {
+            "id": 58422,
+            "shelfmark": "Fragm. 342",
+            "old_shelfmarks": [
+                "früher Privatbesitz N. N., (2)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59795,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v, 2r-2v, 3r-3v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43889,
+                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
+                "alternative_names": [
+                    "Staatsbibliothek zu Berlin.",
+                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
+                    "Staatsbibliothek Berlin"
+                ],
+                "viaf": "157207056.000000",
+                "isni": "0000000123699481",
+                "settlement": {
+                    "id": 43580,
+                    "name": "Berlin",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
                 }
             }
         }

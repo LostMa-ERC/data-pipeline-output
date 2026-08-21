@@ -13,41 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58379,
-            "shelfmark": "Cod. Germ. 61",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59752,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 47527,
-                "name": "Országos Széchényi Könyvtár",
-                "alternative_names": [
-                    "National Széchényi Library"
-                ],
-                "viaf": "147133105.000000",
-                "settlement": {
-                    "id": 43585,
-                    "name": "Budapest",
-                    "country": "Hungary",
-                    "location_mappable": "POINT(19.04045 47.49835)",
-                    "geonames_id": 3054643
-                }
-            }
-        },
-        {
             "id": 58380,
             "shelfmark": "Hs. 696",
             "old_shelfmarks": [],
@@ -112,6 +77,41 @@
                     "country": "Czechia",
                     "location_mappable": "POINT(16.60796 49.19522)",
                     "geonames_id": 3078610
+                }
+            }
+        },
+        {
+            "id": 58379,
+            "shelfmark": "Cod. Germ. 61",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59752,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47527,
+                "name": "Országos Széchényi Könyvtár",
+                "alternative_names": [
+                    "National Széchényi Library"
+                ],
+                "viaf": "147133105.000000",
+                "settlement": {
+                    "id": 43585,
+                    "name": "Budapest",
+                    "country": "Hungary",
+                    "location_mappable": "POINT(19.04045 47.49835)",
+                    "geonames_id": 3054643
                 }
             }
         }

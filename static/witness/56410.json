@@ -13,80 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58414,
-            "shelfmark": "Fragm. aus D II 723",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59787,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57780,
-                "name": "Katholische Universität Eichstätt-Ingolstadt",
-                "alternative_names": [
-                    "Universitätsbibliothek Eichstätt-Ingolstadt"
-                ],
-                "viaf": "159005288.000000",
-                "isni": "0000000112455350",
-                "settlement": {
-                    "id": 57655,
-                    "name": "Eichstätt",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(11.19675 48.88854)",
-                    "geonames_id": 2932069
-                }
-            }
-        },
-        {
-            "id": 58416,
-            "shelfmark": "APECESJ, Abt. 43, Nr. 54 (1)",
-            "old_shelfmarks": [
-                "früher München, Archiv der Deutschen Provinz der Jesuiten, Abt. 0 [AMSI], Nr. XXVIII,2 (1) ; davor irrtüml. Altötting, Provinzialarchiv des Jesuitenordens, ohne Sign."
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59789,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57958,
-                "name": "Jesuiten Zentraleuropäische Provinz Archiv",
-                "alternative_names": [],
-                "viaf": "3979164423003320614912.000000",
-                "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
-                }
-            }
-        },
-        {
             "id": 58418,
             "shelfmark": "Rolf Schmidt, Fragm. germ. 1",
             "old_shelfmarks": [],
@@ -137,6 +63,80 @@
                     "country": "Germany",
                     "location_mappable": "POINT(12.57385 48.88126)",
                     "geonames_id": 2826099
+                }
+            }
+        },
+        {
+            "id": 58416,
+            "shelfmark": "APECESJ, Abt. 43, Nr. 54 (1)",
+            "old_shelfmarks": [
+                "früher München, Archiv der Deutschen Provinz der Jesuiten, Abt. 0 [AMSI], Nr. XXVIII,2 (1) ; davor irrtüml. Altötting, Provinzialarchiv des Jesuitenordens, ohne Sign."
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59789,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57958,
+                "name": "Jesuiten Zentraleuropäische Provinz Archiv",
+                "alternative_names": [],
+                "viaf": "3979164423003320614912.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        },
+        {
+            "id": 58414,
+            "shelfmark": "Fragm. aus D II 723",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59787,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57780,
+                "name": "Katholische Universität Eichstätt-Ingolstadt",
+                "alternative_names": [
+                    "Universitätsbibliothek Eichstätt-Ingolstadt"
+                ],
+                "viaf": "159005288.000000",
+                "isni": "0000000112455350",
+                "settlement": {
+                    "id": 57655,
+                    "name": "Eichstätt",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.19675 48.88854)",
+                    "geonames_id": 2932069
                 }
             }
         }

@@ -13,44 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58390,
-            "shelfmark": "4° Cod. ms. 889 (Cim. 34c), Fragm. I",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59763,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 47356,
-                "name": "Universitätsbibliothek München",
-                "alternative_names": [
-                    "Ludwig-Maximilians-Universität München Universitätsbibliothek"
-                ],
-                "viaf": "146551110.000000",
-                "isni": "0000 0001 2342 2802",
-                "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
-                }
-            }
-        },
-        {
             "id": 58397,
             "shelfmark": "ms. 2201",
             "old_shelfmarks": [
@@ -102,6 +64,44 @@
             "witness_parts": [
                 {
                     "id": 59767,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47356,
+                "name": "Universitätsbibliothek München",
+                "alternative_names": [
+                    "Ludwig-Maximilians-Universität München Universitätsbibliothek"
+                ],
+                "viaf": "146551110.000000",
+                "isni": "0000 0001 2342 2802",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        },
+        {
+            "id": 58390,
+            "shelfmark": "4° Cod. ms. 889 (Cim. 34c), Fragm. I",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59763,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
