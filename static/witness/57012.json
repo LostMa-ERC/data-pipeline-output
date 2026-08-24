@@ -48,41 +48,6 @@
             }
         },
         {
-            "id": 58757,
-            "shelfmark": "Frg. 58 in 3a.7884 Rara",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60130,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57842,
-                "name": "Pfälzische Landesbibliothek Speyer",
-                "alternative_names": [],
-                "viaf": "154257044.000000",
-                "isni": "000000040565314X",
-                "settlement": {
-                    "id": 57721,
-                    "name": "Speyer",
-                    "region": "Rhineland-Palatinate",
-                    "country": "Germany",
-                    "location_mappable": "POINT(8.43111 49.32083)",
-                    "geonames_id": 2830582
-                }
-            }
-        },
-        {
             "id": 58756,
             "shelfmark": "Sign. 12 C.7, Vorderer Spiegel",
             "old_shelfmarks": [],
@@ -116,6 +81,41 @@
                     "country": "Germany",
                     "location_mappable": "POINT(11.97202 51.48298)",
                     "geonames_id": 6551220
+                }
+            }
+        },
+        {
+            "id": 58757,
+            "shelfmark": "Frg. 58 in 3a.7884 Rara",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60130,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57842,
+                "name": "Pfälzische Landesbibliothek Speyer",
+                "alternative_names": [],
+                "viaf": "154257044.000000",
+                "isni": "000000040565314X",
+                "settlement": {
+                    "id": 57721,
+                    "name": "Speyer",
+                    "region": "Rhineland-Palatinate",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.43111 49.32083)",
+                    "geonames_id": 2830582
                 }
             }
         }
