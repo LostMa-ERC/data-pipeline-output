@@ -25,11 +25,11 @@
             "ark": "ark:/12148/cc853779",
             "witness_parts": [
                 {
-                    "id": 53076,
+                    "id": 53077,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1r-1v"
+                        "garde fin"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -39,11 +39,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 53077,
+                    "id": 53076,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "garde fin"
+                        "1r-1v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

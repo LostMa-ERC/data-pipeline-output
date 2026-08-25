@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 59391,
-            "shelfmark": "Cod. 404.9 (9) Novi",
+            "id": 59390,
+            "shelfmark": "Cod. 404.9 (8) Novi",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60764,
+                    "id": 60763,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -57,15 +57,15 @@
             }
         },
         {
-            "id": 59390,
-            "shelfmark": "Cod. 404.9 (8) Novi",
+            "id": 59391,
+            "shelfmark": "Cod. 404.9 (9) Novi",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60763,
+                    "id": 60764,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

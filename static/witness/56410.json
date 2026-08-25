@@ -13,6 +13,77 @@
     ],
     "manuscripts": [
         {
+            "id": 58417,
+            "shelfmark": "Cgs 2",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59790,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57956,
+                "name": "Johannes-Turmair-Gymnasium, Bibliothek",
+                "alternative_names": [],
+                "viaf": "1126174413941008760832.000000",
+                "settlement": {
+                    "id": 57728,
+                    "name": "Straubing",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(12.57385 48.88126)",
+                    "geonames_id": 2826099
+                }
+            }
+        },
+        {
+            "id": 58414,
+            "shelfmark": "Fragm. aus D II 723",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59787,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57780,
+                "name": "Katholische Universität Eichstätt-Ingolstadt",
+                "alternative_names": [
+                    "Universitätsbibliothek Eichstätt-Ingolstadt"
+                ],
+                "viaf": "159005288.000000",
+                "isni": "0000000112455350",
+                "settlement": {
+                    "id": 57655,
+                    "name": "Eichstätt",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.19675 48.88854)",
+                    "geonames_id": 2932069
+                }
+            }
+        },
+        {
             "id": 58418,
             "shelfmark": "Rolf Schmidt, Fragm. germ. 1",
             "old_shelfmarks": [],
@@ -66,77 +137,6 @@
                     "location_mappable": "POINT(11.57549 48.13743)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 2867714
-                }
-            }
-        },
-        {
-            "id": 58414,
-            "shelfmark": "Fragm. aus D II 723",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59787,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57780,
-                "name": "Katholische Universität Eichstätt-Ingolstadt",
-                "alternative_names": [
-                    "Universitätsbibliothek Eichstätt-Ingolstadt"
-                ],
-                "viaf": "159005288.000000",
-                "isni": "0000000112455350",
-                "settlement": {
-                    "id": 57655,
-                    "name": "Eichstätt",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(11.19675 48.88854)",
-                    "geonames_id": 2932069
-                }
-            }
-        },
-        {
-            "id": 58417,
-            "shelfmark": "Cgs 2",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59790,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57956,
-                "name": "Johannes-Turmair-Gymnasium, Bibliothek",
-                "alternative_names": [],
-                "viaf": "1126174413941008760832.000000",
-                "settlement": {
-                    "id": 57728,
-                    "name": "Straubing",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(12.57385 48.88126)",
-                    "geonames_id": 2826099
                 }
             }
         }
