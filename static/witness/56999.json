@@ -13,41 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 59125,
-            "shelfmark": "ohne Sign. [verschollen]",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60498,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57788,
-                "name": "Stiftsbibliothek Göttweig",
-                "alternative_names": [],
-                "viaf": "133188864.000000",
-                "isni": "0000000122695374",
-                "settlement": {
-                    "id": 57664,
-                    "name": "Furth bei Göttweig",
-                    "region": "Lower Austria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(15.61548 48.38146)",
-                    "geonames_id": 7872913
-                }
-            }
-        },
-        {
             "id": 59127,
             "shelfmark": "Cod. 92, Vorderer und hinterer Spiegel",
             "old_shelfmarks": [],
@@ -195,6 +160,41 @@
                     "country": "Austria",
                     "location_mappable": "POINT(16.37208 48.20849)",
                     "geonames_id": 2761369
+                }
+            }
+        },
+        {
+            "id": 59125,
+            "shelfmark": "ohne Sign. [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60498,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57788,
+                "name": "Stiftsbibliothek Göttweig",
+                "alternative_names": [],
+                "viaf": "133188864.000000",
+                "isni": "0000000122695374",
+                "settlement": {
+                    "id": 57664,
+                    "name": "Furth bei Göttweig",
+                    "region": "Lower Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(15.61548 48.38146)",
+                    "geonames_id": 7872913
                 }
             }
         }

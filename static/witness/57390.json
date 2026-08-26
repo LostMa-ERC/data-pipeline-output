@@ -13,6 +13,41 @@
     ],
     "manuscripts": [
         {
+            "id": 59038,
+            "shelfmark": "MS 481, no. 113",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60411,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57904,
+                "name": "Yale University, Beinecke Rare Book and Manuscript Library",
+                "alternative_names": [],
+                "viaf": "146865135.000000",
+                "isni": "0000000121797790",
+                "settlement": {
+                    "id": 43496,
+                    "name": "New Haven",
+                    "region": "Connecticut",
+                    "country": "United States",
+                    "location_mappable": "POINT(-72.92816 41.30815)",
+                    "geonames_id": 4839366
+                }
+            }
+        },
+        {
             "id": 59039,
             "shelfmark": "Cod. 14612",
             "old_shelfmarks": [],
@@ -94,41 +129,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(7.85222 47.9959)",
                     "geonames_id": 2925177
-                }
-            }
-        },
-        {
-            "id": 59038,
-            "shelfmark": "MS 481, no. 113",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60411,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57904,
-                "name": "Yale University, Beinecke Rare Book and Manuscript Library",
-                "alternative_names": [],
-                "viaf": "146865135.000000",
-                "isni": "0000000121797790",
-                "settlement": {
-                    "id": 43496,
-                    "name": "New Haven",
-                    "region": "Connecticut",
-                    "country": "United States",
-                    "location_mappable": "POINT(-72.92816 41.30815)",
-                    "geonames_id": 4839366
                 }
             }
         }

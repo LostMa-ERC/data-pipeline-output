@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58910,
-            "shelfmark": "Cod. I E a 1",
+            "id": 58911,
+            "shelfmark": "Cod. I E a 2",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60283,
+                    "id": 60284,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -49,15 +49,15 @@
             }
         },
         {
-            "id": 58911,
-            "shelfmark": "Cod. I E a 2",
+            "id": 58910,
+            "shelfmark": "Cod. I E a 1",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60284,
+                    "id": 60283,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

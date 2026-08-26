@@ -14,15 +14,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58669,
-            "shelfmark": "StB-Ink. 1634, Leimabklatsch im vorderen und hinteren Spiegel",
+            "id": 58667,
+            "shelfmark": "Inc. 712, ausgelöstes Fragment und Leimabklatsch [z.T. verschollen]",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60042,
+                    "id": 60040,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -33,11 +33,10 @@
                 }
             ],
             "repository": {
-                "id": 57811,
-                "name": "Gutenberg-Museum",
+                "id": 57812,
+                "name": "Martinus-Bibliothek",
                 "alternative_names": [],
-                "viaf": "172753689.000000",
-                "isni": "0000000120970547",
+                "viaf": "143986272.000000",
                 "settlement": {
                     "id": 57689,
                     "name": "Mainz",
@@ -83,15 +82,15 @@
             }
         },
         {
-            "id": 58667,
-            "shelfmark": "Inc. 712, ausgelöstes Fragment und Leimabklatsch [z.T. verschollen]",
+            "id": 58669,
+            "shelfmark": "StB-Ink. 1634, Leimabklatsch im vorderen und hinteren Spiegel",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60040,
+                    "id": 60042,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -102,10 +101,11 @@
                 }
             ],
             "repository": {
-                "id": 57812,
-                "name": "Martinus-Bibliothek",
+                "id": 57811,
+                "name": "Gutenberg-Museum",
                 "alternative_names": [],
-                "viaf": "143986272.000000",
+                "viaf": "172753689.000000",
+                "isni": "0000000120970547",
                 "settlement": {
                     "id": 57689,
                     "name": "Mainz",

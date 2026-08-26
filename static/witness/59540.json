@@ -88,79 +88,6 @@
             }
         },
         {
-            "id": 58767,
-            "shelfmark": "Rep. A 246 Nr. 8",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60140,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57910,
-                "name": "Staatsarchiv Bamberg",
-                "alternative_names": [],
-                "viaf": "142536946.000000",
-                "isni": "0000000123694824",
-                "settlement": {
-                    "id": 42760,
-                    "name": "Bamberg",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(10.89115 49.8934)",
-                    "geonames_id": 6556725
-                }
-            }
-        },
-        {
-            "id": 58770,
-            "shelfmark": "mgf 746, Bl. 4-8",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60143,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43889,
-                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
-                "alternative_names": [
-                    "Staatsbibliothek zu Berlin.",
-                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
-                    "Staatsbibliothek Berlin"
-                ],
-                "viaf": "157207056.000000",
-                "isni": "0000000123699481",
-                "settlement": {
-                    "id": 43580,
-                    "name": "Berlin",
-                    "country": "Germany",
-                    "location_mappable": "POINT(13.41053 52.52437)",
-                    "geonames_id": 2950159
-                }
-            }
-        },
-        {
             "id": 58766,
             "shelfmark": "D 3001, Rep. 3 – 1179",
             "old_shelfmarks": [
@@ -187,6 +114,41 @@
                 "alternative_names": [],
                 "viaf": "127940265.000000",
                 "isni": "0000000119642693",
+                "settlement": {
+                    "id": 42760,
+                    "name": "Bamberg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.89115 49.8934)",
+                    "geonames_id": 6556725
+                }
+            }
+        },
+        {
+            "id": 58767,
+            "shelfmark": "Rep. A 246 Nr. 8",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60140,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57910,
+                "name": "Staatsarchiv Bamberg",
+                "alternative_names": [],
+                "viaf": "142536946.000000",
+                "isni": "0000000123694824",
                 "settlement": {
                     "id": 42760,
                     "name": "Bamberg",
@@ -235,6 +197,44 @@
                     "location_mappable": "POINT(11.57549 48.13743)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 2867714
+                }
+            }
+        },
+        {
+            "id": 58770,
+            "shelfmark": "mgf 746, Bl. 4-8",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60143,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43889,
+                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
+                "alternative_names": [
+                    "Staatsbibliothek zu Berlin.",
+                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
+                    "Staatsbibliothek Berlin"
+                ],
+                "viaf": "157207056.000000",
+                "isni": "0000000123699481",
+                "settlement": {
+                    "id": 43580,
+                    "name": "Berlin",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
                 }
             }
         },
