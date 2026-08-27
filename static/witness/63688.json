@@ -1,0 +1,63 @@
+{
+    "type": "witness",
+    "id": 63688,
+    "is_unobserved": false,
+    "is_excerpt": false,
+    "siglum": "L",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_min": "1543-01-01",
+    "creation_date_max": "1543-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
+    "number_of_hands": 9,
+    "urls": [
+        "https://philobiblon.cog.berkeley.edu/ui-fg/en/item/Q1214368?database=ALL&table=texid"
+    ],
+    "manuscripts": [
+        {
+            "id": 63690,
+            "shelfmark": "Manuscritos da Livraria, 643 [Casa Forte]",
+            "old_shelfmarks": [],
+            "collection": "Manuscritos da Livraria 1280-1900",
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://philobiblon.cog.berkeley.edu/ui-fg/en/item/Q1299572"
+            ],
+            "witness_parts": [
+                {
+                    "id": 63689,
+                    "part_order": 2,
+                    "part_of_text": "whole text",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1-316"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 63691,
+                "name": "Arquivo Nacional da Torre do Tombo",
+                "alternative_names": [
+                    "ANTT"
+                ],
+                "viaf": "150196534.000000",
+                "isni": "0000000121839428",
+                "website": "https://antt.dglab.gov.pt/",
+                "settlement": {
+                    "id": 43600,
+                    "name": "Lisbon",
+                    "country": "Portugal",
+                    "location_mappable": "POINT(-9.13333 38.71667)",
+                    "geonames_id": 2267057
+                }
+            }
+        }
+    ]
+}

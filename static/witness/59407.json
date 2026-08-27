@@ -13,6 +13,45 @@
     ],
     "manuscripts": [
         {
+            "id": 58435,
+            "shelfmark": "Cgm 193/VI",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59808,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
+                }
+            }
+        },
+        {
             "id": 58431,
             "shelfmark": "mgq 1730",
             "old_shelfmarks": [],
@@ -123,45 +162,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(10.31324 47.71843)",
                     "geonames_id": 6559027
-                }
-            }
-        },
-        {
-            "id": 58435,
-            "shelfmark": "Cgm 193/VI",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59808,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 47347,
-                "name": "Bayerische Staatsbibliothek",
-                "alternative_names": [
-                    "Bayerische Staatsbibliothek (München)",
-                    "Bawarska Biblioteka Państwowa",
-                    "Bayerische Staatsbibliothek München (D-Mbs)"
-                ],
-                "viaf": "129557156.000000",
-                "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
                 }
             }
         }
