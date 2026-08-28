@@ -13,21 +13,19 @@
     ],
     "manuscripts": [
         {
-            "id": 58426,
-            "shelfmark": "ms. IV 950, 12",
-            "old_shelfmarks": [
-                "früher Privatbesitz N. N., (1)"
-            ],
+            "id": 58423,
+            "shelfmark": "Fragm. 343",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59799,
-                    "part_order": 5,
+                    "id": 59796,
+                    "part_order": 2,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1r-1v, 2r-2v, 3r-3v"
+                        "1r-1v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -38,27 +36,21 @@
                 }
             ],
             "repository": {
-                "id": 43904,
-                "name": "Bibliothèque royale de Belgique",
+                "id": 43889,
+                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
                 "alternative_names": [
-                    "Bélgica., Koninklijke Bibliotheek van België",
-                    "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR) Bruxelles; Brussel (B-Br)",
-                    "Biblioteka Królewska Belgii",
-                    "Bibliothèque royale Albert Ier",
-                    "Bibliothèque royale de Belgique (Bruxelles)",
-                    "Bibliothèque royale Albert Ier (Bruxelles, Belgique)",
-                    "Royal Library of Belgium"
+                    "Staatsbibliothek zu Berlin.",
+                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
+                    "Staatsbibliothek Berlin"
                 ],
-                "viaf": "312739455.000000",
-                "isni": "0000000122714686",
+                "viaf": "157207056.000000",
+                "isni": "0000000123699481",
                 "settlement": {
-                    "id": 43150,
-                    "name": "Brussels",
-                    "country": "Belgium",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(4.34878 50.85045)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2800866
+                    "id": 43580,
+                    "name": "Berlin",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
                 }
             }
         },
@@ -105,19 +97,21 @@
             }
         },
         {
-            "id": 58423,
-            "shelfmark": "Fragm. 343",
-            "old_shelfmarks": [],
+            "id": 58426,
+            "shelfmark": "ms. IV 950, 12",
+            "old_shelfmarks": [
+                "früher Privatbesitz N. N., (1)"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59796,
-                    "part_order": 2,
+                    "id": 59799,
+                    "part_order": 5,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1r-1v"
+                        "1r-1v, 2r-2v, 3r-3v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -128,21 +122,27 @@
                 }
             ],
             "repository": {
-                "id": 43889,
-                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
+                "id": 43904,
+                "name": "Bibliothèque royale de Belgique",
                 "alternative_names": [
-                    "Staatsbibliothek zu Berlin.",
-                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
-                    "Staatsbibliothek Berlin"
+                    "Bélgica., Koninklijke Bibliotheek van België",
+                    "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR) Bruxelles; Brussel (B-Br)",
+                    "Biblioteka Królewska Belgii",
+                    "Bibliothèque royale Albert Ier",
+                    "Bibliothèque royale de Belgique (Bruxelles)",
+                    "Bibliothèque royale Albert Ier (Bruxelles, Belgique)",
+                    "Royal Library of Belgium"
                 ],
-                "viaf": "157207056.000000",
-                "isni": "0000000123699481",
+                "viaf": "312739455.000000",
+                "isni": "0000000122714686",
                 "settlement": {
-                    "id": 43580,
-                    "name": "Berlin",
-                    "country": "Germany",
-                    "location_mappable": "POINT(13.41053 52.52437)",
-                    "geonames_id": 2950159
+                    "id": 43150,
+                    "name": "Brussels",
+                    "country": "Belgium",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(4.34878 50.85045)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2800866
                 }
             }
         }

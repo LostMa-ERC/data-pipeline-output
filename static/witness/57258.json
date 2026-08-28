@@ -13,17 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 59286,
-            "shelfmark": "Cgm 5249/7b,c,d,h,i",
-            "old_shelfmarks": [
-                "früher z.T. Privatbesitz, Herbert Thoma, München, (1)"
-            ],
+            "id": 59287,
+            "shelfmark": "Bibliothek, Hs. 42574",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60659,
+                    "id": 60660,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -34,149 +32,18 @@
                 }
             ],
             "repository": {
-                "id": 47347,
-                "name": "Bayerische Staatsbibliothek",
-                "alternative_names": [
-                    "Bayerische Staatsbibliothek (München)",
-                    "Bawarska Biblioteka Państwowa",
-                    "Bayerische Staatsbibliothek München (D-Mbs)"
-                ],
-                "viaf": "129557156.000000",
+                "id": 57907,
+                "name": "Germanisches Nationalmuseum",
+                "alternative_names": [],
+                "viaf": "131883509.000000",
+                "isni": "000000012161603X",
                 "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
+                    "id": 42881,
+                    "name": "Nürnberg",
+                    "region": "Bavaria",
                     "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
-                }
-            }
-        },
-        {
-            "id": 59292,
-            "shelfmark": "Charles E. Young Research Libr., Rouse L. 17",
-            "old_shelfmarks": [
-                "früher Los Angeles, University of California, Charles E. Young Research Libr., Coll. Richard and Mary Rouse, L. 20 (on deposit)"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60665,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57895,
-                "name": "University of California",
-                "alternative_names": [],
-                "viaf": "140513378.000000",
-                "isni": "0000000123480690",
-                "settlement": {
-                    "id": 43487,
-                    "name": "Los Angeles",
-                    "region": "California",
-                    "country": "United States",
-                    "location_mappable": "POINT(-118.24368 34.05223)",
-                    "geonames_id": 5368361
-                }
-            }
-        },
-        {
-            "id": 59291,
-            "shelfmark": "Hs. 50",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60664,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ]
-        },
-        {
-            "id": 59285,
-            "shelfmark": "Hs. frag. 16",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60658,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57813,
-                "name": "Stadtbibliothek Mainz",
-                "alternative_names": [],
-                "viaf": "133476734.000000",
-                "isni": "0000000123420970",
-                "settlement": {
-                    "id": 57689,
-                    "name": "Mainz",
-                    "region": "Rhineland-Palatinate",
-                    "country": "Germany",
-                    "location_mappable": "POINT(8.28008 49.98185)",
-                    "geonames_id": 2874225
-                }
-            }
-        },
-        {
-            "id": 59284,
-            "shelfmark": "Ms. 1703 Nr. 134 Fr 01",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60657,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57872,
-                "name": "Universitätsbibliothek Graz",
-                "alternative_names": [],
-                "viaf": "146586858.000000",
-                "isni": "0000000123153649",
-                "settlement": {
-                    "id": 43006,
-                    "name": "Graz Stadt",
-                    "region": "Styria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(15.43333 47.06667)",
-                    "geonames_id": 2778058
+                    "location_mappable": "POINT(11.0768 49.4541)",
+                    "geonames_id": 6556832
                 }
             }
         },
@@ -222,15 +89,17 @@
             }
         },
         {
-            "id": 59288,
-            "shelfmark": "ohne Sign. [verschollen]",
-            "old_shelfmarks": [],
+            "id": 59292,
+            "shelfmark": "Charles E. Young Research Libr., Rouse L. 17",
+            "old_shelfmarks": [
+                "früher Los Angeles, University of California, Charles E. Young Research Libr., Coll. Richard and Mary Rouse, L. 20 (on deposit)"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60661,
+                    "id": 60665,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -241,18 +110,59 @@
                 }
             ],
             "repository": {
-                "id": 57857,
-                "name": "Herzogin Anna Amalia Bibliothek",
+                "id": 57895,
+                "name": "University of California",
                 "alternative_names": [],
-                "viaf": "159332499.000000",
-                "isni": "0000000121955357",
+                "viaf": "140513378.000000",
+                "isni": "0000000123480690",
                 "settlement": {
-                    "id": 57632,
-                    "name": "Weimar",
-                    "region": "Thuringia",
+                    "id": 43487,
+                    "name": "Los Angeles",
+                    "region": "California",
+                    "country": "United States",
+                    "location_mappable": "POINT(-118.24368 34.05223)",
+                    "geonames_id": 5368361
+                }
+            }
+        },
+        {
+            "id": 59286,
+            "shelfmark": "Cgm 5249/7b,c,d,h,i",
+            "old_shelfmarks": [
+                "früher z.T. Privatbesitz, Herbert Thoma, München, (1)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60659,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 47347,
+                "name": "Bayerische Staatsbibliothek",
+                "alternative_names": [
+                    "Bayerische Staatsbibliothek (München)",
+                    "Bawarska Biblioteka Państwowa",
+                    "Bayerische Staatsbibliothek München (D-Mbs)"
+                ],
+                "viaf": "129557156.000000",
+                "settlement": {
+                    "id": 47346,
+                    "name": "Munich",
                     "country": "Germany",
-                    "location_mappable": "POINT(11.32903 50.9803)",
-                    "geonames_id": 2812482
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
                 }
             }
         },
@@ -298,15 +208,15 @@
             }
         },
         {
-            "id": 59287,
-            "shelfmark": "Bibliothek, Hs. 42574",
+            "id": 59285,
+            "shelfmark": "Hs. frag. 16",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60660,
+                    "id": 60658,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -317,20 +227,110 @@
                 }
             ],
             "repository": {
-                "id": 57907,
-                "name": "Germanisches Nationalmuseum",
+                "id": 57813,
+                "name": "Stadtbibliothek Mainz",
                 "alternative_names": [],
-                "viaf": "131883509.000000",
-                "isni": "000000012161603X",
+                "viaf": "133476734.000000",
+                "isni": "0000000123420970",
                 "settlement": {
-                    "id": 42881,
-                    "name": "Nürnberg",
-                    "region": "Bavaria",
+                    "id": 57689,
+                    "name": "Mainz",
+                    "region": "Rhineland-Palatinate",
                     "country": "Germany",
-                    "location_mappable": "POINT(11.0768 49.4541)",
-                    "geonames_id": 6556832
+                    "location_mappable": "POINT(8.28008 49.98185)",
+                    "geonames_id": 2874225
                 }
             }
+        },
+        {
+            "id": 59288,
+            "shelfmark": "ohne Sign. [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60661,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57857,
+                "name": "Herzogin Anna Amalia Bibliothek",
+                "alternative_names": [],
+                "viaf": "159332499.000000",
+                "isni": "0000000121955357",
+                "settlement": {
+                    "id": 57632,
+                    "name": "Weimar",
+                    "region": "Thuringia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.32903 50.9803)",
+                    "geonames_id": 2812482
+                }
+            }
+        },
+        {
+            "id": 59284,
+            "shelfmark": "Ms. 1703 Nr. 134 Fr 01",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60657,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57872,
+                "name": "Universitätsbibliothek Graz",
+                "alternative_names": [],
+                "viaf": "146586858.000000",
+                "isni": "0000000123153649",
+                "settlement": {
+                    "id": 43006,
+                    "name": "Graz Stadt",
+                    "region": "Styria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(15.43333 47.06667)",
+                    "geonames_id": 2778058
+                }
+            }
+        },
+        {
+            "id": 59291,
+            "shelfmark": "Hs. 50",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60664,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
         }
     ]
 }

@@ -1,0 +1,59 @@
+{
+    "type": "witness",
+    "id": 63723,
+    "is_unobserved": false,
+    "is_excerpt": true,
+    "siglum": "none",
+    "alternative_sigla": [],
+    "status": "complete",
+    "creation_date_year": "1470-01-01",
+    "creation_date_certainty": "3. Very likely (66%-99%)",
+    "urls": [
+        "https://gredos.usal.es/handle/10366/149433"
+    ],
+    "manuscripts": [
+        {
+            "id": 63725,
+            "shelfmark": "MS 1877",
+            "old_shelfmarks": [
+                "Madrid, BIblioteca de Palacio, II-794"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://gredos.usal.es/handle/10366/149433"
+            ],
+            "witness_parts": [
+                {
+                    "id": 63724,
+                    "part_order": 5,
+                    "part_of_text": "first half",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "252r-282r"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 63719,
+                "name": "Biblioteca General Histórica (Universidad de Salamanca)",
+                "alternative_names": [],
+                "viaf": "417145551643396669440.000000",
+                "settlement": {
+                    "id": 43691,
+                    "name": "Salamanca",
+                    "region": "Castille and León",
+                    "country": "Spain",
+                    "location_mappable": "POINT(-5.66388 40.96882)",
+                    "geonames_id": 3111108
+                }
+            }
+        }
+    ]
+}
