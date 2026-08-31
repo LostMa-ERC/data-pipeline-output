@@ -13,6 +13,50 @@
     ],
     "manuscripts": [
         {
+            "id": 59098,
+            "shelfmark": "Hs. 531",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60471,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43938,
+                "name": "Universitätsbibliothek Freiburg im Breisgau",
+                "alternative_names": [
+                    "Universität Freiburg im Breisgau. Bibliothek",
+                    "Universitätsbibliothek Freiburg",
+                    "Albert-Ludwigs-Universität Fribourg-en-Brisgau, Allemagne, Bibliothek",
+                    "Universitätsbibliothek (Freiburg im Breisgau, Allemagne)",
+                    "Universitätsbibliothek Freiburg im Breisgau (D-FRu)",
+                    "Universitätsbibliothek (Fryburg Bryzgowijski).",
+                    "Universitätsbibliothek Freiburg, Breisgau, Deutschland",
+                    "Universitätsbibliothek"
+                ],
+                "viaf": "143595522.000000",
+                "isni": "0000000123314799",
+                "settlement": {
+                    "id": 42791,
+                    "name": "Freiburg im Breisgau",
+                    "region": "Freiburg Region",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.85222 47.9959)",
+                    "geonames_id": 2925177
+                }
+            }
+        },
+        {
             "id": 59099,
             "shelfmark": "Cod. fragm. 63",
             "old_shelfmarks": [],
@@ -77,50 +121,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(9.1775 48.77667)",
                     "geonames_id": 6690189
-                }
-            }
-        },
-        {
-            "id": 59098,
-            "shelfmark": "Hs. 531",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60471,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43938,
-                "name": "Universitätsbibliothek Freiburg im Breisgau",
-                "alternative_names": [
-                    "Universität Freiburg im Breisgau. Bibliothek",
-                    "Universitätsbibliothek Freiburg",
-                    "Albert-Ludwigs-Universität Fribourg-en-Brisgau, Allemagne, Bibliothek",
-                    "Universitätsbibliothek (Freiburg im Breisgau, Allemagne)",
-                    "Universitätsbibliothek Freiburg im Breisgau (D-FRu)",
-                    "Universitätsbibliothek (Fryburg Bryzgowijski).",
-                    "Universitätsbibliothek Freiburg, Breisgau, Deutschland",
-                    "Universitätsbibliothek"
-                ],
-                "viaf": "143595522.000000",
-                "isni": "0000000123314799",
-                "settlement": {
-                    "id": 42791,
-                    "name": "Freiburg im Breisgau",
-                    "region": "Freiburg Region",
-                    "country": "Germany",
-                    "location_mappable": "POINT(7.85222 47.9959)",
-                    "geonames_id": 2925177
                 }
             }
         }
