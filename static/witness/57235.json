@@ -13,40 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58764,
-            "shelfmark": "Cod. 27/8",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60137,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57845,
-                "name": "Stiftsbibliothek St. Paul im Lavanttal",
-                "alternative_names": [],
-                "viaf": "137183674.000000",
-                "settlement": {
-                    "id": 57725,
-                    "name": "Sankt Paul im Lavanttal",
-                    "region": "Carinthia",
-                    "country": "Austria",
-                    "location_mappable": "POINT(14.84877 46.69869)",
-                    "geonames_id": 7871682
-                }
-            }
-        },
-        {
             "id": 58765,
             "shelfmark": "Ms. Z XIV 12",
             "old_shelfmarks": [],
@@ -113,6 +79,40 @@
                     "country": "Hungary",
                     "location_mappable": "POINT(18.97283 46.52981)",
                     "geonames_id": 3050719
+                }
+            }
+        },
+        {
+            "id": 58764,
+            "shelfmark": "Cod. 27/8",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60137,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57845,
+                "name": "Stiftsbibliothek St. Paul im Lavanttal",
+                "alternative_names": [],
+                "viaf": "137183674.000000",
+                "settlement": {
+                    "id": 57725,
+                    "name": "Sankt Paul im Lavanttal",
+                    "region": "Carinthia",
+                    "country": "Austria",
+                    "location_mappable": "POINT(14.84877 46.69869)",
+                    "geonames_id": 7871682
                 }
             }
         }

@@ -13,6 +13,26 @@
     ],
     "manuscripts": [
         {
+            "id": 58939,
+            "shelfmark": "Hans Wilhelm Harder [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60312,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        },
+        {
             "id": 58935,
             "shelfmark": "Urk. I.A.22",
             "old_shelfmarks": [],
@@ -42,42 +62,6 @@
                     "country": "Switzerland",
                     "location_mappable": "POINT(8.49981 47.69012)",
                     "geonames_id": 2659478
-                }
-            }
-        },
-        {
-            "id": 58938,
-            "shelfmark": "Ms. Z XIV 30.9",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60311,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57752,
-                "name": "Zentralbibliothek Zürich",
-                "alternative_names": [],
-                "viaf": "138960171.000000",
-                "isni": "000000012308337X",
-                "settlement": {
-                    "id": 43987,
-                    "name": "Zurich",
-                    "country": "Switzerland",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(8.55 47.36667)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2657896
                 }
             }
         },
@@ -116,15 +100,15 @@
             }
         },
         {
-            "id": 58939,
-            "shelfmark": "Hans Wilhelm Harder [verschollen]",
+            "id": 58938,
+            "shelfmark": "Ms. Z XIV 30.9",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60312,
+                    "id": 60311,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -133,7 +117,23 @@
                     "has_pictorial_designs": false,
                     "decoration_is_unknown": false
                 }
-            ]
+            ],
+            "repository": {
+                "id": 57752,
+                "name": "Zentralbibliothek Zürich",
+                "alternative_names": [],
+                "viaf": "138960171.000000",
+                "isni": "000000012308337X",
+                "settlement": {
+                    "id": 43987,
+                    "name": "Zurich",
+                    "country": "Switzerland",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(8.55 47.36667)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2657896
+                }
+            }
         }
     ]
 }

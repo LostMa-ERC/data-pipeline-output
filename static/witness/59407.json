@@ -13,17 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58436,
-            "shelfmark": "ms. 2718",
-            "old_shelfmarks": [
-                "früher L germ. 620.4°"
-            ],
+            "id": 58431,
+            "shelfmark": "mgq 1730",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59809,
+                    "id": 59804,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -34,23 +32,21 @@
                 }
             ],
             "repository": {
-                "id": 43839,
-                "name": "Bibliothéque Nationale et Universitaire de Strasbourg",
+                "id": 43889,
+                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
                 "alternative_names": [
-                    "Bibliothèque nationale et universitaire (Strasburg)",
-                    "Bibliothèque nationale et universitaire Strasbourg (F-Sn)",
-                    "Bibliothèque nationale et universitaire (Strasbourg)",
-                    "bibliothèque nationale et universitaire"
+                    "Staatsbibliothek zu Berlin.",
+                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
+                    "Staatsbibliothek Berlin"
                 ],
-                "viaf": "135553188.000000",
-                "isni": "0000000121631491",
+                "viaf": "157207056.000000",
+                "isni": "0000000123699481",
                 "settlement": {
-                    "id": 42736,
-                    "name": "Strasbourg",
-                    "region": "Grand Est",
-                    "country": "France",
-                    "location_mappable": "POINT(7.74553 48.58392)",
-                    "geonames_id": 2973783
+                    "id": 43580,
+                    "name": "Berlin",
+                    "country": "Germany",
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
                 }
             }
         },
@@ -89,15 +85,17 @@
             }
         },
         {
-            "id": 58431,
-            "shelfmark": "mgq 1730",
-            "old_shelfmarks": [],
+            "id": 58436,
+            "shelfmark": "ms. 2718",
+            "old_shelfmarks": [
+                "früher L germ. 620.4°"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59804,
+                    "id": 59809,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -108,21 +106,23 @@
                 }
             ],
             "repository": {
-                "id": 43889,
-                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
+                "id": 43839,
+                "name": "Bibliothéque Nationale et Universitaire de Strasbourg",
                 "alternative_names": [
-                    "Staatsbibliothek zu Berlin.",
-                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
-                    "Staatsbibliothek Berlin"
+                    "Bibliothèque nationale et universitaire (Strasburg)",
+                    "Bibliothèque nationale et universitaire Strasbourg (F-Sn)",
+                    "Bibliothèque nationale et universitaire (Strasbourg)",
+                    "bibliothèque nationale et universitaire"
                 ],
-                "viaf": "157207056.000000",
-                "isni": "0000000123699481",
+                "viaf": "135553188.000000",
+                "isni": "0000000121631491",
                 "settlement": {
-                    "id": 43580,
-                    "name": "Berlin",
-                    "country": "Germany",
-                    "location_mappable": "POINT(13.41053 52.52437)",
-                    "geonames_id": 2950159
+                    "id": 42736,
+                    "name": "Strasbourg",
+                    "region": "Grand Est",
+                    "country": "France",
+                    "location_mappable": "POINT(7.74553 48.58392)",
+                    "geonames_id": 2973783
                 }
             }
         },

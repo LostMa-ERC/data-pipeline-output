@@ -51,6 +51,41 @@
             }
         },
         {
+            "id": 58937,
+            "shelfmark": "8° Ms. 1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60310,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57835,
+                "name": "Provinzialbibliothek Amberg",
+                "alternative_names": [],
+                "viaf": "137848560.000000",
+                "isni": "0000000123085076",
+                "settlement": {
+                    "id": 42753,
+                    "name": "Amberg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.8586 49.4454)",
+                    "geonames_id": 6556610
+                }
+            }
+        },
+        {
             "id": 58971,
             "shelfmark": "ohne Sign",
             "old_shelfmarks": [
@@ -124,41 +159,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
-                }
-            }
-        },
-        {
-            "id": 58937,
-            "shelfmark": "8° Ms. 1",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60310,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57835,
-                "name": "Provinzialbibliothek Amberg",
-                "alternative_names": [],
-                "viaf": "137848560.000000",
-                "isni": "0000000123085076",
-                "settlement": {
-                    "id": 42753,
-                    "name": "Amberg",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(11.8586 49.4454)",
-                    "geonames_id": 6556610
                 }
             }
         }
