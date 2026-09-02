@@ -52,17 +52,17 @@
             }
         },
         {
-            "id": 58349,
-            "shelfmark": "Cod. XXIV.C.37",
+            "id": 58347,
+            "shelfmark": "Cod. XXIV.C.19",
             "old_shelfmarks": [
-                "früher Prag, Nationalbibl., Fragm. germ. 37"
+                "früher Prag, Nationalbibl., Fragm. germ. 19"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59722,
+                    "id": 59720,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -92,17 +92,17 @@
             }
         },
         {
-            "id": 58347,
-            "shelfmark": "Cod. XXIV.C.19",
+            "id": 58349,
+            "shelfmark": "Cod. XXIV.C.37",
             "old_shelfmarks": [
-                "früher Prag, Nationalbibl., Fragm. germ. 19"
+                "früher Prag, Nationalbibl., Fragm. germ. 37"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59720,
+                    "id": 59722,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

@@ -21,57 +21,6 @@
     },
     "manuscripts": [
         {
-            "id": 48191,
-            "old_shelfmarks": [
-                "Germ. qu. 1895,4"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/9435"
-            ],
-            "witness_parts": [
-                {
-                    "id": 48194,
-                    "part_order": 1,
-                    "number_of_verses": 192,
-                    "number_of_lines": 192,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43846,
-                "name": "Uniwersytet Jagielloński",
-                "alternative_names": [
-                    "Uniwersytet Jagielloński (Kraków)",
-                    "Uniwersytet Jagielloński Cracovie, Pologne",
-                    "Uniwersytet Jagielloński w Krakowie",
-                    "Ягелонскі ўніверсітэт",
-                    "Uniwersytet Jagielloński (Kraków, Polska)"
-                ],
-                "viaf": "135493691.000000",
-                "isni": "0000000123374740",
-                "settlement": {
-                    "id": 43136,
-                    "name": "Krakow",
-                    "region": "Lesser Poland",
-                    "country": "Poland",
-                    "location_mappable": "POINT(19.93658 50.06143)",
-                    "geonames_id": 3094802
-                }
-            }
-        },
-        {
             "id": 48192,
             "shelfmark": "MS 1200",
             "old_shelfmarks": [],
@@ -119,6 +68,57 @@
                     "country": "Belgium",
                     "location_mappable": "POINT(4.70093 50.87959)",
                     "geonames_id": 2792482
+                }
+            }
+        },
+        {
+            "id": 48191,
+            "old_shelfmarks": [
+                "Germ. qu. 1895,4"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/9435"
+            ],
+            "witness_parts": [
+                {
+                    "id": 48194,
+                    "part_order": 1,
+                    "number_of_verses": 192,
+                    "number_of_lines": 192,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43846,
+                "name": "Uniwersytet Jagielloński",
+                "alternative_names": [
+                    "Uniwersytet Jagielloński (Kraków)",
+                    "Uniwersytet Jagielloński Cracovie, Pologne",
+                    "Uniwersytet Jagielloński w Krakowie",
+                    "Ягелонскі ўніверсітэт",
+                    "Uniwersytet Jagielloński (Kraków, Polska)"
+                ],
+                "viaf": "135493691.000000",
+                "isni": "0000000123374740",
+                "settlement": {
+                    "id": 43136,
+                    "name": "Krakow",
+                    "region": "Lesser Poland",
+                    "country": "Poland",
+                    "location_mappable": "POINT(19.93658 50.06143)",
+                    "geonames_id": 3094802
                 }
             }
         }
