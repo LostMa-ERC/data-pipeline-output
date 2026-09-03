@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 59174,
-            "shelfmark": "mgf 814",
+            "id": 59175,
+            "shelfmark": "mgf 923 Nr. 13",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60547,
+                    "id": 60548,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -47,6 +47,75 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
+                }
+            }
+        },
+        {
+            "id": 59177,
+            "shelfmark": "Best. 701 Nr. 759, 60",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60550,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57885,
+                "name": "Landeshauptarchiv Koblenz",
+                "alternative_names": [],
+                "viaf": "124407595.000000",
+                "isni": "0000000122427142",
+                "settlement": {
+                    "id": 42815,
+                    "name": "Koblenz",
+                    "region": "Rheinland-Pfalz",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.57883 50.35357)",
+                    "geonames_id": 2886946
+                }
+            }
+        },
+        {
+            "id": 59176,
+            "shelfmark": "Hausarchiv Nr. 54",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60549,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57942,
+                "name": "Herzog von Croysches Archiv",
+                "alternative_names": [],
+                "viaf": "3188159400316619456512.000000",
+                "settlement": {
+                    "id": 57651,
+                    "name": "Dülmen",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.2948 51.8433)",
+                    "geonames_id": 6557581
                 }
             }
         },
@@ -89,84 +158,15 @@
             }
         },
         {
-            "id": 59176,
-            "shelfmark": "Hausarchiv Nr. 54",
+            "id": 59174,
+            "shelfmark": "mgf 814",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60549,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57942,
-                "name": "Herzog von Croysches Archiv",
-                "alternative_names": [],
-                "viaf": "3188159400316619456512.000000",
-                "settlement": {
-                    "id": 57651,
-                    "name": "Dülmen",
-                    "region": "North Rhine-Westphalia",
-                    "country": "Germany",
-                    "location_mappable": "POINT(7.2948 51.8433)",
-                    "geonames_id": 6557581
-                }
-            }
-        },
-        {
-            "id": 59177,
-            "shelfmark": "Best. 701 Nr. 759, 60",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60550,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57885,
-                "name": "Landeshauptarchiv Koblenz",
-                "alternative_names": [],
-                "viaf": "124407595.000000",
-                "isni": "0000000122427142",
-                "settlement": {
-                    "id": 42815,
-                    "name": "Koblenz",
-                    "region": "Rheinland-Pfalz",
-                    "country": "Germany",
-                    "location_mappable": "POINT(7.57883 50.35357)",
-                    "geonames_id": 2886946
-                }
-            }
-        },
-        {
-            "id": 59175,
-            "shelfmark": "mgf 923 Nr. 13",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60548,
+                    "id": 60547,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
