@@ -13,42 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58732,
-            "shelfmark": "B-4146",
-            "old_shelfmarks": [
-                "früher Hamburg, Staats- und Universitätsbibl., Cod. germ. 15, Fragm. 3"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60105,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57851,
-                "name": "Imperatorskij Tomskij Universitet",
-                "alternative_names": [],
-                "viaf": "135174699.000000",
-                "settlement": {
-                    "id": 57731,
-                    "name": "Tomsk",
-                    "region": "Tomsk",
-                    "country": "Russia",
-                    "location_mappable": "POINT(84.98216 56.50049)",
-                    "geonames_id": 1489425
-                }
-            }
-        },
-        {
             "id": 58733,
             "shelfmark": "Cod. germ. 15, Fragm. 3a",
             "old_shelfmarks": [],
@@ -84,6 +48,42 @@
                     "country": "Germany",
                     "location_mappable": "POINT(9.99302 53.55073)",
                     "geonames_id": 2911298
+                }
+            }
+        },
+        {
+            "id": 58732,
+            "shelfmark": "B-4146",
+            "old_shelfmarks": [
+                "früher Hamburg, Staats- und Universitätsbibl., Cod. germ. 15, Fragm. 3"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60105,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57851,
+                "name": "Imperatorskij Tomskij Universitet",
+                "alternative_names": [],
+                "viaf": "135174699.000000",
+                "settlement": {
+                    "id": 57731,
+                    "name": "Tomsk",
+                    "region": "Tomsk",
+                    "country": "Russia",
+                    "location_mappable": "POINT(84.98216 56.50049)",
+                    "geonames_id": 1489425
                 }
             }
         }

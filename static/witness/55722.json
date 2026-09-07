@@ -22,11 +22,11 @@
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 52590,
+                    "id": 52589,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "109r-124v"
+                        "93r-102r"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -36,11 +36,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 52589,
+                    "id": 52590,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "93r-102r"
+                        "109r-124v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

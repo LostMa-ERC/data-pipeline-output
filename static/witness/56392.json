@@ -13,51 +13,17 @@
     ],
     "manuscripts": [
         {
-            "id": 59346,
-            "shelfmark": "Nr. 420",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60719,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57828,
-                "name": "Stadtarchiv Retz",
-                "alternative_names": [],
-                "viaf": "311758343.000000",
-                "settlement": {
-                    "id": 57707,
-                    "name": "Retz",
-                    "region": "Lower Austria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(15.95485 48.75712)",
-                    "geonames_id": 2767521
-                }
-            }
-        },
-        {
-            "id": 59344,
-            "shelfmark": "Ms. B 3",
+            "id": 59350,
+            "shelfmark": "Hs. 2",
             "old_shelfmarks": [
-                "früher Erlangen, Universitätsbibl., Ms. 2001"
+                "früher Privatbesitz Alois Bernt, Kaaden (Böhmen), ohne Sign. (2)"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60717,
+                    "id": 60723,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -66,22 +32,7 @@
                     "has_pictorial_designs": false,
                     "decoration_is_unknown": false
                 }
-            ],
-            "repository": {
-                "id": 57782,
-                "name": "Universitätsbibliothek Erlangen-Nürnberg",
-                "alternative_names": [],
-                "viaf": "144835176.000000",
-                "isni": "0000000122937388",
-                "settlement": {
-                    "id": 57659,
-                    "name": "Erlangen",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(11.00783 49.59099)",
-                    "geonames_id": 2929567
-                }
-            }
+            ]
         },
         {
             "id": 59345,
@@ -161,6 +112,40 @@
             }
         },
         {
+            "id": 59347,
+            "shelfmark": "Nr. 421",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60720,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57828,
+                "name": "Stadtarchiv Retz",
+                "alternative_names": [],
+                "viaf": "311758343.000000",
+                "settlement": {
+                    "id": 57707,
+                    "name": "Retz",
+                    "region": "Lower Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(15.95485 48.75712)",
+                    "geonames_id": 2767521
+                }
+            }
+        },
+        {
             "id": 59341,
             "shelfmark": "mgf 721 (b)",
             "old_shelfmarks": [],
@@ -199,17 +184,17 @@
             }
         },
         {
-            "id": 59350,
-            "shelfmark": "Hs. 2",
+            "id": 59344,
+            "shelfmark": "Ms. B 3",
             "old_shelfmarks": [
-                "früher Privatbesitz Alois Bernt, Kaaden (Böhmen), ohne Sign. (2)"
+                "früher Erlangen, Universitätsbibl., Ms. 2001"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60723,
+                    "id": 60717,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -218,7 +203,56 @@
                     "has_pictorial_designs": false,
                     "decoration_is_unknown": false
                 }
-            ]
+            ],
+            "repository": {
+                "id": 57782,
+                "name": "Universitätsbibliothek Erlangen-Nürnberg",
+                "alternative_names": [],
+                "viaf": "144835176.000000",
+                "isni": "0000000122937388",
+                "settlement": {
+                    "id": 57659,
+                    "name": "Erlangen",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.00783 49.59099)",
+                    "geonames_id": 2929567
+                }
+            }
+        },
+        {
+            "id": 59346,
+            "shelfmark": "Nr. 420",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60719,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57828,
+                "name": "Stadtarchiv Retz",
+                "alternative_names": [],
+                "viaf": "311758343.000000",
+                "settlement": {
+                    "id": 57707,
+                    "name": "Retz",
+                    "region": "Lower Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(15.95485 48.75712)",
+                    "geonames_id": 2767521
+                }
+            }
         },
         {
             "id": 59349,
@@ -277,40 +311,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
-                }
-            }
-        },
-        {
-            "id": 59347,
-            "shelfmark": "Nr. 421",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60720,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57828,
-                "name": "Stadtarchiv Retz",
-                "alternative_names": [],
-                "viaf": "311758343.000000",
-                "settlement": {
-                    "id": 57707,
-                    "name": "Retz",
-                    "region": "Lower Austria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(15.95485 48.75712)",
-                    "geonames_id": 2767521
                 }
             }
         }
