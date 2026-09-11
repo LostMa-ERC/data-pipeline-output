@@ -13,15 +13,17 @@
     ],
     "manuscripts": [
         {
-            "id": 58189,
-            "shelfmark": "2° Ms. philol. 28[2",
-            "old_shelfmarks": [],
+            "id": 58190,
+            "shelfmark": "2* Ms. poet. Et roman. 30 I5",
+            "old_shelfmarks": [
+                "früher Marburg, Staatsarchiv, Fragm. 5"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59562,
+                    "id": 59563,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -52,17 +54,15 @@
             }
         },
         {
-            "id": 58190,
-            "shelfmark": "2* Ms. poet. Et roman. 30 I5",
-            "old_shelfmarks": [
-                "früher Marburg, Staatsarchiv, Fragm. 5"
-            ],
+            "id": 58189,
+            "shelfmark": "2° Ms. philol. 28[2",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59563,
+                    "id": 59562,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

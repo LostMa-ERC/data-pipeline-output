@@ -13,6 +13,42 @@
     ],
     "manuscripts": [
         {
+            "id": 58911,
+            "shelfmark": "Cod. I E a 2",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60284,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57960,
+                "name": "Národní muzeum",
+                "alternative_names": [
+                    "National Museum in Prague"
+                ],
+                "viaf": "16146635701641981952.000000",
+                "isni": "0000000119403633",
+                "settlement": {
+                    "id": 43579,
+                    "name": "Prague",
+                    "country": "Czechia",
+                    "location_mappable": "POINT(14.42076 50.08804)",
+                    "geonames_id": 3067696
+                }
+            }
+        },
+        {
             "id": 58910,
             "shelfmark": "Cod. I E a 1",
             "old_shelfmarks": [],
@@ -79,42 +115,6 @@
                     "National Library of the Czech Republic"
                 ],
                 "viaf": "135195765.000000",
-                "settlement": {
-                    "id": 43579,
-                    "name": "Prague",
-                    "country": "Czechia",
-                    "location_mappable": "POINT(14.42076 50.08804)",
-                    "geonames_id": 3067696
-                }
-            }
-        },
-        {
-            "id": 58911,
-            "shelfmark": "Cod. I E a 2",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60284,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57960,
-                "name": "Národní muzeum",
-                "alternative_names": [
-                    "National Museum in Prague"
-                ],
-                "viaf": "16146635701641981952.000000",
-                "isni": "0000000119403633",
                 "settlement": {
                     "id": 43579,
                     "name": "Prague",

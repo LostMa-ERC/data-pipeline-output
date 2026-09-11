@@ -23,11 +23,11 @@
             "ark": "ark:/12148/cc45934c",
             "witness_parts": [
                 {
-                    "id": 52465,
+                    "id": 52466,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "379ra-393va"
+                        "CCCLXXVIIra-CCCLXLIva"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -37,11 +37,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 52466,
+                    "id": 52465,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "CCCLXXVIIra-CCCLXLIva"
+                        "379ra-393va"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

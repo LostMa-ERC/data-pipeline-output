@@ -13,40 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 59338,
-            "shelfmark": "Perg.-Hs. 63",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60711,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57884,
-                "name": "Universitätsbibliothek Klagenfurt",
-                "alternative_names": [],
-                "viaf": "153213394.000000",
-                "settlement": {
-                    "id": 43028,
-                    "name": "Klagenfurt am Wörthersee",
-                    "region": "Carinthia",
-                    "country": "Austria",
-                    "location_mappable": "POINT(14.3 46.63333)",
-                    "geonames_id": 2774321
-                }
-            }
-        },
-        {
             "id": 59339,
             "shelfmark": "ohne Sign.",
             "old_shelfmarks": [],
@@ -78,6 +44,40 @@
                     "country": "Austria",
                     "location_mappable": "POINT(13.99397 48.65749)",
                     "geonames_id": 11592639
+                }
+            }
+        },
+        {
+            "id": 59338,
+            "shelfmark": "Perg.-Hs. 63",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60711,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57884,
+                "name": "Universitätsbibliothek Klagenfurt",
+                "alternative_names": [],
+                "viaf": "153213394.000000",
+                "settlement": {
+                    "id": 43028,
+                    "name": "Klagenfurt am Wörthersee",
+                    "region": "Carinthia",
+                    "country": "Austria",
+                    "location_mappable": "POINT(14.3 46.63333)",
+                    "geonames_id": 2774321
                 }
             }
         }
