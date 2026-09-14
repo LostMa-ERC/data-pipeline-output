@@ -13,41 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 59213,
-            "shelfmark": "Ms. lat. 68, Vorderer und hinterer Spiegel",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60586,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57758,
-                "name": "Staatliche Bibliothek Ansbach",
-                "alternative_names": [],
-                "viaf": "157710993.000000",
-                "isni": "0000000105309865",
-                "settlement": {
-                    "id": 57668,
-                    "name": "Ansbach",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(10.5931 49.30481)",
-                    "geonames_id": 2955936
-                }
-            }
-        },
-        {
             "id": 59212,
             "shelfmark": "mgf 734 Nr. 5",
             "old_shelfmarks": [],
@@ -82,6 +47,41 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
+                }
+            }
+        },
+        {
+            "id": 59213,
+            "shelfmark": "Ms. lat. 68, Vorderer und hinterer Spiegel",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60586,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57758,
+                "name": "Staatliche Bibliothek Ansbach",
+                "alternative_names": [],
+                "viaf": "157710993.000000",
+                "isni": "0000000105309865",
+                "settlement": {
+                    "id": 57668,
+                    "name": "Ansbach",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.5931 49.30481)",
+                    "geonames_id": 2955936
                 }
             }
         }
