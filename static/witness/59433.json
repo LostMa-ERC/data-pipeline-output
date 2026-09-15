@@ -13,17 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58397,
-            "shelfmark": "ms. 2201",
-            "old_shelfmarks": [
-                "früher L germ. 243.4°"
-            ],
+            "id": 58390,
+            "shelfmark": "4° Cod. ms. 889 (Cim. 34c), Fragm. I",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59770,
+                    "id": 59763,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -34,23 +32,21 @@
                 }
             ],
             "repository": {
-                "id": 43839,
-                "name": "Bibliothéque Nationale et Universitaire de Strasbourg",
+                "id": 47356,
+                "name": "Universitätsbibliothek München",
                 "alternative_names": [
-                    "Bibliothèque nationale et universitaire (Strasburg)",
-                    "Bibliothèque nationale et universitaire Strasbourg (F-Sn)",
-                    "Bibliothèque nationale et universitaire (Strasbourg)",
-                    "bibliothèque nationale et universitaire"
+                    "Ludwig-Maximilians-Universität München Universitätsbibliothek"
                 ],
-                "viaf": "135553188.000000",
-                "isni": "0000000121631491",
+                "viaf": "146551110.000000",
+                "isni": "0000 0001 2342 2802",
                 "settlement": {
-                    "id": 42736,
-                    "name": "Strasbourg",
-                    "region": "Grand Est",
-                    "country": "France",
-                    "location_mappable": "POINT(7.74553 48.58392)",
-                    "geonames_id": 2973783
+                    "id": 47346,
+                    "name": "Munich",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(11.57549 48.13743)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2867714
                 }
             }
         },
@@ -93,15 +89,17 @@
             }
         },
         {
-            "id": 58390,
-            "shelfmark": "4° Cod. ms. 889 (Cim. 34c), Fragm. I",
-            "old_shelfmarks": [],
+            "id": 58397,
+            "shelfmark": "ms. 2201",
+            "old_shelfmarks": [
+                "früher L germ. 243.4°"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59763,
+                    "id": 59770,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -112,21 +110,23 @@
                 }
             ],
             "repository": {
-                "id": 47356,
-                "name": "Universitätsbibliothek München",
+                "id": 43839,
+                "name": "Bibliothéque Nationale et Universitaire de Strasbourg",
                 "alternative_names": [
-                    "Ludwig-Maximilians-Universität München Universitätsbibliothek"
+                    "Bibliothèque nationale et universitaire (Strasburg)",
+                    "Bibliothèque nationale et universitaire Strasbourg (F-Sn)",
+                    "Bibliothèque nationale et universitaire (Strasbourg)",
+                    "bibliothèque nationale et universitaire"
                 ],
-                "viaf": "146551110.000000",
-                "isni": "0000 0001 2342 2802",
+                "viaf": "135553188.000000",
+                "isni": "0000000121631491",
                 "settlement": {
-                    "id": 47346,
-                    "name": "Munich",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(11.57549 48.13743)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2867714
+                    "id": 42736,
+                    "name": "Strasbourg",
+                    "region": "Grand Est",
+                    "country": "France",
+                    "location_mappable": "POINT(7.74553 48.58392)",
+                    "geonames_id": 2973783
                 }
             }
         }

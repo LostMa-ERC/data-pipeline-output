@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58331,
-            "shelfmark": "Clm 4660",
+            "id": 58332,
+            "shelfmark": "Clm 4660a",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59704,
+                    "id": 59705,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -52,15 +52,15 @@
             }
         },
         {
-            "id": 58332,
-            "shelfmark": "Clm 4660a",
+            "id": 58331,
+            "shelfmark": "Clm 4660",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59705,
+                    "id": 59704,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

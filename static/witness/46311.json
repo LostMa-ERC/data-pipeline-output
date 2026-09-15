@@ -28,13 +28,13 @@
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 46313,
+                    "id": 55742,
                     "part_order": 1,
                     "number_of_verses": 639,
                     "number_of_lines": 639,
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "1r-1v"
+                        "2r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -44,13 +44,13 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55742,
+                    "id": 46313,
                     "part_order": 1,
                     "number_of_verses": 639,
                     "number_of_lines": 639,
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "2r-2v"
+                        "1r-1v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
