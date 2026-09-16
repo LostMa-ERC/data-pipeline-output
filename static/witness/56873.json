@@ -120,15 +120,15 @@
             }
         },
         {
-            "id": 59173,
-            "shelfmark": "mgf 587",
+            "id": 59175,
+            "shelfmark": "mgf 923 Nr. 13",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60546,
+                    "id": 60548,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -158,15 +158,15 @@
             }
         },
         {
-            "id": 59175,
-            "shelfmark": "mgf 923 Nr. 13",
+            "id": 59173,
+            "shelfmark": "mgf 587",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60548,
+                    "id": 60546,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
