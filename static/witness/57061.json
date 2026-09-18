@@ -53,40 +53,6 @@
             }
         },
         {
-            "id": 58586,
-            "shelfmark": "Fragm. 54 germanist. 2",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59959,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57766,
-                "name": "Erzabtei St. Martin zu Beuron. Bibliothek",
-                "alternative_names": [],
-                "viaf": "234793940.000000",
-                "settlement": {
-                    "id": 57637,
-                    "name": "Beuron",
-                    "region": "Baden-Wurttemberg",
-                    "country": "Germany",
-                    "location_mappable": "POINT(8.96667 48.05)",
-                    "geonames_id": 2949551
-                }
-            }
-        },
-        {
             "id": 58587,
             "shelfmark": "Mappe X, Fragm. 8",
             "old_shelfmarks": [],
@@ -121,6 +87,40 @@
                     "country": "Germany",
                     "location_mappable": "POINT(6.63935 49.75565)",
                     "geonames_id": 2821164
+                }
+            }
+        },
+        {
+            "id": 58586,
+            "shelfmark": "Fragm. 54 germanist. 2",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59959,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57766,
+                "name": "Erzabtei St. Martin zu Beuron. Bibliothek",
+                "alternative_names": [],
+                "viaf": "234793940.000000",
+                "settlement": {
+                    "id": 57637,
+                    "name": "Beuron",
+                    "region": "Baden-Wurttemberg",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.96667 48.05)",
+                    "geonames_id": 2949551
                 }
             }
         }

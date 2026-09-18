@@ -14,45 +14,6 @@
     ],
     "manuscripts": [
         {
-            "id": 59064,
-            "shelfmark": "Cod. Donaueschingen 69",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60437,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43756,
-                "name": "Badische Landesbibliothek Karlsruhe",
-                "alternative_names": [
-                    "Badische Landesbibliothek.",
-                    "Badische Landesbibliothek (Karlsruhe, Allemagne)",
-                    "Badische Landesbibliothek, Musiksammlung Karlsruhe (D-KA)"
-                ],
-                "viaf": "156582730.000000",
-                "isni": "0000000405650782",
-                "settlement": {
-                    "id": 42811,
-                    "name": "Karlsruhe",
-                    "region": "Baden-Wurttemberg",
-                    "country": "Germany",
-                    "location_mappable": "POINT(8.40444 49.00937)",
-                    "geonames_id": 2892794
-                }
-            }
-        },
-        {
             "id": 59065,
             "shelfmark": "Cgm 5249/31",
             "old_shelfmarks": [],
@@ -88,6 +49,45 @@
                     "location_mappable": "POINT(11.57549 48.13743)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 2867714
+                }
+            }
+        },
+        {
+            "id": 59064,
+            "shelfmark": "Cod. Donaueschingen 69",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60437,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43756,
+                "name": "Badische Landesbibliothek Karlsruhe",
+                "alternative_names": [
+                    "Badische Landesbibliothek.",
+                    "Badische Landesbibliothek (Karlsruhe, Allemagne)",
+                    "Badische Landesbibliothek, Musiksammlung Karlsruhe (D-KA)"
+                ],
+                "viaf": "156582730.000000",
+                "isni": "0000000405650782",
+                "settlement": {
+                    "id": 42811,
+                    "name": "Karlsruhe",
+                    "region": "Baden-Wurttemberg",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.40444 49.00937)",
+                    "geonames_id": 2892794
                 }
             }
         },

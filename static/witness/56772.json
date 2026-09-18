@@ -14,15 +14,15 @@
     ],
     "manuscripts": [
         {
-            "id": 59003,
-            "shelfmark": "Ms. C 184, Nr. XXVII",
+            "id": 59002,
+            "shelfmark": "Ms. C 184, Nr. XXVI",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60376,
+                    "id": 60375,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -50,15 +50,15 @@
             }
         },
         {
-            "id": 59002,
-            "shelfmark": "Ms. C 184, Nr. XXVI",
+            "id": 59003,
+            "shelfmark": "Ms. C 184, Nr. XXVII",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60375,
+                    "id": 60376,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
