@@ -21,8 +21,8 @@
     },
     "manuscripts": [
         {
-            "id": 48209,
-            "shelfmark": "Ms. II 572",
+            "id": 48207,
+            "shelfmark": "Ltk. 210",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -31,14 +31,14 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48214,
-                    "part_order": 1,
-                    "number_of_verses": 4433,
-                    "number_of_lines": 4433,
+                    "id": 48213,
+                    "part_order": 2,
+                    "number_of_verses": 365,
+                    "number_of_lines": 365,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-26v"
+                        "1r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -49,27 +49,25 @@
                 }
             ],
             "repository": {
-                "id": 43904,
-                "name": "Bibliothèque royale de Belgique",
+                "id": 43873,
+                "name": "Universitaire Bibliotheken Leiden",
                 "alternative_names": [
-                    "Bélgica., Koninklijke Bibliotheek van België",
-                    "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR) Bruxelles; Brussel (B-Br)",
-                    "Biblioteka Królewska Belgii",
-                    "Bibliothèque royale Albert Ier",
-                    "Bibliothèque royale de Belgique (Bruxelles)",
-                    "Bibliothèque royale Albert Ier (Bruxelles, Belgique)",
-                    "Royal Library of Belgium"
+                    "Rijksuniversiteit te Leiden., Bibliotheek",
+                    "Leiden University Library",
+                    "Bibliotheek der Rijksuniversiteit Leiden",
+                    "Universiteitsbibliotheek (Lejda).",
+                    "Universiteitsbibliotheek (Leyde, Pays-Bas)",
+                    "Rijksuniversiteit Leiden Bibliotheek"
                 ],
-                "viaf": "312739455.000000",
-                "isni": "0000000122714686",
+                "viaf": "133132602.000000",
+                "isni": "0000000122932800",
                 "settlement": {
-                    "id": 43150,
-                    "name": "Brussels",
-                    "country": "Belgium",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(4.34878 50.85045)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2800866
+                    "id": 43362,
+                    "name": "Leiden",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.49306 52.15833)",
+                    "geonames_id": 2751773
                 }
             }
         },
@@ -122,8 +120,8 @@
             }
         },
         {
-            "id": 48207,
-            "shelfmark": "Ltk. 210",
+            "id": 48209,
+            "shelfmark": "Ms. II 572",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -132,14 +130,14 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48213,
-                    "part_order": 2,
-                    "number_of_verses": 365,
-                    "number_of_lines": 365,
+                    "id": 48214,
+                    "part_order": 1,
+                    "number_of_verses": 4433,
+                    "number_of_lines": 4433,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-2v"
+                        "1r-26v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -150,25 +148,27 @@
                 }
             ],
             "repository": {
-                "id": 43873,
-                "name": "Universitaire Bibliotheken Leiden",
+                "id": 43904,
+                "name": "Bibliothèque royale de Belgique",
                 "alternative_names": [
-                    "Rijksuniversiteit te Leiden., Bibliotheek",
-                    "Leiden University Library",
-                    "Bibliotheek der Rijksuniversiteit Leiden",
-                    "Universiteitsbibliotheek (Lejda).",
-                    "Universiteitsbibliotheek (Leyde, Pays-Bas)",
-                    "Rijksuniversiteit Leiden Bibliotheek"
+                    "Bélgica., Koninklijke Bibliotheek van België",
+                    "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR) Bruxelles; Brussel (B-Br)",
+                    "Biblioteka Królewska Belgii",
+                    "Bibliothèque royale Albert Ier",
+                    "Bibliothèque royale de Belgique (Bruxelles)",
+                    "Bibliothèque royale Albert Ier (Bruxelles, Belgique)",
+                    "Royal Library of Belgium"
                 ],
-                "viaf": "133132602.000000",
-                "isni": "0000000122932800",
+                "viaf": "312739455.000000",
+                "isni": "0000000122714686",
                 "settlement": {
-                    "id": 43362,
-                    "name": "Leiden",
-                    "region": "South Holland",
-                    "country": "Netherlands",
-                    "location_mappable": "POINT(4.49306 52.15833)",
-                    "geonames_id": 2751773
+                    "id": 43150,
+                    "name": "Brussels",
+                    "country": "Belgium",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(4.34878 50.85045)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2800866
                 }
             }
         }

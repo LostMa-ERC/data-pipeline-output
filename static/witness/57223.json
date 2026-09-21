@@ -13,6 +13,43 @@
     ],
     "manuscripts": [
         {
+            "id": 58854,
+            "shelfmark": "Fragm. germ. 1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60227,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57908,
+                "name": "Stadtbibliothek Nürnberg",
+                "alternative_names": [
+                    "Ebnersche Bibliothek"
+                ],
+                "viaf": "134343614.000000",
+                "isni": "0000000123421068",
+                "settlement": {
+                    "id": 42881,
+                    "name": "Nürnberg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.0768 49.4541)",
+                    "geonames_id": 6556832
+                }
+            }
+        },
+        {
             "id": 58853,
             "shelfmark": "Bibliothek, Hs. 9029",
             "old_shelfmarks": [],
@@ -83,43 +120,6 @@
                     "location_mappable": "POINT(11.57549 48.13743)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 2867714
-                }
-            }
-        },
-        {
-            "id": 58854,
-            "shelfmark": "Fragm. germ. 1",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60227,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57908,
-                "name": "Stadtbibliothek Nürnberg",
-                "alternative_names": [
-                    "Ebnersche Bibliothek"
-                ],
-                "viaf": "134343614.000000",
-                "isni": "0000000123421068",
-                "settlement": {
-                    "id": 42881,
-                    "name": "Nürnberg",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(11.0768 49.4541)",
-                    "geonames_id": 6556832
                 }
             }
         }

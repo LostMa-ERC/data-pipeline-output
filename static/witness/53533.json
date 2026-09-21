@@ -23,7 +23,9 @@
         {
             "id": 45209,
             "shelfmark": "1597",
-            "old_shelfmarks": [],
+            "old_shelfmarks": [
+                "Leuven, KU Bibliotheken, 288"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
             "urls": [],

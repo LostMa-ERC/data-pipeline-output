@@ -14,45 +14,6 @@
     ],
     "manuscripts": [
         {
-            "id": 59166,
-            "shelfmark": "Hs. 3250",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60539,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43804,
-                "name": "Hessische Landes- und Hochschulbibliothek Darmstadt",
-                "alternative_names": [
-                    "Hessische Landes- und Hochschulbibliothek",
-                    "Hessischen Landes- und Hochschulbibliothek Darmstadt",
-                    "Hessische Landes- und Hochschulbibliothek Darmstadt, Allemagne"
-                ],
-                "viaf": "127347391.000000",
-                "isni": "0000000121536988",
-                "settlement": {
-                    "id": 43696,
-                    "name": "Darmstadt",
-                    "region": "Hesse",
-                    "country": "Germany",
-                    "location_mappable": "POINT(8.65027 49.87167)",
-                    "geonames_id": 2938913
-                }
-            }
-        },
-        {
             "id": 59165,
             "shelfmark": "Hs. 3234 Nr. 13",
             "old_shelfmarks": [
@@ -134,6 +95,45 @@
                     "country": "Germany",
                     "location_mappable": "POINT(10.54095 52.16442)",
                     "geonames_id": 2806914
+                }
+            }
+        },
+        {
+            "id": 59166,
+            "shelfmark": "Hs. 3250",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60539,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43804,
+                "name": "Hessische Landes- und Hochschulbibliothek Darmstadt",
+                "alternative_names": [
+                    "Hessische Landes- und Hochschulbibliothek",
+                    "Hessischen Landes- und Hochschulbibliothek Darmstadt",
+                    "Hessische Landes- und Hochschulbibliothek Darmstadt, Allemagne"
+                ],
+                "viaf": "127347391.000000",
+                "isni": "0000000121536988",
+                "settlement": {
+                    "id": 43696,
+                    "name": "Darmstadt",
+                    "region": "Hesse",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.65027 49.87167)",
+                    "geonames_id": 2938913
                 }
             }
         }
