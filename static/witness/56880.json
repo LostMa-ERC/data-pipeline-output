@@ -51,6 +51,51 @@
             }
         },
         {
+            "id": 59363,
+            "shelfmark": "Hs-g 1",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "Yes",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60735,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 60736,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57830,
+                "name": "Stadtarchiv Rosenheim",
+                "alternative_names": [],
+                "viaf": "143721406.000000",
+                "isni": "000000010698060X",
+                "settlement": {
+                    "id": 57709,
+                    "name": "Rosenheim",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(12.12247 47.85637)",
+                    "geonames_id": 2844988
+                }
+            }
+        },
+        {
             "id": 59360,
             "shelfmark": "Hs, 511",
             "old_shelfmarks": [
@@ -93,51 +138,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(7.85222 47.9959)",
                     "geonames_id": 2925177
-                }
-            }
-        },
-        {
-            "id": 59363,
-            "shelfmark": "Hs-g 1",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "Yes",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60735,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
-                    "id": 60736,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57830,
-                "name": "Stadtarchiv Rosenheim",
-                "alternative_names": [],
-                "viaf": "143721406.000000",
-                "isni": "000000010698060X",
-                "settlement": {
-                    "id": 57709,
-                    "name": "Rosenheim",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(12.12247 47.85637)",
-                    "geonames_id": 2844988
                 }
             }
         }

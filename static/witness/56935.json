@@ -54,6 +54,42 @@
             }
         },
         {
+            "id": 58842,
+            "shelfmark": "Fragm. 243",
+            "old_shelfmarks": [
+                "früher Stams, Stiftsarchiv, ohne Sign. (4)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60215,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57847,
+                "name": "Stiftsarchiv Stams",
+                "alternative_names": [],
+                "viaf": "242318571.000000",
+                "settlement": {
+                    "id": 57726,
+                    "name": "Stams",
+                    "region": "Styria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(10.98315 47.27603)",
+                    "geonames_id": 2764669
+                }
+            }
+        },
+        {
             "id": 58841,
             "shelfmark": "Frg. 69A",
             "old_shelfmarks": [
@@ -93,42 +129,6 @@
                     "country": "Austria",
                     "location_mappable": "POINT(11.39454 47.26266)",
                     "geonames_id": 2775220
-                }
-            }
-        },
-        {
-            "id": 58842,
-            "shelfmark": "Fragm. 243",
-            "old_shelfmarks": [
-                "früher Stams, Stiftsarchiv, ohne Sign. (4)"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60215,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57847,
-                "name": "Stiftsarchiv Stams",
-                "alternative_names": [],
-                "viaf": "242318571.000000",
-                "settlement": {
-                    "id": 57726,
-                    "name": "Stams",
-                    "region": "Styria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(10.98315 47.27603)",
-                    "geonames_id": 2764669
                 }
             }
         }

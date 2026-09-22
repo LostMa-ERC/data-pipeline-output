@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58582,
-            "shelfmark": "Hs. 14",
+            "id": 58571,
+            "shelfmark": "Hs. 13",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59955,
+                    "id": 59944,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -33,15 +33,15 @@
             ]
         },
         {
-            "id": 58571,
-            "shelfmark": "Hs. 13",
+            "id": 58582,
+            "shelfmark": "Hs. 14",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59944,
+                    "id": 59955,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

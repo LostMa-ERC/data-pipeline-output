@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 59034,
-            "shelfmark": "mgq 1001",
+            "id": 59035,
+            "shelfmark": "mgf 923 Nr. 51,2",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60407,
+                    "id": 60408,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -51,15 +51,15 @@
             }
         },
         {
-            "id": 59035,
-            "shelfmark": "mgf 923 Nr. 51,2",
+            "id": 59034,
+            "shelfmark": "mgq 1001",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60408,
+                    "id": 60407,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
