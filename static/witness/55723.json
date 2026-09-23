@@ -25,6 +25,20 @@
             "ark": "ark:/12148/cc853779",
             "witness_parts": [
                 {
+                    "id": 53075,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "garde début"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
                     "id": 53076,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
@@ -44,20 +58,6 @@
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
                         "garde fin"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
-                    "id": 53075,
-                    "part_order": 1,
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "garde début"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
