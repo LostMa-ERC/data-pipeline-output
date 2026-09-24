@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58978,
-            "shelfmark": "Hs. 2194",
+            "id": 58977,
+            "shelfmark": "Hs. 2290",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60351,
+                    "id": 60350,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -52,15 +52,15 @@
             }
         },
         {
-            "id": 58977,
-            "shelfmark": "Hs. 2290",
+            "id": 58978,
+            "shelfmark": "Hs. 2194",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60350,
+                    "id": 60351,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

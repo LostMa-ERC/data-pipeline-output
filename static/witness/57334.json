@@ -47,40 +47,6 @@
             }
         },
         {
-            "id": 59099,
-            "shelfmark": "Cod. fragm. 63",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60472,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 48430,
-                "name": "Württembergische Landesbibliothek",
-                "alternative_names": [],
-                "viaf": "164844730.000000",
-                "settlement": {
-                    "id": 42911,
-                    "name": "Stuttgart",
-                    "region": "Baden-Wurttemberg",
-                    "country": "Germany",
-                    "location_mappable": "POINT(9.1775 48.77667)",
-                    "geonames_id": 6690189
-                }
-            }
-        },
-        {
             "id": 59098,
             "shelfmark": "Hs. 531",
             "old_shelfmarks": [],
@@ -121,6 +87,40 @@
                     "country": "Germany",
                     "location_mappable": "POINT(7.85222 47.9959)",
                     "geonames_id": 2925177
+                }
+            }
+        },
+        {
+            "id": 59099,
+            "shelfmark": "Cod. fragm. 63",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60472,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48430,
+                "name": "Württembergische Landesbibliothek",
+                "alternative_names": [],
+                "viaf": "164844730.000000",
+                "settlement": {
+                    "id": 42911,
+                    "name": "Stuttgart",
+                    "region": "Baden-Wurttemberg",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.1775 48.77667)",
+                    "geonames_id": 6690189
                 }
             }
         }
