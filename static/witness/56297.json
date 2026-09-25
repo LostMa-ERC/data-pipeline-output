@@ -13,6 +13,40 @@
     ],
     "manuscripts": [
         {
+            "id": 58174,
+            "shelfmark": "Fragm. 64",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59547,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57950,
+                "name": "Domstiftsarchiv und Domstiftsbibliothek Naumburg",
+                "alternative_names": [],
+                "viaf": "1912161392909958512640.000000",
+                "settlement": {
+                    "id": 57696,
+                    "name": "Naumburg",
+                    "region": "Saxony-Anhalt",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.80979 51.14987)",
+                    "geonames_id": 2866906
+                }
+            }
+        },
+        {
             "id": 58173,
             "shelfmark": "Cod. Mil. II 441",
             "old_shelfmarks": [
@@ -46,40 +80,6 @@
                     "country": "Poland",
                     "location_mappable": "POINT(17.03859 51.1081)",
                     "geonames_id": 7530801
-                }
-            }
-        },
-        {
-            "id": 58174,
-            "shelfmark": "Fragm. 64",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59547,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57950,
-                "name": "Domstiftsarchiv und Domstiftsbibliothek Naumburg",
-                "alternative_names": [],
-                "viaf": "1912161392909958512640.000000",
-                "settlement": {
-                    "id": 57696,
-                    "name": "Naumburg",
-                    "region": "Saxony-Anhalt",
-                    "country": "Germany",
-                    "location_mappable": "POINT(11.80979 51.14987)",
-                    "geonames_id": 2866906
                 }
             }
         }

@@ -13,6 +13,41 @@
     ],
     "manuscripts": [
         {
+            "id": 58951,
+            "shelfmark": "Bibliothek, Hs. 42519",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60324,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57907,
+                "name": "Germanisches Nationalmuseum",
+                "alternative_names": [],
+                "viaf": "131883509.000000",
+                "isni": "000000012161603X",
+                "settlement": {
+                    "id": 42881,
+                    "name": "Nürnberg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.0768 49.4541)",
+                    "geonames_id": 6556832
+                }
+            }
+        },
+        {
             "id": 58950,
             "shelfmark": "Hs. 3252",
             "old_shelfmarks": [],
@@ -48,41 +83,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(8.65027 49.87167)",
                     "geonames_id": 2938913
-                }
-            }
-        },
-        {
-            "id": 58951,
-            "shelfmark": "Bibliothek, Hs. 42519",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60324,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57907,
-                "name": "Germanisches Nationalmuseum",
-                "alternative_names": [],
-                "viaf": "131883509.000000",
-                "isni": "000000012161603X",
-                "settlement": {
-                    "id": 42881,
-                    "name": "Nürnberg",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(11.0768 49.4541)",
-                    "geonames_id": 6556832
                 }
             }
         }
