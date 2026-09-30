@@ -24,11 +24,11 @@
             "ark": "ark:/12148/cc136938/cd0e249",
             "witness_parts": [
                 {
-                    "id": 49988,
+                    "id": 55826,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "5r-7r"
+                        "30r-52v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -38,11 +38,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55826,
+                    "id": 49988,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "30r-52v"
+                        "5r-7r"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

@@ -61,42 +61,6 @@
             }
         },
         {
-            "id": 59169,
-            "shelfmark": "Cod. 5 P 63",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60542,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 48424,
-                "name": "Universitäts- und Stadtbibliothek Köln",
-                "alternative_names": [],
-                "viaf": "121635017.000000",
-                "settlement": {
-                    "id": 47379,
-                    "name": "Köln",
-                    "region": "North Rhine-Westphalia",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(6.95 50.93333)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2886242
-                }
-            }
-        },
-        {
             "id": 59172,
             "shelfmark": "Hs. 1500, 24",
             "old_shelfmarks": [
@@ -139,6 +103,42 @@
                     "country": "Germany",
                     "location_mappable": "POINT(7.85222 47.9959)",
                     "geonames_id": 2925177
+                }
+            }
+        },
+        {
+            "id": 59169,
+            "shelfmark": "Cod. 5 P 63",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60542,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 48424,
+                "name": "Universitäts- und Stadtbibliothek Köln",
+                "alternative_names": [],
+                "viaf": "121635017.000000",
+                "settlement": {
+                    "id": 47379,
+                    "name": "Köln",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(6.95 50.93333)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2886242
                 }
             }
         }
