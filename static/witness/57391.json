@@ -13,43 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58301,
-            "shelfmark": "Berol. Mgq 672",
-            "old_shelfmarks": [
-                "früher Berlin, Staatsbibl., mgq 672"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59674,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57886,
-                "name": "Biblioteka Jagiellońska",
-                "alternative_names": [],
-                "viaf": "148485690.000000",
-                "isni": "000000012375281X",
-                "settlement": {
-                    "id": 43136,
-                    "name": "Krakow",
-                    "region": "Lesser Poland",
-                    "country": "Poland",
-                    "location_mappable": "POINT(19.93658 50.06143)",
-                    "geonames_id": 3094802
-                }
-            }
-        },
-        {
             "id": 58300,
             "shelfmark": "Hs. 513",
             "old_shelfmarks": [],
@@ -90,6 +53,43 @@
                     "country": "Germany",
                     "location_mappable": "POINT(7.85222 47.9959)",
                     "geonames_id": 2925177
+                }
+            }
+        },
+        {
+            "id": 58301,
+            "shelfmark": "Berol. Mgq 672",
+            "old_shelfmarks": [
+                "früher Berlin, Staatsbibl., mgq 672"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59674,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57886,
+                "name": "Biblioteka Jagiellońska",
+                "alternative_names": [],
+                "viaf": "148485690.000000",
+                "isni": "000000012375281X",
+                "settlement": {
+                    "id": 43136,
+                    "name": "Krakow",
+                    "region": "Lesser Poland",
+                    "country": "Poland",
+                    "location_mappable": "POINT(19.93658 50.06143)",
+                    "geonames_id": 3094802
                 }
             }
         }

@@ -21,6 +21,51 @@
     },
     "manuscripts": [
         {
+            "id": 48309,
+            "shelfmark": "F 26,b",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 48313,
+                    "part_order": 2,
+                    "number_of_verses": 234,
+                    "number_of_lines": 234,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43807,
+                "name": "Universitäts- und Landesbibliothek Düsseldorf",
+                "alternative_names": [
+                    "Universitäts-und Landesbibliothek Düsseldorf, Allemagne",
+                    "Heinrich-Heine-Universität, Universitäts- und Landesbibliothek Düsseldorf (D-DÜl)"
+                ],
+                "viaf": "125646738.000000",
+                "isni": "0000000109410725",
+                "settlement": {
+                    "id": 42782,
+                    "name": "Düsseldorf",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(6.77616 51.22172)",
+                    "geonames_id": 2934246
+                }
+            }
+        },
+        {
             "id": 48310,
             "shelfmark": "BPL 3085",
             "old_shelfmarks": [],
@@ -68,51 +113,6 @@
                     "country": "Netherlands",
                     "location_mappable": "POINT(4.49306 52.15833)",
                     "geonames_id": 2751773
-                }
-            }
-        },
-        {
-            "id": 48309,
-            "shelfmark": "F 26,b",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 48313,
-                    "part_order": 2,
-                    "number_of_verses": 234,
-                    "number_of_lines": 234,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43807,
-                "name": "Universitäts- und Landesbibliothek Düsseldorf",
-                "alternative_names": [
-                    "Universitäts-und Landesbibliothek Düsseldorf, Allemagne",
-                    "Heinrich-Heine-Universität, Universitäts- und Landesbibliothek Düsseldorf (D-DÜl)"
-                ],
-                "viaf": "125646738.000000",
-                "isni": "0000000109410725",
-                "settlement": {
-                    "id": 42782,
-                    "name": "Düsseldorf",
-                    "region": "North Rhine-Westphalia",
-                    "country": "Germany",
-                    "location_mappable": "POINT(6.77616 51.22172)",
-                    "geonames_id": 2934246
                 }
             }
         }

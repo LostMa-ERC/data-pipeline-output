@@ -13,17 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 59137,
-            "shelfmark": "MS Frag. Germ. 1",
-            "old_shelfmarks": [
-                "früher Privatbesitz Theodor Bukounig, Enns"
-            ],
+            "id": 59148,
+            "shelfmark": "Cod. 11/8",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60510,
+                    "id": 60521,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -34,18 +32,17 @@
                 }
             ],
             "repository": {
-                "id": 57893,
-                "name": "University College London",
+                "id": 57845,
+                "name": "Stiftsbibliothek St. Paul im Lavanttal",
                 "alternative_names": [],
-                "viaf": "128428569.000000",
-                "isni": "0000000121901201",
+                "viaf": "137183674.000000",
                 "settlement": {
-                    "id": 43399,
-                    "name": "London",
-                    "region": "England",
-                    "country": "United Kingdom",
-                    "location_mappable": "POINT(-0.12574 51.50853)",
-                    "geonames_id": 2643743
+                    "id": 57725,
+                    "name": "Sankt Paul im Lavanttal",
+                    "region": "Carinthia",
+                    "country": "Austria",
+                    "location_mappable": "POINT(14.84877 46.69869)",
+                    "geonames_id": 7871682
                 }
             }
         },
@@ -94,15 +91,17 @@
             }
         },
         {
-            "id": 59148,
-            "shelfmark": "Cod. 11/8",
-            "old_shelfmarks": [],
+            "id": 59137,
+            "shelfmark": "MS Frag. Germ. 1",
+            "old_shelfmarks": [
+                "früher Privatbesitz Theodor Bukounig, Enns"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60521,
+                    "id": 60510,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -113,17 +112,18 @@
                 }
             ],
             "repository": {
-                "id": 57845,
-                "name": "Stiftsbibliothek St. Paul im Lavanttal",
+                "id": 57893,
+                "name": "University College London",
                 "alternative_names": [],
-                "viaf": "137183674.000000",
+                "viaf": "128428569.000000",
+                "isni": "0000000121901201",
                 "settlement": {
-                    "id": 57725,
-                    "name": "Sankt Paul im Lavanttal",
-                    "region": "Carinthia",
-                    "country": "Austria",
-                    "location_mappable": "POINT(14.84877 46.69869)",
-                    "geonames_id": 7871682
+                    "id": 43399,
+                    "name": "London",
+                    "region": "England",
+                    "country": "United Kingdom",
+                    "location_mappable": "POINT(-0.12574 51.50853)",
+                    "geonames_id": 2643743
                 }
             }
         }
