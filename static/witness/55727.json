@@ -24,11 +24,11 @@
             "ark": "ark:/12148/cc41068v",
             "witness_parts": [
                 {
-                    "id": 52453,
+                    "id": 52454,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "4r-9v"
+                        "11r-14v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -38,11 +38,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 52454,
+                    "id": 52453,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "11r-14v"
+                        "4r-9v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

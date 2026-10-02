@@ -21,8 +21,8 @@
     },
     "manuscripts": [
         {
-            "id": 48206,
-            "shelfmark": "A 45",
+            "id": 48207,
+            "shelfmark": "Ltk. 210",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -31,10 +31,10 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48211,
-                    "part_order": 3,
-                    "number_of_verses": 384,
-                    "number_of_lines": 384,
+                    "id": 48213,
+                    "part_order": 2,
+                    "number_of_verses": 365,
+                    "number_of_lines": 365,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
@@ -49,22 +49,25 @@
                 }
             ],
             "repository": {
-                "id": 48426,
-                "name": "Historisches Archiv der Stadt Köln",
+                "id": 43873,
+                "name": "Universitaire Bibliotheken Leiden",
                 "alternative_names": [
-                    "Cologne Allemagne, Historisches Archiv",
-                    "Cologne Historisches Archiv"
+                    "Rijksuniversiteit te Leiden., Bibliotheek",
+                    "Leiden University Library",
+                    "Bibliotheek der Rijksuniversiteit Leiden",
+                    "Universiteitsbibliotheek (Lejda).",
+                    "Universiteitsbibliotheek (Leyde, Pays-Bas)",
+                    "Rijksuniversiteit Leiden Bibliotheek"
                 ],
-                "viaf": "143699716.000000",
+                "viaf": "133132602.000000",
+                "isni": "0000000122932800",
                 "settlement": {
-                    "id": 47379,
-                    "name": "Köln",
-                    "region": "North Rhine-Westphalia",
-                    "country": "Germany",
-                    "place_type": "Administrative.City",
-                    "location_mappable": "POINT(6.95 50.93333)",
-                    "location_certainty": "1. High confidence",
-                    "geonames_id": 2886242
+                    "id": 43362,
+                    "name": "Leiden",
+                    "region": "South Holland",
+                    "country": "Netherlands",
+                    "location_mappable": "POINT(4.49306 52.15833)",
+                    "geonames_id": 2751773
                 }
             }
         },
@@ -122,8 +125,8 @@
             }
         },
         {
-            "id": 48207,
-            "shelfmark": "Ltk. 210",
+            "id": 48206,
+            "shelfmark": "A 45",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
@@ -132,10 +135,10 @@
             ],
             "witness_parts": [
                 {
-                    "id": 48213,
-                    "part_order": 2,
-                    "number_of_verses": 365,
-                    "number_of_lines": 365,
+                    "id": 48211,
+                    "part_order": 3,
+                    "number_of_verses": 384,
+                    "number_of_lines": 384,
                     "verses_per_line": "one verse per line",
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
@@ -150,25 +153,22 @@
                 }
             ],
             "repository": {
-                "id": 43873,
-                "name": "Universitaire Bibliotheken Leiden",
+                "id": 48426,
+                "name": "Historisches Archiv der Stadt Köln",
                 "alternative_names": [
-                    "Rijksuniversiteit te Leiden., Bibliotheek",
-                    "Leiden University Library",
-                    "Bibliotheek der Rijksuniversiteit Leiden",
-                    "Universiteitsbibliotheek (Lejda).",
-                    "Universiteitsbibliotheek (Leyde, Pays-Bas)",
-                    "Rijksuniversiteit Leiden Bibliotheek"
+                    "Cologne Allemagne, Historisches Archiv",
+                    "Cologne Historisches Archiv"
                 ],
-                "viaf": "133132602.000000",
-                "isni": "0000000122932800",
+                "viaf": "143699716.000000",
                 "settlement": {
-                    "id": 43362,
-                    "name": "Leiden",
-                    "region": "South Holland",
-                    "country": "Netherlands",
-                    "location_mappable": "POINT(4.49306 52.15833)",
-                    "geonames_id": 2751773
+                    "id": 47379,
+                    "name": "Köln",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "place_type": "Administrative.City",
+                    "location_mappable": "POINT(6.95 50.93333)",
+                    "location_certainty": "1. High confidence",
+                    "geonames_id": 2886242
                 }
             }
         }

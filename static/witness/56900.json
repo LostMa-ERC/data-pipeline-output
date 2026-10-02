@@ -13,15 +13,17 @@
     ],
     "manuscripts": [
         {
-            "id": 58910,
-            "shelfmark": "Cod. I E a 1",
-            "old_shelfmarks": [],
+            "id": 58909,
+            "shelfmark": "Cod. XXIV.C.2",
+            "old_shelfmarks": [
+                "früher Prag, Nationalbibl., Fragm. germ. 2"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60283,
+                    "id": 60282,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -32,13 +34,15 @@
                 }
             ],
             "repository": {
-                "id": 57960,
-                "name": "Národní muzeum",
+                "id": 47364,
+                "name": "National Library of the Czech Republic",
                 "alternative_names": [
-                    "National Museum in Prague"
+                    "Národní knihovna České republiky",
+                    "Национальная библиотека Чешской Республики",
+                    "Bibliothèque nationale de la République tchèque",
+                    "National Library of the Czech Republic"
                 ],
-                "viaf": "16146635701641981952.000000",
-                "isni": "0000000119403633",
+                "viaf": "135195765.000000",
                 "settlement": {
                     "id": 43579,
                     "name": "Prague",
@@ -85,17 +89,15 @@
             }
         },
         {
-            "id": 58909,
-            "shelfmark": "Cod. XXIV.C.2",
-            "old_shelfmarks": [
-                "früher Prag, Nationalbibl., Fragm. germ. 2"
-            ],
+            "id": 58910,
+            "shelfmark": "Cod. I E a 1",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60282,
+                    "id": 60283,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -106,15 +108,13 @@
                 }
             ],
             "repository": {
-                "id": 47364,
-                "name": "National Library of the Czech Republic",
+                "id": 57960,
+                "name": "Národní muzeum",
                 "alternative_names": [
-                    "Národní knihovna České republiky",
-                    "Национальная библиотека Чешской Республики",
-                    "Bibliothèque nationale de la République tchèque",
-                    "National Library of the Czech Republic"
+                    "National Museum in Prague"
                 ],
-                "viaf": "135195765.000000",
+                "viaf": "16146635701641981952.000000",
+                "isni": "0000000119403633",
                 "settlement": {
                     "id": 43579,
                     "name": "Prague",
