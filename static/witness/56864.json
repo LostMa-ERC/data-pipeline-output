@@ -12,15 +12,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58535,
-            "shelfmark": "Hd. V 1",
+            "id": 58536,
+            "shelfmark": "Hd. V 2",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59908,
+                    "id": 59909,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -47,15 +47,15 @@
             }
         },
         {
-            "id": 58536,
-            "shelfmark": "Hd. V 2",
+            "id": 58535,
+            "shelfmark": "Hd. V 1",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59909,
+                    "id": 59908,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

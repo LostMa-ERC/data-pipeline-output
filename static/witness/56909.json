@@ -13,17 +13,17 @@
     ],
     "manuscripts": [
         {
-            "id": 58632,
-            "shelfmark": "Fragmente MM 3/2",
+            "id": 58631,
+            "shelfmark": "Fragmente MM 3/1",
             "old_shelfmarks": [
-                "früher Seitenstetten, Stiftsbibl., Fragmentenschachtel, ohne Sign. (5)"
+                "früher Seitenstetten, Stiftsbibl., Fragmentenschachtel, ohne Sign. (4)"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60005,
+                    "id": 60004,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -54,17 +54,17 @@
             }
         },
         {
-            "id": 58631,
-            "shelfmark": "Fragmente MM 3/1",
+            "id": 58632,
+            "shelfmark": "Fragmente MM 3/2",
             "old_shelfmarks": [
-                "früher Seitenstetten, Stiftsbibl., Fragmentenschachtel, ohne Sign. (4)"
+                "früher Seitenstetten, Stiftsbibl., Fragmentenschachtel, ohne Sign. (5)"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60004,
+                    "id": 60005,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
