@@ -14,15 +14,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58592,
-            "shelfmark": "Buchdeckelfunde Sch. 3, II/4b",
+            "id": 58594,
+            "shelfmark": "Fragm. germ. 2",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59965,
+                    "id": 59967,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -33,18 +33,18 @@
                 }
             ],
             "repository": {
-                "id": 57889,
-                "name": "Oberösterreichisches Landesarchiv",
+                "id": 57814,
+                "name": "Stiftsbibliothek Melk",
                 "alternative_names": [],
-                "viaf": "158989654.000000",
-                "isni": "000000012375652X",
+                "viaf": "126160062.000000",
+                "isni": "0000000087035724",
                 "settlement": {
-                    "id": 43051,
-                    "name": "Linz",
-                    "region": "Upper Austria",
+                    "id": 57691,
+                    "name": "Melk",
+                    "region": "Lower Austria",
                     "country": "Austria",
-                    "location_mappable": "POINT(14.28611 48.30639)",
-                    "geonames_id": 2772400
+                    "location_mappable": "POINT(15.33186 48.22737)",
+                    "geonames_id": 2771682
                 }
             }
         },
@@ -118,15 +118,15 @@
             }
         },
         {
-            "id": 58594,
-            "shelfmark": "Fragm. germ. 2",
+            "id": 58592,
+            "shelfmark": "Buchdeckelfunde Sch. 3, II/4b",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59967,
+                    "id": 59965,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -137,18 +137,18 @@
                 }
             ],
             "repository": {
-                "id": 57814,
-                "name": "Stiftsbibliothek Melk",
+                "id": 57889,
+                "name": "Oberösterreichisches Landesarchiv",
                 "alternative_names": [],
-                "viaf": "126160062.000000",
-                "isni": "0000000087035724",
+                "viaf": "158989654.000000",
+                "isni": "000000012375652X",
                 "settlement": {
-                    "id": 57691,
-                    "name": "Melk",
-                    "region": "Lower Austria",
+                    "id": 43051,
+                    "name": "Linz",
+                    "region": "Upper Austria",
                     "country": "Austria",
-                    "location_mappable": "POINT(15.33186 48.22737)",
-                    "geonames_id": 2771682
+                    "location_mappable": "POINT(14.28611 48.30639)",
+                    "geonames_id": 2772400
                 }
             }
         }
