@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58799,
-            "shelfmark": "mgf 923 Nr. 27c",
+            "id": 58798,
+            "shelfmark": "mgf 923 Nr. 27",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60172,
+                    "id": 60171,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -51,15 +51,15 @@
             }
         },
         {
-            "id": 58798,
-            "shelfmark": "mgf 923 Nr. 27",
+            "id": 58799,
+            "shelfmark": "mgf 923 Nr. 27c",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60171,
+                    "id": 60172,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
