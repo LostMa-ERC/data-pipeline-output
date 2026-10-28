@@ -14,20 +14,20 @@
     ],
     "manuscripts": [
         {
-            "id": 45169,
-            "shelfmark": "MS M.807",
+            "id": 45122,
+            "shelfmark": "MS M.805",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 49983,
-                    "part_order": 1,
-                    "volume_number": "1",
+                    "id": 49982,
+                    "part_order": 2,
+                    "volume_number": "2",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "1-141bis"
+                        "142-266"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -60,20 +60,20 @@
             }
         },
         {
-            "id": 45122,
-            "shelfmark": "MS M.805",
+            "id": 45169,
+            "shelfmark": "MS M.807",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 49982,
-                    "part_order": 2,
-                    "volume_number": "2",
+                    "id": 49983,
+                    "part_order": 1,
+                    "volume_number": "1",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "142-266"
+                        "1-141bis"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
