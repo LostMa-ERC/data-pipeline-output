@@ -13,41 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58626,
-            "shelfmark": "Ink. 430, hinterer Spiegel",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59999,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57742,
-                "name": "Biblioteca comunale di Trento",
-                "alternative_names": [],
-                "viaf": "134954430.000000",
-                "isni": "0000000122485334",
-                "settlement": {
-                    "id": 43091,
-                    "name": "Trento",
-                    "region": "Trentino-Alto Adige",
-                    "country": "Italy",
-                    "location_mappable": "POINT(11.12074 46.07043)",
-                    "geonames_id": 6541469
-                }
-            }
-        },
-        {
             "id": 58625,
             "shelfmark": "Hs. 515",
             "old_shelfmarks": [],
@@ -88,6 +53,41 @@
                     "country": "Germany",
                     "location_mappable": "POINT(7.85222 47.9959)",
                     "geonames_id": 2925177
+                }
+            }
+        },
+        {
+            "id": 58626,
+            "shelfmark": "Ink. 430, hinterer Spiegel",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59999,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57742,
+                "name": "Biblioteca comunale di Trento",
+                "alternative_names": [],
+                "viaf": "134954430.000000",
+                "isni": "0000000122485334",
+                "settlement": {
+                    "id": 43091,
+                    "name": "Trento",
+                    "region": "Trentino-Alto Adige",
+                    "country": "Italy",
+                    "location_mappable": "POINT(11.12074 46.07043)",
+                    "geonames_id": 6541469
                 }
             }
         }
