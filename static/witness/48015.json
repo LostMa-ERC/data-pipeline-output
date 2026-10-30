@@ -31,13 +31,13 @@
             ],
             "witness_parts": [
                 {
-                    "id": 55796,
+                    "id": 48016,
                     "part_order": 1,
                     "number_of_verses": 388,
                     "number_of_lines": 388,
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "2r-2v"
+                        "1r-1v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -47,13 +47,13 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 48016,
+                    "id": 55796,
                     "part_order": 1,
                     "number_of_verses": 388,
                     "number_of_lines": 388,
                     "lines_are_incomplete": "Yes",
                     "page_ranges": [
-                        "1r-1v"
+                        "2r-2v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

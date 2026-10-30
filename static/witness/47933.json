@@ -21,57 +21,6 @@
     },
     "manuscripts": [
         {
-            "id": 47931,
-            "shelfmark": "1643",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/20275"
-            ],
-            "witness_parts": [
-                {
-                    "id": 47936,
-                    "part_order": 1,
-                    "number_of_verses": 407,
-                    "number_of_lines": 407,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-2v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43787,
-                "name": "Rijksuniversiteit te Gent. Bibliotheek",
-                "alternative_names": [
-                    "Universiteitsbibliotheek Gand, Belgique",
-                    "Rijksuniversiteit Gent. Bibliothek",
-                    "Universiteitsbibliotheek UGent",
-                    "Universiteitsbibliotheek Gent (B-Gu)",
-                    "Rijksuniversiteit (Gandawa). Bibliotheek.",
-                    "Universiteitsbibliotheek Gent"
-                ],
-                "viaf": "139553481.000000",
-                "isni": "0000000123484448",
-                "settlement": {
-                    "id": 43690,
-                    "name": "Ghent",
-                    "region": "Flanders",
-                    "country": "Belgium",
-                    "location_mappable": "POINT(3.71667 51.05)",
-                    "geonames_id": 2797656
-                }
-            }
-        },
-        {
             "id": 47930,
             "shelfmark": "Ms. 19613",
             "old_shelfmarks": [],
@@ -121,6 +70,57 @@
                     "location_mappable": "POINT(4.34878 50.85045)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 2800866
+                }
+            }
+        },
+        {
+            "id": 47931,
+            "shelfmark": "1643",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/20275"
+            ],
+            "witness_parts": [
+                {
+                    "id": 47936,
+                    "part_order": 1,
+                    "number_of_verses": 407,
+                    "number_of_lines": 407,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-2v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43787,
+                "name": "Rijksuniversiteit te Gent. Bibliotheek",
+                "alternative_names": [
+                    "Universiteitsbibliotheek Gand, Belgique",
+                    "Rijksuniversiteit Gent. Bibliothek",
+                    "Universiteitsbibliotheek UGent",
+                    "Universiteitsbibliotheek Gent (B-Gu)",
+                    "Rijksuniversiteit (Gandawa). Bibliotheek.",
+                    "Universiteitsbibliotheek Gent"
+                ],
+                "viaf": "139553481.000000",
+                "isni": "0000000123484448",
+                "settlement": {
+                    "id": 43690,
+                    "name": "Ghent",
+                    "region": "Flanders",
+                    "country": "Belgium",
+                    "location_mappable": "POINT(3.71667 51.05)",
+                    "geonames_id": 2797656
                 }
             }
         }
