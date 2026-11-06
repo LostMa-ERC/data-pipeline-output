@@ -22,11 +22,11 @@
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 50970,
+                    "id": 55832,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1ra-7rb"
+                        "16vb-31ra"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -36,11 +36,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 55832,
+                    "id": 50970,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "16vb-31ra"
+                        "1ra-7rb"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

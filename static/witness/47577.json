@@ -21,6 +21,49 @@
     },
     "manuscripts": [
         {
+            "id": 47573,
+            "shelfmark": "42.584",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [
+                "https://www.handschriftencensus.de/4051"
+            ],
+            "witness_parts": [
+                {
+                    "id": 47578,
+                    "part_order": 1,
+                    "number_of_verses": 183,
+                    "number_of_lines": 183,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "Yes",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46307,
+                "name": "Bibliothek des Germanischen Nationalmuseums",
+                "alternative_names": [],
+                "viaf": "131883509.000000",
+                "settlement": {
+                    "id": 42881,
+                    "name": "Nürnberg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.0768 49.4541)",
+                    "geonames_id": 6556832
+                }
+            }
+        },
+        {
             "id": 47575,
             "shelfmark": "Ltk. 201",
             "old_shelfmarks": [],
@@ -68,49 +111,6 @@
                     "country": "Netherlands",
                     "location_mappable": "POINT(4.49306 52.15833)",
                     "geonames_id": 2751773
-                }
-            }
-        },
-        {
-            "id": 47573,
-            "shelfmark": "42.584",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [
-                "https://www.handschriftencensus.de/4051"
-            ],
-            "witness_parts": [
-                {
-                    "id": 47578,
-                    "part_order": 1,
-                    "number_of_verses": 183,
-                    "number_of_lines": 183,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "Yes",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 46307,
-                "name": "Bibliothek des Germanischen Nationalmuseums",
-                "alternative_names": [],
-                "viaf": "131883509.000000",
-                "settlement": {
-                    "id": 42881,
-                    "name": "Nürnberg",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(11.0768 49.4541)",
-                    "geonames_id": 6556832
                 }
             }
         }

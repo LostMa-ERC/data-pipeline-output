@@ -14,6 +14,45 @@
     "urls": [],
     "manuscripts": [
         {
+            "id": 47866,
+            "shelfmark": "AM 598 4to I alpha",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://handrit.is/manuscript/view/da/AM04-0598-I-alpha"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50049,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1r-1v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46319,
+                "name": "Den Arnamagnæanske Samling",
+                "alternative_names": [],
+                "viaf": "123148995933759750144.000000",
+                "settlement": {
+                    "id": 43659,
+                    "name": "Copenhagen",
+                    "country": "Denmark",
+                    "location_mappable": "POINT(12.56553 55.67594)",
+                    "geonames_id": 2618425
+                }
+            }
+        },
+        {
             "id": 46334,
             "shelfmark": "Perg. 4to nr 6",
             "old_shelfmarks": [],
@@ -66,45 +105,6 @@
                     "country": "Sweden",
                     "location_mappable": "POINT(18.06871 59.32938)",
                     "geonames_id": 2673730
-                }
-            }
-        },
-        {
-            "id": 47866,
-            "shelfmark": "AM 598 4to I alpha",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "unknown",
-            "urls": [
-                "https://handrit.is/manuscript/view/da/AM04-0598-I-alpha"
-            ],
-            "witness_parts": [
-                {
-                    "id": 50049,
-                    "part_order": 1,
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "1r-1v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 46319,
-                "name": "Den Arnamagnæanske Samling",
-                "alternative_names": [],
-                "viaf": "123148995933759750144.000000",
-                "settlement": {
-                    "id": 43659,
-                    "name": "Copenhagen",
-                    "country": "Denmark",
-                    "location_mappable": "POINT(12.56553 55.67594)",
-                    "geonames_id": 2618425
                 }
             }
         }

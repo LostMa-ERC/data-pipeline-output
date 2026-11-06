@@ -13,40 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58741,
-            "shelfmark": "Ms. VI 8a",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60114,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57778,
-                "name": "Kloster Ebstorf Bibliothek",
-                "alternative_names": [],
-                "viaf": "235202540.000000",
-                "settlement": {
-                    "id": 57653,
-                    "name": "Ebstorf",
-                    "region": "Lower Saxony",
-                    "country": "Germany",
-                    "location_mappable": "POINT(10.4167 53.0333)",
-                    "geonames_id": 6559087
-                }
-            }
-        },
-        {
             "id": 58743,
             "shelfmark": "Best. 147 Hr 1 Nr. 6",
             "old_shelfmarks": [],
@@ -78,6 +44,40 @@
                     "place_type": "Administrative.City",
                     "location_mappable": "POINT(8.77069 50.80904)",
                     "location_certainty": "1. High confidence"
+                }
+            }
+        },
+        {
+            "id": 58741,
+            "shelfmark": "Ms. VI 8a",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60114,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57778,
+                "name": "Kloster Ebstorf Bibliothek",
+                "alternative_names": [],
+                "viaf": "235202540.000000",
+                "settlement": {
+                    "id": 57653,
+                    "name": "Ebstorf",
+                    "region": "Lower Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(10.4167 53.0333)",
+                    "geonames_id": 6559087
                 }
             }
         }
