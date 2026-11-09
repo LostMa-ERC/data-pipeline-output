@@ -14,41 +14,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58705,
-            "shelfmark": "Bibl. des Hist. Vereins, Ms. Misc. 62, Fragm. germ. 2",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60078,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57917,
-                "name": "Stadtarchiv Regensburg",
-                "alternative_names": [],
-                "viaf": "124988994.000000",
-                "isni": "0000000123081956",
-                "settlement": {
-                    "id": 42892,
-                    "name": "Regensburg",
-                    "region": "Bavaria",
-                    "country": "Germany",
-                    "location_mappable": "POINT(12.09536 49.01681)",
-                    "geonames_id": 6556611
-                }
-            }
-        },
-        {
             "id": 58702,
             "shelfmark": "Cgm 5249/6",
             "old_shelfmarks": [],
@@ -84,6 +49,41 @@
                     "location_mappable": "POINT(11.57549 48.13743)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 2867714
+                }
+            }
+        },
+        {
+            "id": 58705,
+            "shelfmark": "Bibl. des Hist. Vereins, Ms. Misc. 62, Fragm. germ. 2",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60078,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57917,
+                "name": "Stadtarchiv Regensburg",
+                "alternative_names": [],
+                "viaf": "124988994.000000",
+                "isni": "0000000123081956",
+                "settlement": {
+                    "id": 42892,
+                    "name": "Regensburg",
+                    "region": "Bavaria",
+                    "country": "Germany",
+                    "location_mappable": "POINT(12.09536 49.01681)",
+                    "geonames_id": 6556611
                 }
             }
         }

@@ -13,17 +13,17 @@
     ],
     "manuscripts": [
         {
-            "id": 58235,
-            "shelfmark": "Mgq 1251, 2",
+            "id": 58234,
+            "shelfmark": "mgq 1251, 1",
             "old_shelfmarks": [
-                "früher Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1915/155,428 ; davor Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1909/120,306 ; davor Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1905/111,1851 ; davor Privatbesitz Antiquariat Kerler, Ulm, (1)"
+                "früher Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1915/155,428 ; davor Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1909/120,306 ; davor Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1905/111,1851 ; davor Privatbesitz Antiquariat Kerler, Ulm, (2)"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59608,
+                    "id": 59607,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -53,17 +53,17 @@
             }
         },
         {
-            "id": 58234,
-            "shelfmark": "mgq 1251, 1",
+            "id": 58235,
+            "shelfmark": "Mgq 1251, 2",
             "old_shelfmarks": [
-                "früher Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1915/155,428 ; davor Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1909/120,306 ; davor Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1905/111,1851 ; davor Privatbesitz Antiquariat Kerler, Ulm, (2)"
+                "früher Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1915/155,428 ; davor Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1909/120,306 ; davor Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1905/111,1851 ; davor Privatbesitz Antiquariat Kerler, Ulm, (1)"
             ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59607,
+                    "id": 59608,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

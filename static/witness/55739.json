@@ -25,11 +25,11 @@
             "ark": "ark:/12148/cc42531j",
             "witness_parts": [
                 {
-                    "id": 51529,
+                    "id": 51531,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "214va-220rb"
+                        "281ra-282va"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -39,11 +39,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 51531,
+                    "id": 51529,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "281ra-282va"
+                        "214va-220rb"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
