@@ -13,42 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58247,
-            "shelfmark": "Ms. 1079, st. 76",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59620,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57892,
-                "name": "Narodna in univerzitetna knjižnica",
-                "alternative_names": [
-                    "National and University Library of Slovenia"
-                ],
-                "viaf": "133020487.000000",
-                "isni": "0000000406220928",
-                "settlement": {
-                    "id": 42570,
-                    "name": "Ljubljana",
-                    "country": "Slovenia",
-                    "location_mappable": "POINT(14.50513 46.05108)",
-                    "geonames_id": 3196359
-                }
-            }
-        },
-        {
             "id": 58246,
             "shelfmark": "mgf 747",
             "old_shelfmarks": [],
@@ -83,6 +47,42 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
+                }
+            }
+        },
+        {
+            "id": 58247,
+            "shelfmark": "Ms. 1079, st. 76",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59620,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57892,
+                "name": "Narodna in univerzitetna knjižnica",
+                "alternative_names": [
+                    "National and University Library of Slovenia"
+                ],
+                "viaf": "133020487.000000",
+                "isni": "0000000406220928",
+                "settlement": {
+                    "id": 42570,
+                    "name": "Ljubljana",
+                    "country": "Slovenia",
+                    "location_mappable": "POINT(14.50513 46.05108)",
+                    "geonames_id": 3196359
                 }
             }
         }

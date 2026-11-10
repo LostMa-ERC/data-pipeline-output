@@ -13,17 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58234,
-            "shelfmark": "mgq 1251, 1",
-            "old_shelfmarks": [
-                "früher Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1915/155,428 ; davor Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1909/120,306 ; davor Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1905/111,1851 ; davor Privatbesitz Antiquariat Kerler, Ulm, (2)"
-            ],
+            "id": 58236,
+            "shelfmark": "Bibliothek, Hs. 6328a",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59607,
+                    "id": 59609,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -34,21 +32,18 @@
                 }
             ],
             "repository": {
-                "id": 43889,
-                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
-                "alternative_names": [
-                    "Staatsbibliothek zu Berlin.",
-                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
-                    "Staatsbibliothek Berlin"
-                ],
-                "viaf": "157207056.000000",
-                "isni": "0000000123699481",
+                "id": 57907,
+                "name": "Germanisches Nationalmuseum",
+                "alternative_names": [],
+                "viaf": "131883509.000000",
+                "isni": "000000012161603X",
                 "settlement": {
-                    "id": 43580,
-                    "name": "Berlin",
+                    "id": 42881,
+                    "name": "Nürnberg",
+                    "region": "Bavaria",
                     "country": "Germany",
-                    "location_mappable": "POINT(13.41053 52.52437)",
-                    "geonames_id": 2950159
+                    "location_mappable": "POINT(11.0768 49.4541)",
+                    "geonames_id": 6556832
                 }
             }
         },
@@ -93,15 +88,17 @@
             }
         },
         {
-            "id": 58236,
-            "shelfmark": "Bibliothek, Hs. 6328a",
-            "old_shelfmarks": [],
+            "id": 58234,
+            "shelfmark": "mgq 1251, 1",
+            "old_shelfmarks": [
+                "früher Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1915/155,428 ; davor Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1909/120,306 ; davor Privatbesitz Antiquariat Ludwig Rosenthal, München, Nr. 1905/111,1851 ; davor Privatbesitz Antiquariat Kerler, Ulm, (2)"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59609,
+                    "id": 59607,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -112,18 +109,21 @@
                 }
             ],
             "repository": {
-                "id": 57907,
-                "name": "Germanisches Nationalmuseum",
-                "alternative_names": [],
-                "viaf": "131883509.000000",
-                "isni": "000000012161603X",
+                "id": 43889,
+                "name": "Staatsbibliothek zu Berlin Preußischer Kulturbesitz",
+                "alternative_names": [
+                    "Staatsbibliothek zu Berlin.",
+                    "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
+                    "Staatsbibliothek Berlin"
+                ],
+                "viaf": "157207056.000000",
+                "isni": "0000000123699481",
                 "settlement": {
-                    "id": 42881,
-                    "name": "Nürnberg",
-                    "region": "Bavaria",
+                    "id": 43580,
+                    "name": "Berlin",
                     "country": "Germany",
-                    "location_mappable": "POINT(11.0768 49.4541)",
-                    "geonames_id": 6556832
+                    "location_mappable": "POINT(13.41053 52.52437)",
+                    "geonames_id": 2950159
                 }
             }
         }

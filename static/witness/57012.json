@@ -13,6 +13,43 @@
     ],
     "manuscripts": [
         {
+            "id": 58756,
+            "shelfmark": "Sign. 12 C.7, Vorderer Spiegel",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60129,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57791,
+                "name": "Franckesche Stiftungen, Archiv",
+                "alternative_names": [
+                    "Archiv der Franckeschen Stiftungen"
+                ],
+                "viaf": "145132982.000000",
+                "isni": "0000000121112683",
+                "settlement": {
+                    "id": 57669,
+                    "name": "Halle (Saale)",
+                    "region": "Saxony-Anhalt",
+                    "country": "Germany",
+                    "location_mappable": "POINT(11.97202 51.48298)",
+                    "geonames_id": 6551220
+                }
+            }
+        },
+        {
             "id": 58755,
             "shelfmark": "Cod. C 4a",
             "old_shelfmarks": [],
@@ -79,43 +116,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(8.43111 49.32083)",
                     "geonames_id": 2830582
-                }
-            }
-        },
-        {
-            "id": 58756,
-            "shelfmark": "Sign. 12 C.7, Vorderer Spiegel",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60129,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57791,
-                "name": "Franckesche Stiftungen, Archiv",
-                "alternative_names": [
-                    "Archiv der Franckeschen Stiftungen"
-                ],
-                "viaf": "145132982.000000",
-                "isni": "0000000121112683",
-                "settlement": {
-                    "id": 57669,
-                    "name": "Halle (Saale)",
-                    "region": "Saxony-Anhalt",
-                    "country": "Germany",
-                    "location_mappable": "POINT(11.97202 51.48298)",
-                    "geonames_id": 6551220
                 }
             }
         }

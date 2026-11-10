@@ -14,8 +14,8 @@
     ],
     "manuscripts": [
         {
-            "id": 45394,
-            "shelfmark": "Hs 93",
+            "id": 45393,
+            "shelfmark": "Hs 94",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
@@ -24,12 +24,12 @@
             ],
             "witness_parts": [
                 {
-                    "id": 49978,
-                    "part_order": 1,
-                    "volume_number": "1",
+                    "id": 49979,
+                    "part_order": 2,
+                    "volume_number": "2",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "4-332v"
+                        "3-232v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -60,8 +60,8 @@
             }
         },
         {
-            "id": 45393,
-            "shelfmark": "Hs 94",
+            "id": 45394,
+            "shelfmark": "Hs 93",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "unknown",
@@ -70,12 +70,12 @@
             ],
             "witness_parts": [
                 {
-                    "id": 49979,
-                    "part_order": 2,
-                    "volume_number": "2",
+                    "id": 49978,
+                    "part_order": 1,
+                    "volume_number": "1",
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "3-232v"
+                        "4-332v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
