@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 59038,
-            "shelfmark": "MS 481, no. 113",
+            "id": 59036,
+            "shelfmark": "Hs. 445",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60411,
+                    "id": 60409,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -32,18 +32,27 @@
                 }
             ],
             "repository": {
-                "id": 57904,
-                "name": "Yale University, Beinecke Rare Book and Manuscript Library",
-                "alternative_names": [],
-                "viaf": "146865135.000000",
-                "isni": "0000000121797790",
+                "id": 43938,
+                "name": "Universitätsbibliothek Freiburg im Breisgau",
+                "alternative_names": [
+                    "Universität Freiburg im Breisgau. Bibliothek",
+                    "Universitätsbibliothek Freiburg",
+                    "Albert-Ludwigs-Universität Fribourg-en-Brisgau, Allemagne, Bibliothek",
+                    "Universitätsbibliothek (Freiburg im Breisgau, Allemagne)",
+                    "Universitätsbibliothek Freiburg im Breisgau (D-FRu)",
+                    "Universitätsbibliothek (Fryburg Bryzgowijski).",
+                    "Universitätsbibliothek Freiburg, Breisgau, Deutschland",
+                    "Universitätsbibliothek"
+                ],
+                "viaf": "143595522.000000",
+                "isni": "0000000123314799",
                 "settlement": {
-                    "id": 43496,
-                    "name": "New Haven",
-                    "region": "Connecticut",
-                    "country": "United States",
-                    "location_mappable": "POINT(-72.92816 41.30815)",
-                    "geonames_id": 4839366
+                    "id": 42791,
+                    "name": "Freiburg im Breisgau",
+                    "region": "Freiburg Region",
+                    "country": "Germany",
+                    "location_mappable": "POINT(7.85222 47.9959)",
+                    "geonames_id": 2925177
                 }
             }
         },
@@ -89,15 +98,15 @@
             }
         },
         {
-            "id": 59036,
-            "shelfmark": "Hs. 445",
+            "id": 59038,
+            "shelfmark": "MS 481, no. 113",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60409,
+                    "id": 60411,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -108,27 +117,18 @@
                 }
             ],
             "repository": {
-                "id": 43938,
-                "name": "Universitätsbibliothek Freiburg im Breisgau",
-                "alternative_names": [
-                    "Universität Freiburg im Breisgau. Bibliothek",
-                    "Universitätsbibliothek Freiburg",
-                    "Albert-Ludwigs-Universität Fribourg-en-Brisgau, Allemagne, Bibliothek",
-                    "Universitätsbibliothek (Freiburg im Breisgau, Allemagne)",
-                    "Universitätsbibliothek Freiburg im Breisgau (D-FRu)",
-                    "Universitätsbibliothek (Fryburg Bryzgowijski).",
-                    "Universitätsbibliothek Freiburg, Breisgau, Deutschland",
-                    "Universitätsbibliothek"
-                ],
-                "viaf": "143595522.000000",
-                "isni": "0000000123314799",
+                "id": 57904,
+                "name": "Yale University, Beinecke Rare Book and Manuscript Library",
+                "alternative_names": [],
+                "viaf": "146865135.000000",
+                "isni": "0000000121797790",
                 "settlement": {
-                    "id": 42791,
-                    "name": "Freiburg im Breisgau",
-                    "region": "Freiburg Region",
-                    "country": "Germany",
-                    "location_mappable": "POINT(7.85222 47.9959)",
-                    "geonames_id": 2925177
+                    "id": 43496,
+                    "name": "New Haven",
+                    "region": "Connecticut",
+                    "country": "United States",
+                    "location_mappable": "POINT(-72.92816 41.30815)",
+                    "geonames_id": 4839366
                 }
             }
         }

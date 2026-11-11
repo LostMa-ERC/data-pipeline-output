@@ -51,15 +51,15 @@
             }
         },
         {
-            "id": 59313,
-            "shelfmark": "Ms. 1410, Leimabklatsch bei der ehem. Kettenbefestigung",
+            "id": 59308,
+            "shelfmark": "Ms. 496, Leimabklatsch bei der ehem. Kettenbefestigung",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60686,
+                    "id": 60681,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -127,15 +127,15 @@
             }
         },
         {
-            "id": 59308,
-            "shelfmark": "Ms. 496, Leimabklatsch bei der ehem. Kettenbefestigung",
+            "id": 59312,
+            "shelfmark": "Ms. 1114, Leimabklatsch bei der ehem. Kettenbefestigung",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60681,
+                    "id": 60685,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -241,15 +241,15 @@
             }
         },
         {
-            "id": 59312,
-            "shelfmark": "Ms. 1114, Leimabklatsch bei der ehem. Kettenbefestigung",
+            "id": 59313,
+            "shelfmark": "Ms. 1410, Leimabklatsch bei der ehem. Kettenbefestigung",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60685,
+                    "id": 60686,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

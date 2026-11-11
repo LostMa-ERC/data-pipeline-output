@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58323,
-            "shelfmark": "Mappe X, Fragm. 14",
+            "id": 58322,
+            "shelfmark": "Mappe X, Fragm. 13",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59696,
+                    "id": 59695,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -51,15 +51,15 @@
             }
         },
         {
-            "id": 58322,
-            "shelfmark": "Mappe X, Fragm. 13",
+            "id": 58323,
+            "shelfmark": "Mappe X, Fragm. 14",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59695,
+                    "id": 59696,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

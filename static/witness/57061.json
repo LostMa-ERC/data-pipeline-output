@@ -13,6 +13,44 @@
     ],
     "manuscripts": [
         {
+            "id": 58587,
+            "shelfmark": "Mappe X, Fragm. 8",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59960,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43817,
+                "name": "Stadtbibliothek Trier",
+                "alternative_names": [
+                    "Stadtbibliothek Trèves, Allemagne",
+                    "Stadtbibliothek Trier, Deutschland"
+                ],
+                "viaf": "156462269.000000",
+                "isni": "0000000123697101",
+                "settlement": {
+                    "id": 43701,
+                    "name": "Trier",
+                    "region": "Rheinland-Pfalz",
+                    "country": "Germany",
+                    "location_mappable": "POINT(6.63935 49.75565)",
+                    "geonames_id": 2821164
+                }
+            }
+        },
+        {
             "id": 58585,
             "shelfmark": "Mgq 1677",
             "old_shelfmarks": [
@@ -49,44 +87,6 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
-                }
-            }
-        },
-        {
-            "id": 58587,
-            "shelfmark": "Mappe X, Fragm. 8",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59960,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43817,
-                "name": "Stadtbibliothek Trier",
-                "alternative_names": [
-                    "Stadtbibliothek Trèves, Allemagne",
-                    "Stadtbibliothek Trier, Deutschland"
-                ],
-                "viaf": "156462269.000000",
-                "isni": "0000000123697101",
-                "settlement": {
-                    "id": 43701,
-                    "name": "Trier",
-                    "region": "Rheinland-Pfalz",
-                    "country": "Germany",
-                    "location_mappable": "POINT(6.63935 49.75565)",
-                    "geonames_id": 2821164
                 }
             }
         },
