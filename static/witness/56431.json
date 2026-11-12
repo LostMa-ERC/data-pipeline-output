@@ -13,15 +13,15 @@
     ],
     "manuscripts": [
         {
-            "id": 58522,
-            "shelfmark": "Deutsche Fragmente 56",
+            "id": 58523,
+            "shelfmark": "Ed.vet.1472,7, Falzverstärkung",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59895,
+                    "id": 59896,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -51,15 +51,15 @@
             }
         },
         {
-            "id": 58523,
-            "shelfmark": "Ed.vet.1472,7, Falzverstärkung",
+            "id": 58522,
+            "shelfmark": "Deutsche Fragmente 56",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59896,
+                    "id": 59895,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

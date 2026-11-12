@@ -24,11 +24,11 @@
             "ark": "ark:/12148/cc49996n",
             "witness_parts": [
                 {
-                    "id": 52153,
+                    "id": 52154,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1r-50r"
+                        "54-61"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -38,11 +38,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 52154,
+                    "id": 52153,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "54-61"
+                        "1r-50r"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

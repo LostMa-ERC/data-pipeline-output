@@ -14,17 +14,15 @@
     ],
     "manuscripts": [
         {
-            "id": 59066,
-            "shelfmark": "Fragm. I.5.1",
-            "old_shelfmarks": [
-                "früher Regensburg, Proske'sche Musiksammlung, ohne Sign. (1)"
-            ],
+            "id": 59064,
+            "shelfmark": "Cod. Donaueschingen 69",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60439,
+                    "id": 60437,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -35,18 +33,22 @@
                 }
             ],
             "repository": {
-                "id": 57915,
-                "name": "Bischöfliche Zentralbibliothek Regensburg",
-                "alternative_names": [],
-                "viaf": "144007598.000000",
-                "isni": "0000000406304515",
+                "id": 43756,
+                "name": "Badische Landesbibliothek Karlsruhe",
+                "alternative_names": [
+                    "Badische Landesbibliothek.",
+                    "Badische Landesbibliothek (Karlsruhe, Allemagne)",
+                    "Badische Landesbibliothek, Musiksammlung Karlsruhe (D-KA)"
+                ],
+                "viaf": "156582730.000000",
+                "isni": "0000000405650782",
                 "settlement": {
-                    "id": 42892,
-                    "name": "Regensburg",
-                    "region": "Bavaria",
+                    "id": 42811,
+                    "name": "Karlsruhe",
+                    "region": "Baden-Wurttemberg",
                     "country": "Germany",
-                    "location_mappable": "POINT(12.09536 49.01681)",
-                    "geonames_id": 6556611
+                    "location_mappable": "POINT(8.40444 49.00937)",
+                    "geonames_id": 2892794
                 }
             }
         },
@@ -90,15 +92,17 @@
             }
         },
         {
-            "id": 59064,
-            "shelfmark": "Cod. Donaueschingen 69",
-            "old_shelfmarks": [],
+            "id": 59066,
+            "shelfmark": "Fragm. I.5.1",
+            "old_shelfmarks": [
+                "früher Regensburg, Proske'sche Musiksammlung, ohne Sign. (1)"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60437,
+                    "id": 60439,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -109,22 +113,18 @@
                 }
             ],
             "repository": {
-                "id": 43756,
-                "name": "Badische Landesbibliothek Karlsruhe",
-                "alternative_names": [
-                    "Badische Landesbibliothek.",
-                    "Badische Landesbibliothek (Karlsruhe, Allemagne)",
-                    "Badische Landesbibliothek, Musiksammlung Karlsruhe (D-KA)"
-                ],
-                "viaf": "156582730.000000",
-                "isni": "0000000405650782",
+                "id": 57915,
+                "name": "Bischöfliche Zentralbibliothek Regensburg",
+                "alternative_names": [],
+                "viaf": "144007598.000000",
+                "isni": "0000000406304515",
                 "settlement": {
-                    "id": 42811,
-                    "name": "Karlsruhe",
-                    "region": "Baden-Wurttemberg",
+                    "id": 42892,
+                    "name": "Regensburg",
+                    "region": "Bavaria",
                     "country": "Germany",
-                    "location_mappable": "POINT(8.40444 49.00937)",
-                    "geonames_id": 2892794
+                    "location_mappable": "POINT(12.09536 49.01681)",
+                    "geonames_id": 6556611
                 }
             }
         }
