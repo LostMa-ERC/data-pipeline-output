@@ -13,41 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 61023,
-            "shelfmark": "Buchdeckelfunde Sch. 3, II/4e",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 61025,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57889,
-                "name": "Oberösterreichisches Landesarchiv",
-                "alternative_names": [],
-                "viaf": "158989654.000000",
-                "isni": "000000012375652X",
-                "settlement": {
-                    "id": 43051,
-                    "name": "Linz",
-                    "region": "Upper Austria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(14.28611 48.30639)",
-                    "geonames_id": 2772400
-                }
-            }
-        },
-        {
             "id": 58256,
             "shelfmark": "Cod. 2779",
             "old_shelfmarks": [],
@@ -85,6 +50,41 @@
                     "country": "Austria",
                     "location_mappable": "POINT(16.37208 48.20849)",
                     "geonames_id": 2761369
+                }
+            }
+        },
+        {
+            "id": 61023,
+            "shelfmark": "Buchdeckelfunde Sch. 3, II/4e",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 61025,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57889,
+                "name": "Oberösterreichisches Landesarchiv",
+                "alternative_names": [],
+                "viaf": "158989654.000000",
+                "isni": "000000012375652X",
+                "settlement": {
+                    "id": 43051,
+                    "name": "Linz",
+                    "region": "Upper Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(14.28611 48.30639)",
+                    "geonames_id": 2772400
                 }
             }
         }

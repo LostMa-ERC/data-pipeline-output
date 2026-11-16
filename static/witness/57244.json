@@ -13,41 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 59202,
-            "shelfmark": "Fragm. 159 [verschollen]",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60575,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57928,
-                "name": "Stadtbibliothek Soest",
-                "alternative_names": [],
-                "viaf": "132624981.000000",
-                "isni": "0000000090741718",
-                "settlement": {
-                    "id": 42907,
-                    "name": "Soest",
-                    "region": "North Rhine-Westphalia",
-                    "country": "Germany",
-                    "location_mappable": "POINT(8.08848 51.56016)",
-                    "geonames_id": 6557701
-                }
-            }
-        },
-        {
             "id": 59201,
             "shelfmark": "mgf 923 Nr. 28",
             "old_shelfmarks": [],
@@ -82,6 +47,41 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
+                }
+            }
+        },
+        {
+            "id": 59202,
+            "shelfmark": "Fragm. 159 [verschollen]",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60575,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57928,
+                "name": "Stadtbibliothek Soest",
+                "alternative_names": [],
+                "viaf": "132624981.000000",
+                "isni": "0000000090741718",
+                "settlement": {
+                    "id": 42907,
+                    "name": "Soest",
+                    "region": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "location_mappable": "POINT(8.08848 51.56016)",
+                    "geonames_id": 6557701
                 }
             }
         }

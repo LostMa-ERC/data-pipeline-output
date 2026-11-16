@@ -13,41 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 58801,
-            "shelfmark": "Cod. GV 6/27, Einband",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60174,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57883,
-                "name": "Kärntner Landesarchiv",
-                "alternative_names": [],
-                "viaf": "153311053.000000",
-                "isni": "000000012359185X",
-                "settlement": {
-                    "id": 43028,
-                    "name": "Klagenfurt am Wörthersee",
-                    "region": "Carinthia",
-                    "country": "Austria",
-                    "location_mappable": "POINT(14.3 46.63333)",
-                    "geonames_id": 2774321
-                }
-            }
-        },
-        {
             "id": 58800,
             "shelfmark": "Fragm. Germ. 5",
             "old_shelfmarks": [],
@@ -79,6 +44,41 @@
                     "country": "Austria",
                     "location_mappable": "POINT(15.43333 47.06667)",
                     "geonames_id": 2778058
+                }
+            }
+        },
+        {
+            "id": 58801,
+            "shelfmark": "Cod. GV 6/27, Einband",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60174,
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57883,
+                "name": "Kärntner Landesarchiv",
+                "alternative_names": [],
+                "viaf": "153311053.000000",
+                "isni": "000000012359185X",
+                "settlement": {
+                    "id": 43028,
+                    "name": "Klagenfurt am Wörthersee",
+                    "region": "Carinthia",
+                    "country": "Austria",
+                    "location_mappable": "POINT(14.3 46.63333)",
+                    "geonames_id": 2774321
                 }
             }
         }
