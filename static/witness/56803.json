@@ -14,15 +14,15 @@
     ],
     "manuscripts": [
         {
-            "id": 59084,
-            "shelfmark": "Cpg 91",
+            "id": 59085,
+            "shelfmark": "Cpg 92",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60457,
+                    "id": 60458,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -49,15 +49,15 @@
             }
         },
         {
-            "id": 59085,
-            "shelfmark": "Cpg 92",
+            "id": 59084,
+            "shelfmark": "Cpg 91",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60458,
+                    "id": 60457,
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
