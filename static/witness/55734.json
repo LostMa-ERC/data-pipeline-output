@@ -28,11 +28,11 @@
             ],
             "witness_parts": [
                 {
-                    "id": 52473,
+                    "id": 52472,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "397rb-399va"
+                        "389va-395va"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -42,11 +42,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 52472,
+                    "id": 52473,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "389va-395va"
+                        "397rb-399va"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
