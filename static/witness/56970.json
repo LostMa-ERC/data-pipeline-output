@@ -22,7 +22,11 @@
             "witness_parts": [
                 {
                     "id": 61105,
-                    "page_ranges": [],
+                    "part_order": 1,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "128v-142r"
+                    ],
                     "has_initials": false,
                     "has_rubrication": false,
                     "has_incomplete_decoration": false,

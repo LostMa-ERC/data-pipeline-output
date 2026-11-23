@@ -33,12 +33,12 @@
             ],
             "witness_parts": [
                 {
-                    "id": 55823,
+                    "id": 49709,
                     "part_order": 1,
                     "part_of_text": "Beginning and last two-thirds",
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "4r-12v"
+                        "1r"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -48,12 +48,12 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 49709,
+                    "id": 55823,
                     "part_order": 1,
                     "part_of_text": "Beginning and last two-thirds",
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1r"
+                        "4r-12v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

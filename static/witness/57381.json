@@ -22,6 +22,8 @@
             "witness_parts": [
                 {
                     "id": 59620,
+                    "part_order": 2,
+                    "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -58,6 +60,8 @@
             "witness_parts": [
                 {
                     "id": 59619,
+                    "part_order": 1,
+                    "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,

@@ -13,43 +13,6 @@
     ],
     "manuscripts": [
         {
-            "id": 59026,
-            "shelfmark": "A 1/26",
-            "old_shelfmarks": [
-                "früher Maria-Lankowitz, Franziskanerkloster, ohne Sign."
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60399,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57873,
-                "name": "Zentralbibliothek der Wiener Franziskanerprovinz in Graz",
-                "alternative_names": [],
-                "viaf": "122132402.000000",
-                "isni": "000000012214875X",
-                "settlement": {
-                    "id": 43006,
-                    "name": "Graz Stadt",
-                    "region": "Styria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(15.43333 47.06667)",
-                    "geonames_id": 2778058
-                }
-            }
-        },
-        {
             "id": 59015,
             "shelfmark": "mgf 923 Nr. 37",
             "old_shelfmarks": [],
@@ -59,6 +22,8 @@
             "witness_parts": [
                 {
                     "id": 60388,
+                    "part_order": 1,
+                    "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -88,15 +53,19 @@
             }
         },
         {
-            "id": 59048,
-            "shelfmark": "Lade O, Frag. germ. 2",
-            "old_shelfmarks": [],
+            "id": 59026,
+            "shelfmark": "A 1/26",
+            "old_shelfmarks": [
+                "früher Maria-Lankowitz, Franziskanerkloster, ohne Sign."
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60421,
+                    "id": 60399,
+                    "part_order": 2,
+                    "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -107,17 +76,18 @@
                 }
             ],
             "repository": {
-                "id": 57955,
-                "name": "Ordo Fratrum Minorum Tiroler Franziskanerprovinz vom Heiligen Leopold Archiv",
+                "id": 57873,
+                "name": "Zentralbibliothek der Wiener Franziskanerprovinz in Graz",
                 "alternative_names": [],
-                "viaf": "2276145856887322836992.000000",
+                "viaf": "122132402.000000",
+                "isni": "000000012214875X",
                 "settlement": {
-                    "id": 57717,
-                    "name": "Schwaz",
-                    "region": "Tyrol",
+                    "id": 43006,
+                    "name": "Graz Stadt",
+                    "region": "Styria",
                     "country": "Austria",
-                    "location_mappable": "POINT(11.71014 47.35169)",
-                    "geonames_id": 2765390
+                    "location_mappable": "POINT(15.43333 47.06667)",
+                    "geonames_id": 2778058
                 }
             }
         },
@@ -131,6 +101,8 @@
             "witness_parts": [
                 {
                     "id": 60410,
+                    "part_order": 3,
+                    "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -157,6 +129,42 @@
                     "location_mappable": "POINT(11.57549 48.13743)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 2867714
+                }
+            }
+        },
+        {
+            "id": 59048,
+            "shelfmark": "Lade O, Frag. germ. 2",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60421,
+                    "part_order": 4,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57955,
+                "name": "Ordo Fratrum Minorum Tiroler Franziskanerprovinz vom Heiligen Leopold Archiv",
+                "alternative_names": [],
+                "viaf": "2276145856887322836992.000000",
+                "settlement": {
+                    "id": 57717,
+                    "name": "Schwaz",
+                    "region": "Tyrol",
+                    "country": "Austria",
+                    "location_mappable": "POINT(11.71014 47.35169)",
+                    "geonames_id": 2765390
                 }
             }
         }

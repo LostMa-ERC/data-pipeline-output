@@ -21,42 +21,11 @@
             "witness_parts": [
                 {
                     "id": 59908,
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57821,
-                "name": "Hohenlohe-Zentralarchiv Neuenstein",
-                "alternative_names": [],
-                "viaf": "128806000.000000",
-                "isni": "0000000122541519",
-                "settlement": {
-                    "id": 57698,
-                    "name": "Neuenstein",
-                    "region": "Baden-Wurttemberg",
-                    "country": "Germany",
-                    "location_mappable": "POINT(9.5972 49.2148)",
-                    "geonames_id": 6557996
-                }
-            }
-        },
-        {
-            "id": 58536,
-            "shelfmark": "Hd. V 2",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59909,
-                    "page_ranges": [],
+                    "part_order": 1,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "78r-85v"
+                    ],
                     "has_initials": false,
                     "has_rubrication": false,
                     "has_incomplete_decoration": false,

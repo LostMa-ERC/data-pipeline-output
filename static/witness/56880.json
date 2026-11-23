@@ -23,6 +23,8 @@
             "witness_parts": [
                 {
                     "id": 60735,
+                    "part_order": 3,
+                    "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -33,6 +35,8 @@
                 },
                 {
                     "id": 60736,
+                    "part_order": 4,
+                    "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -70,6 +74,8 @@
             "witness_parts": [
                 {
                     "id": 60733,
+                    "part_order": 1,
+                    "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -116,6 +122,8 @@
             "witness_parts": [
                 {
                     "id": 60734,
+                    "part_order": 2,
+                    "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
                     "has_rubrication": false,
