@@ -54,6 +54,30 @@
             }
         },
         {
+            "id": 59349,
+            "shelfmark": "Hs. 1",
+            "old_shelfmarks": [
+                "früher Privatbesitz Alois Bernt, Kaaden (Böhmen), ohne Sign. (1)"
+            ],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60722,
+                    "part_order": 4,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ]
+        },
+        {
             "id": 59346,
             "shelfmark": "Nr. 420",
             "old_shelfmarks": [],
@@ -88,30 +112,6 @@
                     "geonames_id": 2767521
                 }
             }
-        },
-        {
-            "id": 59349,
-            "shelfmark": "Hs. 1",
-            "old_shelfmarks": [
-                "früher Privatbesitz Alois Bernt, Kaaden (Böhmen), ohne Sign. (1)"
-            ],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60722,
-                    "part_order": 4,
-                    "lines_are_incomplete": "No",
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ]
         },
         {
             "id": 59341,

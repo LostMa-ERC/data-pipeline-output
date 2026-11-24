@@ -49,16 +49,16 @@
             }
         },
         {
-            "id": 59173,
-            "shelfmark": "mgf 587",
+            "id": 59174,
+            "shelfmark": "mgf 814",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60546,
-                    "part_order": 1,
+                    "id": 60547,
+                    "part_order": 2,
                     "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
@@ -89,16 +89,16 @@
             }
         },
         {
-            "id": 59174,
-            "shelfmark": "mgf 814",
+            "id": 59173,
+            "shelfmark": "mgf 587",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60547,
-                    "part_order": 2,
+                    "id": 60546,
+                    "part_order": 1,
                     "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,

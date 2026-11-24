@@ -39,11 +39,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 53075,
+                    "id": 53076,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "garde début"
+                        "1r-1v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -53,11 +53,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 53076,
+                    "id": 53075,
                     "part_order": 1,
                     "lines_are_incomplete": "unknown",
                     "page_ranges": [
-                        "1r-1v"
+                        "garde début"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,

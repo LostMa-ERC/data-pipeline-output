@@ -13,16 +13,16 @@
     ],
     "manuscripts": [
         {
-            "id": 59384,
-            "shelfmark": "mgf 757, Bl. 9-10",
+            "id": 59385,
+            "shelfmark": "mgf 757, Bl. 18-19",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60757,
-                    "part_order": 1,
+                    "id": 60758,
+                    "part_order": 2,
                     "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
@@ -53,16 +53,16 @@
             }
         },
         {
-            "id": 59385,
-            "shelfmark": "mgf 757, Bl. 18-19",
+            "id": 59384,
+            "shelfmark": "mgf 757, Bl. 9-10",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60758,
-                    "part_order": 2,
+                    "id": 60757,
+                    "part_order": 1,
                     "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,

@@ -14,16 +14,16 @@
     ],
     "manuscripts": [
         {
-            "id": 58595,
-            "shelfmark": "ohne Sign.",
+            "id": 58592,
+            "shelfmark": "Buchdeckelfunde Sch. 3, II/4b",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59968,
-                    "part_order": 4,
+                    "id": 59965,
+                    "part_order": 2,
                     "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
@@ -35,54 +35,18 @@
                 }
             ],
             "repository": {
-                "id": 57854,
-                "name": "Schlossarchiv des Freiherrn von Koenig-Warthausen",
+                "id": 57889,
+                "name": "Oberösterreichisches Landesarchiv",
                 "alternative_names": [],
-                "viaf": "238100538.000000",
+                "viaf": "158989654.000000",
+                "isni": "000000012375652X",
                 "settlement": {
-                    "id": 57631,
-                    "name": "Warthausen",
-                    "region": "Baden-Wurttemberg",
-                    "country": "Germany",
-                    "location_mappable": "POINT(9.79749 48.12863)",
-                    "geonames_id": 2813914
-                }
-            }
-        },
-        {
-            "id": 58591,
-            "shelfmark": "Cod. FB 1519/IV",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 59964,
-                    "part_order": 1,
-                    "lines_are_incomplete": "No",
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57879,
-                "name": "Tiroler Landesmuseum Ferdinandeum",
-                "alternative_names": [],
-                "viaf": "139431033.000000",
-                "isni": "0000000122914135",
-                "settlement": {
-                    "id": 43647,
-                    "name": "Innsbruck",
-                    "region": "Tyrol",
+                    "id": 43051,
+                    "name": "Linz",
+                    "region": "Upper Austria",
                     "country": "Austria",
-                    "location_mappable": "POINT(11.39454 47.26266)",
-                    "geonames_id": 2775220
+                    "location_mappable": "POINT(14.28611 48.30639)",
+                    "geonames_id": 2772400
                 }
             }
         },
@@ -124,16 +88,16 @@
             }
         },
         {
-            "id": 58592,
-            "shelfmark": "Buchdeckelfunde Sch. 3, II/4b",
+            "id": 58591,
+            "shelfmark": "Cod. FB 1519/IV",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59965,
-                    "part_order": 2,
+                    "id": 59964,
+                    "part_order": 1,
                     "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
@@ -145,18 +109,54 @@
                 }
             ],
             "repository": {
-                "id": 57889,
-                "name": "Oberösterreichisches Landesarchiv",
+                "id": 57879,
+                "name": "Tiroler Landesmuseum Ferdinandeum",
                 "alternative_names": [],
-                "viaf": "158989654.000000",
-                "isni": "000000012375652X",
+                "viaf": "139431033.000000",
+                "isni": "0000000122914135",
                 "settlement": {
-                    "id": 43051,
-                    "name": "Linz",
-                    "region": "Upper Austria",
+                    "id": 43647,
+                    "name": "Innsbruck",
+                    "region": "Tyrol",
                     "country": "Austria",
-                    "location_mappable": "POINT(14.28611 48.30639)",
-                    "geonames_id": 2772400
+                    "location_mappable": "POINT(11.39454 47.26266)",
+                    "geonames_id": 2775220
+                }
+            }
+        },
+        {
+            "id": 58595,
+            "shelfmark": "ohne Sign.",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 59968,
+                    "part_order": 4,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57854,
+                "name": "Schlossarchiv des Freiherrn von Koenig-Warthausen",
+                "alternative_names": [],
+                "viaf": "238100538.000000",
+                "settlement": {
+                    "id": 57631,
+                    "name": "Warthausen",
+                    "region": "Baden-Wurttemberg",
+                    "country": "Germany",
+                    "location_mappable": "POINT(9.79749 48.12863)",
+                    "geonames_id": 2813914
                 }
             }
         }
