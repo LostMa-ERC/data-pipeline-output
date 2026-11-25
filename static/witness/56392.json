@@ -78,42 +78,6 @@
             ]
         },
         {
-            "id": 59346,
-            "shelfmark": "Nr. 420",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60719,
-                    "part_order": 3,
-                    "lines_are_incomplete": "No",
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 57828,
-                "name": "Stadtarchiv Retz",
-                "alternative_names": [],
-                "viaf": "311758343.000000",
-                "settlement": {
-                    "id": 57707,
-                    "name": "Retz",
-                    "region": "Lower Austria",
-                    "country": "Austria",
-                    "location_mappable": "POINT(15.95485 48.75712)",
-                    "geonames_id": 2767521
-                }
-            }
-        },
-        {
             "id": 59341,
             "shelfmark": "mgf 721 (b)",
             "old_shelfmarks": [],
@@ -150,6 +114,42 @@
                     "country": "Germany",
                     "location_mappable": "POINT(13.41053 52.52437)",
                     "geonames_id": 2950159
+                }
+            }
+        },
+        {
+            "id": 59346,
+            "shelfmark": "Nr. 420",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60719,
+                    "part_order": 3,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 57828,
+                "name": "Stadtarchiv Retz",
+                "alternative_names": [],
+                "viaf": "311758343.000000",
+                "settlement": {
+                    "id": 57707,
+                    "name": "Retz",
+                    "region": "Lower Austria",
+                    "country": "Austria",
+                    "location_mappable": "POINT(15.95485 48.75712)",
+                    "geonames_id": 2767521
                 }
             }
         }

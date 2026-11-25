@@ -14,18 +14,16 @@
     ],
     "manuscripts": [
         {
-            "id": 58685,
-            "shelfmark": "Fragm. 359",
-            "old_shelfmarks": [
-                "früher Privatbesitz Antiquariat Reiss & Sohn, Königstein im Taunus, Nr. 2025/226,262"
-            ],
+            "id": 58686,
+            "shelfmark": "mgf 923 Nr. 26",
+            "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60058,
-                    "part_order": 1,
+                    "id": 60059,
+                    "part_order": 2,
                     "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
@@ -56,16 +54,18 @@
             }
         },
         {
-            "id": 58686,
-            "shelfmark": "mgf 923 Nr. 26",
-            "old_shelfmarks": [],
+            "id": 58685,
+            "shelfmark": "Fragm. 359",
+            "old_shelfmarks": [
+                "früher Privatbesitz Antiquariat Reiss & Sohn, Königstein im Taunus, Nr. 2025/226,262"
+            ],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60059,
-                    "part_order": 2,
+                    "id": 60058,
+                    "part_order": 1,
                     "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,

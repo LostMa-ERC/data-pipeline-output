@@ -12,45 +12,6 @@
     "urls": [],
     "manuscripts": [
         {
-            "id": 47873,
-            "shelfmark": "AM 666b 4to",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "unknown",
-            "urls": [
-                "https://handrit.is/manuscript/view/en/AM04-0666-b"
-            ],
-            "witness_parts": [
-                {
-                    "id": 50053,
-                    "part_order": 1,
-                    "lines_are_incomplete": "unknown",
-                    "page_ranges": [
-                        "1ra-4rb:20"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 46319,
-                "name": "Den Arnamagnæanske Samling",
-                "alternative_names": [],
-                "viaf": "123148995933759750144.000000",
-                "settlement": {
-                    "id": 43659,
-                    "name": "Copenhagen",
-                    "country": "Denmark",
-                    "location_mappable": "POINT(12.56553 55.67594)",
-                    "geonames_id": 2618425
-                }
-            }
-        },
-        {
             "id": 47875,
             "shelfmark": "DG 4-7 fol.",
             "old_shelfmarks": [],
@@ -91,6 +52,45 @@
                     "location_mappable": "POINT(17.77395 59.96425)",
                     "location_certainty": "1. High confidence",
                     "geonames_id": 2666219
+                }
+            }
+        },
+        {
+            "id": 47873,
+            "shelfmark": "AM 666b 4to",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "unknown",
+            "urls": [
+                "https://handrit.is/manuscript/view/en/AM04-0666-b"
+            ],
+            "witness_parts": [
+                {
+                    "id": 50053,
+                    "part_order": 1,
+                    "lines_are_incomplete": "unknown",
+                    "page_ranges": [
+                        "1ra-4rb:20"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 46319,
+                "name": "Den Arnamagnæanske Samling",
+                "alternative_names": [],
+                "viaf": "123148995933759750144.000000",
+                "settlement": {
+                    "id": 43659,
+                    "name": "Copenhagen",
+                    "country": "Denmark",
+                    "location_mappable": "POINT(12.56553 55.67594)",
+                    "geonames_id": 2618425
                 }
             }
         }
