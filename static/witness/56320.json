@@ -21,11 +21,11 @@
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 63760,
+                    "id": 60511,
                     "part_order": 1,
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "302ra-317va"
+                        "1ra-115rb"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
@@ -35,11 +35,11 @@
                     "decoration_is_unknown": false
                 },
                 {
-                    "id": 60511,
+                    "id": 63760,
                     "part_order": 1,
                     "lines_are_incomplete": "No",
                     "page_ranges": [
-                        "1ra-115rb"
+                        "302ra-317va"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
