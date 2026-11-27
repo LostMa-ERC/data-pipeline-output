@@ -13,16 +13,16 @@
     ],
     "manuscripts": [
         {
-            "id": 58356,
-            "shelfmark": "Fragm. Z 18",
+            "id": 58355,
+            "shelfmark": "Fragm. Z 8-17",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59729,
-                    "part_order": 2,
+                    "id": 59728,
+                    "part_order": 1,
                     "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
@@ -50,16 +50,16 @@
             }
         },
         {
-            "id": 58355,
-            "shelfmark": "Fragm. Z 8-17",
+            "id": 58356,
+            "shelfmark": "Fragm. Z 18",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 59728,
-                    "part_order": 1,
+                    "id": 59729,
+                    "part_order": 2,
                     "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,

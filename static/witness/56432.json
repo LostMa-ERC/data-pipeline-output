@@ -13,96 +13,16 @@
     ],
     "manuscripts": [
         {
-            "id": 59310,
-            "shelfmark": "Ms. 739, Falzstreifen",
+            "id": 59312,
+            "shelfmark": "Ms. 1114, Leimabklatsch bei der ehem. Kettenbefestigung",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60683,
-                    "part_order": 4,
-                    "lines_are_incomplete": "No",
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43796,
-                "name": "Universitätsbibliothek Leipzig",
-                "alternative_names": [
-                    "Universität Leipzig (Alemania). Bibliothek",
-                    "Universitätsbibliothek der Universität Leipzig"
-                ],
-                "viaf": "142483245.000000",
-                "isni": "0000000123092970",
-                "settlement": {
-                    "id": 42855,
-                    "name": "Leipzig",
-                    "region": "Saxony",
-                    "country": "Germany",
-                    "location_mappable": "POINT(12.37129 51.33962)",
-                    "geonames_id": 2879139
-                }
-            }
-        },
-        {
-            "id": 59311,
-            "shelfmark": "Ms. 820, Überklebung der Kettenbefestigung",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60684,
-                    "part_order": 5,
-                    "lines_are_incomplete": "No",
-                    "page_ranges": [],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                }
-            ],
-            "repository": {
-                "id": 43796,
-                "name": "Universitätsbibliothek Leipzig",
-                "alternative_names": [
-                    "Universität Leipzig (Alemania). Bibliothek",
-                    "Universitätsbibliothek der Universität Leipzig"
-                ],
-                "viaf": "142483245.000000",
-                "isni": "0000000123092970",
-                "settlement": {
-                    "id": 42855,
-                    "name": "Leipzig",
-                    "region": "Saxony",
-                    "country": "Germany",
-                    "location_mappable": "POINT(12.37129 51.33962)",
-                    "geonames_id": 2879139
-                }
-            }
-        },
-        {
-            "id": 59313,
-            "shelfmark": "Ms. 1410, Leimabklatsch bei der ehem. Kettenbefestigung",
-            "old_shelfmarks": [],
-            "is_hypothetical": false,
-            "collection_of_fragments": "No",
-            "urls": [],
-            "witness_parts": [
-                {
-                    "id": 60686,
-                    "part_order": 7,
+                    "id": 60685,
+                    "part_order": 6,
                     "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
@@ -173,16 +93,16 @@
             }
         },
         {
-            "id": 59312,
-            "shelfmark": "Ms. 1114, Leimabklatsch bei der ehem. Kettenbefestigung",
+            "id": 59309,
+            "shelfmark": "Ms. 537, Falzstreifen",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60685,
-                    "part_order": 6,
+                    "id": 60682,
+                    "part_order": 3,
                     "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,
@@ -253,16 +173,96 @@
             }
         },
         {
-            "id": 59309,
-            "shelfmark": "Ms. 537, Falzstreifen",
+            "id": 59311,
+            "shelfmark": "Ms. 820, Überklebung der Kettenbefestigung",
             "old_shelfmarks": [],
             "is_hypothetical": false,
             "collection_of_fragments": "No",
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 60682,
-                    "part_order": 3,
+                    "id": 60684,
+                    "part_order": 5,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43796,
+                "name": "Universitätsbibliothek Leipzig",
+                "alternative_names": [
+                    "Universität Leipzig (Alemania). Bibliothek",
+                    "Universitätsbibliothek der Universität Leipzig"
+                ],
+                "viaf": "142483245.000000",
+                "isni": "0000000123092970",
+                "settlement": {
+                    "id": 42855,
+                    "name": "Leipzig",
+                    "region": "Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(12.37129 51.33962)",
+                    "geonames_id": 2879139
+                }
+            }
+        },
+        {
+            "id": 59310,
+            "shelfmark": "Ms. 739, Falzstreifen",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60683,
+                    "part_order": 4,
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                }
+            ],
+            "repository": {
+                "id": 43796,
+                "name": "Universitätsbibliothek Leipzig",
+                "alternative_names": [
+                    "Universität Leipzig (Alemania). Bibliothek",
+                    "Universitätsbibliothek der Universität Leipzig"
+                ],
+                "viaf": "142483245.000000",
+                "isni": "0000000123092970",
+                "settlement": {
+                    "id": 42855,
+                    "name": "Leipzig",
+                    "region": "Saxony",
+                    "country": "Germany",
+                    "location_mappable": "POINT(12.37129 51.33962)",
+                    "geonames_id": 2879139
+                }
+            }
+        },
+        {
+            "id": 59313,
+            "shelfmark": "Ms. 1410, Leimabklatsch bei der ehem. Kettenbefestigung",
+            "old_shelfmarks": [],
+            "is_hypothetical": false,
+            "collection_of_fragments": "No",
+            "urls": [],
+            "witness_parts": [
+                {
+                    "id": 60686,
+                    "part_order": 7,
                     "lines_are_incomplete": "No",
                     "page_ranges": [],
                     "has_initials": false,

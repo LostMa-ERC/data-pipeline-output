@@ -31,24 +31,6 @@
             "urls": [],
             "witness_parts": [
                 {
-                    "id": 55839,
-                    "part_order": 1,
-                    "number_of_verses": 5166,
-                    "part_of_text": "Full text",
-                    "number_of_lines": 5166,
-                    "verses_per_line": "one verse per line",
-                    "lines_are_incomplete": "No",
-                    "page_ranges": [
-                        "1r-21v"
-                    ],
-                    "has_initials": false,
-                    "has_rubrication": false,
-                    "has_incomplete_decoration": false,
-                    "has_no_decoration": false,
-                    "has_pictorial_designs": false,
-                    "decoration_is_unknown": false
-                },
-                {
                     "id": 55478,
                     "part_order": 1,
                     "number_of_verses": 5166,
@@ -58,6 +40,24 @@
                     "lines_are_incomplete": "No",
                     "page_ranges": [
                         "71v-72v"
+                    ],
+                    "has_initials": false,
+                    "has_rubrication": false,
+                    "has_incomplete_decoration": false,
+                    "has_no_decoration": false,
+                    "has_pictorial_designs": false,
+                    "decoration_is_unknown": false
+                },
+                {
+                    "id": 55839,
+                    "part_order": 1,
+                    "number_of_verses": 5166,
+                    "part_of_text": "Full text",
+                    "number_of_lines": 5166,
+                    "verses_per_line": "one verse per line",
+                    "lines_are_incomplete": "No",
+                    "page_ranges": [
+                        "1r-21v"
                     ],
                     "has_initials": false,
                     "has_rubrication": false,
